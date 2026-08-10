@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "lamentations 3:31",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "کیونکہ ابد تک رد نہیں کرتا ادونای۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "رد کرتا"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ابد تک"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    }
+  ],
+  "timestamp": "2026-08-10T07:33:16.235292229Z",
+  "model": "glm-5.2"
+}

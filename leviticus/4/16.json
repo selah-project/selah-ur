@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 4:16",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "اور مَشِیح کاہن بَل کے خون میں سے ملاقات کے خیمے میں لائے،",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "اور لائے"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "مَشِیح"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "خون میں سے"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "بَل کے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "میں"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمے"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ملاقات کے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:16:36.548703063Z",
+  "model": "glm-5.2"
+}

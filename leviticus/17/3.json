@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 17,
+  "translation": "بنی یِسرائیل کے گھر میں سے کوئی ⟨آدمی⟩ — جو بیل یا مینڈھی یا بکری کو ڈیرے میں ذبح کرے، یا جو اُسے ڈیرے کے باہر ذبح کرے —",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر آدمی"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "گھر میں سے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل کے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "ذبح کرے"
+    },
+    {
+      "surface": "שור",
+      "gloss": "بیل"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "مینڈھی"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "עז",
+      "gloss": "بکری"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "ڈیرے میں"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "ذبح کرے"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "باہر"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ڈیرے کے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:22:09.485544610Z",
+  "model": "glm-5.2"
+}

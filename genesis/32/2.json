@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 32,
+  "translation": "اور یَعقوب اپنے راستے پر چلا، اور الوہیم کے فرشتے اُس سے ملے۔",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "اور یَعقوب"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "چلا"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "اپنے راستے پر"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "اور ملے"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اُس سے"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "فرشتے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم کے"
+    }
+  ],
+  "timestamp": "2026-08-10T05:15:03.996185450Z",
+  "model": "glm-5.2"
+}

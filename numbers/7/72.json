@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "numbers 7:72",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "گیارہویں دن، بَنِی اَشِیر کا نسی، پَگْعِیعِیل بَن عَکْران۔",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "گیارہ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دس"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "نسی"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بَنِی کا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "اَشِیر"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "پَگْعِیعِیل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بَن"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "عَکْران"
+    }
+  ],
+  "timestamp": "2026-08-09T20:29:32.052651845Z",
+  "model": "glm-5.2"
+}

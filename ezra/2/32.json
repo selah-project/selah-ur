@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 2:32",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "خارِم کے بیٹے، تین سو اور بیس۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "خارِم"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "تین"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "اور بیس"
+    }
+  ],
+  "timestamp": "2026-08-10T00:46:52.905614687Z",
+  "model": "glm-5.2"
+}

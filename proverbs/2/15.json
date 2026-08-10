@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 2:15",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "جن کی راہیں ٹیڑھی ہیں اور ⟨وہ⟩ ان کے گھماؤ میں ٹیڑھے ہیں،",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جن"
+    },
+    {
+      "surface": "ארחתיהם",
+      "gloss": "کی راہیں"
+    },
+    {
+      "surface": "עקשים",
+      "gloss": "ٹیڑھی ہیں"
+    },
+    {
+      "surface": "ונלוזים",
+      "gloss": "اور ٹیڑھے ہیں"
+    },
+    {
+      "surface": "במעגלותם",
+      "gloss": "ان کے گھماؤ میں"
+    }
+  ],
+  "timestamp": "2026-08-09T23:58:13.542915799Z",
+  "model": "glm-5.2"
+}

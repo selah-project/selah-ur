@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 40:22",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 40,
+  "translation": "اور ⟨اس نے⟩ ⟨את⟩ میز کو موعد کے خیمہ میں رکھا، خیمہ کی جانبِ شمال میں، پردے کے باہر۔",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "اور رکھا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میز"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "میز"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "خیمہ میں"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "موعد"
+    },
+    {
+      "surface": "על",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "پہلو"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "خیمہ"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "شمال"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "باہر"
+    },
+    {
+      "surface": "לפרכת",
+      "gloss": "پردے کے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:12:59.837707651Z",
+  "model": "glm-5.2"
+}

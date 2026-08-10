@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 25:19",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "بارہواں خَشَبْیَاہ کے لیے، ⟨اس کے⟩ بیٹے اور ⟨اس کے⟩ بھائی — بارہ،",
+  "tokens": [
+    {
+      "surface": "השנים",
+      "gloss": "بارہواں"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לחשביה",
+      "gloss": "خَشَبْیَاہ کے لیے"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "اس کے بیٹے"
+    },
+    {
+      "surface": "وאחיו",
+      "gloss": "اور اس کے بھائی"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "بارہ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-10T09:22:15.410638042Z",
+  "model": "glm-5.2"
+}

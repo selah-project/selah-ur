@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 6:28",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اور ⟨وہ⟩ ہوا اُس دن جب یاہویہ نے موشے سے بات کی مِتصرایم کے ملک میں۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "اُس دن"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بات کی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "کے ملک میں"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    }
+  ],
+  "timestamp": "2026-08-09T19:56:21.321790030Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "اور الوہیم نے کہا: کہ وسطِ پانیوں میں فلک ہو، اور وہ پانیوں کو پانیوں سے الگ کرے۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ہو"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "فلک"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "وسط میں"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پانیوں کے"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "اور وہ"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "الگ کرے"
+    },
+    {
+      "surface": "בין",
+      "gloss": "کو"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانیوں"
+    },
+    {
+      "surface": "למים",
+      "gloss": "پانیوں سے"
+    }
+  ],
+  "timestamp": "2026-08-09T19:34:11.438335099Z",
+  "model": "glm-5.2"
+}

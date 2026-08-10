@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 16:21",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 16,
+  "translation": "اس جماعت سے الگ ہو جاؤ، اور میں انہیں ⟨את⟩ ایک لمحے میں ختم کر دوں گا۔",
+  "tokens": [
+    {
+      "surface": "הבדלו",
+      "gloss": "الگ ہو جاؤ"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "سے"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "اس جماعت"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "کو"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "اور میں ختم کر دوں گا"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "انہیں"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "ایک لمحے میں"
+    }
+  ],
+  "timestamp": "2026-08-09T20:32:32.881384887Z",
+  "model": "glm-5.2"
+}

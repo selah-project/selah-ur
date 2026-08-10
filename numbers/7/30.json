@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 7:30",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "چوتھے دن رئوبین کے بیٹوں کا نسی، اِلِیصور بن شِدےاور۔",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "چوتھے"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "نسی"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بیٹوں کا"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رئوبین"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "اِلِیصور"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "شِدےاور"
+    }
+  ],
+  "timestamp": "2026-08-09T20:28:08.937423431Z",
+  "model": "glm-5.2"
+}

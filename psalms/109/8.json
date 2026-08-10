@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 109,
+  "translation": "اس کے دن تھوڑے ہوں، اور اس کا عہدہ کوئی دوسرا لے لے۔",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ہوں"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "اس کے دن"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "تھوڑے"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "اس کا عہدہ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "لے لے"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "کوئی دوسرا"
+    }
+  ],
+  "timestamp": "2026-08-10T06:34:57.843029841Z",
+  "model": "glm-5.2"
+}

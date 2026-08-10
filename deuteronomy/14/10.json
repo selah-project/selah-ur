@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 14:10",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "اور جس کے پاس پر اور خول نہیں ہے اسے مت کھاؤ — وہ تمہارے لیے ناپاک ہے۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "اور جو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نہیں ہے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اس کے پاس"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "پر"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "اور خول"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "تم کھاؤ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ناپاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تمہارے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:47:28.088731465Z",
+  "model": "glm-5.2"
+}

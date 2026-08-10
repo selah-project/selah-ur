@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "ezra 2:60",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "دَلایَہ کے بیٹے، تووِیَہ کے بیٹے، نَکودا کے بیٹے — چھ سو باون۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کے بیٹے"
+    },
+    {
+      "surface": "דליה",
+      "gloss": "دَلایَہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کے بیٹے"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "تووِیَہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کے بیٹے"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "نَکودا"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "باون"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "اور دو"
+    }
+  ],
+  "timestamp": "2026-08-10T00:49:30.302104076Z",
+  "model": "glm-5.2"
+}

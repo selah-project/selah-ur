@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 2:6",
+  "book": "song-of-songs",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اس کا بایاں ⟨ہاتھ⟩ میرے سر کے نیچے ہے اور اس کا دایاں مجھے بغل گیر ہے۔",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "اس کا بایاں ⟨ہاتھ⟩"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "کے نیچے"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "میرے سر"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "اور اس کا دایاں"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "مجھے بغل گیر ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:26:07.909603487Z",
+  "model": "glm-5.2"
+}

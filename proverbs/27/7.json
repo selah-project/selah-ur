@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 27:7",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "آزاد نفس شہد کے چھتے کو روندتی ہے، اور بھوکا نفس ہر کڑوی چیز کو میٹھا (سمجھتا ہے)۔",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "آزاد"
+    },
+    {
+      "surface": "תבוס",
+      "gloss": "روندتی ہے"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "شہد کے چھتے کو"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "اور نفس"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "بھوکا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "مר",
+      "gloss": "کڑوی چیز کو"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "میٹھا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:08:09.426119622Z",
+  "model": "glm-5.2"
+}

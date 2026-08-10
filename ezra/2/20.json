@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 2:20",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "گِبَّر کے بیٹے، نوّے اور پانچ۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کے بیٹے"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "گِبَّر"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "نوّے"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "اور پانچ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:46:28.899958553Z",
+  "model": "glm-5.2"
+}

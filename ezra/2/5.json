@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 2:5",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اَرَخ کے بیٹے سات ⟨سو⟩ پچاس اور ستر۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "اَرَخ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سات"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "⟨سو⟩"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پچاس"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "اور ستر"
+    }
+  ],
+  "timestamp": "2026-08-10T00:47:25.158854735Z",
+  "model": "glm-5.2"
+}

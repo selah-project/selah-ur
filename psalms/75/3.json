@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 75,
+  "translation": "جب میں وقت مقرر لوں، میں ⟨خود⟩ سیدھی انصاف سے فیصلہ کروں گا۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جب"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "میں لوں"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "وقت مقرر"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "سیدھی انصاف سے"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "فیصلہ کروں گا"
+    }
+  ],
+  "timestamp": "2026-08-09T23:39:25.735433208Z",
+  "model": "glm-5.2"
+}

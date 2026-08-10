@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 7:9",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "شَفتَیَاہ کے بیٹے، تین سو دوہتر (سات)۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "شَفتَیَاہ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "تین"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ستر"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "اور دو"
+    }
+  ],
+  "timestamp": "2026-08-10T00:53:05.502473975Z",
+  "model": "glm-5.2"
+}

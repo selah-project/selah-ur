@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 89,
+  "translation": "برکات والا ہے یاہویہ ہمیشہ کے لیے۔ آمین، اور آمین۔",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "برکات والا ہے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ کے لیے"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمین"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "اور آمین"
+    }
+  ],
+  "timestamp": "2026-08-09T23:43:33.777670363Z",
+  "model": "glm-5.2"
+}

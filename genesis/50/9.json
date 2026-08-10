@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 50:9",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 50,
+  "translation": "اور اس کے ساتھ رتھ بھی گھڑ سوار بھی چڑھ گئے، اور وہ لشکر بہت بھاری ہو گیا۔",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "اور چڑھ گیا"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اس کے ساتھ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بھی"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "رتھ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بھی"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "گھڑ سوار"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہو گیا"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "وہ لشکر"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "بھاری"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    }
+  ],
+  "timestamp": "2026-08-10T05:18:18.979296934Z",
+  "model": "glm-5.2"
+}

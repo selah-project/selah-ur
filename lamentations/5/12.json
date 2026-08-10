@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 5:12",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "سردار اُن کے ہاتھوں پر لٹکائے گۓ، بزرگوں کے چہروں کی تعظیم نہ کی گئی۔",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "اُن کے ہاتھوں پر"
+    },
+    {
+      "surface": "נתלו",
+      "gloss": "لٹکائے گۓ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "چہروں کی"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "بزرگوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נהדרו",
+      "gloss": "تعظیم کی گئی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:32:47.390612860Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezra 2:30",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "مَگبِیش کے بیٹے، ایک سو باون اور چھ۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "מגביש",
+      "gloss": "مَگبِیش"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ایک سو"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "باون"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "اور چھ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:46:52.905342826Z",
+  "model": "glm-5.2"
+}

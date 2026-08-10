@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "ذبح کیا اس نے اپنا ذبیحہ، ملا دیا اپنی شراب، بلکہ ترتیب دیا اپنا دسترخوان۔",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "ذبح کیا"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "اپنا ذبیحہ"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "ملا دیا"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "اپنی شراب"
+    },
+    {
+      "surface": "אף",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "ترتیب دیا"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "اپنا دسترخوان"
+    }
+  ],
+  "timestamp": "2026-08-10T06:37:26.672420056Z",
+  "model": "glm-5.2"
+}

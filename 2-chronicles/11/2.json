@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 11:2",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور یاہویہ کا کلام شَمَعْیاهو، الوہیم کے آدمی کی طرف ⟨ہوا⟩، ⟨یہ⟩ کہنا:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ⟨ہو گیا⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "شَمَعْیاهو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوہیم کے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہنا"
+    }
+  ],
+  "timestamp": "2026-08-10T01:17:23.640347681Z",
+  "model": "glm-5.2"
+}

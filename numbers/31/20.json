@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 31:20",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 31,
+  "translation": "اور ہر کپڑے اور ہر چمڑے کے برتن اور ہر بکریوں کے بالوں کا کام اور ہر لکڑی کے برتن کو پاک کرو۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "اور ہر"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "کپڑے"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "اور ہر"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "برتن"
+    },
+    {
+      "surface": "עור",
+      "gloss": "چمڑے کے"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "اور ہر"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کام"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "بکریوں کے بالوں کا"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "اور ہر"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "برتن"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "لکڑی کے"
+    },
+    {
+      "surface": "תתחטאו",
+      "gloss": "پاک کرو"
+    }
+  ],
+  "timestamp": "2026-08-10T05:30:37.318407520Z",
+  "model": "glm-5.2"
+}

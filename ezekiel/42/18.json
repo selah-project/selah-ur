@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 42:18",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 42,
+  "translation": "⟨את⟩ جنوب کی سمت اس نے ناپی، پانچ سو قَنِیم، ناپ کے قَنَہ سے۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جنوب کی سمت"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "سمت"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "جنوب کی"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "اس نے ناپی"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پانچ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "قَنِیم"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "قَنَہ سے"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "ناپ کے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:02:32.032651629Z",
+  "model": "glm-5.2"
+}

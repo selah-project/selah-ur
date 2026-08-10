@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 32,
+  "translation": "اور گاد کے بیٹوں نے ⟨את⟩ دِیبون اور ⟨את⟩ عَطاروت اور ⟨את⟩ عَروعیر کو بنایا۔",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "اور بنایا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹوں نے"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دِیبون"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "دِیبون"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "عَطاروت"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "عَطاروت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "عَروعیر"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "عَروعیر"
+    }
+  ],
+  "timestamp": "2026-08-10T08:39:47.037146982Z",
+  "model": "glm-5.2"
+}

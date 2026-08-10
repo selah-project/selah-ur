@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 30:31",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 30,
+  "translation": "کیونکہ یاہویہ کی آواز سے اَشّور توڑا جائے گا؛ وہ ڈنڈے سے مارے گا۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "آواز سے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کی"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "توڑا جائے گا"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "اَشّور"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ڈنڈے سے"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "مارے گا"
+    }
+  ],
+  "timestamp": "2026-08-09T22:10:24.373174713Z",
+  "model": "glm-5.2"
+}

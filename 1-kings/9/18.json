@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "اور ⟨את⟩ بَعَلات اور ⟨את⟩ تَمار کو، صحرا میں، زمین میں۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "بَعَلات"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "بَعَلات"
+    },
+    {
+      "surface": "وאת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "تَمار"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "تَمار"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "صحرا میں"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین میں"
+    }
+  ],
+  "timestamp": "2026-08-10T05:51:29.471682561Z",
+  "model": "glm-5.2"
+}

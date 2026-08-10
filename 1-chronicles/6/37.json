@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 6:37",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "مِرایوت اس کا بیٹا، اَمَریاہ اس کا بیٹا، اَخیتُوب اس کا بیٹا۔",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "مِرایوت"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اس کا بیٹا"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "اَمَریاہ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اس کا بیٹا"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "اَخیتُوب"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اس کا بیٹا"
+    }
+  ],
+  "timestamp": "2026-08-10T01:01:36.457009044Z",
+  "model": "glm-5.2"
+}

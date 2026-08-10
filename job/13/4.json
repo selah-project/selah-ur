@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 13:4",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "اور قطعاً، تم سب جھوٹ کے پچورنے والے ہو، بےکس طاق کے حکیم ہو۔",
+  "tokens": [
+    {
+      "surface": "وאולם",
+      "gloss": "اور قطعاً"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تم"
+    },
+    {
+      "surface": "טפלי",
+      "gloss": "پچورنے والے"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "جھوٹ کے"
+    },
+    {
+      "surface": "רפאי",
+      "gloss": "حکیم"
+    },
+    {
+      "surface": "אלל",
+      "gloss": "بےکس طاق"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "تم سب"
+    }
+  ],
+  "timestamp": "2026-08-10T00:13:45.744034162Z",
+  "model": "glm-5.2"
+}

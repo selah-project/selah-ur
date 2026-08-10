@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "توشب اور مزدور اس میں سے نہ کھائیں گے۔",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "توشب"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "اور مزدور"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھائے گا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اس میں سے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:00:43.835437622Z",
+  "model": "glm-5.2"
+}

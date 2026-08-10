@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 20:12",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "اور بھی، یقیناً وہ میری بہن ہے — میرے باپ کی بیٹی ⟨ہے⟩، مگر میری ماں کی بیٹی نہیں؛ اور وہ مجھے بیوی ہوئی۔",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "اور بھی"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "یقیناً"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "میری بہن"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بیٹی"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "میرے باپ کی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "مگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بیٹی"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "میری ماں کی"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "اور وہ ہوئی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مجھے"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "بیوی"
+    }
+  ],
+  "timestamp": "2026-08-09T19:41:03.355326096Z",
+  "model": "glm-5.2"
+}

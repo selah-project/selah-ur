@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 31:21",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 31,
+  "translation": "وہ اپنے گھر کے لیے برف سے نہیں ڈرتی، کیونکہ اس کا سارا گھر قرمزی میں ملبوس ہے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ڈرتی"
+    },
+    {
+      "surface": "לביתה",
+      "gloss": "اپنے گھر کے لیے"
+    },
+    {
+      "surface": "משלג",
+      "gloss": "برف سے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "اس کا گھر"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "ملبوس ہے"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "قرمزی میں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:10:21.057774951Z",
+  "model": "glm-5.2"
+}

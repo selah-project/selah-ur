@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezra 2:27",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "مِکماس کے مَردوں کی — ایک سو بائیس۔",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "مَردوں کی"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "مِکماس"
+    },
+    {
+      "surface": "مאה",
+      "gloss": "ایک سو"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیس"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "اور دو"
+    }
+  ],
+  "timestamp": "2026-08-10T06:46:24.906904803Z",
+  "model": "glm-5.2"
+}

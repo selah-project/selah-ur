@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 137,
+  "translation": "کیسے ہم ⟨את⟩ گاؤ یاہویہ کا گیت غیر کی زمین پر؟",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "کیسے"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "ہم گاؤ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گیت کو"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گیت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "غیر کی"
+    }
+  ],
+  "timestamp": "2026-08-10T06:36:21.297938277Z",
+  "model": "glm-5.2"
+}

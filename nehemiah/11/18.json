@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 11:18",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "مقدس شہر میں سب لوییم ⟨کا تعداد⟩ دو سو چوراسی تھا۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لوییم"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شہر میں"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دو سو"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "اسی"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "اور چار"
+    }
+  ],
+  "timestamp": "2026-08-10T00:56:05.713884059Z",
+  "model": "glm-5.2"
+}

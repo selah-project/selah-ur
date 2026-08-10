@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 30:21",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 30,
+  "translation": "تین کے زیرِِں زمین کانپتی ہے، اور چار کے زیرِں ⟨وہ⟩ برداشت نہیں کر سکتی:",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "کے زیرِں"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "تین"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "کانپتی ہے"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "اور کے زیرِں"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "کر سکتی"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "برداشت"
+    }
+  ],
+  "timestamp": "2026-08-10T00:10:22.318659229Z",
+  "model": "glm-5.2"
+}

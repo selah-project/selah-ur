@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 120,
+  "translation": "सामर्थी के तीक्ष्ण तीर, रेतम के अंगारों के साथ।",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "तीर"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "सामर्थी के"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "तीक्ष्ण"
+    },
+    {
+      "surface": "עם",
+      "gloss": "के साथ"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "अंगारों"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "रेतम के"
+    }
+  ],
+  "timestamp": "2026-08-10T09:00:59.932145638Z",
+  "model": "glm-5.2"
+}

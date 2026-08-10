@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "اور مَلکہِ شَبع نے شِلوموہ کی ⟨את⟩ حکمت اور ⟨את⟩ اس گھر کو دیکھا جو اس نے بنایا تھا،",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "اور دیکھا"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "ملکہِ"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "شبع نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حکمت کو"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شِلوموہ کی"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "اور گھر کو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "اس نے بنایا تھا"
+    }
+  ],
+  "timestamp": "2026-08-10T06:52:27.857630448Z",
+  "model": "glm-5.2"
+}

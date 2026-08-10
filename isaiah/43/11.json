@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 43,
+  "translation": "میں، میں ہی یاہویہ ہوں، اور میرے سوا کوئی مُنجی نہیں۔",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں ہی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "اور نہیں ہے"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "میرے سوا"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "کوئی مُنجی"
+    }
+  ],
+  "timestamp": "2026-08-10T06:03:58.794756509Z",
+  "model": "glm-5.2"
+}

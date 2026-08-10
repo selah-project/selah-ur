@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 6:12",
+  "book": "song-of-songs",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "نہیں جانتا تھا — میری نفس نے مجھے رتھوں میں رکھ دیا، اپنے قوم کے ایک ندیب کی۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "جانتا تھا"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری نفس"
+    },
+    {
+      "surface": "שמתני",
+      "gloss": "نے مجھے رکھ دیا"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "رتھوں میں"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "اپنے قوم کے"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "ایک ندیب کی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:25:58.248641245Z",
+  "model": "glm-5.2"
+}

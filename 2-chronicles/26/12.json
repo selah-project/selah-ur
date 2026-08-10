@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 26:12",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 26,
+  "translation": "بَنیادوں کے سرداروں کے سارے شمار میں سے، بہادروں کے سردار، دو ہزار اور چھ سو تھے۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "شمار"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "سرداروں"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "بَنیادوں کے"
+    },
+    {
+      "surface": "לגבורי",
+      "gloss": "بہادروں کے"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "دو ہزار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "اور چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    }
+  ],
+  "timestamp": "2026-08-10T01:23:45.577531099Z",
+  "model": "glm-5.2"
+}

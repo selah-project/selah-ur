@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور عَتّای نے ⟨את⟩ ناتان کو پیدا کیا، اور ناتان نے ⟨את⟩ زاباد کو پیدا کیا۔",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "اور عَتّای نے"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "پیدا کیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ناتان کو"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "اور ناتان نے"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیدا کیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زاباد کو"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "زاباد"
+    }
+  ],
+  "timestamp": "2026-08-10T00:58:07.828588896Z",
+  "model": "glm-5.2"
+}

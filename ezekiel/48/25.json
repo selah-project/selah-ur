@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 48:25",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 48,
+  "translation": "اور شِمْعون کی سرحد پر، مشرقی سمت سے ⟨الترے⟩ مغربی سمت تک، یِسّاسخار، ایک۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "اور پر"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شِمْعون"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "سمتِ"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "مشرقی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "سمتِ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "مغربی"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "یِسّاسخار"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    }
+  ],
+  "timestamp": "2026-08-09T23:04:03.871223458Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 18:15",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "تیری بہو کی عریانی کو مت کھولھ؛ وہ تیرے بیٹے کی بیوی ہے، ⟨ہے⟩ — اس کی عریانی کو مت کھولھ۔",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "عریانی"
+    },
+    {
+      "surface": "כלתך",
+      "gloss": "تیری بہو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "کھولھ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "بیوی"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "تیرے بیٹے کی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ ⟨ہے⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "کھولھ"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "اس کی عریانی کو"
+    }
+  ],
+  "timestamp": "2026-08-10T07:39:53.401881316Z",
+  "model": "glm-5.2"
+}

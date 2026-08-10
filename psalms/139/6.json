@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 139,
+  "translation": "یہ علم میرے لیے بھی دنگ کرنے والا ہے، بلند ہے — میں اسے حاصل نہیں کر سکتا۔",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "دنگ کرنے والا"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "علم"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "میرے لیے"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "بلند ہے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "میں کر سکتا"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اسے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:55:55.970531339Z",
+  "model": "glm-5.2"
+}

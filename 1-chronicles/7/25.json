@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 7:25",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اور رِفاح اس کا بیٹا، اور رِشِف، اور تِلاح اس کا بیٹا، اور تاحان اس کا بیٹا۔",
+  "tokens": [
+    {
+      "surface": "ורפח",
+      "gloss": "اور رِفاح"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اس کا بیٹا"
+    },
+    {
+      "surface": "ורשף",
+      "gloss": "اور رِشِف"
+    },
+    {
+      "surface": "ותלח",
+      "gloss": "اور تِلاح"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اس کا بیٹا"
+    },
+    {
+      "surface": "ותחן",
+      "gloss": "اور تاحان"
+    },
+    {
+      "surface": "בנو",
+      "gloss": "اس کا بیٹا"
+    }
+  ],
+  "timestamp": "2026-08-10T01:01:58.057822209Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "zechariah 14:19",
+  "book": "zechariah",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "یہ مِتصرایم کا گناہ ہوگا اور سب قوموں کا گناہ جو ⟨את⟩ چگہ سکّوت کا چڑھنے نہیں آئیں گے۔",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ہوگا"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "گناہ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "اور گناہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "قوموں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "چڑھیں گے"
+    },
+    {
+      "surface": "לחג",
+      "gloss": "چگنے کے لیے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چگ"
+    },
+    {
+      "surface": "חג",
+      "gloss": "چگ"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "سکّوت کا"
+    }
+  ],
+  "timestamp": "2026-08-10T06:27:41.845357977Z",
+  "model": "glm-5.2"
+}

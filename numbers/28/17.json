@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 28:17",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 28,
+  "translation": "اور ⟨اس⟩ مہینے کے پندرہویں دن ⟨ایک⟩ تہوار ہے — سات دن خمیری روٹی کھائی جائے۔",
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "اور پندرہویں"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "پندرہویں"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مہینے کے"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اس"
+    },
+    {
+      "surface": "חג",
+      "gloss": "تہوار"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "سات"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دن"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "خمیری روٹی"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھائی جائے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:37:28.001240597Z",
+  "model": "glm-5.2"
+}

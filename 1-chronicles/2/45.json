@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور شَمّای کا بیٹا مَعون تھا، اور مَعون بَیت صور کا باپ تھا۔",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "اور بیٹا"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "شَمّای"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "مَعون"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "اور مَعون"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باپ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بَیت"
+    },
+    {
+      "surface": "צור",
+      "gloss": "صور"
+    }
+  ],
+  "timestamp": "2026-08-10T09:23:31.792396913Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 27:19",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "ملعون ⟨ہے⟩ وہ جو مسافر، یتیم اور بیوہ کا حق موڑ دے، اور تمام لوگ کہیں گے: آمین۔",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ملعون"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "موڑ دے"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "حق"
+    },
+    {
+      "surface": "גר",
+      "gloss": "مسافر"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "یتیم"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "اور بیوہ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "اور کہیں گے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوگ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمین"
+    }
+  ],
+  "timestamp": "2026-08-10T07:41:12.447466437Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "اور میں لوٹا، میں نے دیکھا سورج کے نیچے هبل۔",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "اور میں لوٹا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "اور دیکھا"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "هبل"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "کے نیچے"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سورج"
+    }
+  ],
+  "timestamp": "2026-08-10T00:34:40.775630365Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 27:18",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "ملعون ⟨ہے⟩ جو اندھے کو راستے سے بھٹکاتا ہے، اور تمام لوگ کہیں گے: آمین۔",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ملعون"
+    },
+    {
+      "surface": "משגה",
+      "gloss": "بھٹکاتا ہے"
+    },
+    {
+      "surface": "עור",
+      "gloss": "اندھے کو"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "راستے سے"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "اور کہیں گے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوگ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمین"
+    }
+  ],
+  "timestamp": "2026-08-10T07:41:15.599268802Z",
+  "model": "glm-5.2"
+}

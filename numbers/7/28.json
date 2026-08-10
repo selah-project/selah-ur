@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 7:28",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "ایک بکرا، گوٹھ کا، گناہ کی قربانی کے لیے۔",
+  "tokens": [
+    {
+      "surface": "שְׂעִיר",
+      "gloss": "بکرا"
+    },
+    {
+      "surface": "עִזִּ֥ים",
+      "gloss": "بکریوں"
+    },
+    {
+      "surface": "אֶחָ֖ד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "לְחַטָּֽאת",
+      "gloss": "گناہ کی قربانی کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:28:28.428740557Z",
+  "model": "glm-5.2"
+}

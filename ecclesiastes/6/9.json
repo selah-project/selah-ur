@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "آنکھوں کا دیکھنا نفس کے بھٹکنے سے بہتر ہے؛ یہ بھی ہِبَل ہے اور رُوح کا تنگی کرنا۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "بہتر"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "دیکھنا"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "آنکھوں کا"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "بھٹکنے سے"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نفس کے"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بھی"
+    },
+    {
+      "surface": "זה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ہِبَل"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "اور تنگی کرنا"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "رُوح کا"
+    }
+  ],
+  "timestamp": "2026-08-10T06:43:29.877037687Z",
+  "model": "glm-5.2"
+}

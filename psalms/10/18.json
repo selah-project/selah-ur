@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "یَتیم اور مظلوم کا حق دلانے کے لیے، تاکہ زمین کا انسان پھر دہشت نہ پھیلائے،",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "حق دلانے کے لیے"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "یَتیم"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "اور مظلوم"
+    },
+    {
+      "surface": "בל",
+      "gloss": "تاکہ نہ"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "پھر"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "آئندہ"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "دہشت پھیلائے"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "מן",
+      "gloss": "از"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-09T23:24:15.652914444Z",
+  "model": "glm-5.2"
+}

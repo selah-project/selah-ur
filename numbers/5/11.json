@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 5:11",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "اور یاہویہ نے موشہ سے کلام کیا، کہنا:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "اور کلام کیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہنا"
+    }
+  ],
+  "timestamp": "2026-08-10T07:12:32.274683187Z",
+  "model": "glm-5.2"
+}

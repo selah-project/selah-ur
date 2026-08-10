@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 66,
+  "translation": "بے انصافی، اگر میں نے اپنے دِل میں دیکھی ہو، تو نہیں سُنے گا ادونای۔",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "بے انصافی"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "میں نے دیکھی ہو"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "اپنے دِل میں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "سُنے گا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    }
+  ],
+  "timestamp": "2026-08-09T23:36:11.132175565Z",
+  "model": "glm-5.2"
+}

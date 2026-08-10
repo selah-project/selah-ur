@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "تو وہ دوسرے راستے سے گیا، اور اسی راستے سے نہ لوٹا جس سے وہ بیت ایل آیا تھا۔",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "تو وہ گیا"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "راستے سے"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "دوسرے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "لوٹا"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "راستے سے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جس سے"
+    },
+    {
+      "surface": "בא",
+      "gloss": "وہ آیا تھا"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اس میں سے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    }
+  ],
+  "timestamp": "2026-08-09T21:47:12.160241674Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 13:2",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "آدمی کے منہ کے پھل سے اچھائی کھائے گا، اور خیانت کاروں کی نَفَش ⟩سخت اذیت⟩۔",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "پھل سے"
+    },
+    {
+      "surface": "פי",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "آدمی کے"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھائے گا"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "اچھائی"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "اور نَفَش"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "خیانت کاروں کی"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "سخت اذیت"
+    }
+  ],
+  "timestamp": "2026-08-10T00:01:44.145789545Z",
+  "model": "glm-5.2"
+}

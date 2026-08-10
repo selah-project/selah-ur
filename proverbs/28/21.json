@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 28:21",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 28,
+  "translation": "منχοں کو پہچاننا اچھا نہیں، اور روٹی کے ایک ٹکڑے پر کوئی آدمی سرکشی کرے گا۔",
+  "tokens": [
+    {
+      "surface": "הכר",
+      "gloss": "پہچاننا"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "منχοں کو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "اچھا"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "اور پر"
+    },
+    {
+      "surface": "פת",
+      "gloss": "ٹکڑے"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی کے"
+    },
+    {
+      "surface": "יפשע",
+      "gloss": "سرکشی کرے گا"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "آدمی"
+    }
+  ],
+  "timestamp": "2026-08-10T06:39:23.677221724Z",
+  "model": "glm-5.2"
+}

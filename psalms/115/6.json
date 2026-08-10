@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 115,
+  "translation": "کان ⟨ہیں⟩ ان کے اور وہ سنتے نہیں؛ ناک ⟨ہیں⟩ ان کے اور وہ سونگھتے نہیں۔",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "کان"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ان کے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہیں"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "سنتے"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ناک"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ان کے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہیں"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "سونگھتے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:49:59.310709447Z",
+  "model": "glm-5.2"
+}

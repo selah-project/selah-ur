@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 6:6",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "کُل ایامِ مُنٰفردیِہ کے یاہویہ کے لیے، کسی مُردہ کی نَفَش کے پاس نہ جائے۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "کُل"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ایامِ"
+    },
+    {
+      "surface": "הזירו",
+      "gloss": "مُنٰفردیِہ کے"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہویہ کے لیے"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفَش"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مُردہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "جائے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:27:29.449790080Z",
+  "model": "glm-5.2"
+}

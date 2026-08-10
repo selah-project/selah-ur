@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 28:22",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 28,
+  "translation": "اور ایک بکرا، گناہ کی قربانی، تمہارے لیے کفارہ کرانے کو۔",
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "اور بکرا"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "گناہ کی قربانی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "کفارہ کرانے کو"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "تمہارے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:37:48.951658024Z",
+  "model": "glm-5.2"
+}

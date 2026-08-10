@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 109,
+  "translation": "اس کے بیٹے یتیم ہوں اور اس کی بیوی بیوہ۔",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ہوں"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "اس کے بیٹے"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "یتیم"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "اور اس کی بیوی"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "بیوہ"
+    }
+  ],
+  "timestamp": "2026-08-09T23:49:41.568859825Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور شِلح تیس سال جیتا، اور اُس نے ⟨את⟩ عِبیر کو جَنا۔",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "اور شِلح"
+    },
+    {
+      "surface": "חי",
+      "gloss": "جیتا"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "تیس"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "اور جَنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عِبیر کو"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عِبیر"
+    }
+  ],
+  "timestamp": "2026-08-09T19:37:09.487875168Z",
+  "model": "glm-5.2"
+}

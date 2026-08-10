@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور جو ⟨اس نے⟩ تمہارے لیےبیابان میں کیا، ⟨یہاں تک کہ⟩ تم ⟨اس⟩ جگہ تک آئے۔",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "اور جو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تمہارے لیے"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بیابان میں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "یہاں تک کہ"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "تم آئے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "⟨اس⟩ جگہ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اس"
+    }
+  ],
+  "timestamp": "2026-08-09T20:47:10.241333593Z",
+  "model": "glm-5.2"
+}

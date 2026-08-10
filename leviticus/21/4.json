@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 21:4",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "وہ اپنی قوم میں ایک سردار کے لیے ناپاک نہ ہو — ⟨تاکہ⟩ اُسے ناپاک نہ کرے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "وہ ناپاک ہو"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ایک سردار"
+    },
+    {
+      "surface": "בעמיו",
+      "gloss": "اپنی قوم میں"
+    },
+    {
+      "surface": "להחלו",
+      "gloss": "تاکہ اُسے ناپاک کرے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:11:25.068032083Z",
+  "model": "glm-5.2"
+}

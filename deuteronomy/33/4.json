@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 33,
+  "translation": "تورٰہ جس کا موشے نے ہمیں حکم دیا، یَعقُوب کی جماعت کی مِلکیت ہے۔",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "تورٰہ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "جس کا حکم دیا"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ہمیں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے نے"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "ملکیت ہے"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "جماعت کی"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یَعقُوب"
+    }
+  ],
+  "timestamp": "2026-08-09T20:55:31.372873355Z",
+  "model": "glm-5.2"
+}

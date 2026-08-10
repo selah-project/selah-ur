@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 5:8",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "خوراک سے توانا گھوڑے بنے، ہر ایک اپنے ہمسر کی بیوی کی طرف ہنہناتا ہے۔",
+  "tokens": [
+    {
+      "surface": "סוסים",
+      "gloss": "گھوڑے"
+    },
+    {
+      "surface": "מיזנים",
+      "gloss": "خوراک سے توانا"
+    },
+    {
+      "surface": "משכים",
+      "gloss": "بنے"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨تھے⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر ایک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "بیوی"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "اپنے ہمسر کی"
+    },
+    {
+      "surface": "יצהלו",
+      "gloss": "ہنہناتا ہے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:23:33.772414454Z",
+  "model": "glm-5.2"
+}

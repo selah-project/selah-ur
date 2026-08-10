@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 26,
+  "translation": "اور ⟨ہم⟩ کو اس مقام میں لایا، اور ہمیں ⟨את⟩ یہ زمین دی، ⟨یعنی⟩ ایک ایسی زمین جس میں دودھ اور شہد بہتا ہے۔",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "اور لایا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "میں"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "اس مقام"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "اور دی"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ہمیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یہ زمین"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "بہتی ہوئی"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "دودھ"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "اور شہد"
+    }
+  ],
+  "timestamp": "2026-08-09T20:53:25.943367610Z",
+  "model": "glm-5.2"
+}

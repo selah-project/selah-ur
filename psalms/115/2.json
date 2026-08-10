@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 115,
+  "translation": "کیوں قومیں کہیں، ان کے الوہیم کہاں ہیں اب؟",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "کہیں"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "قومیں"
+    },
+    {
+      "surface": "איה",
+      "gloss": "کہاں"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اب"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ان کے الوہیم"
+    }
+  ],
+  "timestamp": "2026-08-09T23:50:06.025455687Z",
+  "model": "glm-5.2"
+}

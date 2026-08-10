@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "اور غلام نے یِتسحاق کو ⟨את⟩ تمام باتیں سنائیں جو اُس نے کی تھیں۔",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "اور سنائیں"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "غلام نے"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "یِتسحاق کو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تمام باتیں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "باتیں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "اُس نے کی تھیں"
+    }
+  ],
+  "timestamp": "2026-08-09T19:41:59.559938889Z",
+  "model": "glm-5.2"
+}

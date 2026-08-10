@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "lamentations 3:53",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "انہوں نے ⟨את⟩ میری زندگی گڑھے میں بند کر دی، اور مجھ پر پتھر پھینکا۔",
+  "tokens": [
+    {
+      "surface": "צָֽמְת֤וּ",
+      "gloss": "انہوں نے بند کر دی"
+    },
+    {
+      "surface": "בַבּוֹר֙",
+      "gloss": "گڑھے میں"
+    },
+    {
+      "surface": "חַיָּ֔י",
+      "gloss": "میری زندگی"
+    },
+    {
+      "surface": "וַיַּדּוּ",
+      "gloss": "اور پھینکا"
+    },
+    {
+      "surface": "אֶ֖בֶן",
+      "gloss": "پتھر"
+    },
+    {
+      "surface": "בִּֽי",
+      "gloss": "مجھ پر"
+    }
+  ],
+  "timestamp": "2026-08-10T00:30:09.102279774Z",
+  "model": "glm-5.2"
+}

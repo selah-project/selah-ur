@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 1:22",
+  "book": "judges",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "اور بیت یوسف بھی وہ بیت ایل کی طرف چڑھے، اور یاہویہ ان کے ساتھ تھا۔",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "اور چڑھے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بھی"
+    },
+    {
+      "surface": "הם",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "اور یاہویہ"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ان کے ساتھ"
+    }
+  ],
+  "timestamp": "2026-08-09T21:06:17.769521889Z",
+  "model": "glm-5.2"
+}

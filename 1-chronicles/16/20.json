@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 16,
+  "translation": "اور وہ قوم سے قوم کی طرف اور بادشاہی سے دوسری قوم کی طرف گھومتے پھرے۔",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "اور وہ گھومتے پھرے"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "قوم سے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "اور بادشاہی سے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "دوسری"
+    }
+  ],
+  "timestamp": "2026-08-10T01:05:34.743657193Z",
+  "model": "glm-5.2"
+}

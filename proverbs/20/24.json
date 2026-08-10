@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 20:24",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "یاہویہ کی طرف سے ہیں آدمی کے قدم؛ اور آدمی — وہ کیا سمجھے اپنا راستہ؟",
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "یاہویہ کی طرف سے"
+    },
+    {
+      "surface": "مצעדי",
+      "gloss": "قدم"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "آدمی کے"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "اور آدمی"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "سمجھے"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "اپنا راستہ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:05:07.666283368Z",
+  "model": "glm-5.2"
+}

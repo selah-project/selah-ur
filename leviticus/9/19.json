@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 9:19",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "اور ⟨את⟩ چربیاں بیل سے اور مینڈھے سے — دم، اور ڈھکن، اور گردے، اور جگر کی بڑی لٹکن۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "چربیاں"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "چربیاں"
+    },
+    {
+      "surface": "מן",
+      "gloss": "سے"
+    },
+    {
+      "surface": "השור",
+      "gloss": "بیل"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "اور سے"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "مینڈھے"
+    },
+    {
+      "surface": "האליה",
+      "gloss": "موٹا دم"
+    },
+    {
+      "surface": "והמכסה",
+      "gloss": "اور ڈھکن"
+    },
+    {
+      "surface": "והכלית",
+      "gloss": "اور گردے"
+    },
+    {
+      "surface": "ויתרת",
+      "gloss": "اور لٹکن"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "جگر"
+    }
+  ],
+  "timestamp": "2026-08-09T20:18:34.339004445Z",
+  "model": "glm-5.2"
+}

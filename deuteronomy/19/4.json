@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 19:4",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "اور یہ اس قاتل کا معاملہ ہے جو وہاں بھاگے اور جیے — جو ⟨آدمی⟩ اپنے ہمسرا کو بےعلمی میں مارے، اور وہ اس سے کل یا پرسں کل نہیں کرتا تھا،",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "اور یہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "معاملہ"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "اس قاتل کا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "بھاگے"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "وہاں"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "اور جیے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "مارے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے ہمسرا کو"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "اپنے ہمسرا کو"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "بے"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "علمی"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "اور وہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "کرتا تھا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اس سے"
+    },
+    {
+      "surface": "מתמל",
+      "gloss": "کل"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "یا پرسں کل"
+    }
+  ],
+  "timestamp": "2026-08-10T05:33:35.628869353Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "exodus 12:43",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "اور یاہویہ نے موشہ اور اہرون سے کہا: یہ ہے فِصح کی حکم، ہر غیر ملکی بیٹا نہیں کھائے گا اس میں۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "اور اہرون"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "فِصح"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "غیر ملکی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھائے گا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اس میں"
+    }
+  ],
+  "timestamp": "2026-08-09T19:59:58.871338643Z",
+  "model": "glm-5.2"
+}

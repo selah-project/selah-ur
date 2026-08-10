@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 16:22",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 16,
+  "translation": "میرے مَشیحائیں کو ہاتھ مت لگاؤ، اور میرے نَویوں کو تکلیف مت پہنچاؤ۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مت"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "ہاتھ لگاؤ"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "میرے مَشیحائیں کو"
+    },
+    {
+      "surface": "ובנביאי",
+      "gloss": "اور میرے نَویوں کو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مت"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "تکلیف پہنچاؤ"
+    }
+  ],
+  "timestamp": "2026-08-10T01:05:00.000130781Z",
+  "model": "glm-5.2"
+}

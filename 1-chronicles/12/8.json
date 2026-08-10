@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 12:8",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "اور یُوعِیلہ اور زَبَدْیاہ، یِروخام کے بیٹے، گْدور سے،",
+  "tokens": [
+    {
+      "surface": "ויועאלה",
+      "gloss": "اور یُوعِیلہ"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "اور زَبَدْیاہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "یِروخام"
+    },
+    {
+      "surface": "מן",
+      "gloss": "سے"
+    },
+    {
+      "surface": "הגדור",
+      "gloss": "گْدور"
+    }
+  ],
+  "timestamp": "2026-08-10T01:04:00.560662818Z",
+  "model": "glm-5.2"
+}

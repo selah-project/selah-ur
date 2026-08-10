@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 29:1",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 29,
+  "translation": "جو آدمی بار بار توکیہت پا کر گردن سخت کرتا ہے، وہ اچانک ٹوٹ جائے گا اور کوئی شفا نہیں۔",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "توکیہت"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "سخت کرتا ہے"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "گردن"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "اچانک"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "ٹوٹ جائے گا"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "اور کوئی نہیں"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "شفا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:08:32.425666360Z",
+  "model": "glm-5.2"
+}

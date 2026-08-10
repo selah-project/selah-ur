@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 9:5",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "اور یاہویہ نے ایک مقررہ وقت مقرر کیا، کہہ کر: کل یاہویہ زمین میں یہ بات کرے گا۔",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "اور مقرر کیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ نے"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "مقررہ وقت"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہہ کر"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "کل"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کرے گا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "یہ بات"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین میں"
+    }
+  ],
+  "timestamp": "2026-08-09T19:57:22.052518230Z",
+  "model": "glm-5.2"
+}

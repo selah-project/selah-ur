@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 121,
+  "translation": "دیکھ، نہ وہ اونگھے گا اور نہ سوئے گا، یِسرائیل کا نگہبان۔",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "دیکھ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "وہ اونگھے گا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "وہ سوئے گا"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "نگہبان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-09T23:53:34.476516956Z",
+  "model": "glm-5.2"
+}

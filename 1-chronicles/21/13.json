@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 21:13",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "اور داوِد نے گاد سے کہا: مجھے بہت تنگی ہے۔ میں یاہویہ کے ہاتھ میں گر پڑوں، کیونکہ اس کی رحمتیں بہت بڑی ہیں، اور انسان کے ہاتھ میں نہ گروں۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "צר",
+      "gloss": "تنگی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مجھے"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "אפלה",
+      "gloss": "گر پڑوں"
+    },
+    {
+      "surface": "נא",
+      "gloss": "بھلا"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ہاتھ میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "بڑی ہیں"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "اس کی رحمتیں"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "וביד",
+      "gloss": "اور ہاتھ میں"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "گروں"
+    }
+  ],
+  "timestamp": "2026-08-10T06:51:35.702646755Z",
+  "model": "glm-5.2"
+}

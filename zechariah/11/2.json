@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 11:2",
+  "book": "zechariah",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "چلا، اَے سَرو، کیونکہ گرا سدر، جو شان والے تھے وہ لُوٹے گئے! چلاؤ، اَے بَاشان کے بلوطو، کیونکہ اترا گھنا جنگل!",
+  "tokens": [
+    {
+      "surface": "הילל",
+      "gloss": "چلا"
+    },
+    {
+      "surface": "ברוש",
+      "gloss": "اَے سَرو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "گرا"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "سدر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אדרים",
+      "gloss": "شان والے"
+    },
+    {
+      "surface": "שדדו",
+      "gloss": "لُوٹے گئے"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "چلاؤ"
+    },
+    {
+      "surface": "אלוני",
+      "gloss": "اَے بلوطو"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "بَاشان کے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "اترا"
+    },
+    {
+      "surface": "יער",
+      "gloss": "جنگل"
+    },
+    {
+      "surface": "הבצור",
+      "gloss": "گھنا"
+    }
+  ],
+  "timestamp": "2026-08-09T23:19:35.215335057Z",
+  "model": "glm-5.2"
+}

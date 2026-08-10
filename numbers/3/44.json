@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 3:44",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "اور یاہویہ نے موشے سے کلام کیا، کہنا۔",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "اور کلام کیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہنا"
+    }
+  ],
+  "timestamp": "2026-08-09T20:27:00.824016031Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 5:5",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "مِیخا اس کا بیٹا، رِعاہیا اس کا بیٹا، بَعَل اس کا بیٹا۔",
+  "tokens": [
+    {
+      "surface": "מיכה",
+      "gloss": "مِیخا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اس کا بیٹا"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "رِعاہیا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اس کا بیٹا"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بَعَل"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اس کا بیٹا"
+    }
+  ],
+  "timestamp": "2026-08-10T06:49:01.593156292Z",
+  "model": "glm-5.2"
+}

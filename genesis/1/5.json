@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "اور الوہیم نے روشنی کو دن پکارا، اور اندھیرے کو رات پکارا۔ تو شام ہوئی، تو صبح ہوئی — ایک دن۔",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "اور پکارا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "روشنی کو"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "اور اندھیرے کو"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "پکارا"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "رات"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تو ہوئی"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "شام"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تو ہوئی"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    }
+  ],
+  "timestamp": "2026-08-09T19:34:11.438069350Z",
+  "model": "glm-5.2"
+}

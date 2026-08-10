@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 145,
+  "translation": "یاہویہ سب کے لیے بھلا ⟨ہے⟩، اور اُس کی رحمتیں اُس کے سب کاموں پر ہیں۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "بھلا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سب کے لیے"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "اور اُس کی رحمتیں"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "اُس کے کاموں"
+    }
+  ],
+  "timestamp": "2026-08-09T23:56:53.684241995Z",
+  "model": "glm-5.2"
+}

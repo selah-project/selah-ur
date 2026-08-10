@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 27:4",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "میرے ہونٹ ظلم نہ بولیں گے، اور میری زبان فریب نہ بولے گی۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "بولیں گے"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "میرے ہونٹ"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "اور میری زبان"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "بولے گی"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "فریب"
+    }
+  ],
+  "timestamp": "2026-08-10T06:40:21.287225928Z",
+  "model": "glm-5.2"
+}

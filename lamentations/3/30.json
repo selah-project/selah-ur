@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "وہ اپنا گال مارنے والے کو دے، وہ رسوائی سے سیر ⟨ہو⟩۔",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "وہ دے"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "مارنے والے کو"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "گال"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "وہ سیر ہو"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "رسوائی سے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:33:16.235124341Z",
+  "model": "glm-5.2"
+}

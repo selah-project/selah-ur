@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 17:14",
+  "book": "1-samuel",
+  "lang": "ur",
+  "chapter": 17,
+  "translation": "اور داوِد وہ چھوٹا ⟨تھا⟩؛ اور تین بڑے شاؤل کے پیچھے ⟨گئے⟩۔",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "اور داوِد"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "چھوٹا"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "اور تین"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "بڑے"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "گئے"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "کے پیچھے"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    }
+  ],
+  "timestamp": "2026-08-09T21:23:20.396766633Z",
+  "model": "glm-5.2"
+}

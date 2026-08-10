@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 21:10",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "اور بنیؐ یِسرائیل نے کوچ کیا اور اوبوت میں ڈیرے ڈالے۔",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "اور کوچ کیا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنیؐ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "اور ڈیرے ڈالے"
+    },
+    {
+      "surface": "באבת",
+      "gloss": "اوبوت میں"
+    }
+  ],
+  "timestamp": "2026-08-09T20:33:49.276624192Z",
+  "model": "glm-5.2"
+}

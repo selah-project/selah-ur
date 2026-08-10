@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 6:1",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "تب شِلومہ نے کہا: یاہویہ نے کہا کہ وہ گھنے اندھیرے میں سکونت اختیار کرے گا۔",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "تب"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "کہا"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شِلومہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "نے کہا"
+    },
+    {
+      "surface": "לשכון",
+      "gloss": "سکونت اختیار کرنے کو"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "گھنے اندھیرے میں"
+    }
+  ],
+  "timestamp": "2026-08-10T01:15:21.303436733Z",
+  "model": "glm-5.2"
+}

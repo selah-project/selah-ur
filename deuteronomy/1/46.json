@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 1:46",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "اور تم قادِش میں ٹھہرے، کئی دن، جتنے دن ⟨وہ⟩ تھے جن ⟨کے⟩ لیے تم وہاں ٹھہرے۔",
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "اور تم ٹھہرے"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "قادِش میں"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دن"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "کئی"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "جتنے دن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن کے لیے"
+    },
+    {
+      "surface": "ישבתם",
+      "gloss": "تم ٹھہرے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:13:59.728861820Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "کوئی ⟨אִישׁ⟩ اپنے باپ کی بیوی کو ⟨نہ⟩ لے اور وہ ⟨نہ⟩ کھولے اپنے باپ کا دامن۔",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יִקַּח",
+      "gloss": "لے"
+    },
+    {
+      "surface": "אִישׁ",
+      "gloss": "کوئی ⟨اِیش⟩"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "بیوی کو"
+    },
+    {
+      "surface": "אֵשֶׁת",
+      "gloss": "بیوی"
+    },
+    {
+      "surface": "אָבִיו",
+      "gloss": "اپنے باپ کی"
+    },
+    {
+      "surface": "וְלֹא",
+      "gloss": "اور ⟨نہ⟩"
+    },
+    {
+      "surface": "יְגַלֶּה",
+      "gloss": "کھولے"
+    },
+    {
+      "surface": "כְּנַף",
+      "gloss": "دامن"
+    },
+    {
+      "surface": "אָבִיו",
+      "gloss": "اپنے باپ کا"
+    }
+  ],
+  "timestamp": "2026-08-09T20:52:25.649214243Z",
+  "model": "glm-5.2"
+}

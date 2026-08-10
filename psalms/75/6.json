@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 75,
+  "translation": "اپنی سینگ بلندی پر نہ اٹھاؤ، بڑائی کی بات اترائے گریبان سے نہ بولو۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "اٹھاؤ"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "بلندی پر"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "اپنی سینگ"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "بولو"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "گیرے گریبان سے"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "بڑائی کی"
+    }
+  ],
+  "timestamp": "2026-08-09T23:39:47.716831715Z",
+  "model": "glm-5.2"
+}

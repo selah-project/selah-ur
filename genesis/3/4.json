@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "تو سانپ نے عورت سے کہا، ہرگز نہ تم مرو گے۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تو ⟨اس نے⟩ کہا"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "سانپ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "عورت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "مرو گے"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "تم مرو گے"
+    }
+  ],
+  "timestamp": "2026-08-10T05:11:25.169612190Z",
+  "model": "glm-5.2"
+}

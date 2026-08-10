@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "تو تو اسے ٹکڑوں میں توڑنا اور اس پر تیل انڈیلنا — یہ مَنْحَہ ہے۔",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "تو تو ٹکڑوں میں توڑنا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "اسے"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "ٹکڑے"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "اور انڈیلنا"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "اس پر"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "تیل"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "مَنْحَہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "یہ ہے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:13:34.324080381Z",
+  "model": "glm-5.2"
+}

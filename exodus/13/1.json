@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 13:1",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "اور یاہویہ نے موشے سے کلام کیا، فرماتے ہوئے:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "اور کلام کیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "فرماتے ہوئے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:00:18.681864793Z",
+  "model": "glm-5.2"
+}

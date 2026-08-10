@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 33:1",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 33,
+  "translation": "مگر اے اِیّوپ، اب میری بات سُن، اور میرے سب باتوں کو کان لگا۔",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "مگر"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سُن"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اب"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "اِیّوپ"
+    },
+    {
+      "surface": "מלי",
+      "gloss": "میری بات"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "اور سب"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "میرے باتوں کو"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "کان لگا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:21:40.333358115Z",
+  "model": "glm-5.2"
+}

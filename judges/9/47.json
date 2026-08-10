@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "judges 9:47",
+  "book": "judges",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "اور اَبیمِلِخ کو بتایا گیا کہ میگدل شَکیم کے سب مالک جمع ہوئے ہیں۔",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "اور بتایا گیا"
+    },
+    {
+      "surface": "לאבימלך",
+      "gloss": "اَبیمِلِخ کو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "התקבצו",
+      "gloss": "جمع ہوئے ہیں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "مالک"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "میگدل"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شَکیم"
+    }
+  ],
+  "timestamp": "2026-08-09T21:12:14.621876372Z",
+  "model": "glm-5.2"
+}

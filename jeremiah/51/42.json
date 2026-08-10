@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "jeremiah 51:42",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 51,
+  "translation": "سمندر بابل پر چڑھ آیا ہے، اپنی موجوں کے ہجوم سے ⟨وہ⟩ ڈھک گئی ہے۔",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "چڑھ آیا ہے"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "ہجوم سے"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "اس کی موجوں کے"
+    },
+    {
+      "surface": "נכסתה",
+      "gloss": "ڈھک گئی ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:13:37.976246824Z",
+  "model": "glm-5.2"
+}

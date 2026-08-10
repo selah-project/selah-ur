@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "اور اگر وہ تجھ سے صلح نہ کرے، بلکہ تجھ سے جنگ کرے، تو تو اس کا محاصرہ کرنا۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "اور اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "وہ صلح کرے"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تجھ سے"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "بلکہ کرے"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تجھ سے"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "تو محاصرہ کرنا"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "اس کا"
+    }
+  ],
+  "timestamp": "2026-08-09T20:50:40.331235784Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 6:12",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "ایک بے‌یارو آدمی، ایک شرارت کا آدمی، ٹیڑھے منہ سے چلتا ہے۔",
+  "tokens": [
+    {
+      "surface": "אָדָ֣ם",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "בְּ֭לִיַּעַל",
+      "gloss": "بے‌یارو"
+    },
+    {
+      "surface": "אִ֣ישׁ",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "אָ֑וֶן",
+      "gloss": "شرارت کا"
+    },
+    {
+      "surface": "ה֝וֹלֵ֗ךְ",
+      "gloss": "چلتا ہے"
+    },
+    {
+      "surface": "עִקְּשׁ֥וּת",
+      "gloss": "ٹیڑھے"
+    },
+    {
+      "surface": "פֶּֽה",
+      "gloss": "منہ سے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:00:01.789229195Z",
+  "model": "glm-5.2"
+}

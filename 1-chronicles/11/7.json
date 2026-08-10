@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور داوِد قلعے میں بس گیا؛ اسی لیے اسے داوِد کا شہر کہنے لگے۔",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "اور بس گیا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "قلعے میں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اس پر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اسی لیے"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "کہنے لگے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اسے"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد کا"
+    }
+  ],
+  "timestamp": "2026-08-10T01:03:37.971906642Z",
+  "model": "glm-5.2"
+}

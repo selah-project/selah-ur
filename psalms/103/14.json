@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 103,
+  "translation": "کیونکہ ⟨وہ⟩ جانتا ہے ہماری ساخت کو، یاد رکھتا ہے کہ ہم مٹی ہیں۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨وہ⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "جانتا ہے"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "ہماری ساخت"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "یاد رکھتا ہے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "مٹی"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ہم"
+    }
+  ],
+  "timestamp": "2026-08-09T23:47:01.246333446Z",
+  "model": "glm-5.2"
+}

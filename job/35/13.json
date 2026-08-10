@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 35:13",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 35,
+  "translation": "یقیناً اِیل باطل کو نہیں سنتا، اور شدّای اُسے نہیں دیکھتا۔",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "یقیناً"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "باطل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "سنے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِیل"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "اور شدّای"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "ישורנה",
+      "gloss": "دیکھے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:33:25.692085261Z",
+  "model": "glm-5.2"
+}

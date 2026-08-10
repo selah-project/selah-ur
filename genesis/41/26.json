@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 41:26",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 41,
+  "translation": "سات اچھی گائیں سات سال ⟨ہیں⟩، اور سات اچھی بالیاں سات سال ⟨ہیں⟩ — خواب ایک ہی ہے۔",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "سات"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "گائیں"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "اچھی"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سات"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨ہیں⟩"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "اور سات"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "بالیاں"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "اچھی"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سات"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨ہیں⟩"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "خواب"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ ہے"
+    }
+  ],
+  "timestamp": "2026-08-09T19:50:03.750198096Z",
+  "model": "glm-5.2"
+}

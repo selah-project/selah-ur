@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 17:4",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 17,
+  "translation": "برائی کا کرنے والا باطل کی ہونٹوں کو دھیان دیتا ہے، جھوٹا تباہی کی زبان کو سنڑتا ہے۔",
+  "tokens": [
+    {
+      "surface": "מרע",
+      "gloss": "برائی کا کرنے والا"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "دھیان دیتا ہے"
+    },
+    {
+      "surface": "על",
+      "gloss": "کو"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ہونٹوں"
+    },
+    {
+      "surface": "און",
+      "gloss": "باطل کی"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "جھوٹا"
+    },
+    {
+      "surface": "מזין",
+      "gloss": "سنڑتا ہے"
+    },
+    {
+      "surface": "על",
+      "gloss": "کو"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "הות",
+      "gloss": "تباہی کی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:04:13.012136761Z",
+  "model": "glm-5.2"
+}

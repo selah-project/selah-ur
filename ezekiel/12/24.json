@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 12:24",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "کیونکہ نہ ہوگا پھر کوئی باطل کی دید اور نرم فال گری، بیتِ یِسرائیل کے بیچ میں۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوگا"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "پھر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "دید"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "باطل کی"
+    },
+    {
+      "surface": "ומקסם",
+      "gloss": "اور فال"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "نرم"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "بیچ میں"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل کے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:14:34.042812183Z",
+  "model": "glm-5.2"
+}

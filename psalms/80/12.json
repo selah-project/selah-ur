@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 80,
+  "translation": "وہ اپنی شاخیں سمندر تک بھیجتی تھی، اور اپنے پودے نہر تک۔",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "وہ بھیجتی تھی"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "اپنی شاخیں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "اور کی طرف"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "نہر"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "اپنے پودے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:41:32.418444736Z",
+  "model": "glm-5.2"
+}

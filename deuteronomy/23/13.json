@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 23:13",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "اور ⟨तुझे⟩ ایک جگہ ہوتی تیرے لیے خیمہ کے باہر، اور تو نکلے گا وہاں باہر،",
+  "tokens": [
+    {
+      "surface": "ולד",
+      "gloss": "اور ایک جگہ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ہوتی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے لیے"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "باہر"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "خیمہ کے"
+    },
+    {
+      "surface": "ויצאת",
+      "gloss": "اور تو نکلے گا"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "وہاں"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "باہر"
+    }
+  ],
+  "timestamp": "2026-08-10T05:34:51.378912388Z",
+  "model": "glm-5.2"
+}

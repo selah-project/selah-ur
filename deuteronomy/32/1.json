@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 32,
+  "translation": "اے آسمانو، کان لگاؤ اور میں بولوں گا، اور زمین ⟨سُنیں⟩ میرے منہ کے بول ۔",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "کان لگاؤ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "اے آسمانو"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "اور میں بولوں گا"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "اور ⟨سُنیں⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "بول"
+    },
+    {
+      "surface": "פי",
+      "gloss": "میرے منہ کے"
+    }
+  ],
+  "timestamp": "2026-08-10T08:41:26.867862093Z",
+  "model": "glm-5.2"
+}

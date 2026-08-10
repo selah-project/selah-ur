@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 22:11",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "پاکیزہ دل سے محبت کرنے والے کے ہونٹھ پر فضل ⟨ہے⟩ — اس کا رفیق بادشاہ ہے۔",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "محبت کرنے والا"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاکیزہ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل سے"
+    },
+    {
+      "surface": "חן",
+      "gloss": "فضل"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "اس کے ہونٹھ پر"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "اس کا رفیق"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:05:33.427430669Z",
+  "model": "glm-5.2"
+}

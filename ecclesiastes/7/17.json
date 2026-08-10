@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "بہت زیادہ گناہ نہ کر اور ناحق نہ بن؛ کیوں مرے اپنے وقت سے پہلے؟",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "گناہ کر"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "بہت زیادہ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "بن"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "ناحق"
+    },
+    {
+      "surface": "למה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "مرے"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "نہیں اپنے"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "وقت میں"
+    }
+  ],
+  "timestamp": "2026-08-10T06:43:06.141032753Z",
+  "model": "glm-5.2"
+}

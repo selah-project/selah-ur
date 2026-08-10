@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 31:25",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 31,
+  "translation": "اور یاہویہ نے موشے سے فرمایا، کہہ کر:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہہ کر"
+    }
+  ],
+  "timestamp": "2026-08-09T20:39:45.307616758Z",
+  "model": "glm-5.2"
+}

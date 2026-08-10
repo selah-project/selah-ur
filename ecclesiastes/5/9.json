@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "پیار کرنے والا چاندی سے چاندی سے سیر نہیں ہوتا، اور جو پیار کرتا ہے بہتات سے — ⟨کوئی⟩ آمدنی نہیں؛ یہ بھی ہَبَل ہے۔",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "پیار کرنے والا"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی سے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "سیر ہوتا"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی سے"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "اور جو"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "پیار کرتا ہے"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "بہتات سے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "آمدنی"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بھی"
+    },
+    {
+      "surface": "זה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ہَبَل ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:43:25.317699017Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 21:30",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "اور تو، اے مارا ہوا بدکار، اے یِسرائیل کا نیشی، جس کا دن آ گیا ہے، گناہ کے خاتمے کے وقت میں!",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "اور تو"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "مارا ہوا"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "اے بدکار"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "نیشی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل کا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جس کا"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آ گیا ہے"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "دن"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "کے وقت میں"
+    },
+    {
+      "surface": "עון",
+      "gloss": "گناہ کے"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "خاتمے"
+    }
+  ],
+  "timestamp": "2026-08-10T08:54:51.041382130Z",
+  "model": "glm-5.2"
+}

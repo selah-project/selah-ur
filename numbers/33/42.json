@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 33:42",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 33,
+  "translation": "وہ روانہ ہوئے تْسَلْمونہ سے اور ٹھہرے پونون میں۔",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "وہ روانہ ہوئے"
+    },
+    {
+      "surface": "מצלמנה",
+      "gloss": "تْسَلْمونہ سے"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "اور ٹھہرے"
+    },
+    {
+      "surface": "בפונן",
+      "gloss": "پونون میں"
+    }
+  ],
+  "timestamp": "2026-08-10T05:31:20.973405444Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "اور یاہویہ نے مجھ سے کہا، کہہ کر: میں نے ⟨את⟩ اس قوم کو دیکھا ہے، اور دیکھو، یہ سختِ گردن قوم ہے۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مجھ سے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہہ کر"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "میں نے دیکھا ہے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اس قوم کو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "اس قوم کو"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اس"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "اور دیکھو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "سخت"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "گردن"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ہے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:45:52.349649374Z",
+  "model": "glm-5.2"
+}

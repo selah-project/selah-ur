@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 2:12",
+  "book": "zephaniah",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "تُم بھی اَے کُوشیو! میری تلوار کے مارے ہوئے ⟨ہو⟩ — یہ وہ ہیں۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "بھی"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تُم"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "اَے کُوشیو!"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "مارے ہوئے"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "میری تلوار کے"
+    },
+    {
+      "surface": "המה",
+      "gloss": "یہ وہ ہیں"
+    }
+  ],
+  "timestamp": "2026-08-10T06:24:40.534450667Z",
+  "model": "glm-5.2"
+}

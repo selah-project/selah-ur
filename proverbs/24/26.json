@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 24:26",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "ہونٹوں کو چومتا ⟨ہے⟩ وہ جو سیدھی باتیں جواب دیتا ہے۔",
+  "tokens": [
+    {
+      "surface": "שפתים",
+      "gloss": "ہونٹوں کو"
+    },
+    {
+      "surface": "ישק",
+      "gloss": "چومتا ہے"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "وہ جو جواب دیتا ہے"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "باتیں"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "سیدھی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:07:36.003464640Z",
+  "model": "glm-5.2"
+}

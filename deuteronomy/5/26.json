@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 5:26",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "کیونکہ ہر ایک بشر میں سے کون ہے جس نے زندہ الوہیم کی آور سنی ہو، آگ کے بیچانے بولتے ہوئے، جیسے ہم نے سنی، اور وہ زندہ رہا ہو؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون ہے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر ایک"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "بشر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جس نے"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سنی ہو"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آور"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندہ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "بولتے ہوئے"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "بیچانے"
+    },
+    {
+      "surface": "האש",
+      "gloss": "آگ"
+    },
+    {
+      "surface": "כמנו",
+      "gloss": "جیسے ہم نے"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "اور وہ زندہ رہا ہو"
+    }
+  ],
+  "timestamp": "2026-08-09T20:44:24.312668214Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 36,
+  "translation": "اور اُس نے ⟨את⟩ مسکان کے تختے بنائے، شطیم کی لکڑی کے، کھڑے۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "اور اُس نے بنایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تختوں کو"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "تختے"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "مسکان کے"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "لکڑی"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "شطیم کی"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "کھڑے"
+    }
+  ],
+  "timestamp": "2026-08-10T05:22:45.399324722Z",
+  "model": "glm-5.2"
+}

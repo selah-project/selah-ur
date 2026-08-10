@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 46:14",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 46,
+  "translation": "اور زَبُولُن کے بیٹے: سَرِد اور ایلون اور یَحلْایل۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "اور بیٹے"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زَبُولُن"
+    },
+    {
+      "surface": "סרד",
+      "gloss": "سَرِد"
+    },
+    {
+      "surface": "ואלון",
+      "gloss": "اور ایلون"
+    },
+    {
+      "surface": "ויחלאל",
+      "gloss": "اور یَحلْایل"
+    }
+  ],
+  "timestamp": "2026-08-10T05:16:38.128656562Z",
+  "model": "glm-5.2"
+}

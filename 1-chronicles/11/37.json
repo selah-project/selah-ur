@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 11:37",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "خِتصرُو کرملی، نَعرای بَن اَزبی،",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "خِتصرُو"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "کرملی"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "نَعرای"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بَن"
+    },
+    {
+      "surface": "אזבי",
+      "gloss": "اَزبی"
+    }
+  ],
+  "timestamp": "2026-08-10T01:03:29.070532413Z",
+  "model": "glm-5.2"
+}

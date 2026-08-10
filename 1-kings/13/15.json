@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "تو اُس نے اُس سے کہا: ⟨את⟩ میرے ⟨سات⟩ گھر چل، اور روٹی کھا۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تو اُس نے کہا"
+    },
+    {
+      "surface": "אלیו",
+      "gloss": "اُس سے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "چل"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ میرے ⟨سات⟩"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "اور کھا"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    }
+  ],
+  "timestamp": "2026-08-09T21:47:43.890912434Z",
+  "model": "glm-5.2"
+}

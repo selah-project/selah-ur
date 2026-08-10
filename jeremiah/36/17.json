@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 36:17",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 36,
+  "translation": "اور ⟨את⟩ باروخ سے پوچھا، کہہ کر: ہم سے بیان کر، ہم منتظم ہیں، کیسے تو نے ⟨את⟩ سب باتیں یہ اس کے منہ سے لکھیں؟",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "باروخ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "باروخ"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "پوچھا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہہ کر"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "بیان کر"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ہم منتظم ہیں"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ہم سے"
+    },
+    {
+      "surface": "איך",
+      "gloss": "کیسے"
+    },
+    {
+      "surface": "כתבת",
+      "gloss": "تو نے لکھیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سب"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "باتیں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "اس کے منہ سے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:39:25.615122695Z",
+  "model": "glm-5.2"
+}

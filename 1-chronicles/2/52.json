@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 2:52",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور شوبال، قِریات یَعاریم کے اَبی کے بیٹے ہوئے: ہارُؤہ، اور آدھی مَنوحوت۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "اور ہوئے"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "לשובל",
+      "gloss": "شوبال کو"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "اَبی"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "قِریات"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "یَعاریم"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "ہارُؤہ"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "آدھی"
+    },
+    {
+      "surface": "המנחות",
+      "gloss": "مَنوحوت"
+    }
+  ],
+  "timestamp": "2026-08-10T06:49:22.741509749Z",
+  "model": "glm-5.2"
+}

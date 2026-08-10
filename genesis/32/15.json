@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 32:15",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 32,
+  "translation": "بکریاں دو سو اور టగల్二十 بکرے، بیٹیاں دو سو اور مینڈھے بیس۔",
+  "tokens": [
+    {
+      "surface": "עזים",
+      "gloss": "بکریاں"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دو سو"
+    },
+    {
+      "surface": "ותישים",
+      "gloss": "اور بکرے"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیس"
+    },
+    {
+      "surface": "רחלים",
+      "gloss": "بیٹیاں"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دو سو"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "اور مینڈھے"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیس"
+    }
+  ],
+  "timestamp": "2026-08-10T08:32:56.174947411Z",
+  "model": "glm-5.2"
+}

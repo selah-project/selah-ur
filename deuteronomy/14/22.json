@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "عشر لگاؤ، ہر سال اپنے بیج کی پوری پیداوار کا ⟨את⟩ جو کھیت سے نکلتی ہے، اس کا عشر لگاؤ۔",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "عشر لگاؤ"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "تم عشر لگاؤ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پوری پیداوار"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوری"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "پیداوار"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "تمہارے بیج کی"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "جو نکلتی ہے"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "کھیت سے"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "بمطابق سال"
+    }
+  ],
+  "timestamp": "2026-08-09T20:48:57.427172625Z",
+  "model": "glm-5.2"
+}

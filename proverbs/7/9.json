@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 7:9",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "گونہپ میں، دن کی شام میں، رات کے پتلے میں اور اندھیرے میں۔",
+  "tokens": [
+    {
+      "surface": "בנשף",
+      "gloss": "گونہپ میں"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "شام میں"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن کی"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "پتلے میں"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "رات کے"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "اور اندھیرے میں"
+    }
+  ],
+  "timestamp": "2026-08-09T23:59:53.743606466Z",
+  "model": "glm-5.2"
+}

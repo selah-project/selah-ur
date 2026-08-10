@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "اور عِفرون نے اَوراہام کا جواب دیا، اُسے کہتے ہوئے:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "اور جواب دیا"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "عِفرون نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَوراہام کا"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام کا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہتے ہوئے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُسے"
+    }
+  ],
+  "timestamp": "2026-08-10T05:13:27.805190315Z",
+  "model": "glm-5.2"
+}

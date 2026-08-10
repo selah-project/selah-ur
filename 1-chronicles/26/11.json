@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 26:11",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 26,
+  "translation": "حِلقیاہو دوسرا، تِبلیاہو تیسرا، زِکریاہو چوتھا۔ حوسہ کے سب بیٹے اور بھائی تیرہ ⟨تھے⟩۔",
+  "tokens": [
+    {
+      "surface": "חלקיהו",
+      "gloss": "حِلقیاہو"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دوسرا"
+    },
+    {
+      "surface": "טבליהו",
+      "gloss": "تِبلیاہو"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "تیسرا"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "زِکریاہو"
+    },
+    {
+      "surface": "הרבעי",
+      "gloss": "چوتھا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "ואחים",
+      "gloss": "اور بھائی"
+    },
+    {
+      "surface": "לחסה",
+      "gloss": "حوسہ کے"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "تین"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دس"
+    }
+  ],
+  "timestamp": "2026-08-10T01:10:20.206362228Z",
+  "model": "glm-5.2"
+}

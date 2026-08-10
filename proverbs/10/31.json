@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 10:31",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "صادق کا منہ حکمت اگاتا ہے، اور مکار زبان کٹ جائے گی۔",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صادق کا"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "اگاتا ہے"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "اور زبان"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "مکار"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "کٹ جائے گی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:01:41.205361445Z",
+  "model": "glm-5.2"
+}

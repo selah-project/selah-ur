@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 75,
+  "translation": "کورس ماسٹر کے لیے — 'تباہ نہ کرنا' — اَساف کا مزمور، ایک گیت۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "کورس ماسٹر کے لیے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "تباہ کر"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "اَساف کا"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گیت"
+    }
+  ],
+  "timestamp": "2026-08-09T23:39:25.735067212Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 24:4",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "اور یاہویہ کا کلام مجھے آیا، یوں کہہ کر:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مجھے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "یوں کہہ کر"
+    }
+  ],
+  "timestamp": "2026-08-09T22:33:28.284331702Z",
+  "model": "glm-5.2"
+}

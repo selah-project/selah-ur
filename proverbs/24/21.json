@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "اَے بَٹّے، یاہویہ سے ڈر اور بادشاہ سے، اور بدلنے والوں کے ساتھ مل نہ:",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "ڈر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہویہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "اَے بَٹّے"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "اور بادشاہ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "کے ساتھ"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "بدلنے والوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "مل"
+    }
+  ],
+  "timestamp": "2026-08-10T00:06:54.955484607Z",
+  "model": "glm-5.2"
+}

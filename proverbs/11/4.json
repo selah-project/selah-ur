@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "دولت نفع نہیں دیتی غیظ کے دن میں، مگر صداقت موت سے بچا لیتی ہے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "نفع دیتی"
+    },
+    {
+      "surface": "הון",
+      "gloss": "دولت"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "کے دن میں"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "غیظ"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "مگر صداقت"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "بچا لیتی ہے"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "موت سے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:01:21.682226723Z",
+  "model": "glm-5.2"
+}

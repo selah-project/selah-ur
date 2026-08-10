@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 3:4",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "وہ دن، وہی، اندھیرا ہو۔ الوہ اسے اوپر سے مت ڈھونڈے، اور اُس پر روشنی چمکے نہ۔",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "وہ دن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "وہی"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ہو"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "اندھیرا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مت"
+    },
+    {
+      "surface": "ידרשהו",
+      "gloss": "ڈھونڈے"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "الوہ"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "اوپر سے"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "תופע",
+      "gloss": "چمکے"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اُس پر"
+    },
+    {
+      "surface": "נהרה",
+      "gloss": "روشنی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:10:02.653583030Z",
+  "model": "glm-5.2"
+}

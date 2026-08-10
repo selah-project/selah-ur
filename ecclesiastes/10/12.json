@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "دانا کے مُنہ کے باتوں میں خُوبصورتی ہوتی ہے، مگر احمق کے ہونٹ اُسے نگل جاتے ہیں۔",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "باتوں میں"
+    },
+    {
+      "surface": "פי",
+      "gloss": "مُنہ کے"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "חן",
+      "gloss": "خُوبصورتی"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "مگر ہونٹ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "احمق کے"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "اُسے نگل جاتے ہیں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:35:17.142010884Z",
+  "model": "glm-5.2"
+}

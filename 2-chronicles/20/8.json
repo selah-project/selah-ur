@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 20:8",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "اور وہ اُس میں بس گئے، اور اُس میں تیرے لیے ⟨تیرے⟩ نام کا مقدس مقام بنایا، کہتے ہوئے:",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "اور وہ بس گئے"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اُس میں"
+    },
+    {
+      "surface": "ויבנו",
+      "gloss": "اور بنایا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے لیے"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اُس میں"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "مقدس مقام"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "نام کا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہتے ہوئے"
+    }
+  ],
+  "timestamp": "2026-08-10T01:20:48.933192459Z",
+  "model": "glm-5.2"
+}

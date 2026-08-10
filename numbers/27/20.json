@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 27:20",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "اور تو اپنی ہیبت میں سے کچھ اس پر دے، تاکہ بنی اِسرائیل کی ساری جماعت سنے۔",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "اور تو دے"
+    },
+    {
+      "surface": "מהודך",
+      "gloss": "اپنی ہیبت میں سے"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اس پر"
+    },
+    {
+      "surface": "למען",
+      "gloss": "تاکہ"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "سنے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "جماعت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-09T20:38:00.931106420Z",
+  "model": "glm-5.2"
+}

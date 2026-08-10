@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 74:20",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 74,
+  "translation": "عہد کی طرف دیکھ، کیونکہ زمین کے تاریک گوشے تشدد کے مسکن سے بھرپور ہیں۔",
+  "tokens": [
+    {
+      "surface": "הבט",
+      "gloss": "دیکھ"
+    },
+    {
+      "surface": "לברית",
+      "gloss": "عہد کی طرف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "بھرپور ہیں"
+    },
+    {
+      "surface": "מחשכי",
+      "gloss": "تاریک گوشے"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین کے"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "مسکن"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "تشدد کے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:39:30.781910968Z",
+  "model": "glm-5.2"
+}

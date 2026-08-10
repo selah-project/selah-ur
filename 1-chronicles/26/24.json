@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 26:24",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 26,
+  "translation": "اور شِبُوآٰیل، گێرِشوم کا بیٹا، موشے کا بیٹا، خزانوں کا نگینؔ تھا۔",
+  "tokens": [
+    {
+      "surface": "ושבאל",
+      "gloss": "اور شِبُوآٰیل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "گێرِشوم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "نگینؔ (سربراہ)"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "האצרות",
+      "gloss": "خزانوں"
+    }
+  ],
+  "timestamp": "2026-08-10T01:11:47.584676845Z",
+  "model": "glm-5.2"
+}

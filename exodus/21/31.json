@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "یا بیٹے کو سینگ مارے یا بیٹی کو سینگ مارے، اس کے ساتھ یہی حکم کیا جائے گا۔",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹے کو"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "سینگ مارے"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بیٹی کو"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "سینگ مارے"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "اس حکم کے مطابق"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کیا جائے گا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اس کے ساتھ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:04:46.782514728Z",
+  "model": "glm-5.2"
+}

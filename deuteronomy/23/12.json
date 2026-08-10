@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 23:12",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "اور ہوگا، شام کے پھرنے پر وہ پانی سے نہائے، اور سورج کے ڈوبنے پر وہ ڈیرے کے اندر آئے۔",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "اور ہوگا"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "کے پھرنے پر"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "شام"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "وہ نہائے"
+    },
+    {
+      "surface": "במים",
+      "gloss": "پانی سے"
+    },
+    {
+      "surface": "וכבא",
+      "gloss": "اور کے آنے پر"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سورج"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "وہ آئے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "اندر"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ڈیرے کے"
+    }
+  ],
+  "timestamp": "2026-08-10T05:34:11.447078442Z",
+  "model": "glm-5.2"
+}

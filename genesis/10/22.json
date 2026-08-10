@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "شِیم کے بیٹے: عِیلام اور اَشّور اور اَرفکشَد اور لود اور اَرام۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کے بیٹے"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شِیم"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عِیلام"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "اور اَشّور"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "اور اَرفکشَد"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "اور لود"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "اور اَرام"
+    }
+  ],
+  "timestamp": "2026-08-10T05:11:42.344342205Z",
+  "model": "glm-5.2"
+}

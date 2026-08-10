@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 5:25",
+  "book": "judges",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "پانی مانگا، دودھ دیا؛ ایک شاندار پیالے میں دہی قرب کیا۔",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "مانگا"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "دودھ"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "دیا"
+    },
+    {
+      "surface": "בספל",
+      "gloss": "ایک پیالے میں"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "شاندار"
+    },
+    {
+      "surface": "הקריבה",
+      "gloss": "قرب کیا"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "دہی"
+    }
+  ],
+  "timestamp": "2026-08-09T21:09:46.147267041Z",
+  "model": "glm-5.2"
+}

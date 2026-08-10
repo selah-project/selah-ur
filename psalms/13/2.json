@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "کب تک، یاہویہ، تو مجھے بھولا رہے گا — ہمیشہ؟ کب تک اپنا منہ مجھ سے چھپائے رکھے گا؟",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "کب"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "تو بھولا رہے گا مجھے"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "کب"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "تو چھپائے رکھے گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تیرا منہ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تیرا منہ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "مجھ سے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:24:37.477234411Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 7:23",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "زنجیر بناؤ، کیونکہ زمین خون کے فیصلے سے بھری ہے اور شہر تشدد سے بھرا ہے۔",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "بناؤ"
+    },
+    {
+      "surface": "הרתוק",
+      "gloss": "زنجیر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "بھری ہے"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "فیصلے"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "خون کے"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "اور شہر"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "بھرا ہے"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "تشدد سے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:47:30.189642067Z",
+  "model": "glm-5.2"
+}

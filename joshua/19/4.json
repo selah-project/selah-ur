@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 19:4",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "اور اِلتولاد اور بَتول اور حَرمہ۔",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "اور اِلتولاد"
+    },
+    {
+      "surface": "ובתול",
+      "gloss": "اور بَتول"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "اور حَرمہ"
+    }
+  ],
+  "timestamp": "2026-08-09T21:03:31.000201733Z",
+  "model": "glm-5.2"
+}

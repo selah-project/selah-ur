@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 38,
+  "translation": "اور وہ برا لگا یاہویہ کی آنکھوں میں جو اس نے کیا تھا، اور اُسے بھی موت دے دی۔",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "اور برا لگا"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "آنکھوں میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "اس نے کیا تھا"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "اور موت دے دی"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بھی"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اُسے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:38:37.466887015Z",
+  "model": "glm-5.2"
+}

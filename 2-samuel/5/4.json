@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 5:4",
+  "book": "2-samuel",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "تیس برس کا بیٹا تھا داوِد اپنی بادشاہت میں؛ چالیس برس اس نے بادشاہی کی۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "تیس"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "برس کا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "اپنی بادشاہت میں"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چالیس"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "برس"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہی کی"
+    }
+  ],
+  "timestamp": "2026-08-09T21:32:42.488654315Z",
+  "model": "glm-5.2"
+}

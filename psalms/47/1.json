@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 47,
+  "translation": "کورَح کے بیٹوں کے لیے، رہنما کے لیے۔ ایک مزمور۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "رہنما کے لیے"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بیٹوں کے لیے"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "کورَح"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ایک مزمور"
+    }
+  ],
+  "timestamp": "2026-08-09T23:32:52.991806062Z",
+  "model": "glm-5.2"
+}

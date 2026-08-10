@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 43:4",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 43,
+  "translation": "اور یاہویہ کا جلال اُس دروازے کے رستے سے گھر میں آیا جس کا رُخ مشرق کی طرف ہے۔",
+  "tokens": [
+    {
+      "surface": "וכבוד",
+      "gloss": "اور … کا جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "میں"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "رستے سے"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جس کا"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "رُخ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "مشرق"
+    }
+  ],
+  "timestamp": "2026-08-09T23:02:23.039066751Z",
+  "model": "glm-5.2"
+}

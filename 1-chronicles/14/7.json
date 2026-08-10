@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 14:7",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "اَور اِلیشامَع، اَور بِعَلیادَع، اَور اِلیفالِت۔",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "اَور اِلیشامَع"
+    },
+    {
+      "surface": "ובעלידע",
+      "gloss": "اَور بِعَلیادَع"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "اَور اِلیفالِت"
+    }
+  ],
+  "timestamp": "2026-08-10T01:05:09.033125484Z",
+  "model": "glm-5.2"
+}

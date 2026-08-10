@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 4:24",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "شِمعون کے بیٹے: نَمُوایِل اور یامِین، یارِیب، زِیرح، شاؤُل۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شِمعون"
+    },
+    {
+      "surface": "נמואל",
+      "gloss": "نَمُوایِل"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "اور یامِین"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "یارِیب"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زِیرح"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤُل"
+    }
+  ],
+  "timestamp": "2026-08-10T01:01:16.670436865Z",
+  "model": "glm-5.2"
+}

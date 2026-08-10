@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اپنا روٹی پانیوں کے منہ پر بھیج، کیونکہ بہت دنوں میں تو اسے پا لے گا۔",
+  "tokens": [
+    {
+      "surface": "שַׁלַּ֥ח",
+      "gloss": "بھیج"
+    },
+    {
+      "surface": "לַחְמְךָ֖",
+      "gloss": "اپنا روٹی"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פְּנֵ֣י",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "הַמָּ֑יִם",
+      "gloss": "پانیوں کے"
+    },
+    {
+      "surface": "כִּֽי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "בְרֹ֥ב",
+      "gloss": "بہت میں"
+    },
+    {
+      "surface": "הַיָּמִ֖ים",
+      "gloss": "دنوں"
+    },
+    {
+      "surface": "תִּמְצָאֶֽנּוּ",
+      "gloss": "تو اسے پا لے گا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:36:52.027971186Z",
+  "model": "glm-5.2"
+}

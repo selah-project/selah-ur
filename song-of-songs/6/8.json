@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 6:8",
+  "book": "song-of-songs",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "ساٹھ ملکہیں ہیں، اور اسی خلوتدار، اور کنواریوں کی کوئی گنتی نہیں۔",
+  "tokens": [
+    {
+      "surface": "ששים",
+      "gloss": "ساٹھ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "وہ ہیں"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "ملکہیں"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "اور اسی"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "خلوتدار"
+    },
+    {
+      "surface": "ועלמות",
+      "gloss": "اور کنواریوں کی"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نہیں ہے"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "کوئی گنتی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:25:59.673304893Z",
+  "model": "glm-5.2"
+}

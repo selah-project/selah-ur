@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 28,
+  "translation": "ایک تلخ چہرے والی قوم — جو بزرگ کا منہ نہیں دیکھے گی اور نوجوان پر مہربانی نہیں کرے گی۔",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "עז",
+      "gloss": "تلخ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "چہرے والی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "دیکھے گی"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "بزرگ کا"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "اور نوجوان پر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "مہربانی کرے گی"
+    }
+  ],
+  "timestamp": "2026-08-10T05:35:24.335534627Z",
+  "model": "glm-5.2"
+}

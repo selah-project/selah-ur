@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 6:8",
+  "book": "hosea",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "گِلعاد، باطل کے کرنے والوں کا شہر ہے، خون سے لتھاڑا ہوا۔",
+  "tokens": [
+    {
+      "surface": "גלעד",
+      "gloss": "گِلعاد"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "کا شہر ہے"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "کرنے والوں"
+    },
+    {
+      "surface": "און",
+      "gloss": "باطل"
+    },
+    {
+      "surface": "עקבה",
+      "gloss": "لتھاڑا ہوا"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "خون سے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:20:58.666814148Z",
+  "model": "glm-5.2"
+}

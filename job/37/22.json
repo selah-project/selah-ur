@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 37:22",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 37,
+  "translation": "شمال سے سونا آتا ہے ؛ الوہ پر ہے ہیبتناک جلال۔",
+  "tokens": [
+    {
+      "surface": "מצפון",
+      "gloss": "شمال سے"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونا"
+    },
+    {
+      "surface": "יאתה",
+      "gloss": "آتا ہے"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "الوہ"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ہیبتناک"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "جلال"
+    }
+  ],
+  "timestamp": "2026-08-10T00:23:35.248335396Z",
+  "model": "glm-5.2"
+}

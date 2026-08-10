@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 106,
+  "translation": "نادر کام حام کے ملک میں، اور ہیبتناک کام بحیرۂ سوف پر۔",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "نادر کام"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "کے ملک میں"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "اور ہیبتناک کام"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ים",
+      "gloss": "بحیرۂ"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "سوف"
+    }
+  ],
+  "timestamp": "2026-08-10T09:20:38.222959443Z",
+  "model": "glm-5.2"
+}

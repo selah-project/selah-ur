@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 23:14",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "تو عصا سے اسے مارے گا اور اس کی جان کو شیول سے چھڑائے گا۔",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "عصا سے"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "اسے مارے گا"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "اور اس کی جان کو"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "شیول سے"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "چھڑائے گا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:07:43.135561080Z",
+  "model": "glm-5.2"
+}

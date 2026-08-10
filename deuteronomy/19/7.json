@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 19:7",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "اسی لیے میں تمہیں حکم دیتا ہوں، کہنے کے لیے: تین شہر تم اپنے لیے الگ کرو۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "اسی پر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اس لیے"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "تمہیں حکم دیتا ہوں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہنے کے لیے"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "تین"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "תבדיל",
+      "gloss": "الگ کرو"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تم اپنے لیے"
+    }
+  ],
+  "timestamp": "2026-08-10T05:33:25.109633114Z",
+  "model": "glm-5.2"
+}

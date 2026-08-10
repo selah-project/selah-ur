@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 12:11",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "یَرموت کا بادشاہ، ایک؛ لاکِیش کا بادشاہ، ایک۔",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ירמות",
+      "gloss": "یَرموت"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "لاکِیش"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    }
+  ],
+  "timestamp": "2026-08-09T21:00:14.476780248Z",
+  "model": "glm-5.2"
+}

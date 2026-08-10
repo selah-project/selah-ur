@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 30,
+  "translation": "اور یاہویہ نے یَحِزقیاہو کی بات سنی اور ⟨את⟩ قوم کو شفا دی۔",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "اور سنی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بات"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "یَحِزقیاہو کی"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "اور شفا دی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم کو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم کو"
+    }
+  ],
+  "timestamp": "2026-08-10T06:55:22.047090751Z",
+  "model": "glm-5.2"
+}

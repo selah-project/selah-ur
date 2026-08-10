@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 28:12",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 28,
+  "translation": "اور حکمت کہاں سے ملتی ہے؟ اور سمجھ کا مقام کہاں ہے؟",
+  "tokens": [
+    {
+      "surface": "והחכמה",
+      "gloss": "اور حکمت"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "کہاں سے"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ملتی ہے"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "اور کہاں"
+    },
+    {
+      "surface": "זה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "مقام"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "سمجھ کا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:19:01.135127885Z",
+  "model": "glm-5.2"
+}

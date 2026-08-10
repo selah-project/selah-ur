@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "اور اَویشوع نے ⟨את⟩ بُکی کو پیدا کیا، اور بُکی نے ⟨את⟩ عُزی کو پیدا کیا۔",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "اور اَویشوع"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیدا کیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بُکی"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "بُکی"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "اور بُکی"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "پیدا کیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عُزی"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "عُزی"
+    }
+  ],
+  "timestamp": "2026-08-10T01:01:08.807241809Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 104,
+  "translation": "میدان کے جانور سب پیتے ہیں، خشک گدھ اپنی پیاس بجھاتے ہیں۔",
+  "tokens": [
+    {
+      "surface": "یַשׁקוּ",
+      "gloss": "پیتے ہیں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "جانور"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "میدان کے"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "بجھاتے ہیں"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "خشک گدھ"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "اپنی پیاس"
+    }
+  ],
+  "timestamp": "2026-08-09T23:45:45.752688556Z",
+  "model": "glm-5.2"
+}

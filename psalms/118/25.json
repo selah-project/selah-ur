@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 118,
+  "translation": "اَے ابھی، یاہویہ! ابھی نجات دے! اَے ابھی، یاہویہ! ابھی کامیابی دے!",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "اَے ابھی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "نجات دے"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ابھی"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "اَے ابھی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "کامیابی دے"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ابھی"
+    }
+  ],
+  "timestamp": "2026-08-10T06:34:36.618911034Z",
+  "model": "glm-5.2"
+}

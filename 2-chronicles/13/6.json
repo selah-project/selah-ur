@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 13:6",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "اور اُٹھا یَروبَعام بنت نَبات، شِلوموہ بنت داوِد کا غلام، اور اُس نے اپنے آقا کے خلاف بغاوت کی۔",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "اور اُٹھا"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "یَروبَعام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "נבט",
+      "gloss": "نَبات"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شِلوموہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "וימרד",
+      "gloss": "اور بغاوت کی"
+    },
+    {
+      "surface": "על",
+      "gloss": "کے خلاف"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "اپنے آقا"
+    }
+  ],
+  "timestamp": "2026-08-10T06:53:56.886150572Z",
+  "model": "glm-5.2"
+}

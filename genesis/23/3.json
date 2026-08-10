@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "اور اَوراہام اپنے مُردہ کے سامنے سے کھڑا ہوا، اور حِتّ کے بیٹوں سے بات کی، کہا۔",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "اور کھڑا ہوا"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "سامنے"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "اپنے مُردہ کے"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "اور بات کی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹوں"
+    },
+    {
+      "surface": "חת",
+      "gloss": "حِتّ کے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہا"
+    }
+  ],
+  "timestamp": "2026-08-09T19:41:09.313003328Z",
+  "model": "glm-5.2"
+}

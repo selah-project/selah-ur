@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "زخمی ⟨سے⟩ کچلا ہوا اور کٹا ہوا بہاؤ نہیں آئے گا یاہویہ کی مجلس میں۔",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "יָבֹא",
+      "gloss": "آئے گا"
+    },
+    {
+      "surface": "פְצוּעַ",
+      "gloss": "زخمی"
+    },
+    {
+      "surface": "דַּכָּא",
+      "gloss": "کچلا ہوا"
+    },
+    {
+      "surface": "וּכְרוּת",
+      "gloss": "اور کٹا ہوا"
+    },
+    {
+      "surface": "שָׁפְכָה",
+      "gloss": "بہاؤ"
+    },
+    {
+      "surface": "בִּקְהַל",
+      "gloss": "مجلس میں"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "یاہویہ کی"
+    }
+  ],
+  "timestamp": "2026-08-09T20:52:25.649442781Z",
+  "model": "glm-5.2"
+}

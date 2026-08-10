@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "اور اگر نقصان ہو، تو تو جان بدلے جان کے دے گا —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "اور اگر"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "نقصان"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہو"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "تو تو دے گا"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "بدلے"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان کے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:05:03.640556343Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 2:20",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "تاکہ تو اچھے لوگوں کے رستے میں چلے، اور صدیقوں کے راستوں کی حفاظت کرے۔",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "تاکہ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "تو چلے"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "کی راہ میں"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "اچھے لوگوں"
+    },
+    {
+      "surface": "וארחות",
+      "gloss": "اور راستوں"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "صدیقوں"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "کی حفاظت کرے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:57:52.373712831Z",
+  "model": "glm-5.2"
+}

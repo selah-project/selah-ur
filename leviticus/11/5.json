@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور ⟨את⟩ ہَشّافان کو، کیونکہ وہ گھنا کرواتا ہے مگر کھُر نہیں پھاڑتا — وہ تمہارے لیے ناپاک ہے۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "ہَشّافان"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "ہَشّافان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "کرواتا ہے"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "گھنا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "اور کھُر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "پھاڑتا"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ناپاک"
+    },
+    {
+      "surface": "هוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تمہارے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:17:00.553912821Z",
+  "model": "glm-5.2"
+}

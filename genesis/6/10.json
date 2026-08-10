@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اور نُوح نے پیدا کیے تین بیٹے: ⟨את⟩ شِم، ⟨את⟩ خَم اور ⟨את⟩ یَفَت۔",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "اور پیدا کیے"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُوح نے"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "تین"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شِم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شِم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خَم"
+    },
+    {
+      "surface": "חם",
+      "gloss": "خَم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "یَفَت"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "یَفَت"
+    }
+  ],
+  "timestamp": "2026-08-09T19:34:58.994432064Z",
+  "model": "glm-5.2"
+}

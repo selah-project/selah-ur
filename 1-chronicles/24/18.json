@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 24:18",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "تئیسواں دَلایاہو کے لیے، چوبیسواں مَعَزْیَاہو کے لیے۔",
+  "tokens": [
+    {
+      "surface": "לדליהו",
+      "gloss": "دَلایاہو کے لیے"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "تین"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "اور بیس"
+    },
+    {
+      "surface": "למעזיהו",
+      "gloss": "مَعَزْیَاہو کے لیے"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "اور بیس"
+    }
+  ],
+  "timestamp": "2026-08-10T06:51:14.985465962Z",
+  "model": "glm-5.2"
+}

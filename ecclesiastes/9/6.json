@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 9:6",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "بھی ان کی محبت، بھی ان کی نفرت، بھی ان کا رشک پہلے ہی غائب ہو چکا، اور حصہ نہیں ان کے لیے اب کبھی، ہر اس چیز میں جو کی گئی ہے سورج کے نیچے۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "بھی"
+    },
+    {
+      "surface": "אהבתם",
+      "gloss": "ان کی محبت"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بھی"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "ان کی نفرت"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بھی"
+    },
+    {
+      "surface": "קנאתם",
+      "gloss": "ان کا رشک"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "پہلے ہی"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "غائب ہو چکا"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "اور حصہ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ان کے لیے"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "اب"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "کبھی"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "کی گئی ہے"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "کے نیچے"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سورج"
+    }
+  ],
+  "timestamp": "2026-08-10T00:35:02.749101190Z",
+  "model": "glm-5.2"
+}

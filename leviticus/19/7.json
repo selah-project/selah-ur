@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "اور اگر تیسرے دن کھایا ہی جائے، تو وہ نجس ہے، قبول نہیں ہوگا۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "اور اگر"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "کھایا جانا"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھایا جائے"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "کے دن"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "تیسرے"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "نجس"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ ہے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "قبول ہوگا"
+    }
+  ],
+  "timestamp": "2026-08-09T20:21:15.643281431Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اور یہ ہے اَشام کی توریت — قُدسِ قدسیم ہے وہ۔",
+  "tokens": [
+    {
+      "surface": "וְזֹ֥את",
+      "gloss": "اور یہ"
+    },
+    {
+      "surface": "תּוֹרַ֖ת",
+      "gloss": "توریتِ"
+    },
+    {
+      "surface": "הָאָשָׁ֑ם",
+      "gloss": "اَشام"
+    },
+    {
+      "surface": "קֹ֥דֶשׁ",
+      "gloss": "قُدسِ"
+    },
+    {
+      "surface": "קָדָשִׁ֖ים",
+      "gloss": "قدسیم"
+    },
+    {
+      "surface": "הֽוּא",
+      "gloss": "وہ"
+    }
+  ],
+  "timestamp": "2026-08-10T08:36:08.778250843Z",
+  "model": "glm-5.2"
+}

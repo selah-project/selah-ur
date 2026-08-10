@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 20:2",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "اور جماعت کے لیے پانی نہ تھا، تو وہ موشہ اور اہرون کے خلاف جمع ہوئے۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "تھا"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "جماعت کے لیے"
+    },
+    {
+      "surface": "ויקהלו",
+      "gloss": "تو وہ جمع ہوئے"
+    },
+    {
+      "surface": "על",
+      "gloss": "کے خلاف"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "اور"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    }
+  ],
+  "timestamp": "2026-08-09T20:33:53.473661781Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "اور اُسے سات بیٹے اور تین بیٹیاں پیدا ہوئے۔",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "اور پیدا ہوئے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُسے"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "سات"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "اور تین"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "بیٹیاں"
+    }
+  ],
+  "timestamp": "2026-08-10T06:39:18.774967795Z",
+  "model": "glm-5.2"
+}

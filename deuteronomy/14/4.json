@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "یہ ⟨وہ⟩ جانور ہے جسے تم کھا سکتے ہو: بیل، بھیڑوں کا میشا، اور بکریوں کا میشا۔",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "جانور"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کھا سکتے ہو"
+    },
+    {
+      "surface": "שור",
+      "gloss": "بیل"
+    },
+    {
+      "surface": "שה",
+      "gloss": "میشا"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "بھیڑوں کا"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "اور میشا"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "بکریوں کا"
+    }
+  ],
+  "timestamp": "2026-08-09T20:47:48.301202361Z",
+  "model": "glm-5.2"
+}

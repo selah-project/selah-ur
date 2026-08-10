@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 20:13",
+  "book": "2-samuel",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "جب وہ شاہراہ سے ہٹا دیا گیا، تو ہر آدمی یُوآب کے پیچھے سے گزرا تاکہ وہ شِبع بِن بِخری کے پیچھے دوڑے۔",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "جب"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "ہٹا دیا گیا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "سے"
+    },
+    {
+      "surface": "המסלה",
+      "gloss": "شاہراہ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "گزرا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "איש",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "کے پیچھے"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یُوآب"
+    },
+    {
+      "surface": "לרדף",
+      "gloss": "تاکہ دوڑے"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "کے پیچھے"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شِبع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بِن"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "بِخری"
+    }
+  ],
+  "timestamp": "2026-08-09T21:38:14.458058485Z",
+  "model": "glm-5.2"
+}

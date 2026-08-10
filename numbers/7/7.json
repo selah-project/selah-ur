@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 7:7",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "⟨את⟩ دو گاڑیاں اور ⟨את⟩ چار بیل بیٹوںِ گِرشون کو دیے، ان کی خدمت کے مطابق۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دو گاڑیاں"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "گاڑیاں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "چار بیل"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "چار"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "بیل"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دیے"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بیٹوںِ"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "گِرشون"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "کے مطابق"
+    },
+    {
+      "surface": "עבדתם",
+      "gloss": "ان کی خدمت"
+    }
+  ],
+  "timestamp": "2026-08-10T05:28:36.934766396Z",
+  "model": "glm-5.2"
+}

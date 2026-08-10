@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 35:12",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 35,
+  "translation": "⟨את⟩ صندوق، اور ⟨את⟩ اس کے ڈنڈے، ⟨את⟩ کفارہ، اور ⟨את⟩ پردۂ حجاب۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صندوق"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "وאת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "اس کے ڈنڈے"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "اس کے ڈنڈے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کفارہ"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "کفارہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "پردۂ حجاب"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "پردۂ حجاب"
+    },
+    {
+      "surface": "המסך",
+      "gloss": "حجاب"
+    }
+  ],
+  "timestamp": "2026-08-09T20:10:00.466486169Z",
+  "model": "glm-5.2"
+}

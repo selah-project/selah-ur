@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 31:46",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 31,
+  "translation": "اور آدمیوں کی جانیں سولہ ہزار،",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "اور جان"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمی کی"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دس"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    }
+  ],
+  "timestamp": "2026-08-09T20:39:34.262371360Z",
+  "model": "glm-5.2"
+}

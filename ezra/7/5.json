@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 7:5",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اَویشوع کا بیٹا، پِینخس کا بیٹا، اِلعازار کا بیٹا، اہرون رئیس کاہن کا بیٹا۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "اَویشوع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "پِینخس"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "اِلعازار"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "رئیس"
+    }
+  ],
+  "timestamp": "2026-08-10T00:49:31.993512601Z",
+  "model": "glm-5.2"
+}

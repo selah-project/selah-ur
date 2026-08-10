@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 105:3",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 105,
+  "translation": "⟨अपने⟩ پاک نام کا فخر کرو، یاہویہ کے طلب گاروں کا دل خوش ہو۔",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "فخر کرو"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "نام میں ⟨अपने⟩"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "پاک ⟨उसका⟩"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "خوش ہو"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "طلب گاروں کا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    }
+  ],
+  "timestamp": "2026-08-09T23:47:27.296604857Z",
+  "model": "glm-5.2"
+}

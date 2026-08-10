@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 35:31",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 35,
+  "translation": "اور تم قاتل کی جان کے لیے فدیہ نہ لو، جو موت کا مستحق ہے، کیونکہ وہ موت کے ساتھ مارا جائے گا۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "تم لو"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "فدیہ"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "جان کے لیے"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "قاتل کی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "مستحق ہے"
+    },
+    {
+      "surface": "למות",
+      "gloss": "موت کا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت کے ساتھ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "مارا جائے گا"
+    }
+  ],
+  "timestamp": "2026-08-10T07:13:04.434159814Z",
+  "model": "glm-5.2"
+}

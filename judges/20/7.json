@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 20:7",
+  "book": "judges",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": " دیکھو! تم سب یِسرائیل کے بیٹے ہو؛ اپنا فیصلہ اور مشورہ یہاں دو۔",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "دیکھو!"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "تم سب"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل کے"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "دو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "اپنا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "فیصلہ"
+    },
+    {
+      "surface": "ועצה",
+      "gloss": "اور مشورہ"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "یہاں"
+    }
+  ],
+  "timestamp": "2026-08-09T21:15:49.593664123Z",
+  "model": "glm-5.2"
+}

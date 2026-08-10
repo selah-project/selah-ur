@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 22:10",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "اور بِلعام نے الوہیم سے کہا: بَلَق، صِفّور کا بیٹا، مُوآب کا بادشاہ، مجھے بھیجا ہے،",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور ⟨اس نے⟩ کہا"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بِلعام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بَلَق"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "صِفّور"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُوآب"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "بھیجا ہے"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مجھے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:12:41.850464057Z",
+  "model": "glm-5.2"
+}

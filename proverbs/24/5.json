@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "ایک دانا آدمی ⟨ہے⟩ طاقت میں، اور دانائی والا آدمی توانائی کو مضبوط کرتا ہے۔",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "طاقت میں"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "اور آدمی"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "دانائی والا"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "مضبوط کرتا ہے"
+    },
+    {
+      "surface": "כח",
+      "gloss": "توانائی کو"
+    }
+  ],
+  "timestamp": "2026-08-10T00:06:20.715278142Z",
+  "model": "glm-5.2"
+}

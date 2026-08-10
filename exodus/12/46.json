@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "exodus 12:46",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "ایک ہی گھر میں وہ کھایا جائے گا؛ گھر سے باہر گوشت نہ نکالنا، اور ہڈی کو اس میں نہ توڑنا۔",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "گھر میں"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھایا جائے گا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "نکالنا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "سے"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "מן",
+      "gloss": "سے"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "باہر"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "اور ہڈی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "توڑنا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اس میں"
+    }
+  ],
+  "timestamp": "2026-08-09T20:00:43.835720987Z",
+  "model": "glm-5.2"
+}

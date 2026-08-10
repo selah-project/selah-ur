@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 35:15",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 35,
+  "translation": "اور اب، کیونکہ ⟨وہ⟩ غضب نہیں لایا، اور وہ بہت زیادہ گناہ کو نہیں جانتا۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "اور اب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "لایا"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "غضب"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "جانتا"
+    },
+    {
+      "surface": "בפש",
+      "gloss": "گناہ کو"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت زیادہ"
+    }
+  ],
+  "timestamp": "2026-08-10T07:33:25.692398062Z",
+  "model": "glm-5.2"
+}

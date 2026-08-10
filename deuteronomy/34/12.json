@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 34:12",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 34,
+  "translation": "اور تمام مضبوط ہاتھ اور تمام وہ مَہَب جسے موشے نے سبکِ یِسرائیل کی آنکھوں کے سامنے کیا تھا۔",
+  "tokens": [
+    {
+      "surface": "ולכל",
+      "gloss": "اور تمام"
+    },
+    {
+      "surface": "היד",
+      "gloss": "ہاتھ"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "مضبوط"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "اور تمام"
+    },
+    {
+      "surface": "המורא",
+      "gloss": "وہ مَہَب"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "عظیم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جسے"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیا تھا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "آنکھوں کے سامنے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبکِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-10T07:15:39.666207557Z",
+  "model": "glm-5.2"
+}

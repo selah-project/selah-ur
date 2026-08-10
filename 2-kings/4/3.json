@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-kings 4:3",
+  "book": "2-kings",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "اور اس نے کہا: جا، باہر سے اپنے تمام پڑوسیوں سے برتن مانگ، خالی برتن — تھوڑے نہ مانگنا!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور اس نے کہا"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "جا"
+    },
+    {
+      "surface": "שאלי",
+      "gloss": "مانگ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اپنے لیے"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "برتن"
+    },
+    {
+      "surface": "מן",
+      "gloss": "سے"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "باہر"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ سے",
+      "marks": "تمام پڑوسی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "שכנכי",
+      "gloss": "پڑوسیوں"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "برتن"
+    },
+    {
+      "surface": "רקים",
+      "gloss": "خالی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תמעיטי",
+      "gloss": "تھوڑے کرنا"
+    }
+  ],
+  "timestamp": "2026-08-10T07:20:43.823775105Z",
+  "model": "glm-5.2"
+}

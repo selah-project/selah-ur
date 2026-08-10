@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 8:33",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "سمعت کرو ادب کی اور دانا بنو، اور ⟨اسے⟩ مسترد نہ کرو۔",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "سمعت کرو"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ادب کی"
+    },
+    {
+      "surface": "וחכמו",
+      "gloss": "اور دانا بنو"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "תפרעו",
+      "gloss": "مسترد کرو"
+    }
+  ],
+  "timestamp": "2026-08-10T00:01:42.142481485Z",
+  "model": "glm-5.2"
+}

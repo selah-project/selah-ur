@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 16,
+  "translation": "یاہویہ نے ہر کام اپنے مقصد کے لیے کیا ہے، اور برا شخص بھی برے دن کے لیے۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "کام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ نے"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "اپنے مقصد کے لیے"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "اور بھی"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "برا شخص"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "کے لیے"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برے دن"
+    }
+  ],
+  "timestamp": "2026-08-10T06:37:56.182437474Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 7:22",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "خاشُم کے بیٹے، تین سو اَٹھائیس۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "خاشُم"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "تین"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیس"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "اور آٹھ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:54:01.310814313Z",
+  "model": "glm-5.2"
+}

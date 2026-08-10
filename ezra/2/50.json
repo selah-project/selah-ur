@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "ezra 2:50",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "بنِ اَسْنَہ کے، بنِ مَعونیم کے، بنِ نَفِیسیم کے،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بنِ"
+    },
+    {
+      "surface": "אסנה",
+      "gloss": "اَسْنَہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنِ"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "مَعونیم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنِ"
+    },
+    {
+      "surface": "נפיסים",
+      "gloss": "نَفِیسیم"
+    }
+  ],
+  "timestamp": "2026-08-10T00:48:36.286734062Z",
+  "model": "glm-5.2"
+}

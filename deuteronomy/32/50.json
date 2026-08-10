@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 32:50",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 32,
+  "translation": "اور اُس پہاڑ پر مر جاؤ جس پر تو چڑھ رہا ہو، اور اپنی قوم کے پاس جمع ہو جاؤ، جیسے تیرا بھائی اہرون ہور ہر پر مرا اور اپنی قوم کے پاس جمع ہوا،",
+  "tokens": [
+    {
+      "surface": "ומת",
+      "gloss": "اور مر جاؤ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "پہاڑ پر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "چڑھ رہا ہو"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "وہاں"
+    },
+    {
+      "surface": "והאסף",
+      "gloss": "اور جمع ہو جاؤ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کو"
+    },
+    {
+      "surface": "עמיך",
+      "gloss": "اپنی قوم"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیسے"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مُرا"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "تیرا بھائی"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "اور جمع ہوا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کو"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "اپنی قوم"
+    }
+  ],
+  "timestamp": "2026-08-10T05:36:19.994735770Z",
+  "model": "glm-5.2"
+}

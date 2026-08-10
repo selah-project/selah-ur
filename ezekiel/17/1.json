@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 17:1",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 17,
+  "translation": "اور یاہویہ کا ⟨ہو⟩ فرمان مجھ ⟨کو⟩ آیا، ⟨یوں⟩ کہتے ہوئے:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "فرمان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مجھ کو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہتے ہوئے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:15:23.634546297Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 119,
+  "translation": "اپنے عبد پر احسان کر، کہ میں جیتا رہوں، اور تیرا دبر نگہبوں۔",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "احسان کر"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "اپنے عبد"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "کہ میں جیتا رہوں"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "اور نگہبوں"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "تیرا دبر"
+    }
+  ],
+  "timestamp": "2026-08-10T07:51:52.015426166Z",
+  "model": "glm-5.2"
+}

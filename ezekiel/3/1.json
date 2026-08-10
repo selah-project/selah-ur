@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 3:1",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "اور اُس نے مجھ سے کہا: اے ابنِ آدم، جو ⟨את⟩ کچھ تُو پائے کھا، کھا ⟨את⟩ اِس طومار کو، اور جا کر بَیت یِسرائیل سے بول۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور اُس نے کہا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مجھ سے"
+    },
+    {
+      "surface": "בן",
+      "gloss": "اے بیٹے"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم کے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جو کچھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "تُو پائے"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "کھا"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "کھا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِس طومار کو"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "اِس طومار کو"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اِس"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "اور جا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بول"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-09T22:47:50.914914985Z",
+  "model": "glm-5.2"
+}

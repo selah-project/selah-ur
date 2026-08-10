@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 9:41",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "اور مِیخا کے بیٹے تھے پِیتون اور مِلِکھ اور تَحرَع۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "اور بیٹے"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "مِیخا"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "پِیتون"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "اور مِلِکھ"
+    },
+    {
+      "surface": "ותחרע",
+      "gloss": "اور تَحرَع"
+    }
+  ],
+  "timestamp": "2026-08-10T01:03:07.915055685Z",
+  "model": "glm-5.2"
+}

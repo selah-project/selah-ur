@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اور یاہویہ کا صندوق پلشتیم کے کھیت میں سات مہینے رہا۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کا"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "میں کھیت"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "پلشتیم"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "سات"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "مہینے"
+    }
+  ],
+  "timestamp": "2026-08-09T21:19:01.720341057Z",
+  "model": "glm-5.2"
+}

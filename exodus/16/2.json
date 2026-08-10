@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 16:2",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 16,
+  "translation": "اور بنی یِسرائیل کی ساری جماعت نے بیابان میں موشے اور اہرون پر شکایت کی۔",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "اور شکایت کی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "جماعتِ"
+    },
+    {
+      "surface": "بני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "اور پر"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بیابان میں"
+    }
+  ],
+  "timestamp": "2026-08-09T20:01:10.619527226Z",
+  "model": "glm-5.2"
+}

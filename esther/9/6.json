@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "اور شوشن قلعے میں یہودیوں نے ہلاک اور تباہ کیا پانچ سو آدمی۔",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "اور شوشن میں"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "قلعے"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ہلاک کیا"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "یہودیوں نے"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "اور تباہ کیا"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پانچ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "آدمی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:38:21.407117784Z",
+  "model": "glm-5.2"
+}

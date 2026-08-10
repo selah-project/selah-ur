@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 30:34",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 30,
+  "translation": "تو لابَن نے کہا: دیکھ، کاش کہ تیرے کہنے کے مطابق ہو۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابَن"
+    },
+    {
+      "surface": "הן",
+      "gloss": "دیکھ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "کاش"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ہو"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "تیرے کہنے کے مطابق"
+    }
+  ],
+  "timestamp": "2026-08-10T07:08:59.693992335Z",
+  "model": "glm-5.2"
+}

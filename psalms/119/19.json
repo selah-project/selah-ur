@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 119,
+  "translation": "مہمان ہوں میں زمین میں؛ مت چھپا مجھ سے اپنے حکموں کو۔",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "مہمان"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ہوں میں"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین میں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مت"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "چھپا"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "مجھ سے"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "اپنے حکموں کو"
+    }
+  ],
+  "timestamp": "2026-08-10T07:51:17.561317240Z",
+  "model": "glm-5.2"
+}

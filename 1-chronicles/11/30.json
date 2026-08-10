@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 11:30",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "مَہْرایِ نَطوفاتی، خِلِد بِن بَعانہ نَطوفاتی۔",
+  "tokens": [
+    {
+      "surface": "מַהְרַי",
+      "gloss": "مَہْرای"
+    },
+    {
+      "surface": "הַנְּטֹפָתִי",
+      "gloss": "نَطوفاتی"
+    },
+    {
+      "surface": "חֵלֶד",
+      "gloss": "خِلِد"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "بِن"
+    },
+    {
+      "surface": "בַּעֲנָה",
+      "gloss": "بَعانہ"
+    },
+    {
+      "surface": "הַנְּטוֹפָתִי",
+      "gloss": "نَطوفاتی"
+    }
+  ],
+  "timestamp": "2026-08-10T06:50:07.414734545Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 28:21",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 28,
+  "translation": "اِبنِ آدم! اپنا منہ صیدون کی طرف کر اور اُس کے بارے میں نبوت کر۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "اِبن"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "שים",
+      "gloss": "رکھ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "اپنا منہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "صیدون"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "اور نبوت کر"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "اُس کے بارے میں"
+    }
+  ],
+  "timestamp": "2026-08-10T06:18:31.844277416Z",
+  "model": "glm-5.2"
+}

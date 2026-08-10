@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 44,
+  "translation": "کون نے ایک ایل کو ڈھالا، اور ایک ڈھی ہوی بت کو، جو کچھ فائدہ نہ دے؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "نے … ڈھالا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایک ایل کو"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "اور ایک بت کو"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "ڈھی ہوی"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "جو نہ"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "فائدہ دے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:03:00.908290899Z",
+  "model": "glm-5.2"
+}

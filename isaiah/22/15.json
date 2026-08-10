@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 22:15",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "یوں فرماتا ہے ادونای یاہویہ صباؤت: جاؤ، اس نگران کے پاس جاؤ جو گھر کا مختار ہے، یعنی شبناؤ جو گھر پر ہے، اور کہو:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "یوں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فرماتا ہے"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صباؤت"
+    },
+    {
+      "surface": "לך",
+      "gloss": "جاؤ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "جاؤ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کے پاس"
+    },
+    {
+      "surface": "הסכן",
+      "gloss": "اس نگران"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اس"
+    },
+    {
+      "surface": "על",
+      "gloss": "جو"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "شبناؤ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    }
+  ],
+  "timestamp": "2026-08-09T22:06:44.822171902Z",
+  "model": "glm-5.2"
+}

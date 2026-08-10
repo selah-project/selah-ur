@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "اور ⟨את⟩ عوِبال اور ⟨את⟩ اَبیمائیل اور ⟨את⟩ شِوا کو۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "عوِبال کو"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "عوِبال"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "اَبیمائیل کو"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "اَبیمائیل"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "شِوا کو"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "شِوا"
+    }
+  ],
+  "timestamp": "2026-08-10T05:12:19.502045908Z",
+  "model": "glm-5.2"
+}

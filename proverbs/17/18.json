@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 17:18",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 17,
+  "translation": "دل سے خالی انسان ہاتھ مارتا ہے، اپنے رفیق کے سامنے ضمانت دیتا ہے۔",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "خالی"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "תוקע",
+      "gloss": "مارتا ہے"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ہاتھ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ضمانت دیتا ہے"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "ضمانت"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "سامنے"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "اپنے رفیق کے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:04:25.226137877Z",
+  "model": "glm-5.2"
+}

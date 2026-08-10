@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور ہوا، جیسا کہ سارے جنگ کے آدمی قوم کے میان سے مر کر ختم ہو گئے،",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیسا کہ"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "ختم ہو گئے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "جنگ کے"
+    },
+    {
+      "surface": "למות",
+      "gloss": "مر کر"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "میان سے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم کے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:14:06.854606322Z",
+  "model": "glm-5.2"
+}

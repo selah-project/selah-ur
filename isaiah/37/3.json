@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 37:3",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 37,
+  "translation": "اور اُس سے کہا: یوں کہتا ہے حِزقیاہو — ⟨یہ⟩ دن تنگی اور ملامت اور توہین کا ہے،",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "اور اُنہوں نے کہا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اُس سے"
+    },
+    {
+      "surface": "כה",
+      "gloss": "یوں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "کہتا ہے"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "حِزقیاہو"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "تنگی کا"
+    },
+    {
+      "surface": "ותוכחה",
+      "gloss": "ملامت کا"
+    },
+    {
+      "surface": "ונאצה",
+      "gloss": "اور توہین کا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "یہ دن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "پہنچے ہیں"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بچے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "משבר",
+      "gloss": "زچگی کے مقام تک"
+    },
+    {
+      "surface": "וכח",
+      "gloss": "اور طاقت"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نہیں ہے"
+    },
+    {
+      "surface": "ללדה",
+      "gloss": "جنے کی"
+    }
+  ],
+  "timestamp": "2026-08-09T22:11:18.731252879Z",
+  "model": "glm-5.2"
+}

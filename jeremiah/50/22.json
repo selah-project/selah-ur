@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 50:22",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 50,
+  "translation": "زمین میں جنگ کی آواز ہے اور بڑا ٹوٹنا۔",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "… کی آواز"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین میں"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "اور ٹوٹنا"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "بڑا"
+    }
+  ],
+  "timestamp": "2026-08-09T22:44:13.460821088Z",
+  "model": "glm-5.2"
+}

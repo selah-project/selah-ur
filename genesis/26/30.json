@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 26,
+  "translation": "پس اُس نے اُن کے لیے ضیافت کی اور وہ کھا گئے اور پی گئے۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "پس اُس نے کی"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اُن کے لیے"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ضیافت"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "اور وہ کھا گئے"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "اور پی گئے"
+    }
+  ],
+  "timestamp": "2026-08-09T19:43:53.603479497Z",
+  "model": "glm-5.2"
+}

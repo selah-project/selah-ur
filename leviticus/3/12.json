@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 3:12",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "اور اگر اس کا نذر بکری ہو، تو وہ اسے یاہویہ کے سامنے پیش کرے۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "اور اگر"
+    },
+    {
+      "surface": "עז",
+      "gloss": "بکری"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "اس کا نذر"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "تو وہ پیش کرے"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "کے سامنے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:13:25.724047158Z",
+  "model": "glm-5.2"
+}

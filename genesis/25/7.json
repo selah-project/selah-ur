@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 25:7",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "اور یہ ہیں اَبراہام کی زندگی کے سالوں کے دن جنہیں اس نے جیا — سو سال اور ستر سال اور پانچ سال۔",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "اور یہ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "دن"
+    },
+    {
+      "surface": "שני",
+      "gloss": "سالوں کے"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "زندگی کے"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَبراہام"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنہیں"
+    },
+    {
+      "surface": "חי",
+      "gloss": "جیا"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "اور ستر"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "اور پانچ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-08-09T19:42:06.017709715Z",
+  "model": "glm-5.2"
+}

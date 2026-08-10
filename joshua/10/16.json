@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 10:16",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "اور یہ پانچ بادشاہ بھاگ گئے اور مَقیدہ کی غار میں چھپ گئے۔",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "اور بھاگ گئے"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "پانچ"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "ויחבאו",
+      "gloss": "اور چھپ گئے"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "غار میں"
+    },
+    {
+      "surface": "במקדה",
+      "gloss": "مَقیدہ کی"
+    }
+  ],
+  "timestamp": "2026-08-10T05:37:04.381079458Z",
+  "model": "glm-5.2"
+}

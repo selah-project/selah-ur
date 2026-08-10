@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور موشے خیمہ گاہ میں واپس آ گیا، وہ اور یِسرائیل کے بزرگ۔",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "اور واپس آ گیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "خیمہ گاہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "اور بزرگِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-10T05:28:28.241237010Z",
+  "model": "glm-5.2"
+}

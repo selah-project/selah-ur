@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 29,
+  "translation": "داوِد کا زَبور۔ اے اِیل کے بیٹو، یاہویہ کو دو، یاہویہ کو جلال اور عِزّت دو۔",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "زَبور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد کا"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "دو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہویہ کو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "اے بیٹو"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "اِیل کے"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "دو"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہویہ کو"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "اور عِزّت"
+    }
+  ],
+  "timestamp": "2026-08-09T23:28:37.212223141Z",
+  "model": "glm-5.2"
+}

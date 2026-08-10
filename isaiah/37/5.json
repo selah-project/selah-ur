@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 37:5",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 37,
+  "translation": "تو بادشاہ حِزقیاہو کے عبدوں نے یِشعیاہو کے پاس آنا ⟨تھا⟩۔",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "پھر آئے"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "بندوں نے"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "حِزقیاہو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کے پاس"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "یِشعیاہو"
+    }
+  ],
+  "timestamp": "2026-08-09T22:12:07.549006189Z",
+  "model": "glm-5.2"
+}

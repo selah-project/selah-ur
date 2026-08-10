@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 46:23",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 46,
+  "translation": "اور دان کے بیٹے ⟨تھے⟩: حُشیم۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "اور بیٹے"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "חשים",
+      "gloss": "حُشیم"
+    }
+  ],
+  "timestamp": "2026-08-10T05:16:35.256544403Z",
+  "model": "glm-5.2"
+}

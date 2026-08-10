@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 108,
+  "translation": "جاگ اڑھو، ہے نےل اور کِنّور! میں جگاؤں گا ⟨اے⟩ شباہ۔",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "جاگ اڑھو"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "ہے نےل"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "اور کِنّور"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "میں جگاؤں گا"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "⟨اے⟩ شباہ"
+    }
+  ],
+  "timestamp": "2026-08-09T23:49:31.983789738Z",
+  "model": "glm-5.2"
+}

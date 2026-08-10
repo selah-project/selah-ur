@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 3:20",
+  "book": "1-samuel",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "اور تمام یِسرائیل نے داں سے بیر شَبع تک جانا کہ شمؤیل یاہویہ کے لیے نبی مقرر ہوا۔",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "اور جانا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل نے"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "داں سے"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بیر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شَبع"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "مقرر ہوا"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شمؤیل"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہویہ کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-10T05:42:05.336595788Z",
+  "model": "glm-5.2"
+}

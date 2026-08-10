@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 4:34",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "اور مِشوباب، اور یَملِک، اور یوشاہ بِن اَمَتسیاہ،",
+  "tokens": [
+    {
+      "surface": "ומשובב",
+      "gloss": "اور مِشوباب"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "اور یَملِک"
+    },
+    {
+      "surface": "ויושה",
+      "gloss": "اور یوشاہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بِن"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "اَمَتسیاہ"
+    }
+  ],
+  "timestamp": "2026-08-10T01:00:24.137092876Z",
+  "model": "glm-5.2"
+}

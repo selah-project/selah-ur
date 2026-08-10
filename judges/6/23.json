@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 6:23",
+  "book": "judges",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "تو یاہویہ نے اس سے کہا، تیرے لیے سلامتی! مت ڈر، تو نہیں مرے گا۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تو کہا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اس سے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ نے"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے لیے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مت"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ڈر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "تو مرے گا"
+    }
+  ],
+  "timestamp": "2026-08-09T21:10:05.990614457Z",
+  "model": "glm-5.2"
+}

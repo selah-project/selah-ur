@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 24:17",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "گرتر (مہاجر) اور یتیم کا حق مت بگاڑ، اور بیوہ کا کپڑا گروی نہ لے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "بگاڑنا"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "حق"
+    },
+    {
+      "surface": "גר",
+      "gloss": "گرتر"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "یتیم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "گروی لینا"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "کپڑا"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "بیوہ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:54:07.719778801Z",
+  "model": "glm-5.2"
+}

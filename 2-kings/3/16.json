@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 3:16",
+  "book": "2-kings",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "اور ⟨اس نے⟩ کہا: یوں کہتا ہے یاہویہ: اس وادی میں خندق، خندق بناؤ۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور ⟨اس نے⟩ کہا"
+    },
+    {
+      "surface": "כה",
+      "gloss": "یوں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "کہتا ہے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بناؤ"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "اس وادی میں"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "خندق"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "خندق"
+    }
+  ],
+  "timestamp": "2026-08-10T07:44:37.753666241Z",
+  "model": "glm-5.2"
+}

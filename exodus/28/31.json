@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 28,
+  "translation": "اور تو ⟨את⟩ ایفود کا چولا بنائے گا، مکمل نیلا۔",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "اور تو بنائے گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چولا کو"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "چولا"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "ایفود کا"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "مکمل"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "نیلا"
+    }
+  ],
+  "timestamp": "2026-08-09T20:07:27.540938966Z",
+  "model": "glm-5.2"
+}

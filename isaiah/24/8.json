@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 24:8",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "دف بجانا بند ہوگیا، پرلوٹوں کا شور رک گیا، بجانا بند ہوگیا بربط کا۔",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "بند ہوگیا"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "دف بجانا"
+    },
+    {
+      "surface": "תפים",
+      "gloss": "دف"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "رک گیا"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "شور"
+    },
+    {
+      "surface": "עליזים",
+      "gloss": "پرلوٹوں کا"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "بند ہوگیا"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "بجانا"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "بربط کا"
+    }
+  ],
+  "timestamp": "2026-08-10T06:01:04.380763122Z",
+  "model": "glm-5.2"
+}

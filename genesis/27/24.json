@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "اور کہا: کیا تو ہی میرا بیٹا عیسو ہے؟ اور اُس نے کہا: میں ہوں۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ہی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "میرا بیٹا"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "اور اُس نے کہا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں ہوں"
+    }
+  ],
+  "timestamp": "2026-08-10T05:13:18.566724347Z",
+  "model": "glm-5.2"
+}

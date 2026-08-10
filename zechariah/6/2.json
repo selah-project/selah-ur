@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 6:2",
+  "book": "zechariah",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "پہلی رتھ میں سرخ گھوڑے، اور دوسری رتھ میں کالے گھوڑے۔",
+  "tokens": [
+    {
+      "surface": "במרכבה",
+      "gloss": "رتھ میں"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "پہلی"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "گھوڑے"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "سرخ"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "اور رتھ میں"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "دوسری"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "گھوڑے"
+    },
+    {
+      "surface": "שחרים",
+      "gloss": "کالے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:18:46.059891364Z",
+  "model": "glm-5.2"
+}

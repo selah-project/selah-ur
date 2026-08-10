@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "میں اپنے محبوب کی ⟨ہوں⟩ اور میرا محبوب میرا ⟨ہے⟩ — وہ جو سوسنوں میں چرتا ہے۔",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "اپنے محبوب کی"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "اور میرا محبوب"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرا"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "وہ جو چرتا ہے"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "سوسنوں میں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:26:12.441355275Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "تو ہاتاخ مُردَخای کے پاس نکلا، شہر کے چوک میں جو بادشاہ کے دروازے کے سامنے تھا۔",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "تو نکلا"
+    },
+    {
+      "surface": "התך",
+      "gloss": "ہاتاخ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کے پاس"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "مُردَخای"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "چوک"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر کے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "کے سامنے"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازے"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ کے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:37:25.473407097Z",
+  "model": "glm-5.2"
+}

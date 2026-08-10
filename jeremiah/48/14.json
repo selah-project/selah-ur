@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 48:14",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 48,
+  "translation": "تم کیسے کہتے ہو، ”ہم جنگجو ہیں اور جنگ کے لیے بہادر آدمی“؟",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "کیسے"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "تم کہتے ہو"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "جنگجو ہیں"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "اور آدمی"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "بہادر"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "جنگ کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:10:57.139556186Z",
+  "model": "glm-5.2"
+}

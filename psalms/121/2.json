@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 121:2",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 121,
+  "translation": "میری مدد یاہویہ کے پاس سے ⟨آتی ہے⟩، جو آسمان اور زمین کو بناتا ہے۔",
+  "tokens": [
+    {
+      "surface": "עזרי",
+      "gloss": "میری مدد"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "کے پاس سے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بنانے والا"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمان"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "اور زمین"
+    }
+  ],
+  "timestamp": "2026-08-09T23:53:34.476304290Z",
+  "model": "glm-5.2"
+}

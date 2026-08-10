@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 5:2",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "تا کہ ←تدبر⟩ کو محفوظ رکھے، اور تیرے ہونٹ علم کو نگہبانی کریں۔",
+  "tokens": [
+    {
+      "surface": "לשמר",
+      "gloss": "تا کہ محفوظ رکھے"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "تدبر"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "اور علم کو"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "تیرے ہونٹ"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "نگہبانی کریں"
+    }
+  ],
+  "timestamp": "2026-08-09T23:58:59.445738829Z",
+  "model": "glm-5.2"
+}

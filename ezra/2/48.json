@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "ezra 2:48",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "رَصین کے بیٹے، نَقودا کے بیٹے، گَزّام کے بیٹے۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "رَصین"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "نَقودا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "גזם",
+      "gloss": "گَزّام"
+    }
+  ],
+  "timestamp": "2026-08-10T00:49:17.938541114Z",
+  "model": "glm-5.2"
+}

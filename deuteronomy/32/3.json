@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 32,
+  "translation": "کیونکہ میں یاہویہ کا نام پکاروں گا؛ عظمت منسوب کرو ہمارے الوہیم کو۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "پکاروں گا"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "منسوب کرو"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "عظمت"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "ہمارے الوہیم کو"
+    }
+  ],
+  "timestamp": "2026-08-09T20:55:02.431417521Z",
+  "model": "glm-5.2"
+}

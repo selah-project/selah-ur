@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 27:35",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "اور ⟨اس نے⟩ کہا، „تیرا بھائی دھوکے سے آیا اور تیری برکت لے گیا۔\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور اس نے کہا"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "تیرا بھائی"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "دھوکے سے"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "اور لے گیا"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "تیری برکت"
+    }
+  ],
+  "timestamp": "2026-08-10T05:13:53.199648542Z",
+  "model": "glm-5.2"
+}

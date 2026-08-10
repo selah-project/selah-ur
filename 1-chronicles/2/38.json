@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور عُووِید نے ⟨את⟩ یِہُو کو جنم دیا، اور یِہُو نے ⟨את⟩ عَزَریاہ کو جنم دیا۔",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "اور عُووِید"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "نے جنم دیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِہُو"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "یِہُو"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "اور یِہُو"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "نے جنم دیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عَزَریاہ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عَزَریاہ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:59:02.377450744Z",
+  "model": "glm-5.2"
+}

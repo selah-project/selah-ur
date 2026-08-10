@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "اور ⟨اس نے⟩ ⟨את⟩ ایک کو بیت ایل میں رکھا، اور ⟨את⟩ دوسرے کو دان میں رکھا۔",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "اور رکھا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایک کو"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "بیت میں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "دوسرے کو"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "دوسرے"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "رکھا"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "دان میں"
+    }
+  ],
+  "timestamp": "2026-08-09T21:46:24.169558692Z",
+  "model": "glm-5.2"
+}

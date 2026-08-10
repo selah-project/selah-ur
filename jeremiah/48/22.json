@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 48:22",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 48,
+  "translation": "اور دِیبون پر اور نَبو پر اور بَیت دِبلاتایِم پر۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "اور پر"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "دِیبون"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "اور پر"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "نَبو"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "اور پر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بَیت"
+    },
+    {
+      "surface": "דבלתים",
+      "gloss": "دِبلاتایِم"
+    }
+  ],
+  "timestamp": "2026-08-09T22:44:18.378969931Z",
+  "model": "glm-5.2"
+}

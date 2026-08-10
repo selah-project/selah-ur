@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 26:3",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 26,
+  "translation": "پانچ پردے جُڑی ہوئی ہوں گے، ایک دوسرے سے؛ اور پانچ پردے جُڑی ہوئی ہوں گے، ایک دوسرے سے۔",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "پانچ"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "پردے"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "ہوں گے"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "جُڑی ہوئی"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "دوسرے"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "اور پانچ"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "پردے"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "جُڑی ہوئی"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "دوسرے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:06:05.519797884Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 27:44",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "اور تو اس کے ساتھ رہ کچھ دن، یہاں تک کہ تیرے بھائی کا غصہ ٹل جائے۔",
+  "tokens": [
+    {
+      "surface": "וישבת",
+      "gloss": "اور تو رہ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اس کے ساتھ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دن"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "کچھ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "یہاں تک کہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ٹل جائے"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "غصہ"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "تیرے بھائی کا"
+    }
+  ],
+  "timestamp": "2026-08-10T05:13:52.774337187Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "بَیٹا حکیم ⟨ہوتا ہے⟩ باپ کی تربیت کا، اور طعنہ زن نہیں سنتا جھڑکی۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حکیم"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تربیت"
+    },
+    {
+      "surface": "אב",
+      "gloss": "باپ کی"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "اور طعنہ زن"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سنتا"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "جھڑکی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:01:44.145573572Z",
+  "model": "glm-5.2"
+}

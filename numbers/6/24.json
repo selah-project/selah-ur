@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 6:24",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "یاہویہ تجھے برکت دے اور تجھے محفوظ رکھے،",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "تجھے برکت دے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "וישמרך",
+      "gloss": "اور تجھے محفوظ رکھے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:27:26.876054656Z",
+  "model": "glm-5.2"
+}

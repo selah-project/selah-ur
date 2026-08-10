@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 52,
+  "translation": "تو نے ہڑپ کرنے والے سبھی الفاظ سے محبت کی، اے دھوکے کی زبان!",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "تو نے محبت کی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھی"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "الفاظ سے"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "ہڑپ کرنے والے"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "دھوکے کی"
+    }
+  ],
+  "timestamp": "2026-08-09T23:34:43.752781263Z",
+  "model": "glm-5.2"
+}

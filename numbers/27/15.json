@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 27:15",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "اور موشہ نے یاہویہ سے کلام کیا، کہہ کر۔",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "اور کلام کیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہہ کر"
+    }
+  ],
+  "timestamp": "2026-08-10T05:30:29.694837655Z",
+  "model": "glm-5.2"
+}

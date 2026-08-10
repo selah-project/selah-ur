@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 30:8",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 30,
+  "translation": "باطل اور جھوٹی بات مجھ سے دور رکھ؛ مجھے نہ مفلسی دے اور نہ دولت؛ مجھے اپنا مقررہ روزی کھلا۔",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "باطل"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "اور بات"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "جھوٹی"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "دور رکھ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "مجھ سے"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "مفلسی"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "اور دولت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مجھے"
+    },
+    {
+      "surface": "הטריפני",
+      "gloss": "مجھے کھلا"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روزی"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "مقررہ"
+    }
+  ],
+  "timestamp": "2026-08-10T07:31:45.004383953Z",
+  "model": "glm-5.2"
+}

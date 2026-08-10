@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "صادقوں کے خیالات ⟨ہیں⟩ انصاف، شریروں کے تدبرات ⟨ہیں⟩ دھوکہ۔",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "خیالات"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "صادقوں کے"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "تدبرات"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "شریروں کے"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "دھوکہ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:02:05.009517781Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 12:8",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "اور صبح کو یاہویہ کا کلام مجھے ⟨ آیا ⟩، یہ کہہ کر:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ⟨ ہوا ⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مجھے"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "صبح کو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "یہ کہہ کر"
+    }
+  ],
+  "timestamp": "2026-08-10T06:13:12.747597836Z",
+  "model": "glm-5.2"
+}

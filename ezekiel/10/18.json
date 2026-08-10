@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 10:18",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "اور یاہویہ کا جلال گھر کی دہلیز سے نکل گیا، اور ⟨وہ⟩ کروبوں پر کھڑا ہوا۔",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "اور نکل گیا"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "מפתן",
+      "gloss": "دہلیز"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر کی"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "اور کھڑا ہوا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "کروبوں"
+    }
+  ],
+  "timestamp": "2026-08-09T22:48:45.034721716Z",
+  "model": "glm-5.2"
+}

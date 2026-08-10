@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 27:22",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "دان کے ⟨لئے⟩ عَزَر‌ئِیل یَروحام کا بیٹا ⟨تھا⟩۔ یہ یِس‌رائیل کے قبیلوں کے سردار ⟨تھے⟩۔",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "دان کے لئے"
+    },
+    {
+      "surface": "עזראל",
+      "gloss": "عَزَر‌ئِیل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "یَروحام"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "قبیلوں کے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِس‌رائیل"
+    }
+  ],
+  "timestamp": "2026-08-10T01:11:51.649205052Z",
+  "model": "glm-5.2"
+}

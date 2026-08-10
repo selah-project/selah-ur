@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 4:35",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "اور یوایل، اور یِہُو بِن یوشَبیاہ، بِن سَرایاہ، بِن عَسی ایل،",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "اور یوائل"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "اور یِہُو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بِن"
+    },
+    {
+      "surface": "יושביה",
+      "gloss": "یوشَبیاہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بِن"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "سَرایاہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بِن"
+    },
+    {
+      "surface": "עשיאל",
+      "gloss": "عَسی ایل"
+    }
+  ],
+  "timestamp": "2026-08-10T01:00:24.137308007Z",
+  "model": "glm-5.2"
+}

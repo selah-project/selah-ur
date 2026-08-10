@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 8:2",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "نُوخا چوتھا، اور رافا پانچواں۔",
+  "tokens": [
+    {
+      "surface": "نוחה",
+      "gloss": "نُوخا"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "چوتھا"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "اور رافا"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "پانچواں"
+    }
+  ],
+  "timestamp": "2026-08-10T01:02:18.851016086Z",
+  "model": "glm-5.2"
+}

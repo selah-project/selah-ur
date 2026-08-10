@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 14:13",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "اور پِلِشتیوں نے پھر اضافہ کیا اور وادی میں پھیل گئے۔",
+  "tokens": [
+    {
+      "surface": "ויסיפו",
+      "gloss": "اور اضافہ کیا"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "پھر"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "پِلِشتی"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "اور پھیل گئے"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "وادی میں"
+    }
+  ],
+  "timestamp": "2026-08-10T06:50:20.054105632Z",
+  "model": "glm-5.2"
+}

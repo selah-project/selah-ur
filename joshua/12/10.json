@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 12:10",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "یروشلایم کا بادشاہ، ایک؛ خَبرون کا بادشاہ، ایک۔",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "خَبرون"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    }
+  ],
+  "timestamp": "2026-08-09T21:00:14.476651445Z",
+  "model": "glm-5.2"
+}

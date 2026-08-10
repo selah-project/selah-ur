@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 83,
+  "translation": "گِبال، اور عَمّون، اور عَمالیک، پِلِشتیم، ساتھ باسیوں کے صُور کے،",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "گِبال"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "اور عَمّون"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "اور عَمالیک"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "پِلِشتیم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ساتھ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "باسیوں کے"
+    },
+    {
+      "surface": "צור",
+      "gloss": "صُور"
+    }
+  ],
+  "timestamp": "2026-08-09T23:41:16.385284921Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اور زمین الوہیم کے سامنے خراب ہوگئی، اور زمین تشدد سے بھر گئی۔",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "اور خراب ہوگئی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "کے سامنے"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "اور بھر گئی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "تشدد"
+    }
+  ],
+  "timestamp": "2026-08-09T19:34:58.994612347Z",
+  "model": "glm-5.2"
+}

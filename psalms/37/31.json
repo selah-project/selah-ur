@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 37:31",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 37,
+  "translation": "اس کے الوہیم کی تورات اس کے دل میں ہے — اس کے قدم ڈگمگائیں نہیں۔",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "اس کے الوہیم"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "اس کے دل میں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "תמעד",
+      "gloss": "ڈگمگائیں"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "اس کے قدم"
+    }
+  ],
+  "timestamp": "2026-08-10T06:30:28.587364531Z",
+  "model": "glm-5.2"
+}

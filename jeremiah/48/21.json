@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 48:21",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 48,
+  "translation": "اور انصاف ⟨ہو⟩ گیا ہے ⟨آن⟩ ⟨پر⟩ زمینِ ہموار، ⟨پر⟩ خُولون اور ⟨پر⟩ یَہْصہ اور مُوفَعَت ⟨پر⟩۔",
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "اور انصاف"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨پر⟩"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینِ"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "ہموار"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨پر⟩"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "خُولون"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "اور ⟨پر⟩"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "یَہْصہ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "اور"
+    },
+    {
+      "surface": "מופעת",
+      "gloss": "مُوفَعَت"
+    }
+  ],
+  "timestamp": "2026-08-09T22:44:18.378708460Z",
+  "model": "glm-5.2"
+}

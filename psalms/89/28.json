@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 89,
+  "translation": "بے شک میں بکر اُسے ⟨بناوں گا⟩، زمین کے بادشاہوں میں سب سے بلند۔",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "بے شک"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "بکر"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "اُسے"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "سب سے بلند"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "بادشاہوں میں"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین کے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:43:39.238481180Z",
+  "model": "glm-5.2"
+}

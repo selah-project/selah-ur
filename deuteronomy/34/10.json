@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 34:10",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 34,
+  "translation": "اور قیام نہیں ہوا کوئی نبی پھر یِسرائیل میں موشے جیسا، جسے یاہویہ جانتا تھا منہ سے منہ،",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "اور نہیں"
+    },
+    {
+      "surface": "קם",
+      "gloss": "قیام ہوا"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "پھر"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "یِسرائیل میں"
+    },
+    {
+      "surface": "כמשה",
+      "gloss": "موشے جیسا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جسے"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "جانتا تھا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "منہ"
+    }
+  ],
+  "timestamp": "2026-08-10T07:15:39.665895257Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "کیونکہ یوول وہ ہے — وہ تمہارے لیے مقدس ہوگی؛ کھیت سے ہی تم ⟨اس کی⟩ پیداوار کھاؤ گے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "یوول"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ہوگی"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تمہارے لیے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "سے"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "کھیت"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "تم کھاؤ گے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پیداوار کو"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "اس کی پیداوار"
+    }
+  ],
+  "timestamp": "2026-08-10T05:26:16.605280778Z",
+  "model": "glm-5.2"
+}

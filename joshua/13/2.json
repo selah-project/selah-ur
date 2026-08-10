@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 13:2",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "یہ ⟨وہ⟩ زمین ہے جو باقی ہے: تمام اضلاع پلشتیم کے، اور تمام گشوری کے۔",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "הנשארת",
+      "gloss": "جو باقی ہے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "גלילות",
+      "gloss": "اضلاع"
+    },
+    {
+      "surface": "הפלשתים",
+      "gloss": "پلشتیم کے"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "اور تمام"
+    },
+    {
+      "surface": "הגשורי",
+      "gloss": "گشوری کے"
+    }
+  ],
+  "timestamp": "2026-08-09T21:01:34.814553373Z",
+  "model": "glm-5.2"
+}

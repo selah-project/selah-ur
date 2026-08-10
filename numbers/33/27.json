@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 33:27",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 33,
+  "translation": "اور وہ چلے تَاحَت سے، اور ڈیرہ ڈالا تَرَح میں۔",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "اور وہ چلے"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "تَاحَت سے"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "اور ڈیرہ ڈالا"
+    },
+    {
+      "surface": "בתרח",
+      "gloss": "تَرَح میں"
+    }
+  ],
+  "timestamp": "2026-08-09T20:40:25.958385198Z",
+  "model": "glm-5.2"
+}

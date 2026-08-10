@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 10:6",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "برکتیں صالح کے سر پر ⟨ہیں⟩، اور بدکاروں کا منہ تشدد ڈھانپتا ہے۔",
+  "tokens": [
+    {
+      "surface": "ברכות",
+      "gloss": "برکتیں"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "سر پر"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صالح"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "اور منہ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکاروں کا"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "ڈھانپتا ہے"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "تشدد"
+    }
+  ],
+  "timestamp": "2026-08-10T06:37:57.254737187Z",
+  "model": "glm-5.2"
+}

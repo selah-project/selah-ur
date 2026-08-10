@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 42,
+  "translation": "اس لیے میں ⟨خود کو⟩ نچوڑتا ہوں اور میں خاک و راکھ پرمتاسف ہوں۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "اس"
+    },
+    {
+      "surface": "כן",
+      "gloss": "لیے"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "میں نچوڑتا ہوں"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "اور میں متاسف ہوں"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "خاک"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "اور راکھ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:27:11.515310175Z",
+  "model": "glm-5.2"
+}

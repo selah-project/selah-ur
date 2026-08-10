@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 10:29",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "اور ⟨את⟩ اُفِر، اور ⟨את⟩ خَوِیلہ، اور ⟨את⟩ یُوباب؛ یہ سب یَقطان کے بیٹے تھے۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "اُفِر"
+    },
+    {
+      "surface": "אופר",
+      "gloss": "اُفِر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "خَوِیلہ"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "خَوِیلہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "یُوباب"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "یُوباب"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "یَقطان"
+    }
+  ],
+  "timestamp": "2026-08-09T19:36:50.008056727Z",
+  "model": "glm-5.2"
+}

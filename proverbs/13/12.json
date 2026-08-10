@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 13:12",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "کھینچی ہوئی امید دل کو بیمار کرتی ہے، اور حیات کا درخت خواہش کا آنا ہے۔",
+  "tokens": [
+    {
+      "surface": "תוחלת",
+      "gloss": "امید"
+    },
+    {
+      "surface": "ממשכה",
+      "gloss": "کھینچی ہوئی"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "بیمار کرتی ہے"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل کو"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "اور درخت"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "حیات کا"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "خواہش"
+    },
+    {
+      "surface": "באה",
+      "gloss": "آنا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:01:18.642596352Z",
+  "model": "glm-5.2"
+}

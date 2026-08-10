@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 20:11",
+  "book": "judges",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "اور یِسْرائیل کا ہر آدمی شہر کی طرف جمع ہوا، ایک ہی آدمی کی طرح — ساتھی۔",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "اور جمع ہوا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "איש",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسْرائیل کا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "ایک ہی آدمی کی طرح"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "ساتھی"
+    }
+  ],
+  "timestamp": "2026-08-10T05:41:20.534551038Z",
+  "model": "glm-5.2"
+}

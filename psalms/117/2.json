@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 117:2",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 117,
+  "translation": "کیونکہ ہم پر غالب ہوا اس کا خیسِد، اور یاہویہ کی امانت ہمیشہ ⟨ہے⟩؛ ستائی یاہ!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "غالب ہوا"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ہم پر"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "اس کا خیسِد"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "اور امانت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "ستائی"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    }
+  ],
+  "timestamp": "2026-08-09T23:51:21.942437333Z",
+  "model": "glm-5.2"
+}

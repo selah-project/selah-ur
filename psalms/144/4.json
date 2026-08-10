@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 144,
+  "translation": "انسان ہباء کے مشابہ ہے، اس کے دن گزرتے سائے کی مانند ہیں۔",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "ہباء کے مشابہ"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "ہے"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "اس کے دن"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "سائے کی مانند"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "گزرتے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:55:55.334190303Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 20:23",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "یاہویہ کے نزدیک مکرہ، پتھر اور پتھر؛ اور دھوکے کے ترازو اچھے نہیں۔",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "مکرہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کے نزدیک"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "پتھر"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "اور پتھر"
+    },
+    {
+      "surface": "ומאזני",
+      "gloss": "اور … کے ترازو"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "دھوکے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "اچھے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:05:07.666154085Z",
+  "model": "glm-5.2"
+}

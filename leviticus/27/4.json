@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "اور اگر وہ مادہ ہو، تو تیرا تخمینہ تیس شیکل ہوگا۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "اور اگر"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "مادہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "تو ہوگا"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "تیرا تخمینہ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "تیس"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "شیکل"
+    }
+  ],
+  "timestamp": "2026-08-09T20:25:35.861530910Z",
+  "model": "glm-5.2"
+}

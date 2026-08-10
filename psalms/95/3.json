@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 95,
+  "translation": "کیونکہ یاہویہ ⟨⟨ہے⟩⟩ ایک عظیم ایل، اور وہ تمام الوہیم پر ایک عظیم بادشاہ ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "عظیم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "اور بادشاہ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "عظیم"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم"
+    }
+  ],
+  "timestamp": "2026-08-09T23:44:40.619204182Z",
+  "model": "glm-5.2"
+}

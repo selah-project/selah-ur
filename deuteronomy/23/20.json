@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "تو اپنے بھائی کو سود نہ دینا — چاندی کا سود، کھانے کا سود، ہر اُس چیز کا سود جس پر سود لیا جائے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "تو دینا"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "اپنے بھائی کو"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "سود"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی کا"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "سود"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "کھانے کا"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "سود"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "چیز کا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "سود لیا جائے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:52:22.960164270Z",
+  "model": "glm-5.2"
+}

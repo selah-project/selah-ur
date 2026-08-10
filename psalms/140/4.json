@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 140,
+  "translation": "ان کی زبان سانپ کی طرح تیز کی ہے؛ افعی کا زہر ان کے ہونٹوں کے نیچے ہے۔ سلاہ۔",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "تیز کی ہے"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ان کی زبان"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "کی طرح"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "سانپ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "زہر"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "افعی کا"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "کے نیچے"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "ان کے ہونٹوں"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلاہ"
+    }
+  ],
+  "timestamp": "2026-08-09T23:55:53.054971673Z",
+  "model": "glm-5.2"
+}

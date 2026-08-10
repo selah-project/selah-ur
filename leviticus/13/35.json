@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 13:35",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "اور اگر چھالا کھال میں بہت پھیل جائے اس کی پاکیزگی کے بعد،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "اور اگر"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "پھیل"
+    },
+    {
+      "surface": "יפשה",
+      "gloss": "جائے"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "چھالا"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "کھال میں"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "اس کی پاکیزگی کے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:19:17.499290771Z",
+  "model": "glm-5.2"
+}

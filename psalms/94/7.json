@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 94,
+  "translation": "اور ⟨وہ⟩ کہتے ہیں: 'یاہ نہیں دیکھتا، اور یعقوب کا الوہیم نہیں سمجھتا۔'",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "اور کہتے ہیں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "دیکھتا"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہیں"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "سمجھتا"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "کا الوہیم"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    }
+  ],
+  "timestamp": "2026-08-09T23:43:40.011887766Z",
+  "model": "glm-5.2"
+}

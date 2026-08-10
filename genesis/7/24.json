@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 7:24",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اور پانی زمین پر غالب رہے پچاس اور ایک سو دن۔",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "اور غالب رہے"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پچاس"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "اور ایک سو"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    }
+  ],
+  "timestamp": "2026-08-09T19:35:07.047011678Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 16,
+  "translation": "کیا کوئی انسان اپنے لیے ⟨الہ⟩ بنائے گا — اور وہ الہ نہ ہوں؟",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "کیا … بنائے گا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اپنے لیے"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "⟨الہ⟩"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "اور وہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الہ"
+    }
+  ],
+  "timestamp": "2026-08-09T22:27:53.513820471Z",
+  "model": "glm-5.2"
+}

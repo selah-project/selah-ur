@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 14:14",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "بادلوں کی بلندیوں پر چڑھوں گا، عِلیون کے مانند بنوں گا۔",
+  "tokens": [
+    {
+      "surface": "אעלה",
+      "gloss": "چڑھوں گا"
+    },
+    {
+      "surface": "عל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "بلندیوں"
+    },
+    {
+      "surface": "עב",
+      "gloss": "بادلوں کی"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "کے مانند بنوں گا"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "عِلیون"
+    }
+  ],
+  "timestamp": "2026-08-09T22:05:15.755122120Z",
+  "model": "glm-5.2"
+}

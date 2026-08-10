@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 1:30",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "مِشْمَع، اور دُومہ، مَسّا، حَدَد، اور تێمَا۔",
+  "tokens": [
+    {
+      "surface": "משמע",
+      "gloss": "مِشْمَع"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "اور دُومہ"
+    },
+    {
+      "surface": "משא",
+      "gloss": "مَسّا"
+    },
+    {
+      "surface": "חדד",
+      "gloss": "حَدَد"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "اور تێمَا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:57:42.820857998Z",
+  "model": "glm-5.2"
+}

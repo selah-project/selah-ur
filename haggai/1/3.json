@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "haggai 1:3",
+  "book": "haggai",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "اور یاہویہ کا کلام نبی خَگّی کے ہاتھ ⟨سے⟩ یوں ⟨آیا⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور وہ تھا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کا"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ہاتھ میں"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "خَگّی"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "یوں کہنا"
+    }
+  ],
+  "timestamp": "2026-08-09T23:17:08.735210153Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 23:9",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "نا‌دان کے کانوں میں بولنا مت، کیونکہ وہ تیری باتوں کے سمجھ کو ہی حقیر جانے گا۔",
+  "tokens": [
+    {
+      "surface": "באזני",
+      "gloss": "کانون میں"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "نا‌دان"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مت"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "بولنا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "יבוז",
+      "gloss": "وہ حقیر جانے گا"
+    },
+    {
+      "surface": "לשכל",
+      "gloss": "کو سمجھ"
+    },
+    {
+      "surface": "מליך",
+      "gloss": "تیری باتوں"
+    }
+  ],
+  "timestamp": "2026-08-10T09:20:28.436918258Z",
+  "model": "glm-5.2"
+}

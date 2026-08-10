@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "اور زمین کا فائدہ سب کے لیے ⟨ہے⟩: وہ ایک بادشاہ ہے جو کھیت کے لیے کام کرتا ہے۔",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "اور فائدہ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین کا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سب کے لیے"
+    },
+    {
+      "surface": "היא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "کھیت کے لیے"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "کام کیا جاتا ہے \/ کام کرتا ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:34:35.983446737Z",
+  "model": "glm-5.2"
+}

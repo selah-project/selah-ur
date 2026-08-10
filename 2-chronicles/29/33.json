@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-chronicles 29:33",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 29,
+  "translation": "اور ⟨وہ⟩ مقدس چیزیں: بیل چھ سوز اور بھیڑیں تین ہزار۔",
+  "tokens": [
+    {
+      "surface": "והקדשים",
+      "gloss": "اور مقدس چیزیں"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "بیل"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "اور بھیڑیں"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "تین"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    }
+  ],
+  "timestamp": "2026-08-10T01:26:24.047134547Z",
+  "model": "glm-5.2"
+}

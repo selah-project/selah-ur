@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 36,
+  "translation": "تو عِیساو کوہِ سَعیر میں رہنے لگا — عِیساو ہی اَدوم ہے۔",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "تو رہنے لگا"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عِیساو"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "کوہِ میں"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سَعیر"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عِیساو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ہی ہے"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "اَدوم"
+    }
+  ],
+  "timestamp": "2026-08-10T09:09:10.747767994Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 4:24",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "کیونکہ قاین کا بدلہ سات گنا لیا جائے گا، اور لَمک کا ستر اور سات گنا۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "سات گنا"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "بدلا لیا جائے گا"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قاین کا"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "اور لَمک کا"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ستر"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "اور سات"
+    }
+  ],
+  "timestamp": "2026-08-09T19:35:36.580894945Z",
+  "model": "glm-5.2"
+}

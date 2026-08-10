@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 1:31",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "یَتُور، نَفِیش، اور قِیدْمہ: یہ ہیں یِشْمَعێل کے بیٹے۔",
+  "tokens": [
+    {
+      "surface": "יטור",
+      "gloss": "یَتُور"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "نَفِیش"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "اور قِیدْمہ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨ہیں⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "یِشْمَعێل"
+    }
+  ],
+  "timestamp": "2026-08-10T00:57:42.821011018Z",
+  "model": "glm-5.2"
+}

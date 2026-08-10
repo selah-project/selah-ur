@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 1:14",
+  "book": "daniel",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "اور اس نے ⟨انہیں⟩ اس بات پر سنا اور انہیں دس دن آزمایا۔",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "اور اس نے سنا"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨انہیں⟩"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "اس بات پر"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اس"
+    },
+    {
+      "surface": "וינסם",
+      "gloss": "اور انہیں آزمایا"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دن"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دس"
+    }
+  ],
+  "timestamp": "2026-08-10T06:44:43.496189040Z",
+  "model": "glm-5.2"
+}

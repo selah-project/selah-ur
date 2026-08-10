@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 1:35",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "عیسو کے بیٹے تھے اِلیفَز، رعوایل، یعوش، یعلام اور قورح۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "اِلیفَز"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "رعوایل"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "اور یعوش"
+    },
+    {
+      "surface": "ויעלם",
+      "gloss": "اور یعلام"
+    },
+    {
+      "surface": "וקרח",
+      "gloss": "اور قورح"
+    }
+  ],
+  "timestamp": "2026-08-10T00:57:50.607104627Z",
+  "model": "glm-5.2"
+}

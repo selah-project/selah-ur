@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 22:9",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "نیک آنکھ والا ⟨ہے⟩ — وہ برکت پائے گا، کیونکہ اپنی روٹی میں سے فقیر کو دیتا ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "نیک"
+    },
+    {
+      "surface": "עין",
+      "gloss": "آنکھ والا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "برکت پائے گا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دیتا ہے"
+    },
+    {
+      "surface": "מלחמו",
+      "gloss": "اپنی روٹی میں سے"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "فقیر کو"
+    }
+  ],
+  "timestamp": "2026-08-10T00:05:33.427119149Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 16,
+  "translation": "تو ⟨את⟩ پیسح کو ذبح نہ کر سکے گا اپنے کسی دروازے میں جو یاہویہ تیرا الوہیم تجھے دے رہا ہے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "تو سکے گا"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "ذبح کرنے کو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پیسح کو"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "پیسح کو"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "کسی ایک میں"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "تیرے دروازوں کے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیرا الوہیم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دے رہا ہے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تجھے"
+    }
+  ],
+  "timestamp": "2026-08-10T05:33:03.592158054Z",
+  "model": "glm-5.2"
+}

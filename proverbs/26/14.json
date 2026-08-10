@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 26:14",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 26,
+  "translation": "دروازہ ⟨اپنے⟩ قبضے پر گھومتا ہے، اور کاہل ⟨اپنے⟩ بستر پر۔",
+  "tokens": [
+    {
+      "surface": "הדלת",
+      "gloss": "دروازہ"
+    },
+    {
+      "surface": "תסוב",
+      "gloss": "گھومتا ہے"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "צירה",
+      "gloss": "قبضے"
+    },
+    {
+      "surface": "ועצל",
+      "gloss": "اور کاہل"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "بستر"
+    }
+  ],
+  "timestamp": "2026-08-10T00:07:27.842194414Z",
+  "model": "glm-5.2"
+}

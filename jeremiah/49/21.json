@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 49:21",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 49,
+  "translation": "ان کے گرنے کی آواز سے زمین ہلی، ایک چیخ ہے — سُوف کے سمندر تک ان کی آواز سنی گئی۔",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "آواز سے"
+    },
+    {
+      "surface": "נפלם",
+      "gloss": "ان کے گرنے کی"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "ہلی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "چیخ ہے"
+    },
+    {
+      "surface": "בים",
+      "gloss": "سمندر تک"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "سُوف کے"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "سنی گئی"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "ان کی آواز"
+    }
+  ],
+  "timestamp": "2026-08-09T22:43:49.725892179Z",
+  "model": "glm-5.2"
+}

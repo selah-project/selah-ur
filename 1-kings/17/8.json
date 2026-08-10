@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 17:8",
+  "book": "1-kings",
+  "lang": "ur",
+  "chapter": 17,
+  "translation": "اور یاہویہ کا فرمان اس کے پاس آیا، یوں کہ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور وہ ہوا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "فرمان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اس کے پاس"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "یوں کہ"
+    }
+  ],
+  "timestamp": "2026-08-09T21:47:38.569494134Z",
+  "model": "glm-5.2"
+}

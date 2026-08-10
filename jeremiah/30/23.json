@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 30:23",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 30,
+  "translation": "دیکھو! یاہویہ کی آندھی، غضب نکلا، گرداب جو اکٹھی ہو، بدکاروں کے سر پر گھومے گی۔",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "دیکھو"
+    },
+    {
+      "surface": "סערת",
+      "gloss": "آندھی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کی"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "غضب"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "نکلا"
+    },
+    {
+      "surface": "סער",
+      "gloss": "گرداب"
+    },
+    {
+      "surface": "מתגורר",
+      "gloss": "اکٹھی ہو"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکاروں کے"
+    },
+    {
+      "surface": "יחול",
+      "gloss": "گھومے گی"
+    }
+  ],
+  "timestamp": "2026-08-09T22:34:40.256808763Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 10:14",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "دانا لوگ علم کو چھپا کر رکھتے ہیں، اور نادان کا منہ بربادی قریب ہے۔",
+  "tokens": [
+    {
+      "surface": "חכמים",
+      "gloss": "دانا لوگ"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "چھپا کر رکھتے ہیں"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "علم کو"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "اور منہ"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "نادان کا"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "بربادی"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "قریب ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:01:19.987423163Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "یاہویہ کی ⟨את⟩ عزت کر اپنے مال سے، اور اپنی تمام آمدنی کے پہلے پھلوں سے۔",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "عزت کر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہویہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "اپنے مال سے"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "اور … کے پہلے پھلوں سے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "آمدنی"
+    }
+  ],
+  "timestamp": "2026-08-09T23:57:59.650907808Z",
+  "model": "glm-5.2"
+}

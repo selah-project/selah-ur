@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 29:24",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 29,
+  "translation": "اور شَمع‌یاہو نَحَلامی کے بارے میں تم یہ کہو گے، یہ کہتے ہوئے:",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "اور"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "شَمع‌یاہو"
+    },
+    {
+      "surface": "הנחלמי",
+      "gloss": "نَحَلامی"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "تم کہو گے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "یہ کہتے ہوئے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:34:02.074683904Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "اُٹھ، نِینوے، اُس بڑے شہر کی طرف جا، اور اُسے وہ منادی کر جو میں تجھ سے کہتا ہوں۔",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "اُٹھ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "جا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "نِینوے"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر کو"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "بڑے"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "اور منادی کر"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "اُسے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "منادی"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "وہ منادی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کہتا ہوں"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تجھ سے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:12:10.752401769Z",
+  "model": "glm-5.2"
+}

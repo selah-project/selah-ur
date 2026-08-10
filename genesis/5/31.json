@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 5:31",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "تو لَمک کے سارے دِن سات اور ستر سال، اور سات سو سال ہوئے، اور وہ مر گیا۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تو ہوئے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "دِن"
+    },
+    {
+      "surface": "למך",
+      "gloss": "لَمک کے"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سات"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "اور ستر"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "اور سات"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "اور وہ مر گیا"
+    }
+  ],
+  "timestamp": "2026-08-10T05:11:29.220417618Z",
+  "model": "glm-5.2"
+}

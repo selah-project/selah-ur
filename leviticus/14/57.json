@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "leviticus 14:57",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "ہدایت کے لیے — ⟨تَھمے⟩ کے دن میں اور ⟨طاہر⟩ کے دن میں؛ یہ °ہے° ±صَرَعات± کی تورات۔",
+  "tokens": [
+    {
+      "surface": "להורת",
+      "gloss": "ہدایت کے لیے"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "کے دن میں"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "تَھمے"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "اور کے دن میں"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "طاہر"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "صَرَعات"
+    }
+  ],
+  "timestamp": "2026-08-09T20:19:11.738052323Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 12:26",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "بس اپنی مقدس چیزیں جو تیرے لیے ہوں اور اپنی نذریں، تُو اُٹھا لے، اور اُس جگہ آ جا جسے یاہویہ ⟨کو⟩ چنے گا۔",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "بس"
+    },
+    {
+      "surface": "קדשיך",
+      "gloss": "تیری مقدس چیزیں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ہوں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے لیے"
+    },
+    {
+      "surface": "ונדריך",
+      "gloss": "اور تیری نذریں"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "تُو اُٹھا لے"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "اور آ جا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کو"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "وہ جگہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جسے"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "چنے گا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    }
+  ],
+  "timestamp": "2026-08-10T05:33:12.677692504Z",
+  "model": "glm-5.2"
+}

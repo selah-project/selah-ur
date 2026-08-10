@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "تابوت کے انگوٹھوں میں ہونگے دانتے، ہٹائے نہ جائیں گے اس سے۔",
+  "tokens": [
+    {
+      "surface": "בטבעת",
+      "gloss": "انگوٹھوں میں"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "تابوت کے"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "وہ ہونگے"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "دانتے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יסרו",
+      "gloss": "ہٹائے جائیں گے"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اس سے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:06:38.999450974Z",
+  "model": "glm-5.2"
+}

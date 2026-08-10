@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 35:20",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 35,
+  "translation": "اور یَعقُوب نے اس کی قبر پر ⟨ایک⟩ ستون لگایا — وہی راحیل کی قبر کا ستون آج کے دن تک ہے۔",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "اور لگایا"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یَعقُوب نے"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "ستون"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "קברתה",
+      "gloss": "اس کی قبر"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہی"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "ستون"
+    },
+    {
+      "surface": "קברת",
+      "gloss": "قبر کا"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راحیل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "היום",
+      "gloss": "آج کے دن"
+    }
+  ],
+  "timestamp": "2026-08-09T19:47:29.670751937Z",
+  "model": "glm-5.2"
+}

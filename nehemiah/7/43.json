@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "nehemiah 7:43",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "لاوی: یَشُوع کے بیٹے، قَدْمِیایل کے، ہودَوَہ کے بیٹوں کے، چہہتر۔",
+  "tokens": [
+    {
+      "surface": "הלוים",
+      "gloss": "لاوی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کے بیٹے"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "یَشُوع"
+    },
+    {
+      "surface": "לקדמיאל",
+      "gloss": "قَدْمِیایل کے"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بیٹوں کے"
+    },
+    {
+      "surface": "להודוה",
+      "gloss": "ہودَوَہ کے"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ستر"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "اور چار"
+    }
+  ],
+  "timestamp": "2026-08-10T00:54:34.663363017Z",
+  "model": "glm-5.2"
+}

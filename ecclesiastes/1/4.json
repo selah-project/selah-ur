@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "نسل جاتی ہے اور نسل آتی ہے، اور زمین ہمیشہ کے لیے قائم رہتی ہے۔",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "جاتی ہے"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "اور نسل"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آتی ہے"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "اور زمین"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ کے لیے"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "قائم رہتی ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:32:49.450354973Z",
+  "model": "glm-5.2"
+}

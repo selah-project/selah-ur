@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 12:5",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "مِیامِین، مَعَدْیَہ، بِلْگَہ۔",
+  "tokens": [
+    {
+      "surface": "מימין",
+      "gloss": "مِیامِین"
+    },
+    {
+      "surface": "מעדיה",
+      "gloss": "مَعَدْیَہ"
+    },
+    {
+      "surface": "בלגה",
+      "gloss": "بِلْگَہ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:55:38.141501835Z",
+  "model": "glm-5.2"
+}

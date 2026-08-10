@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 28,
+  "translation": "کیونکہ حکم پر حکم، حکم پر حکم؛ لکیر پر لکیر، لکیر پر لکیر؛ یہاں تھوڑا، وہاں تھوڑا۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "צו",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "پر حکم"
+    },
+    {
+      "surface": "צו",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "پر حکم"
+    },
+    {
+      "surface": "קו",
+      "gloss": "لکیر"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "پر لکیر"
+    },
+    {
+      "surface": "קו",
+      "gloss": "لکیر"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "پر لکیر"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "تھوڑا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "یہاں"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "تھوڑا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "وہاں"
+    }
+  ],
+  "timestamp": "2026-08-09T22:09:10.045064964Z",
+  "model": "glm-5.2"
+}

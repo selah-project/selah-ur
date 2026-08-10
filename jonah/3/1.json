@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "اور یاہویہ کا ⟨इввद⟩ یونا کی طرف دوسری بار کلام آیا، کہہ کر:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "یونا"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "دوسری بار"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہہ کر"
+    }
+  ],
+  "timestamp": "2026-08-09T23:12:10.752181328Z",
+  "model": "glm-5.2"
+}

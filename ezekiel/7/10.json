@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 7:10",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "دیکھو! وہ دن — دیکھو! آ رہی ہے؛ نکلی ہے صبح؛ پھوٹا ہے چھڑی، پھولا ہے غرور۔",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "دیکھو"
+    },
+    {
+      "surface": "היום",
+      "gloss": "وہ دن"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "دیکھو"
+    },
+    {
+      "surface": "באה",
+      "gloss": "آ رہی ہے"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "نکلی ہے"
+    },
+    {
+      "surface": "הצפרה",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "צץ",
+      "gloss": "پھوٹا ہے"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "چھڑی"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "پھولا ہے"
+    },
+    {
+      "surface": "הזדון",
+      "gloss": "غرور"
+    }
+  ],
+  "timestamp": "2026-08-09T22:47:38.010537751Z",
+  "model": "glm-5.2"
+}

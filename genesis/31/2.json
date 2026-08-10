@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 31,
+  "translation": "اور یعقوب نے لابن کے چہرے کو دیکھا، اور دیکھو، وہ پہلے کی طرح کے ساتھ نہ تھا۔",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "اور دیکھا"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چہرے کو"
+    },
+    {
+      "surface": "פני",
+      "gloss": "چہرے"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابن کے"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "اور دیکھو"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "وہ نہ تھا"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "کے ساتھ"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "پہلے کی"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "طرح"
+    }
+  ],
+  "timestamp": "2026-08-09T19:46:28.818885402Z",
+  "model": "glm-5.2"
+}

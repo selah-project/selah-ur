@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 19:43",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "اور اَیلون اور تِمنہ اور عِقرون،",
+  "tokens": [
+    {
+      "surface": "ואילון",
+      "gloss": "اور اَیلون"
+    },
+    {
+      "surface": "ותמנתה",
+      "gloss": "اور تِمنہ"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "اور عِقرون"
+    }
+  ],
+  "timestamp": "2026-08-09T21:04:05.979022501Z",
+  "model": "glm-5.2"
+}

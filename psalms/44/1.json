@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 44,
+  "translation": "کورِیم کے بیٹوں کے لیے، ایک مَسکیل۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "باجِہِ نگران"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بیٹوں کے لیے"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورَخ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "مَسکیل"
+    }
+  ],
+  "timestamp": "2026-08-10T06:30:30.160629648Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 7:17",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اور اُولام کے بیٹے ⟨تھے⟩ بِدان۔ یہ گِلعاد کے بیٹے تھے، ماخیر کا بیٹا، مَنَشّہ کا بیٹا۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "اور بیٹے"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "اُولام"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "بِدان"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گِلعاد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "ماخیر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مَنَشّہ"
+    }
+  ],
+  "timestamp": "2026-08-10T01:02:38.015894510Z",
+  "model": "glm-5.2"
+}

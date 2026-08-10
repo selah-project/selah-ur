@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "اور کوهِن ⟨את⟩ ان لعنتوں کو کتاب میں لکھے اور ⟨את⟩ انہیں تلخ پانی میں مٹائے۔",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "اور لکھے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ان لعنتوں کو"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "لعنتیں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کوهِن"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "کتاب میں"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "اور مٹائے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "מי",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "تلخ"
+    }
+  ],
+  "timestamp": "2026-08-10T05:27:45.545573541Z",
+  "model": "glm-5.2"
+}

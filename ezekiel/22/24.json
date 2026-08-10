@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 22:24",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "اے ابنِ آدم، اس سے کہہ: ⟨تم⟩ ⟨وہ⟩ زمین ہو جو پاکیزہ نہیں کی گئی، جس پر غصے کے دن مینہ نہیں برسا۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "کہہ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اس سے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨تم⟩",
+      "marks": "زمین"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "מטהרה",
+      "gloss": "پاکیزہ کی گئی"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨وہ⟩ ہے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "גשמה",
+      "gloss": "اس پر مینہ برسا"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "کے دن میں"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "غصے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:15:17.184870714Z",
+  "model": "glm-5.2"
+}

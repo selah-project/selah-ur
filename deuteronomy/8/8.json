@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "زمین گندم اور جو اور انگور اور انجیر اور انار کی، زمین زیتون کے تیل اور شہد کی۔",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "گندم"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "اور جو"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "اور انگور"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "اور انجیر"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "اور انار"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "זית",
+      "gloss": "زیتون"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "تیل"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "اور شہد"
+    }
+  ],
+  "timestamp": "2026-08-10T05:33:29.901359542Z",
+  "model": "glm-5.2"
+}

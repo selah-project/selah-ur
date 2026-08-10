@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "اور کسی مُردہ کے پاس بھی نہ جائے — اپنے باپ کے لیے اور اپنی ماں کے لیے نہ ناپاک ہو۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "اور کسی کے پاس"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کسی"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "جان"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مُردہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "جائے"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "اپنے باپ کے لیے"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "اور اپنی ماں کے لیے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ناپاک ہو"
+    }
+  ],
+  "timestamp": "2026-08-09T20:22:37.809535912Z",
+  "model": "glm-5.2"
+}

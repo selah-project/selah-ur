@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 114,
+  "translation": "⟨جِس نے⟩ چٹان کو پانی کا تالاب بدلا، چقماق کو پانی کے چشمے۔",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "⟨جِس نے⟩ بدلا"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "چٹان کو"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "تالاب"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانی کا"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "چقماق کو"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "چشمے"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانی کے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:50:32.102087475Z",
+  "model": "glm-5.2"
+}

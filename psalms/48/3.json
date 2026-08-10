@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 48:3",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 48,
+  "translation": "ऊंचाई में सुंदर, सारी पृथ्वी का आनंद, सिय्योन पर्वत, सफोन की छोरें, महान राजा का नगर।",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "सुंदर"
+    },
+    {
+      "surface": "נוף",
+      "gloss": "ऊंचाई में"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "आनंद"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारी"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी का"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पर्वत"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "सिय्योन"
+    },
+    {
+      "surface": "यרכתי",
+      "gloss": "की छोरें"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "सफोन"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा का"
+    },
+    {
+      "surface": "רב",
+      "gloss": "महान"
+    }
+  ],
+  "timestamp": "2026-08-09T23:33:02.936424701Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "زندگی تجھ سے مانگی، تو نے اسے دی؛ دنوں کی طولٰی، ہمیشہ اور ہمیشہ۔",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "زندگی"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "اس نے مانگی"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "تجھ سے"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "تو نے دی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اسے"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "طولٰی"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دنوں کی"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "اور ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-08-09T23:27:33.841693740Z",
+  "model": "glm-5.2"
+}

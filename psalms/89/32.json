@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 89,
+  "translation": "اگر وہ میرے فرائض کو پامال کریں، اور میرے احکام نہ مانیں،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "میرے فرائض"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "پامال کریں"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "اور میرے احکام"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "مانیں"
+    }
+  ],
+  "timestamp": "2026-08-09T23:43:15.305047662Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور اگر تیرا قربان مَحبَت پر گرم پلیٹ کی طرح کی ہو، تو خالص آٹا تیل میں ملا ہوا بے خمیری ہوگا۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "اور اگر"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "مَنْحَہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "گرم پلیٹ"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "تیرا قربان"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "خالص آٹا"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "ملا ہوا"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "تیل میں"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "بے خمیری"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨یہ⟩ ہوگا"
+    }
+  ],
+  "timestamp": "2026-08-09T20:13:34.323807588Z",
+  "model": "glm-5.2"
+}

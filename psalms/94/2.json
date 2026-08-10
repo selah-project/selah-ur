@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 94,
+  "translation": "بلند ہو، اَے زمین کے فیصل کرنے والے! بدلہ لو ⟨على⟩ گھمنڈ والوں سے۔",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "بلند ہو"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "فیصل کرنے والے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین کے"
+    },
+    {
+      "surface": "השב",
+      "gloss": "بدلہ لو"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "بدلہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨على⟩"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "گھمنڈ والوں"
+    }
+  ],
+  "timestamp": "2026-08-09T23:44:47.655602471Z",
+  "model": "glm-5.2"
+}

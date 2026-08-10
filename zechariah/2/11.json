@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 2:11",
+  "book": "zechariah",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "ہائے ہو صہیون! بھاگو، اے بابل کی بیٹی کی بسنے والی!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ہائے ہو"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صہیون"
+    },
+    {
+      "surface": "המלטי",
+      "gloss": "بھاگو"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "اے بسنے والی"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بیٹی"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل کی"
+    }
+  ],
+  "timestamp": "2026-08-10T06:25:07.337933184Z",
+  "model": "glm-5.2"
+}

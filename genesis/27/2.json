@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "اور اس نے کہا: دیکھو، اب میں بوڑھا ہو گیا ہوں؛ میں اپنی موت کا دن نہیں جانتا۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور اس نے کہا"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "دیکھو"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اب"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "میں بوڑھا ہو گیا ہوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "میں جانتا"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "اپنی موت کا"
+    }
+  ],
+  "timestamp": "2026-08-09T19:42:30.991403401Z",
+  "model": "glm-5.2"
+}

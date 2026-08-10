@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 40:1",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 40,
+  "translation": "اور یاہویہ نے موشے سے کلام کیا، فرماتے ہوئے:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "اور کلام کیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "فرماتے ہوئے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:13:17.070872377Z",
+  "model": "glm-5.2"
+}

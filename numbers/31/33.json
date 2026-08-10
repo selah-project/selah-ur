@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 31:33",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 31,
+  "translation": "اور بیل دو اور ستر ہزار،",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "اور بیل"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "اور ستر"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    }
+  ],
+  "timestamp": "2026-08-09T20:38:40.234956402Z",
+  "model": "glm-5.2"
+}

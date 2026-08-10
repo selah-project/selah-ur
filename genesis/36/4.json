@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 36,
+  "translation": "اور عادہ نے عیسو کو ⟨את⟩ اِلیفز جنا، اور بَسمت نے ⟨את⟩ رَعو ایل جنا۔",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "اور جنا"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "عادہ نے"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "عیسو کو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِلیفز"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "اِلیفز"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "اور بَسمت نے"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "جنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رَعو ایل"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "رَعو ایل"
+    }
+  ],
+  "timestamp": "2026-08-09T19:47:32.082954552Z",
+  "model": "glm-5.2"
+}

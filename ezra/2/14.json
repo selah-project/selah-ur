@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezra 2:14",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "بِگْوای کے بیٹے — دو ہزار چھپن۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کے بیٹے"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "بِگْوای"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "دو ہزار"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پچاس"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "اور چھ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:46:24.625916885Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 1:37",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "اور مجھ پر بھی یاہویہ غضبناک ہوا تمہارے سبب سے، یہ فرماتے ہوئے: تو بھی وہاں نہ آئے گا۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "بھی"
+    },
+    {
+      "surface": "בי",
+      "gloss": "مجھ پر"
+    },
+    {
+      "surface": "התאנף",
+      "gloss": "غضبناک ہوا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "בגללכם",
+      "gloss": "تمہارے سبب سے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "یہ فرماتے ہوئے"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بھی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "آئے گا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "وہاں"
+    }
+  ],
+  "timestamp": "2026-08-09T20:43:07.984067727Z",
+  "model": "glm-5.2"
+}

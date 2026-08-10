@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 2:15",
+  "book": "joel",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "صِیون میں شوفار بجاؤ، روزے کو پاک کرو، مقررِ عام بلاؤ۔",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "بجاؤ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "شوفار"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "صِیون میں"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "پاک کرو"
+    },
+    {
+      "surface": "צום",
+      "gloss": "روزے کو"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "بلاؤ"
+    },
+    {
+      "surface": "עצרה",
+      "gloss": "مقررِ عام"
+    }
+  ],
+  "timestamp": "2026-08-09T23:08:08.130476554Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 7:19",
+  "book": "1-kings",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اور وہ مٹکیں جو برآمدے میں ستونوں کے سر پر تھیں، سوسن کا کام (تھیں)، چار ہاتھ۔",
+  "tokens": [
+    {
+      "surface": "וכתרת",
+      "gloss": "اور مٹکیں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "ستونوں"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کام"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "سوسن"
+    },
+    {
+      "surface": "באולם",
+      "gloss": "برآمدے میں"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ہاتھ"
+    }
+  ],
+  "timestamp": "2026-08-09T21:42:44.035048673Z",
+  "model": "glm-5.2"
+}

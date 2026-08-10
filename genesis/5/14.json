@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 5:14",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "اور قِینان کے سارے دن نو سو سال اور دس سال ہوئے، اور وہ مر گیا۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "اور ہوئے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "دن"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "قِینان کے"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دس"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "اور نو"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "اور وہ مر گیا"
+    }
+  ],
+  "timestamp": "2026-08-10T05:11:31.359159321Z",
+  "model": "glm-5.2"
+}

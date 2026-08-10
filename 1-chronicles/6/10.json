@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 6:10",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اور اَلقَنہ کے بیٹے ⟨تھے⟩ عَماسَی اور اَحیموت۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "اور … کے بیٹے"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "اَلقَنہ"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "عَماسَی"
+    },
+    {
+      "surface": "وאחימות",
+      "gloss": "اور اَحیموت"
+    }
+  ],
+  "timestamp": "2026-08-10T01:01:09.638849097Z",
+  "model": "glm-5.2"
+}

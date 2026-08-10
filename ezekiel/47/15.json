@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 47:15",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 47,
+  "translation": "اور یہ زمین کی سرحد ہے، شمالی طرف کے لیے: عظیم سمندر سے، حِتلون کے راستے سے، صفد کے داخلے تک۔",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "اور یہ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "طرف کے لیے"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "شمالی"
+    },
+    {
+      "surface": "מן",
+      "gloss": "سے"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "عظیم"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "راستے"
+    },
+    {
+      "surface": "חתלן",
+      "gloss": "حِتلون"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "داخلے تک"
+    },
+    {
+      "surface": "צדדה",
+      "gloss": "صفد"
+    }
+  ],
+  "timestamp": "2026-08-09T23:03:25.845157711Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 25:8",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "„اس لیے یاہویہ صباؤت یوں فرماتا ہے: چونکہ تم نے میری باتوں کو ⟨את⟩ نہیں سنا،",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "اس لیے"
+    },
+    {
+      "surface": "כה",
+      "gloss": "یوں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فرماتا ہے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صباؤت"
+    },
+    {
+      "surface": "יען",
+      "gloss": "چونکہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "تم نے سنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میری باتوں کو"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "میری باتوں"
+    }
+  ],
+  "timestamp": "2026-08-10T08:52:40.289713696Z",
+  "model": "glm-5.2"
+}

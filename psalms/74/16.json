@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 74,
+  "translation": "تابندگی کا دن ⟨تیرا ہے⟩، اور رات بھی ⟨تیری ہے⟩؛ تو نے روشنی اور سورج کو تیار کیا ہے۔",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "تیرا"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "אף",
+      "gloss": "بھی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیری"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "رات"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو نے"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "تیار کیا ہے"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "روشنی"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "اور سورج کو"
+    }
+  ],
+  "timestamp": "2026-08-10T07:51:16.107612426Z",
+  "model": "glm-5.2"
+}

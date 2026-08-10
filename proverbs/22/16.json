@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 22:16",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "دباؤ کرنے والا کمزور کو اس کے لیے بڑھانے، دینے والا امیر کو، صرف کمی کے لیے۔",
+  "tokens": [
+    {
+      "surface": "עשק",
+      "gloss": "دباؤ کرنے والا"
+    },
+    {
+      "surface": "דל",
+      "gloss": "کمزور کو"
+    },
+    {
+      "surface": "להרבות",
+      "gloss": "بڑھانے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اس کے لیے"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دینے والا"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "امیر کو"
+    },
+    {
+      "surface": "אך",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "کمی کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:05:31.565721940Z",
+  "model": "glm-5.2"
+}

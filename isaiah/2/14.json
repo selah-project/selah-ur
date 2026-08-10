@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 2:14",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور تمام اُونچے پہاڑوں پر، اور تمام بلند پہاڑیوں پر،",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "اور پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "پہاڑوں"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "اُونچے"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "اور پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "پہاڑیوں"
+    },
+    {
+      "surface": "הנשאות",
+      "gloss": "بلند"
+    }
+  ],
+  "timestamp": "2026-08-10T07:21:28.228219566Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 2:4",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور وہ گھر جو میں بناتا ہوں ⟨⟨بہت⟩⟩ بڑا ہے، کیونکہ ہمارا الوہیم تمام دیوتاؤں سے بڑا ہے۔",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "اور وہ گھر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "بناتا ہوں"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "بڑا ہے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "بڑا ہے"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ہمارا الوہیم"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "تمام ... سے"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "دیوتاؤں"
+    }
+  ],
+  "timestamp": "2026-08-10T07:54:09.272570269Z",
+  "model": "glm-5.2"
+}

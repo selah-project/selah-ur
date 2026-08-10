@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 27:5",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "یا ⟩ہر وہ⟩ جو میرے قلعے کو پکڑ لے، وہ میرے ساتھ سلامتی کرے— سلامتی وہ میرے ساتھ کرے۔",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "יחזק",
+      "gloss": "پکڑ لے"
+    },
+    {
+      "surface": "במעוזי",
+      "gloss": "میرے قلعے کو"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کرے"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے ساتھ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتی"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کرے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے ساتھ"
+    }
+  ],
+  "timestamp": "2026-08-09T22:09:03.040533486Z",
+  "model": "glm-5.2"
+}

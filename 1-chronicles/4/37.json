@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 4:37",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "و زیزا بن شِفعی بن آلّون بن یِدایا بن شِمری بن شِم‌عیاہ۔",
+  "tokens": [
+    {
+      "surface": "וזיזא",
+      "gloss": "اور زیزا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "שפעי",
+      "gloss": "شِفعی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "آلّون"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "یِدایا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "شِمری"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "شِم‌عیاہ"
+    }
+  ],
+  "timestamp": "2026-08-10T01:00:25.306099897Z",
+  "model": "glm-5.2"
+}

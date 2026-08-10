@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "اور الوہیم نے ⟨אתם⟩ فلکِ آسمان میں رکھا، تاکہ ⟨وہ⟩ زمین پر روشنی دیں۔",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "اور رکھا"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "اُنہیں"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "فلک میں"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمان کے"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "تاکہ روشنی دیں"
+    },
+    {
+      "surface": "عל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-09T19:33:29.752428183Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 97,
+  "ref": "psalms 119:97",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 119,
+  "translation": "کِتنا میں نے تیری توریت سے محبت کی ہے! سارا دن وہ میری سوچ بچار ہے۔",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "کِتنا"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "میں نے محبت کی ہے"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "تیری توریت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "היא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "שיחתי",
+      "gloss": "میری سوچ بچار"
+    }
+  ],
+  "timestamp": "2026-08-09T23:53:08.650936498Z",
+  "model": "glm-5.2"
+}

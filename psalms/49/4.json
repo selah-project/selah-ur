@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 49,
+  "translation": "میرا منہ حکمتاں بولے گا، اور میرے دل کا غور فہم ⟨ہوگا⟩۔",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "میرا منہ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "بولے گا"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "حکمتاں"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "اور غور"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "میرے دل کا"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "فہم"
+    }
+  ],
+  "timestamp": "2026-08-10T06:30:00.254882779Z",
+  "model": "glm-5.2"
+}

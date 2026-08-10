@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 32,
+  "translation": "اور اہرون نے کہا: میرے آقا کا غصہ بھڑک نہ اٹھے؛ ⟨تو⟩ ⟨את⟩ اس قوم کو جانتا ہے کہ وہ برائی میں ہے۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "بھڑک اٹھے"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غصہ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "میرے آقا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨تو⟩"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "جانتا ہے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اس قوم کو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "اس قوم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "برائی میں"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T05:22:25.760590512Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 8:3",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اور شِلوموہ حَمات صُوبہ گیا اور اس پر غالب ہوا۔",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "اور گیا"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شِلوموہ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حَمات"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "صُوبہ"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "اور مضبوطی کی"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "اس پر"
+    }
+  ],
+  "timestamp": "2026-08-10T01:16:40.339940452Z",
+  "model": "glm-5.2"
+}

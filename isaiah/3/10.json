@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "کہو صدّیق کے بارے میں کہ بھلائی ہے، کیونکہ وہ اپنے اعمال کا پھل کھائیں گے۔",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "کہو"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صدّیق"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کی"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "بھلائی ہے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "پھل"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "ان کے اعمال کا"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "کھائیں گے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:01:25.519145520Z",
+  "model": "glm-5.2"
+}

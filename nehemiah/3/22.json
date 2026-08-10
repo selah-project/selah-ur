@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 3:22",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "اور اُن کے بعد کُاہِنوں نے، گردوں کے مردوں نے، مُحکم کیا۔",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "اور اُن کے بعد"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "مُحکم کیا"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کُاہِنوں نے"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "مردوں نے"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "گردوں کے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:52:11.594243447Z",
+  "model": "glm-5.2"
+}

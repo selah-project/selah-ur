@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "دروازوں کے پاس، شہر کے منہ کے پاس، داخلے کے پاس، وہ چیختی ہے۔",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "کے پاس"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "دروازوں"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "کے منہ کے پاس"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "داخلے"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "کھلنے"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "وہ چیختی ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:01:12.916566643Z",
+  "model": "glm-5.2"
+}

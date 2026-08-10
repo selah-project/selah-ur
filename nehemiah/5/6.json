@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 5:6",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "اور مجھے بہت غصہ آیا، جیسے ہی میں نے سنا ⟨את⟩ ان کی چیخ اور ⟨את⟩ یہ باتیں۔",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "اور جلایا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مجھے"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیسے ہی"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "میں نے سنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ان کی چیخ کو"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "ان کی چیخ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "یہ باتوں کو"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "یہ باتیں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "یہ"
+    }
+  ],
+  "timestamp": "2026-08-10T07:34:44.767067973Z",
+  "model": "glm-5.2"
+}

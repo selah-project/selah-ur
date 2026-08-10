@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "کورس کے رہنما کے لیے۔ داوِد की मन्ज़िल۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "کورس کے رہنما کے لیے"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مز모르"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد की मन्ज़िल"
+    }
+  ],
+  "timestamp": "2026-08-10T06:28:51.275652978Z",
+  "model": "glm-5.2"
+}

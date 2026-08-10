@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 7:27",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "شیول کے راستے — اُس کا گھر، موت کے خانوں کی طرف اُترتی ہیں۔",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "کے راستے"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شیول"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "اُس کا گھر"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "اُترتی ہیں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "طرف"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "خانوں"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت کے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:00:48.950493206Z",
+  "model": "glm-5.2"
+}

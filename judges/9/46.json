@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "judges 9:46",
+  "book": "judges",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "اور میگدل شَکیم کے سب مالکوں نے سنا، اور بیت ایل بَریت کے قلعے میں داخل ہوئے۔",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "اور سنے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "مالکوں نے"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "میگدل"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شَکیم"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "اور داخل ہوئے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "میں"
+    },
+    {
+      "surface": "צריח",
+      "gloss": "قلعے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "بَریت"
+    }
+  ],
+  "timestamp": "2026-08-09T21:12:14.621757880Z",
+  "model": "glm-5.2"
+}

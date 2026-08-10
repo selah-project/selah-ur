@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "اور سورج طلوع کرتا ہے اور سورج ڈھلتا ہے، اور اپنی جگہ کی طرف ہانپتا ہے، وہ ⟨وہی⟩ طلوع کرتا ہے وہیں۔",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "اور طلوع کرتا ہے"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سورج"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "اور آتا ہے"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سورج"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "اور کی طرف"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "اس کی جگہ"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "ہانپتا ہے"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "طلوع کرتا ہے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "وہیں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:33:18.928414533Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "قادِش کا بادشاہ، ایک؛ کرمل کے یُقنَعام کا بادشاہ، ایک۔",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قادِش"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "یُقنَعام"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "کرمل کے"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    }
+  ],
+  "timestamp": "2026-08-10T05:37:05.665000187Z",
+  "model": "glm-5.2"
+}

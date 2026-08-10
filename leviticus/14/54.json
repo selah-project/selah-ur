@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 14:54",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "یہ ہے تورات ہر طرح کے ہا ہے، چاہے وہ برص ہو چاہے نَتِق۔",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ہے تورات"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ہر طرح کے"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ہا ہے، چاہے وہ"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "برص"
+    },
+    {
+      "surface": "ולנתק",
+      "gloss": "ہو چاہے نَتِق"
+    }
+  ],
+  "timestamp": "2026-08-10T08:37:41.342468264Z",
+  "model": "glm-5.2"
+}

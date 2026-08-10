@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "اور تم پھلو اور بڑھو، زمین میں بھرا دو اور اس میں بڑھو۔",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "اور تم"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "پھلو"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "اور بڑھو"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "بھرا دو"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین میں"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "اور بڑھو"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اس میں"
+    }
+  ],
+  "timestamp": "2026-08-09T19:35:16.249281160Z",
+  "model": "glm-5.2"
+}

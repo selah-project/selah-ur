@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 6:22",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اور عُزّی‌ایل کے بیٹے تھے مِشاایل، اِلتسافن اور سِتری۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "اور بیٹے"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "عُزّی‌ایل"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "مِشاایل"
+    },
+    {
+      "surface": "ואלצפן",
+      "gloss": "اِلتسافن"
+    },
+    {
+      "surface": "וסתרי",
+      "gloss": "سِتری"
+    }
+  ],
+  "timestamp": "2026-08-09T19:55:43.570276295Z",
+  "model": "glm-5.2"
+}

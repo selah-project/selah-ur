@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 36:19",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 36,
+  "translation": "اور سرداروں نے باروخ سے کہا: جا، تو چھپ جا، تو اور یِرْمَیَہُو، اور کوئی آدمی نہ جانے تم کہاں ہو۔",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "سرداروں نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "باروخ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "جا"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "چھپ جا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "וירמיהו",
+      "gloss": "اور یِرْمَیَہُو"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "اور کوئی آدمی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "جانے"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "کہاں"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تم ہو"
+    }
+  ],
+  "timestamp": "2026-08-09T22:39:25.615564869Z",
+  "model": "glm-5.2"
+}

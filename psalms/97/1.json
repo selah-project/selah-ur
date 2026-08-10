@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 97:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 97,
+  "translation": "یاہویہ نے بادشاہی کی، خوش ہو زمین، خوشیاں منائیں بہت سے جزائر۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "نے بادشاہی کی"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "خوش ہو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "خوشیاں منائیں"
+    },
+    {
+      "surface": "איים",
+      "gloss": "جزائر"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "بہت سے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:44:32.048478173Z",
+  "model": "glm-5.2"
+}

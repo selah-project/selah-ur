@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 36:7",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 36,
+  "translation": "اور ⟨وہ⟩ کام سارے کام کو کرنے کے لیے کافی تھا، اور بچ گیا۔",
+  "tokens": [
+    {
+      "surface": "והמלאכה",
+      "gloss": "اور کام"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "تھا"
+    },
+    {
+      "surface": "דים",
+      "gloss": "کافی"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "המלאכה",
+      "gloss": "کام کو"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کرنے کے لیے"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "کام کو"
+    },
+    {
+      "surface": "והותר",
+      "gloss": "اور بچ گیا"
+    }
+  ],
+  "timestamp": "2026-08-09T20:12:39.507865459Z",
+  "model": "glm-5.2"
+}

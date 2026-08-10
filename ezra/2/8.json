@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 2:8",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "زَتُّوآ کے بیٹے نو ⟨سو⟩ اور چالیس اور پانچ۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "زَتُّوآ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نو"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "⟨سو⟩"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "اور چالیس"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "اور پانچ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:47:25.160465874Z",
+  "model": "glm-5.2"
+}

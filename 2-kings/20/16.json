@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 20:16",
+  "book": "2-kings",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "اور یِشَعیاہو نے خِزقیاہو سے کہا، سُن⟨و⟩ یاہویہ کا فیصلہ۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "یِشَعیاہو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "خِزقیاہو"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سُن"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "فیصلہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    }
+  ],
+  "timestamp": "2026-08-10T07:45:34.371260722Z",
+  "model": "glm-5.2"
+}

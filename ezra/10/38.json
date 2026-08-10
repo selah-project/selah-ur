@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezra 10:38",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "اَور بانی، اَور بِنّوی، شِمعی،",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "اَور بانی"
+    },
+    {
+      "surface": "ובנוי",
+      "gloss": "اَور بِنّوی"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شِمعی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:49:59.245009795Z",
+  "model": "glm-5.2"
+}

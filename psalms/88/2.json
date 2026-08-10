@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 88,
+  "translation": "یاہویہ، میری نجات کے الوہیم، دن رات میں نے آپ کے سامنے چیخا،",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "کے الوہیم"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "میری نجات"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "میں نے چیخا"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "رات میں"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "آپ کے سامنے"
+    }
+  ],
+  "timestamp": "2026-08-10T08:59:22.517071896Z",
+  "model": "glm-5.2"
+}

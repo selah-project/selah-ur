@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 28:9",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 28,
+  "translation": "اور تو ⟨את⟩ دو شہم پتھر لے گا، اور ان پر یِسرائیل کے بیٹوں کے نام کھودھے گا۔",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "اور تو لے گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دو شہم پتھر"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "پتھر"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "شہم"
+    },
+    {
+      "surface": "ופתחת",
+      "gloss": "اور تو کھودھے گا"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ان پر"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "نام"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹوں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-10T05:21:46.091117386Z",
+  "model": "glm-5.2"
+}

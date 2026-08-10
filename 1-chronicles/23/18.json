@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 23:18",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "یِصْهار کے بیٹے: شَلُومِیت سَردار۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "یِصْهار"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "شَلُومِیت"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سَردار"
+    }
+  ],
+  "timestamp": "2026-08-10T01:09:52.276779129Z",
+  "model": "glm-5.2"
+}

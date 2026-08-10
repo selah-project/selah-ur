@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور دوسرے دریا کا نام گِیحون ہے، وہ ⟨ہے⟩ جو ⟨את⟩ ساری زمین کُوش کو گھیر لیتا ہے۔",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "اور نام"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "دریا کا"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دوسرے"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "گِیحون"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "گھیر لیتا ہے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ساری زمین کوش کو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "کُوش"
+    }
+  ],
+  "timestamp": "2026-08-09T19:33:44.033658467Z",
+  "model": "glm-5.2"
+}

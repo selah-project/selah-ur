@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 4:16",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "اور یَہَلّیل ایل کے بیٹے ⟨تھے⟩ زیف، زیفاہ، تِریاہ اور اَشْر ایل۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "اور بیٹے"
+    },
+    {
+      "surface": "יהללאל",
+      "gloss": "یَہَلّیل ایل"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "زیف"
+    },
+    {
+      "surface": "וזיפה",
+      "gloss": "اور زیفاہ"
+    },
+    {
+      "surface": "תיריא",
+      "gloss": "تِریاہ"
+    },
+    {
+      "surface": "ואשראל",
+      "gloss": "اور اَشْر ایل"
+    }
+  ],
+  "timestamp": "2026-08-10T01:00:25.925605956Z",
+  "model": "glm-5.2"
+}

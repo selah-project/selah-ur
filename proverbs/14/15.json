@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 14:15",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "سادہ لوح ہر بات پر یقین کرتا ہے، مگر ہوشیار اپنے قدم کو سمجھتا ہے۔",
+  "tokens": [
+    {
+      "surface": "פתי",
+      "gloss": "سادہ لوح"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "یقین کرتا ہے"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بات پر"
+    },
+    {
+      "surface": "וערום",
+      "gloss": "مگر ہوشیار"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "سمجھتا ہے"
+    },
+    {
+      "surface": "לאשרו",
+      "gloss": "اپنے قدم کو"
+    }
+  ],
+  "timestamp": "2026-08-10T00:02:39.398455103Z",
+  "model": "glm-5.2"
+}

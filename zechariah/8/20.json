@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "zechariah 8:20",
+  "book": "zechariah",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "یوں فرماتا ہے یاہویہ صباؤت: ابھی ایسا ہوگا کہ قومیں آئیں گی، اور بہت سی بستیوں کے رہنے والے۔",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "یوں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فرماتا ہے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صباؤت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ابھی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "آئیں گے"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قومیں"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "اور رہنے والے"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "بستیوں کے"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "بہت سی"
+    }
+  ],
+  "timestamp": "2026-08-09T23:20:13.823023229Z",
+  "model": "glm-5.2"
+}

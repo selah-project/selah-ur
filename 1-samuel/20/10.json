@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "اور داوِد نے یِہوناتان سے کہا: مجھے کون بتائے گا؟ یا تیرا باپ تجھے کیا سخت جواب دے؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یِہوناتان"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "بتائے گا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مجھے"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "تجھے جواب دے"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "تیرا باپ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "سخت"
+    }
+  ],
+  "timestamp": "2026-08-10T07:18:03.982525197Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "اور ماخیر کو میں نے ⟨את⟩ گِلعاد دیا۔",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "اور ماخیر کو"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "میں نے دیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گِلعاد کو"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "گِلعاد"
+    }
+  ],
+  "timestamp": "2026-08-10T07:14:16.174225044Z",
+  "model": "glm-5.2"
+}

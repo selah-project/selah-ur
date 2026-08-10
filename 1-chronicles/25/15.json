@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 25:15",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "آٹھوا یِشَعیاهو ⟨کے لیے⟩، ⟨اس کے⟩ بیٹے اور ⟨اس کے⟩ بھائی، بارہ،",
+  "tokens": [
+    {
+      "surface": "השמיני",
+      "gloss": "آٹھوا"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "یِشَعیاهو"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "⟨اس کے⟩ بیٹے"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "اور ⟨اس کے⟩ بھائی"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "بارہ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-10T01:09:27.092718265Z",
+  "model": "glm-5.2"
+}

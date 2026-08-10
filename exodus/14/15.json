@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 14:15",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "اور یاہویہ نے موشے سے کہا: تم مجھ سے کیوں چِلاتے ہو؟ بنی یِسرائیل سے کہو، اور وہ چلیں۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "תצעק",
+      "gloss": "تم چِلاتے ہو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مجھ سے"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کہو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ויסעו",
+      "gloss": "اور وہ چلیں"
+    }
+  ],
+  "timestamp": "2026-08-10T07:09:39.403144215Z",
+  "model": "glm-5.2"
+}

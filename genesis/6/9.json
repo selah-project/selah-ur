@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 6:9",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "یہ ہیں نُوح کی نسلیں: نُوح ایک راستباز آدمی تھا، اپنی نسلوں میں بےعیب تھا; نُوح ⟨את⟩ الوہیم کے ساتھ چلا۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "نسلیں"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُوح"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُوح"
+    },
+    {
+      "surface": "איש",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راستباز"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "بےعیب"
+    },
+    {
+      "surface": "היה",
+      "gloss": "تھا"
+    },
+    {
+      "surface": "בדרתיו",
+      "gloss": "اپنی نسلوں میں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الوہیم"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "התהלך",
+      "gloss": "چلا"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُوح"
+    }
+  ],
+  "timestamp": "2026-08-09T19:34:58.994150152Z",
+  "model": "glm-5.2"
+}

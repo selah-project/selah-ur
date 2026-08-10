@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 42,
+  "translation": "اور وہ نہیں جانتے تھے کہ یوسف ⟨سنتا ہے⟩، کیونکہ ⟨وہ⟩ مترجم ان کے درمیان تھا۔",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "اور وہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "جانتے تھے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سنتا ہے"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "⟨وہ⟩ مترجم"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "ان کے درمیان ⟨تھا⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T07:55:23.555061325Z",
+  "model": "glm-5.2"
+}

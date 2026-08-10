@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "تو میں یروشلایم (یروشلم) آیا، اور وہاں تین دن ⟨رہا⟩۔",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "تو میں آیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کو"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم (یروشلم)"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "اور میں تھا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "وہاں"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دن"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "تین"
+    }
+  ],
+  "timestamp": "2026-08-10T07:53:21.307224360Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 28:16",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 28,
+  "translation": "اسی وقت بادشاہ اَخاز نے اَشّور کے بادشاہوں کی طرف اپنے مدد کے لیے ⟩پیغام⟫ بھیجا۔",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "اسی وقت"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "اسی"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "بھیجا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ نے"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "اَخاز"
+    },
+    {
+      "surface": "על",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "بادشاہوں"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "اَشّور کے"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "مدد کے لیے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اپنے"
+    }
+  ],
+  "timestamp": "2026-08-10T01:24:31.273268393Z",
+  "model": "glm-5.2"
+}

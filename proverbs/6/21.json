@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 6:21",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "انہیں اپنے دل پر ہمیشہ باندھ، انہیں اپنے گلو کے گرد لپٹا۔",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "انہیں باندھ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "تیرے دل"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "ענדם",
+      "gloss": "انہیں لپٹا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "גרגרתך",
+      "gloss": "تیرے گلے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:59:58.650768016Z",
+  "model": "glm-5.2"
+}

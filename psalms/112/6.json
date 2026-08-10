@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 112,
+  "translation": "کیونکہ ⟨وہ⟩ ہمیشہ ہلایا نہیں جائے گا — ہمیشہ کے یاد کے لیے صالح رہے گا۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "ہلایا جائے گا"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "یاد کے لیے"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ کے"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "رہے گا"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صالح"
+    }
+  ],
+  "timestamp": "2026-08-09T23:49:42.615580702Z",
+  "model": "glm-5.2"
+}

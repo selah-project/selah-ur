@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 1:16",
+  "book": "zephaniah",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "شُور کا دن اور ہنگامے کا، ⟨הערים⟩ محصور شہروں پر اور ⟨הפנות⟩ اُونچے کونوں پر۔",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "شُور"
+    },
+    {
+      "surface": "ותרועה",
+      "gloss": "اور ہنگامے کا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "⟨הערים⟩"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "محصور شہروں"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "اور پر"
+    },
+    {
+      "surface": "הפנות",
+      "gloss": "⟨הפנות⟩"
+    },
+    {
+      "surface": "הגבהות",
+      "gloss": "اُونچے کونوں"
+    }
+  ],
+  "timestamp": "2026-08-10T08:01:29.099287954Z",
+  "model": "glm-5.2"
+}

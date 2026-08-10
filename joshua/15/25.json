@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 15:25",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 15,
+  "translation": "اور خَصور حَدَتہ، اور قِریوت خَصرون—وہی خَصور ہے۔",
+  "tokens": [
+    {
+      "surface": "וחצור",
+      "gloss": "اور خَصور"
+    },
+    {
+      "surface": "חדתה",
+      "gloss": "حَدَتہ"
+    },
+    {
+      "surface": "וקריות",
+      "gloss": "اور قِریوت"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "خَصرون"
+    },
+    {
+      "surface": "היא",
+      "gloss": "وہی"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "خَصور"
+    }
+  ],
+  "timestamp": "2026-08-09T21:02:39.994870224Z",
+  "model": "glm-5.2"
+}

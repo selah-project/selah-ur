@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "lamentations 3:39",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "کیوں شکایت کرے کوئی زندہ انسان، ایک آدمی اپنے گناہ کے بدلے؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "יתאונן",
+      "gloss": "شکایت کرے"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زندہ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ایک آدمی"
+    },
+    {
+      "surface": "על",
+      "gloss": "کے بدلے"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "اپنے گناہ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:29:43.378204072Z",
+  "model": "glm-5.2"
+}

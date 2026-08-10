@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 21:12",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "وہاں سے روانہ ہوئے اور وادی زَرَد میں ڈیرے ڈالے۔",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "وہاں سے"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "روانہ ہوئے"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "اور ڈیرے ڈالے"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "وادی میں"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "زَرَد"
+    }
+  ],
+  "timestamp": "2026-08-09T20:33:49.276883730Z",
+  "model": "glm-5.2"
+}

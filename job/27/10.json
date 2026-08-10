@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 27:10",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "یا کیا وہ شدّای پر لطف اندوز ہوگا، کیا وہ ہر وقت الوہ کو پُکارے گا؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدّای"
+    },
+    {
+      "surface": "יתענג",
+      "gloss": "لطف اندوز ہوگا"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "پُکارے گا"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "الوہ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    }
+  ],
+  "timestamp": "2026-08-10T00:18:43.393715301Z",
+  "model": "glm-5.2"
+}

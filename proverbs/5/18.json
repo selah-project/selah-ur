@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 5:18",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "تیرا چشمہ مبارک ہو، اور اپنی جوانی کی بیوی سے خوش ہو۔",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ہو"
+    },
+    {
+      "surface": "מקורך",
+      "gloss": "تیرا چشمہ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "مبارک"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "اور خوش ہو"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "بیوی سے"
+    },
+    {
+      "surface": "נעורך",
+      "gloss": "تیری جوانی کی"
+    }
+  ],
+  "timestamp": "2026-08-09T23:57:58.501446804Z",
+  "model": "glm-5.2"
+}

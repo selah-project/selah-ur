@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 58,
+  "translation": "ان کا زہر سانپ کے زہر کی مانند ہے — جیسے بہرا افعی جو اپنا کان بند کر لیتا ہے،",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "زہر"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ان کا"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "کے مانند"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "زہر"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "سانپ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "جیسے"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "افعی"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "بہرا"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "بند کر لیتا ہے"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "اپنا کان"
+    }
+  ],
+  "timestamp": "2026-08-09T23:35:00.174221718Z",
+  "model": "glm-5.2"
+}

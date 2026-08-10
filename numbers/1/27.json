@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 1:27",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "ان کے شمار شدے، یہوداہ کے قبیلے کے لیے: چار اور ستر ہزار اور چھ سو۔",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ان کے شمار شدہ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "قبیلے کے لیے"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "اور ستر"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "اور چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    }
+  ],
+  "timestamp": "2026-08-10T05:26:36.497117968Z",
+  "model": "glm-5.2"
+}

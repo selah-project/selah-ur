@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "تیرے لیے کوئی اور الوہیم میرے منہ کے سامنے نہ ہوں گے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوں گے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے لیے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "اور"
+    },
+    {
+      "surface": "על",
+      "gloss": "سامنے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "میرے منہ کے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:02:13.906912025Z",
+  "model": "glm-5.2"
+}

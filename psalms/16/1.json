@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 16,
+  "translation": "مِختوم از داوِد۔ مجھے بچا، اَے ایل، کیونکہ میں نے تیرے پناہ لی ہے۔",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "مِختوم"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "از داوِد"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "مجھے بچا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اَے ایل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "میں نے پناہ لی ہے"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تیرے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:28:57.134311350Z",
+  "model": "glm-5.2"
+}

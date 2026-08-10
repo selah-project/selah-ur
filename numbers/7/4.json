@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 7:4",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اور یاہویہ نے موشہ سے کہا:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہنا:"
+    }
+  ],
+  "timestamp": "2026-08-09T20:27:51.504217727Z",
+  "model": "glm-5.2"
+}

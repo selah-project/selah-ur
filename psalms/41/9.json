@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 41,
+  "translation": "بے‌مقابل بات اس میں انڈیلی گئی ہے، اور ⟨جب⟩ وہ لیٹا ہے تو ⟨وہ⟩ پھر نہ اُٹھے گا۔",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "بات"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "بے‌مقابل"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "انڈیلی گئی"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اس میں"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "اور ⟨جب⟩"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "وہ لیٹا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "پھر"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "اُٹھے گا"
+    }
+  ],
+  "timestamp": "2026-08-09T23:31:40.137160445Z",
+  "model": "glm-5.2"
+}

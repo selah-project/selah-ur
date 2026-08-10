@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "اور موشے نے اس دن ⟨את⟩ قوم کو حکم دیا، کہہ کر:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "اور حکم دیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اس"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہہ کر"
+    }
+  ],
+  "timestamp": "2026-08-10T07:14:43.758771157Z",
+  "model": "glm-5.2"
+}

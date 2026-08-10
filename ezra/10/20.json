@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 10:20",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "اور اِمر کے بیٹوں میں سے: حننی اور زبدیاہ۔",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "اور بیٹوں میں سے"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "اِمر کے"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "حننی"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "اور زبدیاہ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:50:20.096003081Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "تیرا کپڑا تیرے اوپر سے پرانا نہیں ہوا، اور تیرا پور نہیں سوجا — یہ چالیس برس ⟨تک⟩۔",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "تیرا کپڑا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "پرانا ہوا"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "تیرے اوپر سے"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "اور تیرا پور"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "سوجا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چالیس"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "برس ⟨تک⟩"
+    }
+  ],
+  "timestamp": "2026-08-09T20:46:22.140265274Z",
+  "model": "glm-5.2"
+}

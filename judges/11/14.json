@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 11:14",
+  "book": "judges",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور یِفتاح نے مزید فرشتے بَنی عَمّون کے بادشاہ کے پاس بھیجے۔",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "اور مزید"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "پھر"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "یِفتاح نے"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "بھیجے"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "فرشتے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پاس"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَنی"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عَمّون کے"
+    }
+  ],
+  "timestamp": "2026-08-09T21:13:08.956008086Z",
+  "model": "glm-5.2"
+}

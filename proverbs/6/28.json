@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 6:28",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "یا اگر کوئی انگاروں پر چلتا ہے، تو کیا اُس کے پاؤں نہ جلیں گے؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "یا اگر"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "چلتا ہے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "کوئی"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הגחלים",
+      "gloss": "انگاروں"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "اور اُس کے پاؤں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תכוינה",
+      "gloss": "جلیں گے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:00:55.171001975Z",
+  "model": "glm-5.2"
+}

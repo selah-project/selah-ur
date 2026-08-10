@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "کل کے دن میں فخر مت کر، کیونکہ تو نہیں جانتا کہ ایک دن کیا جنے والا ہے۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مت"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "فخر کر"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "کے دن میں"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "کل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "تو جانتا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "جنے والا ہے"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ایک دن"
+    }
+  ],
+  "timestamp": "2026-08-10T00:08:54.030027813Z",
+  "model": "glm-5.2"
+}

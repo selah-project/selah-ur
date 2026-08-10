@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 27:6",
+  "book": "1-samuel",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "اسی دن اَخِیش نے اسے ⟨את⟩ صِقلگ دے دی؛ اِس لیے صِقلگ یہوداہ کے بادشاہوں کا رہا، اِس دن تک۔",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "تو اس نے دی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اسے"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "اَخِیش"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اسی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صِقلگ"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "صِقلگ"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "اسی لیے"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "وہ رہی"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "صِقلگ"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "بادشاہوں کے لیے"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "היום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اسی"
+    }
+  ],
+  "timestamp": "2026-08-09T21:29:39.043066462Z",
+  "model": "glm-5.2"
+}

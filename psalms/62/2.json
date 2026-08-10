@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 62,
+  "translation": "صرف الوہیم ہی کی طرف میری جان خاموش ہے؛ اسی سے میری نجات ہے۔",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "خاموش ہے"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اسی سے"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "میری نجات ہے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:36:28.519155741Z",
+  "model": "glm-5.2"
+}

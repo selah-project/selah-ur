@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 33:16",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 33,
+  "translation": "تو اسی دن ایساو اپنے راستے پر شعیرہ لوٹ گیا۔",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "تو ... لوٹ گیا"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اسی"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ایساو"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "اپنے راستے پر"
+    },
+    {
+      "surface": "שעירה",
+      "gloss": "شعیرہ"
+    }
+  ],
+  "timestamp": "2026-08-09T19:47:08.253518312Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 30:12",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 30,
+  "translation": "اور زِلپہ، لیاہ کی لونڈی، نے یَعقوب کو دوسرا بیٹا جنم دیا۔",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "اور جنم دیا"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "زِلپہ"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "لونڈی"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لیاہ کی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دوسرا"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "یَعقوب کو"
+    }
+  ],
+  "timestamp": "2026-08-09T19:43:56.175500929Z",
+  "model": "glm-5.2"
+}

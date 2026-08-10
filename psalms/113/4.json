@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 113:4",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 113,
+  "translation": "بلند ہے یاہویہ سب قوموں پر، اور اس کا جلال آسمانوں سے بالاتر ہے۔",
+  "tokens": [
+    {
+      "surface": "רם",
+      "gloss": "بلند ہے"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قوموں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سے بالاتر"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمانوں"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "اس کا جلال"
+    }
+  ],
+  "timestamp": "2026-08-09T23:49:33.448702342Z",
+  "model": "glm-5.2"
+}

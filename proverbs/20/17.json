@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 20:17",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "دھوکے کی روٹی آدمی کو بھلی لگتی ہے، اور بعد میں اس کا منہ بجری سے بھر جائے گا۔",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "بھلی لگتی ہے"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "آدمی کو"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "دھوکے کی"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "اور بعد میں"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "بھر جائے گا"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "اس کا منہ"
+    },
+    {
+      "surface": "חצץ",
+      "gloss": "بجری سے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:32:19.689357034Z",
+  "model": "glm-5.2"
+}

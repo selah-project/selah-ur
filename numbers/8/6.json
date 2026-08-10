@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "تو ⟨تو⟩ ہا لوییم کو بَنی یِسرائیل کے درمیان سے لے، اور ⟨את⟩ انہیں پاک کر۔",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "تو لے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہا لوییم کو"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ہا لوییم"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "درمیان سے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَنی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "اور پاک کر"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ انہیں"
+    }
+  ],
+  "timestamp": "2026-08-10T07:12:25.834011752Z",
+  "model": "glm-5.2"
+}

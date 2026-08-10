@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اور ⟨اس نے⟩ ذبح کیا، اور موشے نے ⟨את⟩ خون کو قربان گاہ کے چاروں طرف چھڑکا۔",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "اور ذبح کیا"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "اور چھڑکا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خون"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "خون"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قربان گاہ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چاروں طرف"
+    }
+  ],
+  "timestamp": "2026-08-09T20:17:41.551557812Z",
+  "model": "glm-5.2"
+}

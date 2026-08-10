@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 1:13",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "لِاَشِر، پَگعیل بَن عُکْران۔",
+  "tokens": [
+    {
+      "surface": "לאשר",
+      "gloss": "لِاَشِر"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "پَگعیل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بَن"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "عُکْران"
+    }
+  ],
+  "timestamp": "2026-08-09T20:25:30.221716156Z",
+  "model": "glm-5.2"
+}

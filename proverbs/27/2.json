@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "اجنبی تجھہ تعریف کرے اور نہ تیرا منہ، غیر قوم اور نہ تیری ہونٹیں۔",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "تجھہ تعریف کرے"
+    },
+    {
+      "surface": "זר",
+      "gloss": "اجنبی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "تیرا منہ"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "غیر قوم"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "اور مت"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "تیری ہونٹیں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:08:54.030272262Z",
+  "model": "glm-5.2"
+}

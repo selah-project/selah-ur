@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 44:27",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 44,
+  "translation": "اور تیرے خادم نے میرے باپ نے ہم سے کہا: تم جانتے ہو کہ میری بیوی نے مجھے دو ⟨بیٹے⟩ جنے ہیں،",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "تیرے خادم نے"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "میرے باپ نے"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ہم سے"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تم"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "جانتے ہو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "جنے ہیں"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مجھے"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "میری بیوی نے"
+    }
+  ],
+  "timestamp": "2026-08-09T19:52:23.153638181Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 38:28",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 38,
+  "translation": "کیا بارش کا کوئی باپ ہے؟ یا کِس نے شبنم کے قطرے پیدا کیے؟",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "کیا ہے"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "بارش کے لیے"
+    },
+    {
+      "surface": "אב",
+      "gloss": "باپ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کِس نے"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیدا کیے"
+    },
+    {
+      "surface": "אגלי",
+      "gloss": "قطرے"
+    },
+    {
+      "surface": "טל",
+      "gloss": "شبنم"
+    }
+  ],
+  "timestamp": "2026-08-10T00:23:51.668372158Z",
+  "model": "glm-5.2"
+}

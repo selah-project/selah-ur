@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "اور کوئی بھی اجنبی مقدس نہ کھائے گا؛ کاہن کا مقیم اجنبی یا مزدور مقدس نہ کھائے گا۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "اور کوئی بھی"
+    },
+    {
+      "surface": "זר",
+      "gloss": "اجنبی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھائے گا"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "مقیم اجنبی"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاہن کا"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "یا مزدور"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھائے گا"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدس"
+    }
+  ],
+  "timestamp": "2026-08-09T20:22:17.201415091Z",
+  "model": "glm-5.2"
+}

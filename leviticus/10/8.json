@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 10:8",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "اور یاہویہ نے اہرون سے کلام کیا، ⟨یوں⟩ فرماتے ہوئے:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "اور کلام کیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "فرماتے ہوئے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:11:36.617979008Z",
+  "model": "glm-5.2"
+}

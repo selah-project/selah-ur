@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "ہم نے سرکشی کی ہے اور ہم نے بغاوت کی ہے؛ تو نے معاف نہیں کیا۔",
+  "tokens": [
+    {
+      "surface": "נַחְנוּ",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "פָּשַׁעְנוּ",
+      "gloss": "سرکشی کی ہے"
+    },
+    {
+      "surface": "וּמָרִינוּ",
+      "gloss": "اور بغاوت کی ہے"
+    },
+    {
+      "surface": "אַתָּה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "סָלָחְתָּ",
+      "gloss": "معاف کیا"
+    }
+  ],
+  "timestamp": "2026-08-10T06:42:40.256167343Z",
+  "model": "glm-5.2"
+}

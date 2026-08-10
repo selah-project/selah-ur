@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "haggai 2:11",
+  "book": "haggai",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "یاہویہ صباؤت یوں فرماتا ہے: اب ⟨את⟩ کاہنوں سے توریت کے بارے میں پوچھ، یوں:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "یوں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فرماتا ہے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صباؤت"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "پوچھ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کاہنوں"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہنوں"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "توریت"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "یوں"
+    }
+  ],
+  "timestamp": "2026-08-09T23:16:51.767217183Z",
+  "model": "glm-5.2"
+}

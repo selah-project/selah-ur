@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 3:33",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "لِمْراری — خاندانِ مَحْلی اور خاندانِ موشی؛ یہ ہیں خاندانِ مْراری۔",
+  "tokens": [
+    {
+      "surface": "למררי",
+      "gloss": "لِمْراری"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندانِ"
+    },
+    {
+      "surface": "המחלי",
+      "gloss": "مَحْلی"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "اور خاندانِ"
+    },
+    {
+      "surface": "המושי",
+      "gloss": "موشی"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ہیں"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندانِ"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مْراری"
+    }
+  ],
+  "timestamp": "2026-08-09T20:26:27.215694904Z",
+  "model": "glm-5.2"
+}

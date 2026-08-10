@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 27:2",
+  "book": "1-samuel",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "تو داوِد اُٹھا اور وہ ⟨وہ⟩ اپنے ساتھ چھھ سو آدمیوں سمیت گت کے بادشاہ ماعوک کے بیٹے اَخِیش کے پاس نکل گیا،",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "تو اُٹھا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "اور نکل گیا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "اور چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اُس کے ساتھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کے پاس"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "اَخِیش"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "מעוך",
+      "gloss": "ماعوک"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "גת",
+      "gloss": "گت"
+    }
+  ],
+  "timestamp": "2026-08-09T21:28:48.806053834Z",
+  "model": "glm-5.2"
+}

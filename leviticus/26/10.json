@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 26,
+  "translation": "اور تم پرانا پرانی کھاؤ گے، اور پرانے کو نئے کے سامنے سے نکال دو گے۔",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "اور تم کھاؤ گے"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "پرانا"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "بہت پرانا"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "اور پرانے کو"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "کے سامنے سے"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نئے"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "تم نکال دو گے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:24:40.677893760Z",
+  "model": "glm-5.2"
+}

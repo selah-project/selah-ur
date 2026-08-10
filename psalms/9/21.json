@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 9:21",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "یاہویہ، اُن پر دہشت رکھ؛ جانیں قومیں ⟨کہ⟩ ⟨وہ⟩ فانی انسان ہیں۔ سِلا۔",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "رکھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "دہشت"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اُن پر"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "جانیں"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قومیں"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "فانی انسان"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨وہ⟩"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلا"
+    }
+  ],
+  "timestamp": "2026-08-10T06:28:08.232780684Z",
+  "model": "glm-5.2"
+}

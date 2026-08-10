@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 69,
+  "translation": "اور میں نے بنا لیا میرا لباس ٹاٹ، اور میں ہو گیا ان کے لیے مثل۔",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "اور میں نے بنا لیا"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "میرا لباس"
+    },
+    {
+      "surface": "שק",
+      "gloss": "ٹاٹ"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "اور میں ہو گیا"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ان کے لیے"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "مثل"
+    }
+  ],
+  "timestamp": "2026-08-10T07:29:30.912488711Z",
+  "model": "glm-5.2"
+}

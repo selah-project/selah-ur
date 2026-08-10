@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 26,
+  "translation": "میں باطل کے آدمیوں کے ساتھ نہیں بیٹھا، اور چھپنے والوں کے ساتھ نہیں آتا۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "میں بیٹھا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "کے ساتھ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "آدمیوں"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "باطل"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "اور کے ساتھ"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "چھپنے والوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "آتا"
+    }
+  ],
+  "timestamp": "2026-08-09T23:28:30.248890817Z",
+  "model": "glm-5.2"
+}

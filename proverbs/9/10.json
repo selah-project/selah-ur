@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 9:10",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "حکمت کا آغاز یاہویہ کا خوف ہے، اور مقدسوں کا معرفت ہے سمجھ۔",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "آغاز"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت کا"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "خوف"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کا"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "اور معرفت"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "مقدسوں کا"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "سمجھ ہے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:59:54.793011328Z",
+  "model": "glm-5.2"
+}

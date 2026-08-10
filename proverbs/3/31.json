@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 3:31",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "ظلم کرنے والے پر رشک نہ کرو، اور اس کی کسی راہ کو نہ چنو۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "رشک نہ کرو"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "پر"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ظلم کرنے والے"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "چنو"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "کسی بھی"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "اس کی راہ کو"
+    }
+  ],
+  "timestamp": "2026-08-09T23:58:49.922854257Z",
+  "model": "glm-5.2"
+}

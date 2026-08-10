@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 20:4",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "کیا تو یہ جانتا ہے اُس زمانے سے جب سے انسان کو زمین پر رکھا گیا،",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "تو جانتا ہے"
+    },
+    {
+      "surface": "מני",
+      "gloss": "سے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "اُس زمانے"
+    },
+    {
+      "surface": "מני",
+      "gloss": "جب سے"
+    },
+    {
+      "surface": "שים",
+      "gloss": "رکھا گیا"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان کو"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-10T00:17:10.124384406Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 11:26",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "جو اناج روکے، قوم اسے لعنت کرے، مگر بیچنے والے کے سر پر برکت ہو۔",
+  "tokens": [
+    {
+      "surface": "מנע",
+      "gloss": "جو روکے"
+    },
+    {
+      "surface": "בר",
+      "gloss": "اناج"
+    },
+    {
+      "surface": "יקבהו",
+      "gloss": "اسے لعنت کرے"
+    },
+    {
+      "surface": "לאום",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "וברכה",
+      "gloss": "مگر برکت"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "سر پر"
+    },
+    {
+      "surface": "משביר",
+      "gloss": "بیچنے والے کے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:31:54.025822283Z",
+  "model": "glm-5.2"
+}

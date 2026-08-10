@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 2:4",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "شْفَطیاہ کے بیٹے: تین سو، اٹھہتر۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "شْفَطیاہ کے"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "تین سو"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "اٹھہتر"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "اور دو"
+    }
+  ],
+  "timestamp": "2026-08-10T00:46:51.833505780Z",
+  "model": "glm-5.2"
+}

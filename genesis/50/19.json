@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 50:19",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 50,
+  "translation": "اور یوسف نے ان سے کہا: مت ڈرو، کیونکہ کیا میں الوہیم کی جگہ پر ہوں؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ان سے"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مت"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "ڈرو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "کیا جگہ پر"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم کی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    }
+  ],
+  "timestamp": "2026-08-09T19:54:48.797497357Z",
+  "model": "glm-5.2"
+}

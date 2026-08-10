@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 14:21",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "اور سدوم کے بادشاہ نے اَوراہام سے کہا: نفسیں مجھے دے، اور مال اپنے لیے لے۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "سدوم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "תן",
+      "gloss": "دے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مجھے"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "نفسیں"
+    },
+    {
+      "surface": "והרכש",
+      "gloss": "اور مال"
+    },
+    {
+      "surface": "קח",
+      "gloss": "لے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اپنے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T19:38:08.964086082Z",
+  "model": "glm-5.2"
+}

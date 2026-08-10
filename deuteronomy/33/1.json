@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 33:1",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 33,
+  "translation": "اور یہ ⟨هو⟩ وہ برکت ہے جس سے موشے، الوہیم کا آدمی، ⟨את⟩ بنی یِسرائیل کو اس کی موت سے پہلے برکت دیتا ہے۔",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "اور یہ"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "وہ برکت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جس سے"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "برکت دیتا ہے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوہیم کا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بنی یِسرائیل کو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "سے پہلے"
+    },
+    {
+      "surface": "מותו",
+      "gloss": "اس کی موت"
+    }
+  ],
+  "timestamp": "2026-08-09T20:55:31.372353285Z",
+  "model": "glm-5.2"
+}

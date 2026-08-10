@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 3:15",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "اس نے مجھے کوڑے سے سیر کیا، مجھے انگنت پلایا۔",
+  "tokens": [
+    {
+      "surface": "השביעני",
+      "gloss": "اس نے مجھے سیر کیا"
+    },
+    {
+      "surface": "במרורים",
+      "gloss": "کوڑے سے"
+    },
+    {
+      "surface": "הרוני",
+      "gloss": "مجھے پلایا"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "انگنت"
+    }
+  ],
+  "timestamp": "2026-08-10T07:33:21.188168108Z",
+  "model": "glm-5.2"
+}

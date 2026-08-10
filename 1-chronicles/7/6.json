@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 7:6",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "بِنْیامین — بِلَع، اور بِکِر، اور یِدِیعَایل؛ تین۔",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "بِنْیامین"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "بِلَع"
+    },
+    {
+      "surface": "ובכר",
+      "gloss": "اور بِکِر"
+    },
+    {
+      "surface": "וידיעאל",
+      "gloss": "اور یِدِیعَایل"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "تین"
+    }
+  ],
+  "timestamp": "2026-08-10T01:02:49.409258070Z",
+  "model": "glm-5.2"
+}

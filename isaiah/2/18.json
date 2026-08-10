@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 2:18",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور بت بالکل غائب ہو جائیں گے۔",
+  "tokens": [
+    {
+      "surface": "והאלילים",
+      "gloss": "اور بت"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "بالکل"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "غائب ہو جائیں گے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:00:58.990825884Z",
+  "model": "glm-5.2"
+}

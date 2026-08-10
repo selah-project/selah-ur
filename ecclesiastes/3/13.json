@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "اور نیز ہر انسان کہ ⟨وہ⟩ کھائے اور پیئے اور اپنے ساری محنت میں اچھا دیکھے — یہ الوہیم کی بخشش ہے۔",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "اور نیز"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "کہ کھائے"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "اور پیئے"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "اور دیکھے"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "اچھا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ساری میں"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "اپنے محنت"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "بخشش"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "היא",
+      "gloss": "یہ ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:34:01.377020559Z",
+  "model": "glm-5.2"
+}

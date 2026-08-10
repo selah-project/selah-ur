@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 12:3",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "بدعہدی سے ⟨کوئی⟩ آدمی قائم نہیں ہوتا، اور صالحوں کی جڑ ہرگز ہلتی نہیں۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "قائم ہوتا"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "ברשע",
+      "gloss": "بدعہدی سے"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "اور جڑ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "صالحوں کی"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ہرگز نہیں"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "ہلتی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:01:41.799886258Z",
+  "model": "glm-5.2"
+}

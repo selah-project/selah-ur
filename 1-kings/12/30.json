@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "اور یہ بات گناہ بن گئی، اور لوگ اس ایک کے سامنے جانے لگے، دان تک۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور بن گئی"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "یہ بات"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "گناہ کے لیے"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "اور جانے لگے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوگ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "کے سامنے"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "اس ایک"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    }
+  ],
+  "timestamp": "2026-08-09T21:46:24.169838970Z",
+  "model": "glm-5.2"
+}

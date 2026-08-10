@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 35:28",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 35,
+  "translation": "اور میری زبان تیرے انصاف کو بکے گی، سارا دن تیری تعریف۔",
+  "tokens": [
+    {
+      "surface": "ולשוני",
+      "gloss": "اور میری زبان"
+    },
+    {
+      "surface": "תהגה",
+      "gloss": "بکے گی"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "تیرے انصاف کو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "تیری تعریف"
+    }
+  ],
+  "timestamp": "2026-08-10T06:30:54.957276030Z",
+  "model": "glm-5.2"
+}

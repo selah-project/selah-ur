@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 8:19",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اَور یاقیم، اَور زِخری، اَور زَبدی۔",
+  "tokens": [
+    {
+      "surface": "ויקים",
+      "gloss": "اَور یاقیم"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "اَور زِخری"
+    },
+    {
+      "surface": "וזבדי",
+      "gloss": "اَور زَبدی"
+    }
+  ],
+  "timestamp": "2026-08-10T01:01:59.852451931Z",
+  "model": "glm-5.2"
+}

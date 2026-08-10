@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور ناحور انتیس سال زندہ رہا، اور ⟨את⟩ تِرَحْ کو پیدا کیا۔",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "اور زندہ رہا"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ناحور"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نو"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "اور بیس"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "اور پیدا کیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تِرَحْ"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "تِرَحْ"
+    }
+  ],
+  "timestamp": "2026-08-09T19:36:43.182460491Z",
+  "model": "glm-5.2"
+}

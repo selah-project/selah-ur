@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "کیونکہ وہ ⟨انسان⟩ نہیں جانتا جو ہونے والا ہے، کیونکہ جیسے جو ہوگا، کوئی اسے اسے بتائے گا؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "جانتا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "جو"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "ہونے والا ہے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیسے"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوگا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کوئی"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "بتائے گا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اسے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:43:58.623513576Z",
+  "model": "glm-5.2"
+}

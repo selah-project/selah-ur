@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 21:22",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "اور اگر کسی مرد میں موت کے مستحق گناہ ہو اور وہ مارا جائے، اور تو اسے درخت پر لٹکائے،",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "اور اگر"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہو"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "کسی مرد میں"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "گناہ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "مستحق"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت کے"
+    },
+    {
+      "surface": "והומת",
+      "gloss": "اور وہ مارا جائے"
+    },
+    {
+      "surface": "ותלית",
+      "gloss": "اور تو لٹکائے"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ اسے",
+      "marks": "درخت پر لٹکایا جانے والا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "درخت"
+    }
+  ],
+  "timestamp": "2026-08-09T20:51:21.524662042Z",
+  "model": "glm-5.2"
+}

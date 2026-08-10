@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 5:3",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "اور اکٹھے ہوئے بادشاہ کے پاس سارے یِسرائیل کے آدمی تہوار میں — وہ ⟨ہے⟩ مہینہ ساتواں۔",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "اور اکٹھے ہوئے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کے پاس"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل کے"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "تہوار میں"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "مہینہ"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ساتواں"
+    }
+  ],
+  "timestamp": "2026-08-10T01:15:04.176432243Z",
+  "model": "glm-5.2"
+}

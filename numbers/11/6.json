@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 11:6",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور اب ہماری جان خشک ہے، کوئی چیز نہیں — ہماری آنکھوں کے سوا ⟨صرف⟩ مَن کہ۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "اور اب"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ہماری جان"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "خشک ہے"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نہیں ہے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی چیز"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "کے سوا ⟨صرف⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "המן",
+      "gloss": "مَن"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "ہماری آنکھیں"
+    }
+  ],
+  "timestamp": "2026-08-09T20:29:58.135932719Z",
+  "model": "glm-5.2"
+}

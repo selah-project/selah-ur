@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "اور عقل کے بغیر جان اچھی نہیں، اور پاؤں سے جلدی کرنے والا گناہ کرتا ہے۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "اور"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "کے بغیر"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "عقل"
+    },
+    {
+      "surface": "نפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "اچھی"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "اور جلدی کرنے والا"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "پاؤں سے"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "گناہ کرتا ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:05:13.576024365Z",
+  "model": "glm-5.2"
+}

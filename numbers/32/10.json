@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 32:10",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 32,
+  "translation": "اور اس دن یاہویہ کا غصہ بھڑکا اور ⟨اس نے⟩ قسم کھائی، یہ کہتے ہوئے:",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "اور بھڑکا"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غصہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کا"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "اس دن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "اور قسم کھائی"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "یہ کہتے ہوئے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:39:37.018696624Z",
+  "model": "glm-5.2"
+}

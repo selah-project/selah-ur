@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "اور گومَر کے بیٹے — اَشکَنَز اور ریفَت اور توگَرمَہ۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "اور بیٹے"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "گومَر کے"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "اَشکَنَز"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "اور ریفَت"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "اور توگَرمَہ"
+    }
+  ],
+  "timestamp": "2026-08-09T19:36:00.163801926Z",
+  "model": "glm-5.2"
+}

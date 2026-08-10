@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 6:23",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اہرون اور اس کے بیٹوں سے کہو، یوں کہنا: تم بنی یِسرائیل کو ⟨את⟩ برکت دو، ان سے یوں کہنا:",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "کہو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "اور"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "اس کے بیٹوں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "یوں کہنا"
+    },
+    {
+      "surface": "כה",
+      "gloss": "یوں"
+    },
+    {
+      "surface": "תברכו",
+      "gloss": "تم برکت دو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بنی یِسرائیل کو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "אמור",
+      "gloss": "کہنا"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ان سے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:27:26.875942086Z",
+  "model": "glm-5.2"
+}

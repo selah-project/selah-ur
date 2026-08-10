@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 119:29",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 119,
+  "translation": "جھوٹے راستے کو مجھ سے ہٹا، اور ⟨اپنی⟩ تورات پر مجھ پر فضل کر۔",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "راستے"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "جھوٹے"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "ہٹا"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "مجھ سے"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "اور تیری تورات"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "مجھ پر فضل کر"
+    }
+  ],
+  "timestamp": "2026-08-09T23:52:00.503812316Z",
+  "model": "glm-5.2"
+}

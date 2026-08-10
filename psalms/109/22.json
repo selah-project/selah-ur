@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 109,
+  "translation": "کیونکہ میں دبلا اور محتاج ہوں، اور میرا دل میرے اندر زخمی ہے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "دبلا"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "اور محتاج"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں ہوں"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "اور میرا دل"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "زخمی ہے"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "میرے اندر"
+    }
+  ],
+  "timestamp": "2026-08-09T23:49:12.429550364Z",
+  "model": "glm-5.2"
+}

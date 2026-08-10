@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 21:4",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "اور سب جسم دیکھیں گے کہ میں، یاہویہ، نے اسے بھڑکایا ہے؛ وہ بجھائی نہ جائے گی۔",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "اور دیکھیں گے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "جسم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "בערתיה",
+      "gloss": "نے اسے بھڑکایا ہے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "بجھائی جائے گی"
+    }
+  ],
+  "timestamp": "2026-08-09T22:52:59.084317250Z",
+  "model": "glm-5.2"
+}

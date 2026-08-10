@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 16:8",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 16,
+  "translation": "اور مُوشے نے قُورح سے کہا: سُنو، اَے بنی لِیوی!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور ⟨اس نے⟩ کہا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "مُوشے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قُورح"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سُنو"
+    },
+    {
+      "surface": "נא",
+      "gloss": "مہربانی فرما کر"
+    },
+    {
+      "surface": "בני",
+      "gloss": "اَے بنی"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لِیوی"
+    }
+  ],
+  "timestamp": "2026-08-10T05:29:29.616651283Z",
+  "model": "glm-5.2"
+}

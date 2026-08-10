@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 29,
+  "translation": "یاہویہ کی آواز قوت میں ہے، یاہویہ کی آواز شوکت میں ہے۔",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کی"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "قوت میں ہے"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کی"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "شوکت میں ہے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:28:37.212649916Z",
+  "model": "glm-5.2"
+}

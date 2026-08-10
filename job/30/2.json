@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 30:2",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 30,
+  "translation": "بلکہ ان کے ہاتھوں کی طاقت مجھے کیا؟ ان پر بڑھاپا غارت ہو گیا۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "כח",
+      "gloss": "طاقت"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "ان کے ہاتھوں کی"
+    },
+    {
+      "surface": "למה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مجھے"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "ان پر"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "غارت ہو گیا"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "بڑھاپا"
+    }
+  ],
+  "timestamp": "2026-08-10T06:42:10.505245800Z",
+  "model": "glm-5.2"
+}

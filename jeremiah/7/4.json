@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 7:4",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "جھوٹے الفاظ پر بھروسہ نہ کرو، یہ کہتے ہوئے کہ: ہیکلِ یاہویہ، ہیکلِ یاہویہ، ہیکلِ یاہویہ — یہ ہیں۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "بھروسہ کرو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "اپنے لیے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "الفاظ"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "جھوٹے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "یہ کہتے ہوئے"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ہیکلِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ہیکلِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ہیکلِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "یہ ہیں"
+    }
+  ],
+  "timestamp": "2026-08-10T07:22:57.641616186Z",
+  "model": "glm-5.2"
+}

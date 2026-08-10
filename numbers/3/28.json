@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 3:28",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "گنتی میں ہر نر کی، ایک مہینے کے بیٹے سے اوپر کی، آٹھ ہزار اور چھ سو، مقدس کی نگہداری کے محافظ۔",
+  "tokens": [
+    {
+      "surface": "במספר",
+      "gloss": "گنتی میں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر کی"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "بیٹے سے"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ایک مہینے کے"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "اوپر کی"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "آٹھ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "اور چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "محافظ"
+    },
+    {
+      "surface": "משמרת",
+      "gloss": "نگہداری کے"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "مقدس کی"
+    }
+  ],
+  "timestamp": "2026-08-09T20:27:06.274262521Z",
+  "model": "glm-5.2"
+}

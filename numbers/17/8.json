@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 17,
+  "translation": "اور موشے اور اہرون خیمہِ موعد کے سامنے آئے۔",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "اور آیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "اور اہرون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کو"
+    },
+    {
+      "surface": "פני",
+      "gloss": "سامنے"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمہِ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "موعد"
+    }
+  ],
+  "timestamp": "2026-08-10T07:56:01.572087079Z",
+  "model": "glm-5.2"
+}

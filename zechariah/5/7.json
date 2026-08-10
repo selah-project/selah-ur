@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 5:7",
+  "book": "zechariah",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "اور دیکھو، سِسے کی ایک گول ڈِسک اُٹھائی گئی، اور یہ ایک عورت تھی جو ایفہ کے بیچ میں بیٹھی تھی۔",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "اور دیکھو"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "گول ڈِسک"
+    },
+    {
+      "surface": "עפרת",
+      "gloss": "سِسے کی"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "اُٹھائی گئی"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "اور یہ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "عورت"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "بیٹھی تھی"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "کے بیچ میں"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ایفہ"
+    }
+  ],
+  "timestamp": "2026-08-09T23:19:37.713637535Z",
+  "model": "glm-5.2"
+}

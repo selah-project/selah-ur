@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 92,
+  "translation": "مزمور، گیت، деньِ شَبات کے لیے۔",
+  "tokens": [
+    {
+      "surface": "מִזְמ֥וֹר",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "שִׁ֗יר",
+      "gloss": "گیت"
+    },
+    {
+      "surface": "לְי֣וֹם",
+      "gloss": "کے لیے، کے دِن"
+    },
+    {
+      "surface": "הַשַּׁבָּֽת",
+      "gloss": "شَبات"
+    }
+  ],
+  "timestamp": "2026-08-09T23:43:40.243821195Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 119:54",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 119,
+  "translation": "تیرے فرائض میرے نغمے بن گئے ہیں اپنے مسافرخانے کے گھر میں۔",
+  "tokens": [
+    {
+      "surface": "זמרות",
+      "gloss": "نغمے"
+    },
+    {
+      "surface": "היו",
+      "gloss": "بن گئے ہیں"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "تیرے فرائض"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "کے گھر میں"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "اپنے مسافرخانے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:52:40.537418010Z",
+  "model": "glm-5.2"
+}

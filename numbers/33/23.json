@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 33:23",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 33,
+  "translation": "وچلے مِن‌قِہلاتاہ سے، اور ٹھہرے کوہِ شافِر میں۔",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "وچلے"
+    },
+    {
+      "surface": "מקהלתה",
+      "gloss": "مِن‌قِہلاتاہ سے"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "اور ٹھہرے"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "کوہ میں"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "شافِر"
+    }
+  ],
+  "timestamp": "2026-08-09T20:40:26.469911715Z",
+  "model": "glm-5.2"
+}

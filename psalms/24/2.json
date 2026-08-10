@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "کیونکہ ⟨وہ⟩ سمندروں پر اس کی بنیاد رکھی، اور دریاؤں پر اسے قائم کیا۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨وہ⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "سمندروں"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "اس کی بنیاد رکھی"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "اور پر"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "دریاؤں"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "اسے قائم کیا"
+    }
+  ],
+  "timestamp": "2026-08-10T06:29:33.848908066Z",
+  "model": "glm-5.2"
+}

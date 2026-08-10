@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 36,
+  "translation": "اور ⟨את⟩ بَسمت بنت یِشْمَع ایل، بہن نَبایوت۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "بَسمت"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "بَسمت"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "یِشْمَع ایل"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "بہن"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "نَبایوت"
+    }
+  ],
+  "timestamp": "2026-08-09T19:47:32.082808015Z",
+  "model": "glm-5.2"
+}

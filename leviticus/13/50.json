@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "اور کاہن ⟨את⟩ داغ کو دیکھے گا، اور وہ چیز جس میں داغ ہے اسے سات دن کے لیے بند کر دے گا۔",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "اور دیکھے گا"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داغ کو"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "داغ"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "اور بند کر دے گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داغ کو"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "داغ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "سات"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دن"
+    }
+  ],
+  "timestamp": "2026-08-09T20:20:06.292889334Z",
+  "model": "glm-5.2"
+}

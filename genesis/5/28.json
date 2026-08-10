@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 5:28",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "اور لَمَک زندہ رہا دو اور اسی سال اور سوسال کے ⟨لئے⟩، اور اُس نے ایک بیٹا جنا۔",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "اور زندہ رہا"
+    },
+    {
+      "surface": "למך",
+      "gloss": "لَمَک"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "اور اسی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "اور سوسال"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "اور جنا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    }
+  ],
+  "timestamp": "2026-08-10T05:11:30.871306777Z",
+  "model": "glm-5.2"
+}

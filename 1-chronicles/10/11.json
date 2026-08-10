@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "اور سن لیا، یابیث گِلعاد کے سبھی نے، ⟨את⟩ جو کچھ فِلِشتیم نے شاؤل کے ساتھ کیا تھا۔",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "اور سن لیا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھی"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "یابیث نے"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گِلعاد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جو کچھ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جو کچھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کیا تھا"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فِلِشتیم نے"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "شاؤل کے ساتھ"
+    }
+  ],
+  "timestamp": "2026-08-10T01:05:27.483437420Z",
+  "model": "glm-5.2"
+}

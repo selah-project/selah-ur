@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 31:10",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 31,
+  "translation": "صلاحیت والی عورت کو کون پا سکتا ہے؟ اس کی قیمت مرواریدوں سے بہت دور ہے۔",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "عورت کو"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "صلاحیت والی"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "پا سکتا ہے"
+    },
+    {
+      "surface": "ורחק",
+      "gloss": "اور دور ہے"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "مرواریدوں سے"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "اس کی قیمت"
+    }
+  ],
+  "timestamp": "2026-08-10T06:38:44.333473068Z",
+  "model": "glm-5.2"
+}

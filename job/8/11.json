@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 8:11",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "کیا گومع ⟨بِلاٰ⟩ دلدل میں اگے؟ کیا اَخو بغیر پانی کے بڑھے؟",
+  "tokens": [
+    {
+      "surface": "היגאה",
+      "gloss": "کیا اگے؟"
+    },
+    {
+      "surface": "גמא",
+      "gloss": "گومع"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "⟨بِلاٰ⟩"
+    },
+    {
+      "surface": "בצה",
+      "gloss": "دلدل میں"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "کیا بڑھے؟"
+    },
+    {
+      "surface": "אחו",
+      "gloss": "اَخو"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بغیر"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانی کے"
+    }
+  ],
+  "timestamp": "2026-08-10T09:02:00.864060564Z",
+  "model": "glm-5.2"
+}

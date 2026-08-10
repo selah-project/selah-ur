@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "یا اگر زندہ گوشت پھر لوٹ آئے اور سفید ہو جائے، تو وہ کاہن کے پاس آئے۔",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "پھر لوٹ آئے"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "החי",
+      "gloss": "زندہ"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "اور ہو جائے"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "سفید"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "تو آئے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کے پاس"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    }
+  ],
+  "timestamp": "2026-08-09T20:19:52.035525622Z",
+  "model": "glm-5.2"
+}

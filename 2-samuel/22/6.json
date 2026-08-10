@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 22:6",
+  "book": "2-samuel",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "شیول کے رسے مجھے گھیر گئے، موت کے پھندے مجھ سے آگے نکلے۔",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "رسے"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شیول کے"
+    },
+    {
+      "surface": "סבני",
+      "gloss": "گھیر گئے مجھے"
+    },
+    {
+      "surface": "קדמני",
+      "gloss": "آگے نکلے مجھ سے"
+    },
+    {
+      "surface": "מקשי",
+      "gloss": "پھندے"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت کے"
+    }
+  ],
+  "timestamp": "2026-08-09T21:38:59.427892220Z",
+  "model": "glm-5.2"
+}

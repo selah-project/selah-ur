@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 35:17",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 35,
+  "translation": "اور بنیؑ یِسرائل جو موجود تھے نے ⟨את⟩ فِصح اس وقت کیا، اور ⟨את⟩ عیدِ مَصّوت سات دن تک۔",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "اور کیا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائل"
+    },
+    {
+      "surface": "הנמצאים",
+      "gloss": "جو موجود تھے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فِصح"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "فِصح"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "اس وقت"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "وہی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "عیدِ مَصّوت"
+    },
+    {
+      "surface": "חג",
+      "gloss": "عید"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "مَصّوت"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "سات"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دن"
+    }
+  ],
+  "timestamp": "2026-08-10T06:55:14.699246765Z",
+  "model": "glm-5.2"
+}

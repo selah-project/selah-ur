@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 14:55",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "اور کپڑے کے برص کے لیے اور گھر کے لیے،",
+  "tokens": [
+    {
+      "surface": "ולצרעת",
+      "gloss": "اور برص کے لیے"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "کپڑے کے"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "اور گھر کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:20:03.673253530Z",
+  "model": "glm-5.2"
+}

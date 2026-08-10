@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 16:13",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 16,
+  "translation": "یہ ⟨ہے⟩ وہ بات جو یاہویہ نے مُوآب کے بارے میں اس وقت سے کہی ہے۔",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "وہ بات"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کہی ہے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کے بارے میں"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُوآب"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "اس وقت سے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:05:51.252861648Z",
+  "model": "glm-5.2"
+}

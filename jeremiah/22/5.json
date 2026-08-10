@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 22:5",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "اور اگر تم ⟨את⟩ ان باتوں کو نہ سنو گے، تو میرے وجود کی قسم ہے، یاہویہ کا فتویٰ، کہ یہ گھر ویرانی ہو جائے گا۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "اور اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "سنو گے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ان باتوں کو"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "باتوں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ان"
+    },
+    {
+      "surface": "בי",
+      "gloss": "میرے وجود کی"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "قسم ہے"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "فتویٰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "ویرانی"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہو جائے گا"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "یہ"
+    }
+  ],
+  "timestamp": "2026-08-10T06:08:27.625353671Z",
+  "model": "glm-5.2"
+}

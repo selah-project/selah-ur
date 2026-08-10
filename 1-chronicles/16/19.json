@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 16:19",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 16,
+  "translation": "جب تم شمار کے افراد تھے، بہت تھوک، اور اس میں اجنبی۔",
+  "tokens": [
+    {
+      "surface": "בהיותכם",
+      "gloss": "جب تم تھے"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "افراد"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "شمار کے"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "بہت تھوک"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "اور اجنبی"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اس میں"
+    }
+  ],
+  "timestamp": "2026-08-10T01:05:34.743543521Z",
+  "model": "glm-5.2"
+}

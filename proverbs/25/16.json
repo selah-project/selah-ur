@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 25:16",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "شہد پایا ہے؟ اپنی کوتی کھا، کہیں اس سے اس کے نہ تو آور اور تو اُگل دے۔",
+  "tokens": [
+    {
+      "surface": "דבש",
+      "gloss": "شہد"
+    },
+    {
+      "surface": "מצאת",
+      "gloss": "پایا ہے"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "کھا"
+    },
+    {
+      "surface": "דיך",
+      "gloss": "اپنی کوتی"
+    },
+    {
+      "surface": "פן",
+      "gloss": "کہیں"
+    },
+    {
+      "surface": "תשבענו",
+      "gloss": "اس سے تو آور"
+    },
+    {
+      "surface": "והקאתו",
+      "gloss": "اور اُگل دے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:07:19.009106770Z",
+  "model": "glm-5.2"
+}

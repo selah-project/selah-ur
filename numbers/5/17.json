@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 5:17",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "اور کوہِن مٹی کے برتن میں پاک پانی لے، اور خیمے کے فرش پر جو مٹی ہو گی اس میں سے کوہِن لے اور پانی میں ڈالے۔",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "اور لے"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کوہِن"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "برتن میں"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "مٹی کے"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "اور اس میں سے"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "مٹی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہو گی"
+    },
+    {
+      "surface": "בקרקע",
+      "gloss": "فرش پر"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "خیمے کے"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "لے"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کوہِن"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "اور ڈالے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "میں"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پانی"
+    }
+  ],
+  "timestamp": "2026-08-10T05:28:20.006519787Z",
+  "model": "glm-5.2"
+}

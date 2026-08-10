@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 35:3",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 35,
+  "translation": "کیونکہ تو کہتا ہے، تیرا کیا فائدہ؟ میں اپنے گناہ سے کیا نفع کماؤں؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "تو کہتا ہے"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "فائدہ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "אעיל",
+      "gloss": "نفع کماوں"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "اپنے گناہ سے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:22:24.835239492Z",
+  "model": "glm-5.2"
+}

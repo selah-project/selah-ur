@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 40:1",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 40,
+  "translation": "اور یاہویہ نے ⟨את⟩ ایّوَب کا جواب دیا اور کہا،",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "اور جواب دیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایّوَب"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ایّوَب"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:24:10.356407340Z",
+  "model": "glm-5.2"
+}

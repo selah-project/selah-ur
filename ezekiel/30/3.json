@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 30:3",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 30,
+  "translation": "کیونکہ دن قریب ہے، بلکہ یاہویہ کا دن قریب ہے — بادلوں کا دن، قوموں کا وقت ہوگا۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "قریب ہے"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "اور قریب ہے"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہویہ کا"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "بادلوں کا"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قوموں کا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوگا"
+    }
+  ],
+  "timestamp": "2026-08-09T22:57:27.599400485Z",
+  "model": "glm-5.2"
+}

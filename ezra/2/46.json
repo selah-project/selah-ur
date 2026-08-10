@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "ezra 2:46",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "حَگَب کے بیٹے، شَملای کے بیٹے، حَنان کے بیٹے۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "חגב",
+      "gloss": "حَگَب"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "שמלי",
+      "gloss": "شَملای"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "حَنان"
+    }
+  ],
+  "timestamp": "2026-08-10T00:49:17.938230817Z",
+  "model": "glm-5.2"
+}

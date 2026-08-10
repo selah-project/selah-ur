@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "اور حوریوں کو ⟨את⟩ اُن کے کوہ سعیر میں، عیل فاران تک جو صحرا کے ساتھ ہے۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "حوریوں کو"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "حوریوں"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "اُن کے پہاڑ میں"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سعیر"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "איל",
+      "gloss": "عیل"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "فاران"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "על",
+      "gloss": "کے ساتھ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "صحرا"
+    }
+  ],
+  "timestamp": "2026-08-09T19:37:48.287631182Z",
+  "model": "glm-5.2"
+}

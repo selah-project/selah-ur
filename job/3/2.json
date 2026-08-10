@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 3:2",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "اور اِیّوُب نے جواب دیا اور کہا۔",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "اور جواب دیا"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "اِیّوُب"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:10:02.653289907Z",
+  "model": "glm-5.2"
+}

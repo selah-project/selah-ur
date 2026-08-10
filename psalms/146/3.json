@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 146:3",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 146,
+  "translation": "بھروسہ مت کرو نوابوں پر، آدم کے بیٹے پر — جس کے پاس کوئی نجات نہیں ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مت"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "بھروسہ کرو"
+    },
+    {
+      "surface": "בנדיבים",
+      "gloss": "نوابوں پر"
+    },
+    {
+      "surface": "בבן",
+      "gloss": "بیٹے پر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "שאין",
+      "gloss": "جس کے پاس نہیں"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اس کے"
+    },
+    {
+      "surface": "תשועה",
+      "gloss": "نجات"
+    }
+  ],
+  "timestamp": "2026-08-09T23:56:50.020858843Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "آج تم نکل رہے ہو، اَبیو کے مہینے میں۔",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "آج"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تم"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "نکل رہے ہو"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "مہینے میں"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "اَبیو"
+    }
+  ],
+  "timestamp": "2026-08-09T20:00:18.682660642Z",
+  "model": "glm-5.2"
+}

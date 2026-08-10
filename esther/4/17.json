@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "esther 4:17",
+  "book": "esther",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "تو مُردَخای ⟨نے⟩ چلا گیا، اور ⟨اس نے⟩ سب کچھ کیا جو اَستِر نے اسے حکم دیا تھا۔",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "تو چلا گیا"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "مُردَخای"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "اور کیا"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "سب کچھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "حکم دیا"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اسے"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "اَستِر"
+    }
+  ],
+  "timestamp": "2026-08-10T00:35:55.242893114Z",
+  "model": "glm-5.2"
+}

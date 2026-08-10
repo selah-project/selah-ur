@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 12:4",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "اور یِشمَعیاہ گِبعونی، تیس میں سے ایک بہادر، اور تیس کے اوپر؛",
+  "tokens": [
+    {
+      "surface": "וישמעיה",
+      "gloss": "اور یِشمَعیاہ"
+    },
+    {
+      "surface": "הגבעוני",
+      "gloss": "گِبعونی"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "بہادر"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "تیس میں"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "اور اوپر"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "تیس کے"
+    }
+  ],
+  "timestamp": "2026-08-10T01:04:35.006253189Z",
+  "model": "glm-5.2"
+}

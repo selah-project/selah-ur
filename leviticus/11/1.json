@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور یاہویہ نے موشے (موسیٰ) اور اہرون سے کلام کیا، ان سے کہتے ہوئے،",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "اور کلام کیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے (موسیٰ)"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "اور سے"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہتے ہوئے"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ان سے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:18:58.376714442Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 33:51",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 33,
+  "translation": "بَنی یِسرائیل سے بول اور ⟨ان⟩ سے کہہ: کیونکہ تم ⟨یَردَن⟩ کو پار کر رہے ہو، کَناعان کی زمین کی طرف،",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "بول"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَنی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "اور کہہ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "⟨ان⟩ سے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تم"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "پار کر رہے ہو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یَردَن"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یَردَن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کَناعان"
+    }
+  ],
+  "timestamp": "2026-08-10T07:13:37.223081570Z",
+  "model": "glm-5.2"
+}

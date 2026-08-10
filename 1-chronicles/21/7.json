@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "اور یہ بات الوہیم کی آنکھوں میں بری لگی، اور اُس نے ⟨את⟩ یِسرائیل کو مارا۔",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "اور بری لگی"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "آنکھوں میں"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوہیم کی"
+    },
+    {
+      "surface": "על",
+      "gloss": "کے سبب"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "بات"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اس"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "اور مارا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِسرائیل کو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-10T01:07:57.064513292Z",
+  "model": "glm-5.2"
+}

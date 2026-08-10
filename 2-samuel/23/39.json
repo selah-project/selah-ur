@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-samuel 23:39",
+  "book": "2-samuel",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "أُوریَیا ہَحِتی۔ ⟨یہ⟩ سب مل کر تیس اور سات ہیں۔",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "أُوریَیا"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ہَحِتی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "تیس"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "اور سات"
+    }
+  ],
+  "timestamp": "2026-08-10T08:47:04.072116915Z",
+  "model": "glm-5.2"
+}

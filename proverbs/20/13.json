@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 20:13",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "نہ پیار کر نیند کو، کہ恰当ہ ⟨तुम⟩ ویران ہو جاؤ؛ اپنی آنکھیں کھولو، روٹی سے سیر ہو جاؤ۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאהב",
+      "gloss": "پیار کر"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "نیند کو"
+    },
+    {
+      "surface": "פן",
+      "gloss": "کہ恰当ہ"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "ویران ہو جاؤ"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "کھولو"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "اپنی آنکھیں"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سیر ہو جاؤ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی سے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:05:23.389604313Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ecclesiastes 7:29",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "صرف یہ دیکھو، میں نے یہ پایا ہے کہ الوہیم نے ⟨את⟩ انسان کو سیدھا بنایا، اور وہ بہت سے حیلے تلاش کیے۔",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "دیکھو"
+    },
+    {
+      "surface": "זה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "میں نے پایا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بنایا"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "انسان"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "انسان کو"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "سیدھا"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "اور وہ"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "تلاش کیے"
+    },
+    {
+      "surface": "חשבנות",
+      "gloss": "حیلے"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "بہت سے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:34:14.575647427Z",
+  "model": "glm-5.2"
+}

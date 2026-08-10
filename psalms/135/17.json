@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 135,
+  "translation": "ان کے کان ہیں مگر وہ نہیں سنتے؛ بلکہ ان کے منہ میں کوئی دم بھی نہیں۔",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "کان"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ان کے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "مگر نہیں"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "وہ سنتے"
+    },
+    {
+      "surface": "אף",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ہے"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "دم"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "ان کے منہ میں"
+    }
+  ],
+  "timestamp": "2026-08-10T07:51:15.788170932Z",
+  "model": "glm-5.2"
+}

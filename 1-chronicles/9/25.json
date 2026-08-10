@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 9:25",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "اور ان کے بھائی اپنے دیہاتوں میں تھے، سات دنوں کے لیے آنے والے، وقت سے وقت تک، ان کے ساتھ۔",
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "اور ان کے بھائی"
+    },
+    {
+      "surface": "בחצריהם",
+      "gloss": "ان کے دیہاتوں میں"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "آنے والے"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "سات کے لیے"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "دنوں"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "وقت سے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تک"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "کے ساتھ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ان"
+    }
+  ],
+  "timestamp": "2026-08-10T07:35:11.760022399Z",
+  "model": "glm-5.2"
+}

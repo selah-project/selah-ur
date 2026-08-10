@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 4:17",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "کِسی بھی جانور کی صورت جو زمین پر ہے، کِسی بھی پرندِبال کی صورت جو آسمانوں میں اڑتا ہے،",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "صورت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "جانور"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین پر"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "صورت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "پرندے"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "پرِ بال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "תעוף",
+      "gloss": "اڑتا ہے"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "آسمانوں میں"
+    }
+  ],
+  "timestamp": "2026-08-09T20:44:24.957779055Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 30:8",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 30,
+  "translation": "نادانوں کے بیٹے، بلکہ بے ناموں کے بیٹے؛ زمین سے مارے گئے۔",
+  "tokens": [
+    {
+      "surface": "בְּנֵי",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "נָבָל",
+      "gloss": "نادانوں کے"
+    },
+    {
+      "surface": "גַּם",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "בְלִי",
+      "gloss": "بے"
+    },
+    {
+      "surface": "שֵׁם",
+      "gloss": "ناموں کے"
+    },
+    {
+      "surface": "נִכְאוּ",
+      "gloss": "مارے گئے"
+    },
+    {
+      "surface": "מִן",
+      "gloss": "سے"
+    },
+    {
+      "surface": "הָאָרֶץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-10T06:41:41.229473297Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "لَبنان، اپنے دروازے کھول دے، تاکہ آگ تیری دیواروں کو کھا جائے۔",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "کھول دے"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "اَے لَبنان"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "تیرے دروازے"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "تاکہ کھا جائے"
+    },
+    {
+      "surface": "אש",
+      "gloss": "آگ"
+    },
+    {
+      "surface": "בארזיך",
+      "gloss": "تیرے دیواروں کو"
+    }
+  ],
+  "timestamp": "2026-08-09T23:19:35.215072473Z",
+  "model": "glm-5.2"
+}

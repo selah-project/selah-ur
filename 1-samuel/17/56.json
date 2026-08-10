@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "1-samuel 17:56",
+  "book": "1-samuel",
+  "lang": "ur",
+  "chapter": 17,
+  "translation": "اور بادشاہ نے کہا: تو پوچھ، یہ نوجوان کس کا بیٹا ہے۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "پوچھ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کس کا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "نوجوان"
+    }
+  ],
+  "timestamp": "2026-08-09T21:25:07.366067889Z",
+  "model": "glm-5.2"
+}

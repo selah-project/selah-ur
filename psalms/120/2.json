@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 120,
+  "translation": "याहवेह, मेरी जान को झूठे होंठों से, धोखे की ज़बान से बचा।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "याहवेह"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "बचा"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "मेरी जान को"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "होंठों से"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूठे"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "ज़बान से"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "धोखे की"
+    }
+  ],
+  "timestamp": "2026-08-10T09:00:59.931804581Z",
+  "model": "glm-5.2"
+}

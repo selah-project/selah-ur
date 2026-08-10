@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 32:27",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 32,
+  "translation": "دیکھو، میں یاہویہ ہوں، سب بَشَر کا الوہیم، کیا مجھ سے کوئی باد بھی دُور ہوگا؟",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "دیکھو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "بَشَر کا"
+    },
+    {
+      "surface": "הממני",
+      "gloss": "مجھ سے"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "دُور ہوگا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی بھی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "باد"
+    }
+  ],
+  "timestamp": "2026-08-10T06:10:35.615649638Z",
+  "model": "glm-5.2"
+}

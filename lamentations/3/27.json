@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "lamentations 3:27",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "بھلا ہے ⟨کہ⟩ ⟨ایک⟩ مرد جو اپنی جوانی میں جوا اٹھائے۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "بھلا ہے"
+    },
+    {
+      "surface": "לגבר",
+      "gloss": "⟨ایک⟩ مرد کے لیے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "وہ اٹھائے"
+    },
+    {
+      "surface": "על",
+      "gloss": "جوآ"
+    },
+    {
+      "surface": "בנעוריו",
+      "gloss": "اپنی جوانی میں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:29:38.243841323Z",
+  "model": "glm-5.2"
+}

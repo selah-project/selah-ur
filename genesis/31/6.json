@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 31,
+  "translation": "اور تم خود جانتی ہو کہ میں نے اپنی ساری طاقت سے تمہارے باپ کی خدمت کی ہے۔",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "اور تم"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "جانتی ہو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "اپنی ساری"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "طاقت سے"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "خدمت کی ہے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تمہارے باپ کی"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "تمہارے باپ کی"
+    }
+  ],
+  "timestamp": "2026-08-09T19:46:56.692932161Z",
+  "model": "glm-5.2"
+}

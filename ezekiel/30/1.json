@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 30:1",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 30,
+  "translation": "اور یاہویہ کا کلام میرے پاس ⟨آیا⟩، کہہ کر:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میرے پاس"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہہ کر"
+    }
+  ],
+  "timestamp": "2026-08-09T22:57:27.598995743Z",
+  "model": "glm-5.2"
+}

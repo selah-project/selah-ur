@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 121,
+  "translation": "یاہویہ ⟨ہے⟩ تیرا نگہبان؛ یاہویہ تیرا سایہ ⟨ہے⟩ تیرے دائیں ہاتھ پر۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "تیرا نگہبان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "تیرا سایہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ہاتھ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "تیرے دائیں"
+    }
+  ],
+  "timestamp": "2026-08-10T07:31:17.045413176Z",
+  "model": "glm-5.2"
+}

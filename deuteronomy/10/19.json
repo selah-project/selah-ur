@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "لہٰذا تم غیر قوم سے محبت رکھو، کیونکہ تم خود مِتصرایم کی سرزمین میں غیر تھے۔",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "اور تم محبت رکھو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "غیر قوم کو"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "غیر قوم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "غیر"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "تھے"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "سرزمین میں"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    }
+  ],
+  "timestamp": "2026-08-09T20:46:20.445538021Z",
+  "model": "glm-5.2"
+}

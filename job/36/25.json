@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 36:25",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 36,
+  "translation": "ہر آدمی نے اسے دیکھا ہے؛ انسان دور سے مشاہدہ کرتا ہے۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "دیکھا ہے"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اسے"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "مشاہدہ کرتا ہے"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "دور سے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:23:26.319651450Z",
+  "model": "glm-5.2"
+}

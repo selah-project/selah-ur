@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 24:20",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "تو ⟨میں نے⟩ ان سے کہا: یاہویہ کا کلِمہ مجھے ⟨پہنچا⟩، جو یہ فرماتا ہے:",
+  "tokens": [
+    {
+      "surface": "وאמר",
+      "gloss": "تو ⟨میں نے⟩ کہا"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ان سے"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلِمہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کا"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨پہنچا⟩"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مجھے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "جو فرماتا ہے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:53:55.842650218Z",
+  "model": "glm-5.2"
+}

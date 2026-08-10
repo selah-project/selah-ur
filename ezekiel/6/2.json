@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 6:2",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اے آدم کے بیٹے، اپنا منہ یِسرایل کے پہاڑوں کی طرف لاؤ اور ان کے خلاف نبوت کرو۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "שים",
+      "gloss": "لاؤ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "اپنا منہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "طرف"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "پہاڑوں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "اور نبوت کرو"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ان کے خلاف"
+    }
+  ],
+  "timestamp": "2026-08-09T22:47:35.685221017Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 7:21",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اور ہوگا اس دن ⟨کہ⟩ ایک آدمی زندہ رکھے گا ایک بیلِ گائے اور دو بھیڑیں۔",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "اور ہوگا"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "اس دن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "وہی"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "زندہ رکھے گا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ایک آدمی"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "بیلِ گائے"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "گائے"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "اور دو"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "بھیڑیں"
+    }
+  ],
+  "timestamp": "2026-08-10T05:59:38.265363130Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 26:23",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 26,
+  "translation": "چاندی کی مئیب کی تہ مٹی کے برتن پر، جلتی ہوئی ہونٹیں اور برا دل ⟨ہیں⟩۔",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "چاندی"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "کی مئیب"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "کی تہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "مٹی کے برتن"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ہونٹیں"
+    },
+    {
+      "surface": "דלקים",
+      "gloss": "جلتی ہوئی"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "اور دل"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:08:41.832587040Z",
+  "model": "glm-5.2"
+}

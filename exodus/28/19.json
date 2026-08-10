@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 28:19",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 28,
+  "translation": "اور وہ قطارِ سوُم — لَشَم، شْبُو اور اَحلَمہ۔",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "اور وہ قطار"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "سوُم"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "لَشَم"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "شْبُو"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "اور اَحلَمہ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:07:22.600835155Z",
+  "model": "glm-5.2"
+}

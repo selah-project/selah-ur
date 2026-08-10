@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 40:18",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 40,
+  "translation": "اور فرش دروازوں کے کندھے کے ساتھ تھا، دروازوں کے طول کے مماثل ⟨وہ⟩ نچلا فرش۔",
+  "tokens": [
+    {
+      "surface": "והרצפה",
+      "gloss": "اور فرش"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "کندھے"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "دروازوں"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "کے مماثل"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "طول"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "دروازوں"
+    },
+    {
+      "surface": "הרצפה",
+      "gloss": "فرش"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "نچلا"
+    }
+  ],
+  "timestamp": "2026-08-09T23:01:00.590309147Z",
+  "model": "glm-5.2"
+}

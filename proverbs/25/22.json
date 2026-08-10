@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 25:22",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "کیونکہ تم اس کے سر پر ⟨את⟩ انگارے اکٹھے کرو گے، اور یاہویہ تمہیں بدلہ دے گا۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "انگارے"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تم"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "اکٹھے کرو گے"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "اس کے سر"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "اور یاہویہ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "بدلہ دے گا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تمہیں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:07:37.782827846Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 23:20",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "عُزِّیایِل کے بیٹے: مِیخا سَردار، اور یِشِّیَاہ دوسرا۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "عُزِّیایِل"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "مِیخا"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سَردار"
+    },
+    {
+      "surface": "וישיה",
+      "gloss": "اور یِشِّیَاہ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دوسرا"
+    }
+  ],
+  "timestamp": "2026-08-10T01:09:52.277049198Z",
+  "model": "glm-5.2"
+}

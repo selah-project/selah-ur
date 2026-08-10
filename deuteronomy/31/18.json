@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 31:18",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 31,
+  "translation": "اور میں اس دن اپنا چہرہ ضرور چھپاؤں گا، اس تمام برائی کے سبب جو اس نے کی، اس لیے کہ وہ دوسرے الوہیم کی طرف متوجہ ہوا۔",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "اور میں"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "چھپانا"
+    },
+    {
+      "surface": "אסתיר",
+      "gloss": "چھپاؤں گا"
+    },
+    {
+      "surface": "פני",
+      "gloss": "اپنا چہرہ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "اس دن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "کے سبب"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "اس نے کی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "اس لیے کہ"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "متوجہ ہوا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "دوسرے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:56:18.736882862Z",
+  "model": "glm-5.2"
+}

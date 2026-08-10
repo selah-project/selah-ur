@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 22:26",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "اور یاہویہ نے موشہ سے کلام کیا، کہا:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "اور … کلام کیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہا"
+    }
+  ],
+  "timestamp": "2026-08-09T20:23:02.010232456Z",
+  "model": "glm-5.2"
+}

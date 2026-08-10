@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "یاہویہ کی رُوح نے مجھ سے کلام کیا، اور اُس کا بول میری زبان پر ہے۔",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "رُوحِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام کیا"
+    },
+    {
+      "surface": "בי",
+      "gloss": "مجھ سے"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "اور اُس کا بول"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "میری زبان"
+    }
+  ],
+  "timestamp": "2026-08-09T21:39:01.051454001Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 1:49",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "اور شَاؤُل کا انتقال ہوا، اور اُس کی جگہ بَعَل خَانان بَن عَکبور بادشاہ ہوا۔",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "اور انتقال ہوا"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شَاؤُل"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "اور بادشاہ ہوا"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "اُس کی جگہ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بَعَل"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "خَانان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بَن"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "عَکبور"
+    }
+  ],
+  "timestamp": "2026-08-10T06:48:28.470147197Z",
+  "model": "glm-5.2"
+}

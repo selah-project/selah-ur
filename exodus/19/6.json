@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 19:6",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "اور تم میرے لیے کاہنوں کی مملکت اور ایک مقدس قوم ہو گے۔ یہ وہ باتیں ہیں جو تم بنی اسرائیل سے کہو گے۔",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "اور تم"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "تم ہو گے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے لیے"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "مملکت"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "کاہنوں کی"
+    },
+    {
+      "surface": "וגוי",
+      "gloss": "اور قوم"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "باتیں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "تم کہو گے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-09T20:01:52.861482429Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 30:5",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 30,
+  "translation": "الوہ کا ہر ⟨آیت⟩⟩ لفظ خالص ⟨ہے⟩؛ وہ اپنے پناہ لینے والوں کے لیے ڈھال ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "الوہ"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "خالص"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ڈھال"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ ⟨ہے⟩"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "پناہ لینے والوں کے لیے"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اپنے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:31:45.003830361Z",
+  "model": "glm-5.2"
+}

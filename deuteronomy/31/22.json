@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 31:22",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 31,
+  "translation": "تو موشہ نے اُس دن ⟨את⟩ یہ گیت لکھا اور ⟨את⟩ بنی یِسرائیل کو سکھایا۔",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "تو لکھا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یہ گیت"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "گیت"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اسی"
+    },
+    {
+      "surface": "וילמדה",
+      "gloss": "اور سکھایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بنی یِسرائیل کو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل کو"
+    }
+  ],
+  "timestamp": "2026-08-09T20:56:06.535750165Z",
+  "model": "glm-5.2"
+}

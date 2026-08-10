@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 21:31",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "اس لیے اُس نے اس جگہ کا نام بیر-شَبع رکھا، کیونکہ وہاں دونوں نے قسم کھائی۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "اس"
+    },
+    {
+      "surface": "כן",
+      "gloss": "لیے"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "اُس نے نام رکھا"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "اس جگہ کا"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بیر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-شَبع"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "وہاں"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "قسم کھائی"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "دونوں نے"
+    }
+  ],
+  "timestamp": "2026-08-09T19:39:57.218499711Z",
+  "model": "glm-5.2"
+}

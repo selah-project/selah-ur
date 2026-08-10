@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "اور اَبْشای بیٹا تَسْرُویَہ نے ⟨את⟩ اِدُوم کو لَوݪ کی وادی میں مارا — اٹھارہ ہزار۔",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "اور اَبْشای"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "تَسْرُویَہ"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "نے مارا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِدُوم"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "اِدُوم کو"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "وادی میں"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "لَوݪ کی"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "اٹھارہ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    }
+  ],
+  "timestamp": "2026-08-10T06:50:42.977097670Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور پَلِگ نے تینّی سال جِیا، اور ⟨את⟩ رَعُو کو جَنّا۔",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "اور جِیا"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "پَلِگ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "تینّی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "اور جَنّا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رَعُو کو"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "رَعُو"
+    }
+  ],
+  "timestamp": "2026-08-09T19:37:07.565359415Z",
+  "model": "glm-5.2"
+}

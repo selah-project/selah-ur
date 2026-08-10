@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 26:2",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 26,
+  "translation": "بے力量的 کو کیسے مدد دی، اور بےزور بازو کو کیسے بچایا؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "کیسے"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "مدد دی"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "کو بے"
+    },
+    {
+      "surface": "כח",
+      "gloss": "طاقت"
+    },
+    {
+      "surface": "הושעת",
+      "gloss": "بچایا"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "بازو کو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "بے"
+    },
+    {
+      "surface": "עז",
+      "gloss": "زور"
+    }
+  ],
+  "timestamp": "2026-08-10T00:19:35.629469383Z",
+  "model": "glm-5.2"
+}

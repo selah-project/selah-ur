@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 18:14",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "اسرائیل میں ہر وقف شدہ چیز تیرے ہوگی۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "وقف شدہ چیز"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "اسرائیل میں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوگی"
+    }
+  ],
+  "timestamp": "2026-08-09T20:33:47.164139091Z",
+  "model": "glm-5.2"
+}

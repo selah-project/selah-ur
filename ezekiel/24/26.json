@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 24:26",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "اُس دن وہ بھاگ جانے والا تیرے پاس آئے گا ⟨تاکہ⟩ کانوں کو سناۓ۔",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "اُس دن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "آئے گا"
+    },
+    {
+      "surface": "הפליט",
+      "gloss": "بھاگ جانے والا"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیرے پاس"
+    },
+    {
+      "surface": "להשמעות",
+      "gloss": "⟨تاکہ⟩ سناۓ"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "کانوں کو"
+    }
+  ],
+  "timestamp": "2026-08-09T22:54:32.405557964Z",
+  "model": "glm-5.2"
+}

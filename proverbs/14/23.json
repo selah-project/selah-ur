@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 14:23",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "ہر محنت میں فائدہ ہوتا ہے، مگر ہونٹوں کا بات صرف کسر کو ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "محنت میں"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوتا ہے"
+    },
+    {
+      "surface": "מותר",
+      "gloss": "فائدہ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "مگر بات"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ہونٹوں کا"
+    },
+    {
+      "surface": "אך",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "کسر کو"
+    }
+  ],
+  "timestamp": "2026-08-10T00:03:11.194680868Z",
+  "model": "glm-5.2"
+}

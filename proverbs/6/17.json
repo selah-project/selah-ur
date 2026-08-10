@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 6:17",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اُونچی آنکھیں، جھوٹی زبان، اور ⟨وہ⟩ ہاتھ جو بےگناہ خون بہاتے ہیں،",
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "آنکھیں"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "اُونچی"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "جھوٹی"
+    },
+    {
+      "surface": "וידים",
+      "gloss": "اور ہاتھ"
+    },
+    {
+      "surface": "שפכות",
+      "gloss": "بہاتے"
+    },
+    {
+      "surface": "דם",
+      "gloss": "خون"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "بےگناہ"
+    }
+  ],
+  "timestamp": "2026-08-10T07:51:33.187782064Z",
+  "model": "glm-5.2"
+}

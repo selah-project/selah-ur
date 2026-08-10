@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "⟨چاہیے کہ⟩ وہ اکیلا بیٹھے اور خاموش رہے، کیونکہ اُس نے اُس پر ڈال دیا ہے۔",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "بیٹھے"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "اکیلا"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "اور خاموش رہے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "اُس نے ڈال دیا ہے"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اُس پر"
+    }
+  ],
+  "timestamp": "2026-08-10T00:29:38.243991998Z",
+  "model": "glm-5.2"
+}

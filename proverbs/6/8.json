@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 6:8",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "گرمی میں اپنی روٹی تیار کرتی ہے، کٹائی میں اپنا کھانا جمع کرتی ہے۔",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "تیار کرتی ہے"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "گرمی میں"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "اپنی روٹی"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "جمع کرتی ہے"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "کٹائی میں"
+    },
+    {
+      "surface": "מאכלה",
+      "gloss": "اپنا کھانا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:00:23.980362409Z",
+  "model": "glm-5.2"
+}

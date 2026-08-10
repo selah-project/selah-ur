@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 1:1",
+  "book": "habakkuk",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "وہ بوج جو حَبَقّوق نبی نے دیکھا۔",
+  "tokens": [
+    {
+      "surface": "המשא",
+      "gloss": "وہ بوج"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "دیکھا"
+    },
+    {
+      "surface": "חבקוק",
+      "gloss": "حَبَقّوق"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    }
+  ],
+  "timestamp": "2026-08-09T23:15:34.666630482Z",
+  "model": "glm-5.2"
+}

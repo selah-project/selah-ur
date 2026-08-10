@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 60,
+  "translation": "ہمیں دکھ سے مدد دو، کیونکہ ⟨یہ⟩ کہ آدمی کی نجات باطل ہے۔",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "دو"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ہمیں"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "مدد"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "دکھ سے"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "اور باطل"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "نجات"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمی کی"
+    }
+  ],
+  "timestamp": "2026-08-09T23:35:37.929217096Z",
+  "model": "glm-5.2"
+}

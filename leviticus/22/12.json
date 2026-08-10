@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 22:12",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "اور کاہن کی بیٹی جب کسی اجنبی آدمی کی ہو جائے، وہ ترقیاتی نذروں میں سے نہ کھائے گی۔",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "اور بیٹی"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاہن کی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جب"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ہو جائے"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "کسی آدمی کی"
+    },
+    {
+      "surface": "זר",
+      "gloss": "اجنبی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "בתרומת",
+      "gloss": "ترقیاتی نذروں میں سے"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "کھائے گی"
+    }
+  ],
+  "timestamp": "2026-08-09T20:22:17.201677725Z",
+  "model": "glm-5.2"
+}

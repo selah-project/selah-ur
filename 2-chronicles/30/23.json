@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 30:23",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 30,
+  "translation": "اور تمام جماعت نے صلاح کی کہ سات اور دن منائے، تو انہوں نے سات دن خوشی سے منائے۔",
+  "tokens": [
+    {
+      "surface": "ויועצו",
+      "gloss": "اور صلاح کی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "جماعت نے"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کہ منائے"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "سات"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دن"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "اور"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "تو انہوں نے منائے"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "سات"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دن"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "خوشی سے"
+    }
+  ],
+  "timestamp": "2026-08-10T01:26:46.618842212Z",
+  "model": "glm-5.2"
+}

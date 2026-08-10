@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 21:1",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "بادشاہ کا دل پانی کی نہروں کی طرح یاہویہ کے ہاتھ میں ہے؛ جس طرف بھی ⟨وہ⟩ چاہتا ہے اسے ⟨وہ⟩ جھکا دیتا ہے۔",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "نہریں"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ہاتھ میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "چاہتا ہے"
+    },
+    {
+      "surface": "יטנו",
+      "gloss": "جھکا دیتا ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:04:53.433818140Z",
+  "model": "glm-5.2"
+}

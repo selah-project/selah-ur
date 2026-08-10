@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": " ⟨برائے⟩ رہنما، مزمور ⟨برائے⟩ داوِد۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "رہنما"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد"
+    }
+  ],
+  "timestamp": "2026-08-09T23:24:37.476901279Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 12:13",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "عِزرا کے لِے مِشُلّام، اَمریاہ کے لِے یِہوخانان۔",
+  "tokens": [
+    {
+      "surface": "לעזרא",
+      "gloss": "عِزرا کے لِے"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "مِشُلّام"
+    },
+    {
+      "surface": "לאמריה",
+      "gloss": "اَمریاہ کے لِے"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "یِہوخانان"
+    }
+  ],
+  "timestamp": "2026-08-10T00:55:46.883060375Z",
+  "model": "glm-5.2"
+}

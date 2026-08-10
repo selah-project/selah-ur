@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 24:20",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "کیونکہ برائی کا کوئی انجام نہ ہوگا، شریر لوگوں کا چراغ بجھا دیا جائے گا،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ہوگا"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "انجام"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "برائی کا"
+    },
+    {
+      "surface": "נר",
+      "gloss": "چراغ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "شریر لوگوں کا"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "بجھا دیا جائے گا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:07:07.087707472Z",
+  "model": "glm-5.2"
+}

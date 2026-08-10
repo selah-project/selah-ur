@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 18:24",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "اور موشے نے اپنے سسر کی بات سنی، اور جو کچھ اس نے کہا تھا سب کر گیا۔",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "اور سنی"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے نے"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "بات"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "اپنے سسر کی"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "اور کر گیا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو کچھ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "اس نے کہا تھا"
+    }
+  ],
+  "timestamp": "2026-08-10T05:19:32.440762272Z",
+  "model": "glm-5.2"
+}

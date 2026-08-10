@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 27:2",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "اس دن: ⟨ایک⟩ چاہتا ہوا انگور کا باغ، اس کا گیت گاؤ۔",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "اس دن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "انگور کا باغ"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "چاہتا ہوا"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "گاؤ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اس کا"
+    }
+  ],
+  "timestamp": "2026-08-09T22:09:16.796068793Z",
+  "model": "glm-5.2"
+}

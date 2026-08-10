@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 21:27",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "رشرعیم کی قربانی مکروہ ہے — کیا ہو گا جب وہ بدنیّت سے ⟨اسے⟩ لائے!",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "قربانی"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "رشرعیم کی"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "مکروہ ہے"
+    },
+    {
+      "surface": "אף",
+      "gloss": "—"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیا ہو گا جب"
+    },
+    {
+      "surface": "בזמה",
+      "gloss": "بدنیّت سے"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "لائے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:04:50.518137136Z",
+  "model": "glm-5.2"
+}

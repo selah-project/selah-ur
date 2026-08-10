@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 17:2",
+  "book": "1-kings",
+  "lang": "ur",
+  "chapter": 17,
+  "translation": "اور یَہوِیَہ کا فِرمان اُس کے پاس آیا، یوں کہنا:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ⟨یہ⟩ ہوا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "فِرمان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یَہوِیَہ کا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اُس کے پاس"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہنے کو"
+    }
+  ],
+  "timestamp": "2026-08-09T21:48:10.458230716Z",
+  "model": "glm-5.2"
+}

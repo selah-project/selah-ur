@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "اور نوح پانچ سو سال کا بیٹا تھا، اور نوح نے ⟨את⟩ شِم، ⟨את⟩ حام، اور ⟨את⟩ یَفَت کو پیدا کیا۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور تھا"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پانچ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال کا"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "اور پیدا کیا"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوح نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شِم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شِم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "حام"
+    },
+    {
+      "surface": "חם",
+      "gloss": "حام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "یَفَت"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "یَفَت کو"
+    }
+  ],
+  "timestamp": "2026-08-10T05:11:29.220560558Z",
+  "model": "glm-5.2"
+}

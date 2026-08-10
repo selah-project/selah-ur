@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "lamentations 3:24",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "میرا حصہ یاہویہ ⟨ہے⟩، میری نفَش نے کہا، اِسی لیے میں اُس کے لیے اُمید رکھتا ہوں۔",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "میرا حصہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "کہا"
+    },
+    {
+      "surface": "نפשי",
+      "gloss": "میری نفَش"
+    },
+    {
+      "surface": "על",
+      "gloss": "اِسی"
+    },
+    {
+      "surface": "כן",
+      "gloss": "لیے"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "اُمید رکھتا ہوں"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُس کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:29:43.156245842Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 26:18",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 26,
+  "translation": "یہ ہیں گاد کے بیٹوں کے خاندان، ان کے شمار کے مطابق: چالیس ہزار اور پانچ سو۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹوں"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "ان کے شمار کے مطابق"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چالیس"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "اور پانچ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    }
+  ],
+  "timestamp": "2026-08-10T07:13:11.135523460Z",
+  "model": "glm-5.2"
+}

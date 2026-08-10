@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "جب تو اپنے دشمنوں پر لشکر لے کر نکلے، تو تو ہر بری چیز سے خود کو بچائے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جب"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "تو نکلے"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "لشکر"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "اپنے دشمنوں"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "تو خود کو بچائے"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "چیز"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بری"
+    }
+  ],
+  "timestamp": "2026-08-10T05:34:11.446762933Z",
+  "model": "glm-5.2"
+}

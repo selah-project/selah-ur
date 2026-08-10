@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 119,
+  "translation": "ہر برے راستے سے میں نے اپنے قدم روکے ہیں، تاکہ میں تیرا کلام ہلالاں۔",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "راستے"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برے"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "میں نے روکے ہیں"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "اپنے قدم"
+    },
+    {
+      "surface": "למען",
+      "gloss": "تاکہ"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "میں ہلالاں"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "تیرا کلام"
+    }
+  ],
+  "timestamp": "2026-08-09T23:52:20.667758522Z",
+  "model": "glm-5.2"
+}

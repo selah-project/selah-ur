@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 13:11",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "یوسف کے قبیلے کے لیے مَنَشّے کے قبیلے کے لیے گَدّی بِن سُوسی۔",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "قبیلے کے لیے"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "قبیلے کے لیے"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مَنَشّہ"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "گَدّی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بِن"
+    },
+    {
+      "surface": "סוסי",
+      "gloss": "سُوسی"
+    }
+  ],
+  "timestamp": "2026-08-10T05:27:26.389301358Z",
+  "model": "glm-5.2"
+}

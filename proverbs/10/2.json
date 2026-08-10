@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "برائی کے خزانے نفع نہیں دیتے، مگر صداقت موت سے بچاتی ہے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "نفع دیتے"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "خزانے"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "برائی کے"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "مگر صداقت"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "بچاتی ہے"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "موت سے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:00:50.268402610Z",
+  "model": "glm-5.2"
+}

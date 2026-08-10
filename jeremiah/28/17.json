@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 28:17",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 28,
+  "translation": "اور حَنَنْیاہ نبی اُسی سال ساتویں مہینے میں مر گیا۔",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "اور مر گیا"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "حَنَنْیاہ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "سال میں"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "وہی"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "مہینے میں"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ساتواں"
+    }
+  ],
+  "timestamp": "2026-08-10T06:09:39.316316774Z",
+  "model": "glm-5.2"
+}

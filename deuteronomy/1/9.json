@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "اور میں نے اس وقت تم سے کہا، کہہ کر: میں ⟨توانا نہیں⟩ ہوں ⟨کہ⟩ میں ⟨تنہا⟩ تمہیں اٹھا سکوں۔",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "اور میں نے کہا"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "تم سے"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "اس وقت"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "وہی"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہہ کر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "میں ⟨توانا ہوں⟩"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "⟨تنہا⟩ میں"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "اٹھانے کو"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "تمہیں"
+    }
+  ],
+  "timestamp": "2026-08-10T05:31:37.245661406Z",
+  "model": "glm-5.2"
+}

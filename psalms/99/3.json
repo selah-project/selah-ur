@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 99,
+  "translation": "وہ تیرے نام کی تعریف کریں — بڑا اور ہیبتْناک، قدوس ⟨وہ⟩ ہے۔",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "تعریف کریں"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تیرے نام کی"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "بڑا"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "اور ہیبتْناک"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "قدوس"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    }
+  ],
+  "timestamp": "2026-08-09T23:46:05.019798219Z",
+  "model": "glm-5.2"
+}

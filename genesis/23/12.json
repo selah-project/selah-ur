@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "اور اَوراہام نے مُلک کے لوگوں کے سامنے سجدہ کیا۔",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "اور سجدہ کیا"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام نے"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "کے سامنے"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لوگوں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "مُلک کے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:55:22.580314483Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 40:32",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 40,
+  "translation": "اس پر اپنا ہاتھ رکھ؛ جنگ کو یاد کر — ⟨تو⟩ مزید نہ کرے گا۔",
+  "tokens": [
+    {
+      "surface": "שים",
+      "gloss": "رکھ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اس پر"
+    },
+    {
+      "surface": "כפך",
+      "gloss": "اپنا ہاتھ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "یاد کر"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ کو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "مزید کرے گا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:24:12.368880718Z",
+  "model": "glm-5.2"
+}

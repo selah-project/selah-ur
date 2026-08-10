@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 18:9",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "⟨یک⟩ جال ایڑی پکڑ لیتا ہے، اور فندیں اُس پر طاقتور ہیں۔",
+  "tokens": [
+    {
+      "surface": "יאחז",
+      "gloss": "پکڑ لیتا ہے"
+    },
+    {
+      "surface": "בעקב",
+      "gloss": "ایڑی"
+    },
+    {
+      "surface": "פח",
+      "gloss": "⟨یک⟩ جال"
+    },
+    {
+      "surface": "יחזק",
+      "gloss": "طاقتور ہیں"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اُس پر"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "فندیں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:16:34.465683115Z",
+  "model": "glm-5.2"
+}

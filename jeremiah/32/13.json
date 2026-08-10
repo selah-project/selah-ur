@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 32:13",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 32,
+  "translation": "اور میں نے ⟨את⟩ باروک کو ان کی آنکھوں کے سامنے حکم دیا، کہہ کر:",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "اور میں نے حکم دیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "باروک"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "باروک"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "ان کی آنکھوں کے سامنے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہہ کر"
+    }
+  ],
+  "timestamp": "2026-08-10T06:10:06.640951364Z",
+  "model": "glm-5.2"
+}

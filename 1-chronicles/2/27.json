@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 2:27",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور رام کے بیٹے ⟨تھے⟩، یِرَخْم‌ایل کا بکر — مَعَص، اور یَمین، اور عِیکِر۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "اور تھے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کے بیٹے"
+    },
+    {
+      "surface": "רם",
+      "gloss": "رام"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "بکر"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "یِرَخْم‌ایل"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "مَعَص"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "اور یَمین"
+    },
+    {
+      "surface": "ועקר",
+      "gloss": "اور عِیکِر"
+    }
+  ],
+  "timestamp": "2026-08-10T00:58:21.552601753Z",
+  "model": "glm-5.2"
+}

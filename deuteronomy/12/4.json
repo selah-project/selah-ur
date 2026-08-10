@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "ایسا نہیں کرو گے یاہویہ، تمہارے الوہیم کے لیے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "کرو گے"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایسا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہویہ کے لیے"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "تمہارے الوہیم"
+    }
+  ],
+  "timestamp": "2026-08-10T05:33:19.612089453Z",
+  "model": "glm-5.2"
+}

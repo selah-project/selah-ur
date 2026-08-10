@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 34:8",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 34,
+  "translation": "کیونکہ یاہویہ کا بدلے کا دن ہے، صہیون کے جھگڑے کے بدلے کا سال۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "بدلے کا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہویہ کا"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "سال"
+    },
+    {
+      "surface": "שלומים",
+      "gloss": "بدلے کا"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "کے جھگڑے کے"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صہیون"
+    }
+  ],
+  "timestamp": "2026-08-10T07:46:01.105157624Z",
+  "model": "glm-5.2"
+}

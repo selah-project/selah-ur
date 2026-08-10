@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 119:20",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 119,
+  "translation": "میری جان گھس چکی ہے تمنا کے لیے — تیرے فیصلوں کی طرف ہر وقت۔",
+  "tokens": [
+    {
+      "surface": "גרסה",
+      "gloss": "گھس چکی ہے"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان"
+    },
+    {
+      "surface": "לתאבה",
+      "gloss": "تمنا کے لیے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "تیرے فیصلوں"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    }
+  ],
+  "timestamp": "2026-08-10T08:59:43.631155900Z",
+  "model": "glm-5.2"
+}

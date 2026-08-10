@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 43:12",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 43,
+  "translation": "یہ ہے کی تورات ہے: پہاڑ کی چوٹی پر، اس کا سارا حدود ساحات کے گرد گرد مقدسِ مقدسین ہے — دیکھو، یہ ہے کی تورات ہے۔",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ہے کی"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "چوٹی"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "پہاڑ کی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "גבלו",
+      "gloss": "اس کا حدود"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "گرد"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "گرد"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "مقدسین"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "دیکھو"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ہے کی"
+    }
+  ],
+  "timestamp": "2026-08-10T06:20:23.287152421Z",
+  "model": "glm-5.2"
+}

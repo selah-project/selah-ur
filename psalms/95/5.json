@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 95:5",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 95,
+  "translation": "جس کا سمندر ہے اور ⟨وہ⟩ ⟨نے⟩ اسے بنایا، اور خشکی کو اس کے ہاتھوں نے گھڑا۔",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جس"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اس کا ہے"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "اور وہ"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "اسے بنایا"
+    },
+    {
+      "surface": "ויבשת",
+      "gloss": "اور خشکی کو"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "اس کے ہاتھوں نے"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "گھڑا"
+    }
+  ],
+  "timestamp": "2026-08-09T23:44:32.841162050Z",
+  "model": "glm-5.2"
+}

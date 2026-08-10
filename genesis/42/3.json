@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 42,
+  "translation": "تو یوسف کے دس بھائی اناج خریدنے کے لیے مِتصرایم سے اُتر گئے۔",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "تو اُتر گئے"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "بھائی"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دس"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "خریدنے کے لیے"
+    },
+    {
+      "surface": "בר",
+      "gloss": "اناج"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "مِتصرایم سے"
+    }
+  ],
+  "timestamp": "2026-08-10T05:17:12.162289309Z",
+  "model": "glm-5.2"
+}

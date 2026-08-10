@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 29:35",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 29,
+  "translation": "آٹھویں دن تمھارے لیے єк집نیا ہوگی؛ کوئی بھی خدمت کا کام نہ کرو:",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "آٹھویں"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "єк집نیا"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨ہوگی⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تمھارے لیے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "کام"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "خدمت کا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "کرو"
+    }
+  ],
+  "timestamp": "2026-08-09T20:38:42.068559044Z",
+  "model": "glm-5.2"
+}

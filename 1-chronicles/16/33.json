@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 16:33",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 16,
+  "translation": "اَب جنگل کے درخت یاہویہ کے سامنے خوشی سے گائیں گے، کیونکہ وہ ⟨את⟩ زمین کا فیصلہ کرنے آ رہا ہے۔",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "اَب"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "گائیں گے"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "درخت"
+    },
+    {
+      "surface": "היער",
+      "gloss": "جنگل کے"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "کے سامنے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آ رہا ہے"
+    },
+    {
+      "surface": "לשפוט",
+      "gloss": "فیصلہ کرنے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمین"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-10T01:07:23.484005288Z",
+  "model": "glm-5.2"
+}

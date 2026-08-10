@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "اور یاہویہ نے موشہ اور اہرون سے مِتصرایم کے ملک میں فرمایا، کہنا:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور فرمایا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "اور سے"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "میں ملک"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم کے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہنا"
+    }
+  ],
+  "timestamp": "2026-08-09T19:58:47.812347587Z",
+  "model": "glm-5.2"
+}

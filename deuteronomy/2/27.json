@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 2:27",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "میں گزرا کروں تیری زمین میں، راستے پر، راستے پر چلوں گا؛ نہ ملوں گا دائیں اور بائیں۔",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "میں گزرا کروں"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "تیری زمین میں"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "راستے پر"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "راستے پر"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "چلوں گا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "ملوں گا"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "دائیں"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "اور بائیں"
+    }
+  ],
+  "timestamp": "2026-08-09T20:42:23.455540408Z",
+  "model": "glm-5.2"
+}

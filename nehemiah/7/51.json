@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "nehemiah 7:51",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "بنیں گَزّام، بنیں عُزّا، بنیں پاسِیاخ کی،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بنیں"
+    },
+    {
+      "surface": "גזם",
+      "gloss": "گَزّام"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنیں"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "عُزّا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنیں"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "پاسِیاخ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:53:59.553911090Z",
+  "model": "glm-5.2"
+}

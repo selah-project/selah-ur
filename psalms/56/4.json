@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 56,
+  "translation": "جس دن میں ڈروں، میں ⟨اپنا بھروسہ⟩ آپ پر کروں گا۔",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "جس دن"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "میں ڈروں"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "آپ پر"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "بھروسہ کروں گا"
+    }
+  ],
+  "timestamp": "2026-08-09T23:34:14.505327129Z",
+  "model": "glm-5.2"
+}

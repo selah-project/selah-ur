@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 2:8",
+  "book": "song-of-songs",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "میرے محبوب کی آواز! دیکھو وہ آ رہا ہے، پہاڑوں پر چھلانگیں لگاتا، ٹیلوں پر کودتا ہوا۔",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "میرے محبوب کی"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "دیکھو"
+    },
+    {
+      "surface": "זה",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آ رہا ہے"
+    },
+    {
+      "surface": "מדלג",
+      "gloss": "چھلانگیں لگاتا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "پہاڑوں"
+    },
+    {
+      "surface": "מקפץ",
+      "gloss": "کودتا ہوا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "ٹیلوں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:26:07.910055211Z",
+  "model": "glm-5.2"
+}

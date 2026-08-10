@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 9:20",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "اور ہوتا کہ بادل مسکن پر چند دن ٹھہرا رہتا؛ یاہویہ کے منہ پر وہ ڈیرہ ڈالتے، اور یاہویہ کے منہ پر وہ روانہ ہوتے۔",
+  "tokens": [
+    {
+      "surface": "ויש",
+      "gloss": "اور ہوتا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "رہتا"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "بادل"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دن"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "چند"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פי",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "יחנו",
+      "gloss": "ڈیرہ ڈالتے"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "اور پر"
+    },
+    {
+      "surface": "פי",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "روانہ ہوتے"
+    }
+  ],
+  "timestamp": "2026-08-10T05:28:09.510751274Z",
+  "model": "glm-5.2"
+}

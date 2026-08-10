@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "کیونکہ ظلم حکیم کو پاگل کر دیتا ہے، اور رشوت ⟨את⟩ دل کو تباہ کرتی ہے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "ظلم"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "پاگل کر دیتا ہے"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حکیم کو"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "اور … تباہ کرتی ہے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دل"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "رشوت"
+    }
+  ],
+  "timestamp": "2026-08-10T00:35:37.803001756Z",
+  "model": "glm-5.2"
+}

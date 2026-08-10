@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 11:41",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اوریَہ حِتی، زابَد بَن اَخلای۔",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "اوریَہ"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "حِتی"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "زابَد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بَن"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "اَخلای"
+    }
+  ],
+  "timestamp": "2026-08-10T01:03:19.169462933Z",
+  "model": "glm-5.2"
+}

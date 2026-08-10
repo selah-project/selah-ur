@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "ساری جماعت ایک کی طرح چار ریبوہ، دو ہزار، تین سو، ساٹھ۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "جماعت"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "ایک کی طرح"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "ریبوہ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "دو ہزار"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "تین"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ساٹھ"
+    }
+  ],
+  "timestamp": "2026-08-10T07:34:34.351833214Z",
+  "model": "glm-5.2"
+}

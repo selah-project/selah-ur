@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "اور ⟨ایک⟩ آدمی جب کوئی ⟨انسانی⟩ جان کو مارے، موت مارا جائے۔",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "اور ⟨ایک⟩ آدمی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جب"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "مارے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨انسانی⟩"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "مارا جائے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:11:45.168770720Z",
+  "model": "glm-5.2"
+}

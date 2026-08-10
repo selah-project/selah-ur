@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 11:15",
+  "book": "zechariah",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور یاہویہ نے مجھ سے فرمایا: ابھیر اپنے لیے نافہم چرواہے کا اوزار لے لے۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور فرمایا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ نے"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مجھ سے"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ابھیر"
+    },
+    {
+      "surface": "קח",
+      "gloss": "لے لے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اپنے لیے"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "اوزار"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "چرواہے کا"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "نافہم"
+    }
+  ],
+  "timestamp": "2026-08-10T06:27:04.518588181Z",
+  "model": "glm-5.2"
+}

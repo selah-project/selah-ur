@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "حکمت کو حاصل کر، سمجھ کو حاصل کر؛ بھول نہ جا، اور میرے منہ کے اقوال سے نہ جھک جا۔",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "حاصل کر"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت کو"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "حاصل کر"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "سمجھ کو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "بھول جا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "תט",
+      "gloss": "جھک جا"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "سے اقوال"
+    },
+    {
+      "surface": "פי",
+      "gloss": "میرے منہ کے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:58:33.077063968Z",
+  "model": "glm-5.2"
+}

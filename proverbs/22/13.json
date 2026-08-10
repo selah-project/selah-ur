@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 22:13",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "کہتا ہے کاہل: باہر شیر ہے، ☂اور☼ گلیوں کے بیچ میں قتل ہو جاؤں گا۔",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "کہتا ہے"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "کاہل"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "شیر"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "باہر"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "کی بیچ میں"
+    },
+    {
+      "surface": "רחבות",
+      "gloss": "گلیوں"
+    },
+    {
+      "surface": "ארצח",
+      "gloss": "قتل ہو جاؤں گا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:05:31.565269044Z",
+  "model": "glm-5.2"
+}

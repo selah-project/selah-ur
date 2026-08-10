@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 9:9",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "اور یاہویہ نے موشہ سے کلام کیا، فرماتے ہوئے:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "اور کلام کیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "فرماتے ہوئے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:29:31.590877012Z",
+  "model": "glm-5.2"
+}

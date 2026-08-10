@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 16:12",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 16,
+  "translation": "اس کے معجزات یاد کرو جو اس نے کیے، اس کی نشانیاں اور اس کے منہ کے احکام،",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "یاد کرو"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "اس کے معجزات"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "اس نے کیے"
+    },
+    {
+      "surface": "מפתיו",
+      "gloss": "اس کی نشانیاں"
+    },
+    {
+      "surface": "ומשפטי",
+      "gloss": "اور احکام"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "اس کے منہ کے"
+    }
+  ],
+  "timestamp": "2026-08-10T09:06:13.743651919Z",
+  "model": "glm-5.2"
+}

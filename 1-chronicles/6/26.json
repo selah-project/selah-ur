@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 6:26",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اِتنّی کا بیٹا، زِرَح کا بیٹا، عَدایہ کا بیٹا۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "אתני",
+      "gloss": "اِتنّی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زِرَح"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "عَدایہ"
+    }
+  ],
+  "timestamp": "2026-08-10T01:02:03.943019181Z",
+  "model": "glm-5.2"
+}

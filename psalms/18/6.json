@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 18:6",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "شیول کے رسّوں نے مجھے گھیرا، موت کے پھندے میرے سامنے آ گئے۔",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "رسّوں نے"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شیول کے"
+    },
+    {
+      "surface": "סבבוני",
+      "gloss": "مجھے گھیرا"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "میرے سامنے آ گئے"
+    },
+    {
+      "surface": "מוקשי",
+      "gloss": "پھندے"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت کے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:29:15.721242465Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 49,
+  "translation": "اور وہ ہمیشہ کے لیے زندہ رہے، اور گڑھا نہ دیکھے۔",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "اور وہ زندہ رہے"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ہمیشہ کے لیے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "دیکھے"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "گڑھا"
+    }
+  ],
+  "timestamp": "2026-08-09T23:33:27.384507010Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 7:37",
+  "book": "1-kings",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اس طرح اس نے ⟨את⟩ دس ٹیکوں کو بنایا — ایک ہی ڈھلائی، ایک ہی پیمانہ، ایک ہی تراش ان سب کی تھی۔",
+  "tokens": [
+    {
+      "surface": "כזאת",
+      "gloss": "اس طرح"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بنایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دس ٹیکوں کو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دس"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "ٹیکے"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "ڈھلائی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "پیمانہ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "קצב",
+      "gloss": "تراش"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "לכלהנה",
+      "gloss": "ان سب کی"
+    }
+  ],
+  "timestamp": "2026-08-09T21:42:41.491114222Z",
+  "model": "glm-5.2"
+}

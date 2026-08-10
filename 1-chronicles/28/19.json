@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 28:19",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 28,
+  "translation": "سارا لکھائی میں یاہویہ کے ہاتھ سے میرے پاس آیا، ⟨جس نے⟩ مجھے سارے نقشے کے کام سمجھائے۔",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "בכתב",
+      "gloss": "لکھائی میں"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ہاتھ سے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کے"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میرے پر"
+    },
+    {
+      "surface": "השכיל",
+      "gloss": "سمجھایا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "מלאכות",
+      "gloss": "کام"
+    },
+    {
+      "surface": "התבנית",
+      "gloss": "نقشے کے"
+    }
+  ],
+  "timestamp": "2026-08-10T01:12:29.289237244Z",
+  "model": "glm-5.2"
+}

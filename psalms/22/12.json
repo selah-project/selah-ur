@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "مجھ سے دور نہ ہو، کیونکہ تنگی قریب ہے، کیونکہ کوئی مددگار نہیں ہے۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "دور ہو"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "مجھ سے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "تنگی"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "قریب ہے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نہیں ہے"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "کوئی مددگار"
+    }
+  ],
+  "timestamp": "2026-08-09T23:27:09.680353484Z",
+  "model": "glm-5.2"
+}

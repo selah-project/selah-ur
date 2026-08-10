@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "البتہ گوشت، جس کی جان ⟔ یعنی اس کا خور ہے — اسے تم نہ کھاؤ۔",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "البتہ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "جس کی جان میں"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "اس کا خون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کھاؤ"
+    }
+  ],
+  "timestamp": "2026-08-09T19:35:49.665663265Z",
+  "model": "glm-5.2"
+}

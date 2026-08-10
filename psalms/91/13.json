@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 91,
+  "translation": "شیر اور افعی پر تو چلے گا؛ ببّر شیر اور اژدہا کو روندے گا۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "شیر"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "اور افعی"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "تو چلے گا"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "روندے گا"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "ببّر شیر"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "اور اژدہا"
+    }
+  ],
+  "timestamp": "2026-08-10T07:30:40.265912930Z",
+  "model": "glm-5.2"
+}

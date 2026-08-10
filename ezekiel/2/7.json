@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 2:7",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور تو میرے الفاظ ⟨את⟩ ان کی طرف بولے گا — اگر سنیں اور اگر رکیں — کیونکہ سرکش وہ ہیں۔",
+  "tokens": [
+    {
+      "surface": "ודברת",
+      "gloss": "اور تو بولے گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میرے الفاظ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "میرے الفاظ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ان کی طرف"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "سنیں"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "اور اگر"
+    },
+    {
+      "surface": "יחדלו",
+      "gloss": "رکیں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "سرکش"
+    },
+    {
+      "surface": "המה",
+      "gloss": "وہ ہیں"
+    }
+  ],
+  "timestamp": "2026-08-09T22:45:43.266064096Z",
+  "model": "glm-5.2"
+}

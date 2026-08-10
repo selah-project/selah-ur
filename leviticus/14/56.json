@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "leviticus 14:56",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "اور سوڄن کے لیے اور خارش کے لیے اور چمکدار داغ کے لیے،",
+  "tokens": [
+    {
+      "surface": "ולשאת",
+      "gloss": "اور سوڄن کے لیے"
+    },
+    {
+      "surface": "ולספחת",
+      "gloss": "اور خارش کے لیے"
+    },
+    {
+      "surface": "ולבהרת",
+      "gloss": "اور چمکدار داغ کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:20:03.673470043Z",
+  "model": "glm-5.2"
+}

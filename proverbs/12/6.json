@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 12:6",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "شریروں کے الفاظ خون کا گھات ⟨ہیں⟩، اور سیدھوں کا منہ ⟨انہیں⟩ بچا لیتا ہے۔",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "الفاظ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "شریروں کے"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "گھات"
+    },
+    {
+      "surface": "דם",
+      "gloss": "خون کا"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "اور منہ"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "سیدھوں کا"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "بچا لیتا ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:02:05.009778341Z",
+  "model": "glm-5.2"
+}

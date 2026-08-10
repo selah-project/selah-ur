@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 37,
+  "translation": "اور وہ اپنے بھائیوں کی طرف لوٹا اور کہا: ”لڑکا نہیں ہے، اور میں — میں کہاں جاؤں؟“",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "اور وہ لوٹا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "اپنے بھائیوں"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "لڑکا"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "نہیں ہے"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "اور میں"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "کہاں"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "בא",
+      "gloss": "جاؤں"
+    }
+  ],
+  "timestamp": "2026-08-09T19:49:09.653617862Z",
+  "model": "glm-5.2"
+}

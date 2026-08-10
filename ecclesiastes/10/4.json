@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "اگر حاکم کا غصہ تجھ پر بھڑکے، تو اپنا مقام مت چھوڑ، کیونکہ نرمی بڑے گناہوں کو ٹھنڈا کر دیتی ہے۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "غصہ"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "حاکم"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "بھڑکے"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تجھ پر"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "اپنا مقام"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مت"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "چھوڑ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "نرمی"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "ٹھنڈا کر دیتی ہے"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "گناہوں کو"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "بڑے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:35:19.592641853Z",
+  "model": "glm-5.2"
+}

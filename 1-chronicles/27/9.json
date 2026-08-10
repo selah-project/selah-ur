@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 27:9",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "چھٹا چھٹے مہینے کے لیے: عِیرا بن عِقِّیش ہتقوعی، اور اس کے دستے پر چوبیس ہزار تھے۔",
+  "tokens": [
+    {
+      "surface": "הששי",
+      "gloss": "چھٹا"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مہینے کے لیے"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "چھٹے"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "عِیرا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "عِقِّیش"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "ہتقوعی"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "اور پر"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "اس کے دستے"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیس"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "اور چار"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    }
+  ],
+  "timestamp": "2026-08-10T07:36:38.457113029Z",
+  "model": "glm-5.2"
+}

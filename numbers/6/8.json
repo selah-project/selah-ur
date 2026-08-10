@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 6:8",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "کُل ایامِ نِذْرِہ کے، مقدّس وہ ہے یاہویہ کے لیے۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "کُل"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ایامِ"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "نِذْرِہ کے"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدّس"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہویہ کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:27:29.450092973Z",
+  "model": "glm-5.2"
+}

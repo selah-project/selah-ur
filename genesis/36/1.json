@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 36,
+  "translation": "اور یہ ہیں نسب نامے عیسو کے — وہ ⟨ہے⟩ اَدوم۔",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "اور یہ ہیں"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "نسب نامے"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو کے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "اَدوم"
+    }
+  ],
+  "timestamp": "2026-08-09T19:47:32.082405606Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "تو اپنے ہمسائے کے خلاف جھوٹی گواہی نہ دے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "جوائے"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "اپنے ہمسائے کے خلاف"
+    },
+    {
+      "surface": "עד",
+      "gloss": "گواہی"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "جھوٹی"
+    }
+  ],
+  "timestamp": "2026-08-09T20:02:06.636490599Z",
+  "model": "glm-5.2"
+}

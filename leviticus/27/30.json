@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 27:30",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "اور زمین کا سارا دیسہ — زمین کے بیج سے، درخت کے پھل سے — یاہویہ کا ہے؛ وہ یاہویہ کے لیے مقدس ہے۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "اور سارا"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "دیسہ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین کا"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "بیج سے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین کے"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "پھل سے"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "درخت کے"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہویہ کا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہویہ کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:26:39.203654291Z",
+  "model": "glm-5.2"
+}

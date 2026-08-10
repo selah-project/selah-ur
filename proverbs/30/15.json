@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 30:15",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 30,
+  "translation": "جونک کو دو بیٹیاں ہیں: 'دے، دے!' تین چیزیں ہیں جو کبھی نہیں سیرتیں، یہاں تک کہ چار جو نہیں کہتیں: 'بس!'",
+  "tokens": [
+    {
+      "surface": "לעלוקה",
+      "gloss": "جونک کو"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "بیٹیاں"
+    },
+    {
+      "surface": "הב",
+      "gloss": "دے"
+    },
+    {
+      "surface": "הב",
+      "gloss": "دے"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "تین"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "چیزیں ہیں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "سیرتیں"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "کہتیں"
+    },
+    {
+      "surface": "הון",
+      "gloss": "بس"
+    }
+  ],
+  "timestamp": "2026-08-10T00:09:44.564890097Z",
+  "model": "glm-5.2"
+}

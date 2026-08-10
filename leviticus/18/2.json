@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "بنی اِسرائیل سے کلام کرو اور اُن سے کہو: مَیں یاہویہ ہوں، تمہارا الوہیم۔",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "کلام کرو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "اور کہو"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "اُن سے"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مَیں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "تمہارا الوہیم"
+    }
+  ],
+  "timestamp": "2026-08-09T20:20:52.939654974Z",
+  "model": "glm-5.2"
+}

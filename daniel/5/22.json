@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 5:22",
+  "book": "daniel",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "اور تو، اے بِلشَصّر، اس کا بیٹا، نے اپنے دل کو نہ جھکایا، ⟨اس کے باوجود⟩ کہ تو یہ سب جانتا تھا۔",
+  "tokens": [
+    {
+      "surface": "ואנתה",
+      "gloss": "اور تو"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "בלשאצר",
+      "gloss": "بِلشَصّر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "השפלת",
+      "gloss": "جھکایا"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "اپنے دل کو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کے برابر"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "اس کے باوجود"
+    },
+    {
+      "surface": "די",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "جانتا تھا"
+    }
+  ],
+  "timestamp": "2026-08-10T07:34:49.972105521Z",
+  "model": "glm-5.2"
+}

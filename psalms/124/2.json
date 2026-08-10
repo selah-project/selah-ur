@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 124,
+  "translation": "जब मनुष्य हम पर उठे, तब यहवेह हमारे लिए न होता,",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "यदि नहीं"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेह"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "जो था"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमारे लिए"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "उठने पर"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "हम पर"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मनुष्य"
+    }
+  ],
+  "timestamp": "2026-08-10T07:31:25.879823478Z",
+  "model": "glm-5.2"
+}

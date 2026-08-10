@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 13:7",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "قبیلۂ یِسّاکھر کے لیے — یِگعال بن یوسف۔",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "قبیلۂ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "یِسّاکھر"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "یِگعال"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    }
+  ],
+  "timestamp": "2026-08-09T20:30:09.206706959Z",
+  "model": "glm-5.2"
+}

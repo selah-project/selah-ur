@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 25:4",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "چاندی سے ملاوٹ ہٹاؤ، تو کانسی کے لیے ایک برتن نکلے گا۔",
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "ہٹاؤ"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "ملاوٹ"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "چاندی سے"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "اور نکلے گا"
+    },
+    {
+      "surface": "לצרף",
+      "gloss": "کانسی کے لیے"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "برتن"
+    }
+  ],
+  "timestamp": "2026-08-10T07:52:02.194435218Z",
+  "model": "glm-5.2"
+}

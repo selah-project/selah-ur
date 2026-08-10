@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 16,
+  "translation": "اور موشے نے سنا اور اپنے منہ کے بل گر پڑا۔",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "اور اس نے سنا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "اور گر پڑا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "اپنے چہرہ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:33:05.021198189Z",
+  "model": "glm-5.2"
+}

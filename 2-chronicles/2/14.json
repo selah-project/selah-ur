@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 2:14",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور اب گندم اور جو، تیل اور شراب جو میرے آقا نے کہا ہے، اپنے غلاموں کے پاس بھیجے۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "اور اب"
+    },
+    {
+      "surface": "החטים",
+      "gloss": "گندم"
+    },
+    {
+      "surface": "והשערים",
+      "gloss": "اور جو"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "تیل"
+    },
+    {
+      "surface": "והיין",
+      "gloss": "اور شراب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "کہا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "میرے آقا"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "بھیجے"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "اپنے غلاموں کے پاس"
+    }
+  ],
+  "timestamp": "2026-08-10T01:15:51.590873834Z",
+  "model": "glm-5.2"
+}

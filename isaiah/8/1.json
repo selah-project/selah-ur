@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 8:1",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اور یاہویہ نے مجھ سے کہا: تو اپنے لیے ایک بڑا تختی لے، اور اس پر آدمی کے قلم سے لکھ: مَہِیر شَلال حاش بَز۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مجھ سے"
+    },
+    {
+      "surface": "קח",
+      "gloss": "لے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اپنے لیے"
+    },
+    {
+      "surface": "גליון",
+      "gloss": "تختی"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "بڑا"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "اور لکھ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اس پر"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "قلم سے"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "آدمی کے"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "جلدی"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "لوٹ"
+    },
+    {
+      "surface": "חש",
+      "gloss": "جھپٹ"
+    },
+    {
+      "surface": "בז",
+      "gloss": "مالِ غنیمت"
+    }
+  ],
+  "timestamp": "2026-08-09T22:03:25.207043288Z",
+  "model": "glm-5.2"
+}

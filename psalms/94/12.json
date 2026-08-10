@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 94,
+  "translation": "خوشاآدم جسے تو یاہ ڈانٹتا ہے اور اپنی تورات سے سکھاتا ہے،",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "خوشا"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جسے"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "تو ڈانٹتا ہے"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "اور اپنی تورات سے"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "سکھاتا ہے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:44:49.188825371Z",
+  "model": "glm-5.2"
+}

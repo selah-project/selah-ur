@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 4:17",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "اور ⟨את⟩ یہ عصا اپنے ہاتھ میں لے، جس سے تو ⟨את⟩ نشانیاں کرے گا۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "یہ عصا"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "یہ عصا"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "تو لے"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "اپنے ہاتھ میں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جس سے"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تو کرے گا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اس سے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نشانیاں"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "نشانیاں"
+    }
+  ],
+  "timestamp": "2026-08-10T05:18:24.807640047Z",
+  "model": "glm-5.2"
+}

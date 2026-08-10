@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 23:5",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "تو یاہویہ نے ایک بات بِلعام کے منہ میں رکھی اور کہا: بَلَق کی طرف لوٹ اور یوں بول۔",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "تو رکھا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ نے"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ایک بات"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "منہ میں"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بِلعام کے"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "لوٹ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بَلَق"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "اور یوں"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "بول"
+    }
+  ],
+  "timestamp": "2026-08-09T20:36:40.125683425Z",
+  "model": "glm-5.2"
+}

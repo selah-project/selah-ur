@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "ہر رینگنے والا پرندہ جو چار ٹانگوں پر چلتا ہے وہ تمہارے لیے مکروہ ہے۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "رینگنے والا"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "پرندہ"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "چلتا ہے"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "مکروہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ہے⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تمہارے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:18:03.498986830Z",
+  "model": "glm-5.2"
+}

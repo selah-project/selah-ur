@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 16:7",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 16,
+  "translation": "اور یاہویہ کے فرشتے نے اسے پانی کے چشمے پر، بیابان میں پایا — چشمے پر، شُور کے راستے میں۔",
+  "tokens": [
+    {
+      "surface": "וימצאה",
+      "gloss": "اور پایا اسے"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فرشتے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "עין",
+      "gloss": "چشمے"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پانی کے"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بیابان میں"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "העין",
+      "gloss": "چشمے"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "راستے میں"
+    },
+    {
+      "surface": "שור",
+      "gloss": "شُور"
+    }
+  ],
+  "timestamp": "2026-08-09T19:39:32.931235258Z",
+  "model": "glm-5.2"
+}

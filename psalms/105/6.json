@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 105:6",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 105,
+  "translation": "اَوراہام اس کے بندے کی نسل، یَعقُوب کے بیٹے اس کے چنے ہوئے،",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "اس کے بندے کی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یَعقُوب"
+    },
+    {
+      "surface": "בחיריו",
+      "gloss": "اس کے چنے ہوئے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:34:33.752226950Z",
+  "model": "glm-5.2"
+}

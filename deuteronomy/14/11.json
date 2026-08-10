@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "ہر پاک پرندہ ⟨کو⟩ تم کھاؤ گے۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "پرندہ"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "تم کھاؤ گے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:47:28.088873874Z",
+  "model": "glm-5.2"
+}

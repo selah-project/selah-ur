@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "اور یاہویہ نے قایِن سے کہا: تُو کو کیوں غصہ آیا ہے اور تیرا چہرہ کیوں گر گیا ہے؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قایِن"
+    },
+    {
+      "surface": "למה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "غصہ آیا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تُو کو"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "اور کیوں"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "گر گئے"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تیرے چہرے"
+    }
+  ],
+  "timestamp": "2026-08-09T19:33:59.873279665Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 23:11",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "اگر تم میں کوئی آدمی ہو جو رات کے واقعے سے پاکیزہ نہ ہو، تو وہ ڈیرے کے باہر نکلے، وہ ڈیرے کے اندر نہ آئے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہو"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تم میں"
+    },
+    {
+      "surface": "איש",
+      "gloss": "کوئی آدمی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہو"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاکیزہ"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "واقعے سے"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "رات کے"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "تو وہ نکلے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "باہر"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ڈیرے کے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "آئے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "اندر"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ڈیرے کے"
+    }
+  ],
+  "timestamp": "2026-08-10T05:34:11.446910934Z",
+  "model": "glm-5.2"
+}

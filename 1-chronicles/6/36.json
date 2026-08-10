@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 6:36",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "بُقّی اُس کا بیٹا، عُزّی اُس کا بیٹا، زَرحیّا اُس کا بیٹا۔",
+  "tokens": [
+    {
+      "surface": "בקי",
+      "gloss": "بُقّی"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اُس کا بیٹا"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "عُزّی"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اُس کا بیٹا"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "زَرحیّا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اُس کا بیٹا"
+    }
+  ],
+  "timestamp": "2026-08-10T01:02:21.031703696Z",
+  "model": "glm-5.2"
+}

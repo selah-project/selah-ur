@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 1:1",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "مَثَلُ شِلوموہ، بَنِ داوِد، بادشاہِ یِسرایل کے ۔",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "مَثَلیں"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شِلوموہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بَنِ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    }
+  ],
+  "timestamp": "2026-08-09T23:58:06.351609200Z",
+  "model": "glm-5.2"
+}

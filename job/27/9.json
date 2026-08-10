@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 27:9",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "کیا اِیل اُس کی چیخ سنے گا جب اُس پر تنگی آئے؟",
+  "tokens": [
+    {
+      "surface": "הצעקתו",
+      "gloss": "اُس کی چیخ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "سنے گا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِیل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جب"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "آئے"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اُس پر"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "تنگی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:18:43.393425544Z",
+  "model": "glm-5.2"
+}

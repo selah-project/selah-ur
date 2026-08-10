@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 28:15",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 28,
+  "translation": "دھاڑتا ہوا شیر اور بھوکا ریچھ — ایسا ہے رشيع حاکم کمزور قوم پر۔",
+  "tokens": [
+    {
+      "surface": "ארי",
+      "gloss": "شیر"
+    },
+    {
+      "surface": "נהם",
+      "gloss": "دھاڑتا ہوا"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "اور ریچھ"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "بھوکا"
+    },
+    {
+      "surface": "משל",
+      "gloss": "حاکم"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "رشيع"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "דל",
+      "gloss": "کمزور"
+    }
+  ],
+  "timestamp": "2026-08-10T00:08:25.894601703Z",
+  "model": "glm-5.2"
+}

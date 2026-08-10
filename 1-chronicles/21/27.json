@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 21:27",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "اور یاہویہ نے فرشتے سے کہا، اور ⟨اُس نے⟩ اپنی تلوار میلاث میں واپس رکھ لی۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "למלאך",
+      "gloss": "فرشتے سے"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "اور واپس رکھ لی"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "اپنی تلوار"
+    },
+    {
+      "surface": "אל",
+      "gloss": "میں"
+    },
+    {
+      "surface": "נדנה",
+      "gloss": "اُس کے میلاث"
+    }
+  ],
+  "timestamp": "2026-08-10T01:07:54.713119113Z",
+  "model": "glm-5.2"
+}

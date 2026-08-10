@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "تو قایِن یاہویہ کے حضور سے نکلا اور نود کی زمین میں، عِدَن کے مشرق میں، بس گیا۔",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "تو نکلا"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قایِن"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "کے حضور سے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "اور بس گیا"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین میں"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "نود کی"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "مشرق میں"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "عِدَن کے"
+    }
+  ],
+  "timestamp": "2026-08-09T19:33:32.697207944Z",
+  "model": "glm-5.2"
+}

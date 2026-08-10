@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 1:4",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "نُوح، شِیم، خَام، وَیَفِت۔",
+  "tokens": [
+    {
+      "surface": "נח",
+      "gloss": "نُوح"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شِیم"
+    },
+    {
+      "surface": "חם",
+      "gloss": "خَام"
+    },
+    {
+      "surface": "ולמך",
+      "gloss": "وَیَفِت"
+    }
+  ],
+  "timestamp": "2026-08-10T00:57:16.584139650Z",
+  "model": "glm-5.2"
+}

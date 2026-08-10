@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "اور اَرفَخشَد نے ⟨את⟩ شَلَخ کو جنا، اور شَلَخ نے ⟨את⟩ عِیبِر کو جنا۔",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "اور اَرفَخشَد"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "جنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شَلَخ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "شَلَخ"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "اور شَلَخ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "جنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عِیبِر"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عِیبِر"
+    }
+  ],
+  "timestamp": "2026-08-10T00:58:44.616692001Z",
+  "model": "glm-5.2"
+}

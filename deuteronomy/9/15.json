@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 9:15",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "تو میں پھرا اور پہاڑ سے نیچے اترا، اور پہاڑ آگ میں بھڑک رہا تھا، اور بریت کی دو لوحیں میری دو ہاتھ پر تھیں۔",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "اور میں پھرا"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "اور میں نیچے اترا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "سے"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "اور پہاڑ"
+    },
+    {
+      "surface": "בער",
+      "gloss": "بھڑک رہا تھا"
+    },
+    {
+      "surface": "באש",
+      "gloss": "آگ میں"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "اور دو"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "لوحیں"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "بریت کی"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "میری ہاتھ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:45:52.350408100Z",
+  "model": "glm-5.2"
+}

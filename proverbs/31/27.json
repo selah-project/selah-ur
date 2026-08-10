@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 31:27",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 31,
+  "translation": "وہ اپنے گھر کے طریقوں کی نگہبان ہے، اور سستی کی روٹی نہیں کھاتی۔",
+  "tokens": [
+    {
+      "surface": "צופיה",
+      "gloss": "وہ نگہبان ہے"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "طریقوں کی"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "اپنے گھر کے"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "اور روٹی"
+    },
+    {
+      "surface": "עצלות",
+      "gloss": "سستی کی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "کھاتی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:09:50.797187290Z",
+  "model": "glm-5.2"
+}

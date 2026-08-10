@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 13:53",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "اور اگر کاہن دیکھے، اور دیکھو کہ نشان کپڑے میں یا تانے میں یا بُنے میں یا کسی چمڑے کے برتن میں نہیں پھیلا،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "اور اگر"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "دیکھے"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "اور دیکھو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "پھیلا"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "نشان"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "کپڑے میں"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "تانے میں"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "بُنے میں"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "کسی میں"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "برتن"
+    },
+    {
+      "surface": "עור",
+      "gloss": "چمڑے کے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:20:22.830635280Z",
+  "model": "glm-5.2"
+}

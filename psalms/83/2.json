@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 83,
+  "translation": "اے الوہیم، تیرے لیے خاموشی نہ ہو، نہ خاموش رہ، اے ایل، اور نہ چُپ سادھ۔",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "اے الوہیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "خاموشی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے لیے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "خاموش رہ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "چُپ سادھ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اے ایل"
+    }
+  ],
+  "timestamp": "2026-08-09T23:40:56.698402626Z",
+  "model": "glm-5.2"
+}

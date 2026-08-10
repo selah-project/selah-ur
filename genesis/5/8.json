@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 5:8",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "پس ⟨وہ⟩ ہو گئے کل دن شِیت کے، بارہ سال اور نو سو سال؛ اور وہ مر گیا۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "پس ⟨وہ⟩ ہو گئے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کل"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "دن"
+    },
+    {
+      "surface": "שת",
+      "gloss": "شِیت کے"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دس"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "اور نو"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "اور وہ مر گیا"
+    }
+  ],
+  "timestamp": "2026-08-09T19:33:24.122298728Z",
+  "model": "glm-5.2"
+}

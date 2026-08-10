@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 13:1",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "بادشاہ یاربعم کی اٹھارہویں سنت میں اَبِیاہ نے یہوداہ پر بادشاوت اختیار کی۔",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "بادشاہ کی"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "اٹھارہویں"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "למלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "یاربعم"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "بادشاوت اختیار کی"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "اَبِیاہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    }
+  ],
+  "timestamp": "2026-08-10T01:18:56.030311010Z",
+  "model": "glm-5.2"
+}

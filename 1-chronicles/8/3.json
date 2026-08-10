@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اور بِلَع کے بیٹے ہوئے: اَدّار، گیرا، اور اَویہُود۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "اور ہوئے"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "بِلَع کے"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "اَدّار"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "اور گیرا"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "اور اَویہُود"
+    }
+  ],
+  "timestamp": "2026-08-10T01:02:18.851158415Z",
+  "model": "glm-5.2"
+}

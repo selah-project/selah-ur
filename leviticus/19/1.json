@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 19:1",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "اور یاہویہ نے موشے سے کلام کیا، فرماتے ہوئے:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "اور کلام کیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "فرماتے ہوئے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:21:13.220333812Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 1:36",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "اِلیفَز کے بیٹے تھے تیمان، اور اومر، صِفی، اور گعتام، قِناز، تِمناع اور عَمالیک۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "اِلیفَز"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "تیمان"
+    },
+    {
+      "surface": "ואומר",
+      "gloss": "اور اومر"
+    },
+    {
+      "surface": "צפי",
+      "gloss": "صِفی"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "اور گعتام"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "قِناز"
+    },
+    {
+      "surface": "ותמנע",
+      "gloss": "تِمناع"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "اور عَمالیک"
+    }
+  ],
+  "timestamp": "2026-08-10T00:57:50.607239040Z",
+  "model": "glm-5.2"
+}

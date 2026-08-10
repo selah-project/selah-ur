@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 78,
+  "translation": "اور اس نے یوسف کے خیمے کو رد کر دیا، اور افرایم کے قبیلے کو نہ چنا۔",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "اور اس نے رد کر دیا"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "خیمے کو"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف کے"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "اور قبیلے کو"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "افرایم کے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "چنا"
+    }
+  ],
+  "timestamp": "2026-08-09T23:40:07.244149400Z",
+  "model": "glm-5.2"
+}

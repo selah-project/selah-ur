@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 46:9",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 46,
+  "translation": "اور راؤبِن کے بیٹے: حَنوکھ اور پَلّو اور حَتصرُون اور کَرمی۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "اور بیٹے"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "راؤبِن"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "حَنوکھ"
+    },
+    {
+      "surface": "ופלוא",
+      "gloss": "اور پَلّو"
+    },
+    {
+      "surface": "וחצרון",
+      "gloss": "اور حَتصرُون"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "اور کَرمی"
+    }
+  ],
+  "timestamp": "2026-08-09T19:52:51.125610116Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 18:13",
+  "book": "judges",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "اور وہ وہاں سے گزرے، اِفرایم کے پہاڑ کو، اور مِیخا کے گھر تک آئے۔",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "اور وہ گزرے"
+    },
+    {
+      "surface": "משם",
+      "gloss": "وہاں سے"
+    },
+    {
+      "surface": "הר",
+      "gloss": "پہاڑ کو"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اِفرایم کے"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "اور ⟨وہ⟩ آئے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "مِیخا کے"
+    }
+  ],
+  "timestamp": "2026-08-09T21:14:57.533910457Z",
+  "model": "glm-5.2"
+}

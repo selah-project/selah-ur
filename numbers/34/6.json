@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 34:6",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 34,
+  "translation": "اور بحری سرحد ⟨ہوگی⟩، اور تمھارے لیے ⟨وہ⟩ عظیم سمندر ہوگا، اور یہ تمھارے لیے بحری سرحد ہوگا۔",
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "اور سرحد"
+    },
+    {
+      "surface": "ים",
+      "gloss": "بحری"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "اور ہوگا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تمھارے لیے"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "عظیم"
+    },
+    {
+      "surface": "וגבול",
+      "gloss": "اور سرحد"
+    },
+    {
+      "surface": "זה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوگا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تمھارے لیے"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "ים",
+      "gloss": "بحری"
+    }
+  ],
+  "timestamp": "2026-08-09T20:41:10.752423577Z",
+  "model": "glm-5.2"
+}

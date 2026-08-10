@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "یہ بھی میں نے دیکھی: سورج کے نیچے دانائی، اور وہ مجھ پر بڑی ہے۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "بھی"
+    },
+    {
+      "surface": "זה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "میں نے دیکھی"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "دانائی"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "کے نیچے"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سورج"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "اور بڑی"
+    },
+    {
+      "surface": "היא",
+      "gloss": "وہ ⟨ہے⟩"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مجھ پر"
+    }
+  ],
+  "timestamp": "2026-08-10T00:35:55.009768586Z",
+  "model": "glm-5.2"
+}

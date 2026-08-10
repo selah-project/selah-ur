@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 16:18",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 16,
+  "translation": "یعنی کہہ کر: تمہیں میں کنعان زمین دوں گا، تمہاری میراث کا حِصہ۔",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "یعنی کہہ کر"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تمہیں"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "میں دوں گا"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعان"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "حِصہ"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "تمہاری میراث کا"
+    }
+  ],
+  "timestamp": "2026-08-10T01:05:34.743425580Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 11:38",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور اگر بیج پر پانی ڈالا جائے اور ان کی مردار میں سے اس پر گر پڑے، تو وہ تمہارے لیے ناپاک ہے۔",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "اور اگر"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ڈالا جائے"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "بیج"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "اور گرے"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "ان کی مردار میں سے"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اس پر"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ناپاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تمہارے لیے"
+    }
+  ],
+  "timestamp": "2026-08-10T05:23:50.843719109Z",
+  "model": "glm-5.2"
+}

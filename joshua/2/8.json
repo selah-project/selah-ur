@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 2:8",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور ان کے لیٹنے سے پہلے وہ ان کے پاس چھت پر چڑھ کر آئی۔",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "اور وہ"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "سے پہلے"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "ان کے لیٹنے"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "چڑھ کر آئی"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ان کے پاس"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "چھت"
+    }
+  ],
+  "timestamp": "2026-08-09T20:56:45.824310098Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 29,
+  "translation": "مکانات بناؤ اور ⟨وہاں⟩ بس جاؤ، اور باغ لگاؤ اور ⟨את⟩ ان کا پھل کھاؤ۔",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "بناؤ"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "مکانات"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "اور بس جاؤ"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "اور لگاؤ"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "باغ"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "اور کھاؤ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ان کا پھل"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "پھل"
+    }
+  ],
+  "timestamp": "2026-08-10T06:10:13.696073562Z",
+  "model": "glm-5.2"
+}

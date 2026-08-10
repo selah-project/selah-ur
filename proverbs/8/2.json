@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 8:2",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اونچی جگہوں کے سرے پر، راستے کے ساتھ، راستوں کے گھر ⟨کے درمیان⟩، وہ کھڑی ہے۔",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "سرے پر"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "اونچی جگہوں"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "کے ساتھ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راستے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "راستوں"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "وہ کھڑی ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:01:12.916398354Z",
+  "model": "glm-5.2"
+}

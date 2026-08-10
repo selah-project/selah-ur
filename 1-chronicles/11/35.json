@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 11:35",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اَخیام ہَراری ساکَر کا بیٹا، اِلیفَل اُور کا بیٹا،",
+  "tokens": [
+    {
+      "surface": "אחיאם",
+      "gloss": "اَخیام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ساکَر"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "ہَراری"
+    },
+    {
+      "surface": "אליפל",
+      "gloss": "اِلیفَل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "אור",
+      "gloss": "اُور"
+    }
+  ],
+  "timestamp": "2026-08-10T01:02:57.522868235Z",
+  "model": "glm-5.2"
+}

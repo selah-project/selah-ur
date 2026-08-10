@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 21:13",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "جو اپنے کان بند کرتا ہے دکھیارے کی چیخ سے، وہ بھی پکارے گا اور کوئی جواب نہ دے گا۔",
+  "tokens": [
+    {
+      "surface": "אטם",
+      "gloss": "بند کرتا ہے"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "اپنے کان"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "چیخ سے"
+    },
+    {
+      "surface": "דל",
+      "gloss": "دکھیارے کی"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بھی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "پکارے گا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "جواب دے گا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:05:22.107189387Z",
+  "model": "glm-5.2"
+}

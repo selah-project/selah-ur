@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 20:26",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "بادشاہِ دانا بریوں کو بھُراتا ہے اور ان پر پہیا پھیر دیتا ہے۔",
+  "tokens": [
+    {
+      "surface": "מזרה",
+      "gloss": "بھراتا ہے"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بریوں کو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "اور پھیر دیتا ہے"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ان پر"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "پہیا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:05:59.121453270Z",
+  "model": "glm-5.2"
+}

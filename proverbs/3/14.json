@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 3:14",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "کیونکہ اس کا سودا چاندی کے سودے سے بہتر ہے، اور اس کی آمدنی سُونے سے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "بہتر ہے"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "اس کا سودا"
+    },
+    {
+      "surface": "מסחר",
+      "gloss": "کے سودے سے"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی"
+    },
+    {
+      "surface": "ומחרוץ",
+      "gloss": "اور سُونے سے"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "اس کی آمدنی"
+    }
+  ],
+  "timestamp": "2026-08-10T06:37:26.492189912Z",
+  "model": "glm-5.2"
+}

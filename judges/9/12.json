@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 9:12",
+  "book": "judges",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "اور درختوں نے انگور کی بیل سے کہا: تو آ اور ہم پر بادشاہت کر۔",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "درختوں نے"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "انگور کی بیل سے"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "تو آ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨تو⟩",
+      "marks": "بادشاہت کر"
+    },
+    {
+      "surface": "מלוכי",
+      "gloss": "بادشاہت کر"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ہم پر"
+    }
+  ],
+  "timestamp": "2026-08-09T21:11:21.395378178Z",
+  "model": "glm-5.2"
+}

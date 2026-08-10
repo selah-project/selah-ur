@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 19:6",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "بہت سے ⟨لوگ⟩ سخاوت مند کے منہ کی طلب کرتے ہیں، اور ہر ساتھی دینے والے آدمی کا ہوتا ہے۔",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "بہت سے"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "طلب کرتے ہیں"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منہ کی"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "سخاوت مند"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "اور ہر"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ساتھی"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "آدمی کے"
+    },
+    {
+      "surface": "מתן",
+      "gloss": "دینے والے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:38:52.845602381Z",
+  "model": "glm-5.2"
+}

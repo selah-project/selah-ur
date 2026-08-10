@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 14:27",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "اور لِوی جو تیرے دروازوں میں ہے، اسے مت چھوڑ، کیونکہ اس کا کوئی حصہ نہیں اور نہ میراث تیرے ساتھ۔",
+  "tokens": [
+    {
+      "surface": "והלוי",
+      "gloss": "اور لِوی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "تیرے دروازوں میں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مت"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "چھوڑ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نہیں ہے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اس کا"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "کوئی حصہ"
+    },
+    {
+      "surface": "ונחלה",
+      "gloss": "اور نہ میراث"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تیرے ساتھ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:48:14.464882092Z",
+  "model": "glm-5.2"
+}

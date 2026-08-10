@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 136,
+  "translation": "⟨वह⟩ रोटी देता है सारे बशर को، क्योंकि हमेशा तक उसका खेसद ⟨है⟩।",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "देता है"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सारे"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "बशर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "क्योंकि"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "हमेशा तक"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "उसका खेसद"
+    }
+  ],
+  "timestamp": "2026-08-09T23:54:59.397253794Z",
+  "model": "glm-5.2"
+}

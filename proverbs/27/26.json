@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 27:26",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "مینڈیاں تیری پوشاک کے لیے، اور کھیت کی قیمت بکرے ہیں۔",
+  "tokens": [
+    {
+      "surface": "כבשים",
+      "gloss": "مینڈیاں"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "تیری پوشاک کے لیے"
+    },
+    {
+      "surface": "ומחיר",
+      "gloss": "اور قیمت"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "کھیت"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "بکرے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:08:02.138520095Z",
+  "model": "glm-5.2"
+}

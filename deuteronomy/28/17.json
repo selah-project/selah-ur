@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 28:17",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 28,
+  "translation": "ملعون ⟨ہوگا⟩ تیرا ٹوکرا اور تیری گوندھنے کی کشٹی۔",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ملعون"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "تیرا ٹوکرا"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "اور تیری گوندھنے کی کشٹی"
+    }
+  ],
+  "timestamp": "2026-08-10T05:34:16.487784042Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 33:6",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 33,
+  "translation": "باتِ یاہویہ سے آسمان بنائے گئے، اور اس کے منہ کے رُوح سے ان سب کا لشکر۔",
+  "tokens": [
+    {
+      "surface": "בדבר",
+      "gloss": "باتِ سے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمان"
+    },
+    {
+      "surface": "נעשו",
+      "gloss": "بنائے گئے"
+    },
+    {
+      "surface": "וברוח",
+      "gloss": "اور رُوحِ سے"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "اس کے منہ کے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ان سب کا"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "لشکر"
+    }
+  ],
+  "timestamp": "2026-08-10T06:28:50.491790964Z",
+  "model": "glm-5.2"
+}

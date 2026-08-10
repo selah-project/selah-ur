@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 22:10",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "کیونکہ تو ⟨ہی⟩ نے مجھے پیٹ سے نکالا؛ تو نے مجھے اپنی ماں کے سینوں پر بھروسا دلایا۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "גחי",
+      "gloss": "نکالا"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "پیٹ سے"
+    },
+    {
+      "surface": "מבטיחי",
+      "gloss": "بھروسا دلایا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "سینوں"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "اپنی ماں کے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:27:09.680053256Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 3:4",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "کیا تو نے ابھی سے مجھے پکارا نہیں: «میرے باپ، تو ہی میری جوانی کا رفیق ہے؟»",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "کیا...نہیں"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ابھی سے"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "میں نے پکارا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مجھے"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "میرے باپ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "رفیق"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "میری جوانی کا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو ہی"
+    }
+  ],
+  "timestamp": "2026-08-10T06:05:29.906672314Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 23:8",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "اور تم لاگے آگ کی قربانی یاہویہ کے لیے، سات دن؛ ساتویں دن ⟨ہے⟩ مقدس اجتماع، ہر خدمت کا کام نہ کرو۔",
+  "tokens": [
+    {
+      "surface": "והקרבתם",
+      "gloss": "اور تم لاگے"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "آگ کی قربانی"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہویہ کے لیے"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "سات"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دن"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دن میں"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ساتویں"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "اجتماع"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "خدمت کا"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "کام"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "کرو"
+    }
+  ],
+  "timestamp": "2026-08-10T09:17:45.703985417Z",
+  "model": "glm-5.2"
+}

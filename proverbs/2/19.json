@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 2:19",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اس کے پاس آنے والے سب واپس نہیں آتے، اور زندگی کے راستوں کو نہیں پاتے۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "באיה",
+      "gloss": "اس کے پاس آنے والے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "واپس آتے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہیں"
+    },
+    {
+      "surface": "ישיגו",
+      "gloss": "پاتے"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "راستوں"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگی"
+    }
+  ],
+  "timestamp": "2026-08-09T23:57:52.373566975Z",
+  "model": "glm-5.2"
+}

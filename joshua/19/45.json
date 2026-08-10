@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 19:45",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "اور یِہُد، اور بْنے־بِرَق، اور گات־رِمّون۔",
+  "tokens": [
+    {
+      "surface": "וִיהֻ֥ד",
+      "gloss": "اور یِہُد"
+    },
+    {
+      "surface": "וּבְנֵֽי",
+      "gloss": "اور بْنے"
+    },
+    {
+      "surface": "בְרַ֖ק",
+      "gloss": "بِرَق"
+    },
+    {
+      "surface": "וְגַת",
+      "gloss": "اور گات"
+    },
+    {
+      "surface": "רִמּֽוֹן",
+      "gloss": "رِمّون"
+    }
+  ],
+  "timestamp": "2026-08-10T09:49:52.540624863Z",
+  "model": "glm-5.2"
+}

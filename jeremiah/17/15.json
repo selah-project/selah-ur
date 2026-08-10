@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 17:15",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 17,
+  "translation": "دیکھ، وہ مجھ سے کہتے ہیں: یاہویہ کا کلام کہاں ہے؟ ابھی آ جائے!",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "دیکھ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "کہتے ہیں"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مجھ سے"
+    },
+    {
+      "surface": "איה",
+      "gloss": "کہاں ہے"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کا"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "آ جائے"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ابھی"
+    }
+  ],
+  "timestamp": "2026-08-09T22:30:40.879726712Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 94,
+  "translation": "یاہویہ آدم کے خیالات جانتا ہے کہ وہ ہوا ہیں۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "جانتا ہے"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "خیالات"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم کے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ہوا"
+    }
+  ],
+  "timestamp": "2026-08-09T23:44:49.188710817Z",
+  "model": "glm-5.2"
+}

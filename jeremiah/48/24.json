@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 48:24",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 48,
+  "translation": "اور قَریوت پر اور بُصرہ پر اور مُوآب کی زمین کے سبھی شہروں پر، دور دراز کے اور نزدیک کے۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "اور پر"
+    },
+    {
+      "surface": "קריות",
+      "gloss": "قَریوت"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "اور پر"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "بُصرہ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "اور پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھی"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شہروں"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمینِ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُوآب"
+    },
+    {
+      "surface": "הרחקות",
+      "gloss": "دور دراز کے"
+    },
+    {
+      "surface": "והקרבות",
+      "gloss": "اور نزدیک کے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:44:18.379200522Z",
+  "model": "glm-5.2"
+}

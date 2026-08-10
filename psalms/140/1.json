@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 140,
+  "translation": "نگران کے لیے، ایک مزمور داوِد کے لیے۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "نگران کے لیے"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ایک مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:55:53.054470132Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "اچھے ہیں ⟨ہیں⟩ وہ دو اکلوتے سے، کہ ⟨ہیں⟩ ان کے لیے ان کی محنت میں اچھا صلہ ہے۔",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "اچھے ہیں"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "وہ دونوں"
+    },
+    {
+      "surface": "מן",
+      "gloss": "سے"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "اِکلوتا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ہے"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ان کے لیے"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "صلہ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "اچھا"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "ان کی محنت میں"
+    }
+  ],
+  "timestamp": "2026-08-10T07:52:29.038799510Z",
+  "model": "glm-5.2"
+}

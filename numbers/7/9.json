@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 7:9",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اور قہات کے بیٹوں کو نہیں دیا، کیونکہ مقدس کی خدمت ان پر ہے — وہ کندھے پر اٹھائیں گے۔",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "اور بیٹوں کو"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قہات"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دیا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "خدمت"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "مقدس کی"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "ان پر ہے"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "کندھے پر"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "وہ اٹھائیں گے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:28:58.086574106Z",
+  "model": "glm-5.2"
+}

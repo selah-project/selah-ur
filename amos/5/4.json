@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 5:4",
+  "book": "amos",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "کیونکہ یوں کہتا ہے یاہویہ بیتِ یِسراإیل سے: مجھے ڈھونڈو اور جیو۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "یوں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "کہتا ہے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "بیتِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسراإیل"
+    },
+    {
+      "surface": "דרשוני",
+      "gloss": "مجھے ڈھونڈو"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "اور جیو"
+    }
+  ],
+  "timestamp": "2026-08-10T06:22:47.399378451Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اور چالیس ہاتھ ⟨تھا⟩ ⟨وہ⟩ گھر — وہ ⟨ہے⟩ ہیکل ⟨وہ⟩ جو اس کے سامنے ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "اور چالیس"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ہاتھ میں"
+    },
+    {
+      "surface": "היה",
+      "gloss": "تھا"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "ہیکل"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "اس کے سامنے"
+    }
+  ],
+  "timestamp": "2026-08-09T21:42:04.296578914Z",
+  "model": "glm-5.2"
+}

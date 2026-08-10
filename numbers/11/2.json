@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور لوگ نے موشے کی طرف پکارا، اور موشے نے یاہویہ سے دعا کی، اور آگ بجھ گئی۔",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "اور پکارا"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوگ نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "اور دعا کی"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "اور بجھ گئی"
+    },
+    {
+      "surface": "האש",
+      "gloss": "آگ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:30:42.771680413Z",
+  "model": "glm-5.2"
+}

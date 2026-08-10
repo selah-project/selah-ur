@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 108,
+  "translation": "ہمیں دے مصیبت میں مدد، اور بیکار ہے ⟨⟨את⟩⟩ بشر کی نجات۔",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "ہمیں دے"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ہمیں"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "مدد"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "مصیبت میں"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "اور بیکار ہے"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "نجات"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "بشر"
+    }
+  ],
+  "timestamp": "2026-08-09T23:48:49.040161212Z",
+  "model": "glm-5.2"
+}

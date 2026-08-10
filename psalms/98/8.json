@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 98,
+  "translation": "ندیاں تالیاں بجائیں، یکجا پہاڑ رنائیں۔",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "ندیاں"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "بجائیں"
+    },
+    {
+      "surface": "כף",
+      "gloss": "تالیاں"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "یکجا"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "رنائیں"
+    }
+  ],
+  "timestamp": "2026-08-09T23:45:22.248947354Z",
+  "model": "glm-5.2"
+}

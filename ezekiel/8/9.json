@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 8:9",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اور ⟨اُس نے⟩ مجھ سے کہا: آ، اور ⟨את⟩ مکروہ گندی باتیں دیکھ جو وہ یہاں کر رہے ہیں۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مجھ سے"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "اور دیکھ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مکروہ باتیں"
+    },
+    {
+      "surface": "התועבות",
+      "gloss": "مکروہ باتیں"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "گندی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "הם",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "کر رہے ہیں"
+    },
+    {
+      "surface": "פה",
+      "gloss": "یہاں"
+    }
+  ],
+  "timestamp": "2026-08-09T22:48:38.290662992Z",
+  "model": "glm-5.2"
+}

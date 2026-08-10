@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 11:7",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور مَن گَد کے بیج کی مانند تھا، اور اس کا رنگ بدولخ کے رنگ کی مانند تھا۔",
+  "tokens": [
+    {
+      "surface": "והמן",
+      "gloss": "اور مَن"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "بیج کی مانند"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گَد"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "ועינו",
+      "gloss": "اور اس کا رنگ"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "رنگ کی مانند"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "بدولخ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:29:58.136136037Z",
+  "model": "glm-5.2"
+}

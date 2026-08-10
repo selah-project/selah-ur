@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "نہ ہوں گے تیرے ⟨الوہیم⟩ دیگر ⟨⟨الوہیم⟩⟩ میرے منہ کے سامنے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יִהְיֶ֥ה",
+      "gloss": "ہوں گے"
+    },
+    {
+      "surface": "לְךָ֛",
+      "gloss": "تیرے"
+    },
+    {
+      "surface": "אֱלֹהִ֥ים",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "אֲחֵרִ֖ים",
+      "gloss": "دیگر"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "سامنے"
+    },
+    {
+      "surface": "פָּנָֽיַ",
+      "gloss": "میرے منہ کے"
+    }
+  ],
+  "timestamp": "2026-08-10T09:12:16.992666198Z",
+  "model": "glm-5.2"
+}

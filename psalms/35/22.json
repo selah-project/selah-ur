@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 35,
+  "translation": "تو نے ⟨یہ⟩ دیکھا ہے، یاہویہ! خاموش نہ رہ؛ ادونای، مجھ سے دور نہ ہو۔",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "تو نے دیکھا ہے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "خاموش رہ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "دور ہو"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "مجھ سے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:31:21.749062124Z",
+  "model": "glm-5.2"
+}

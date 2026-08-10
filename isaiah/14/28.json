@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 14:28",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "سالِ وفات بادشاہ اَخاز کے، یہ بار اٹھایا گیا تھا۔",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "سالِ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "وفات"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "اَخاز کے"
+    },
+    {
+      "surface": "היה",
+      "gloss": "تھا"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "یہ بار"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اٹھایا گیا"
+    }
+  ],
+  "timestamp": "2026-08-09T22:06:22.133994916Z",
+  "model": "glm-5.2"
+}

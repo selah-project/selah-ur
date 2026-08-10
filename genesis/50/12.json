@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 50,
+  "translation": "اور اس کے بیٹوں نے اس کے لیے ویسے ہی کیا جیسا اس نے انہیں حکم دیا تھا۔",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "اور کیا"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "اس کے بیٹوں نے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اس کے لیے"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ویسے ہی"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیسا"
+    },
+    {
+      "surface": "צום",
+      "gloss": "انہیں حکم دیا تھا"
+    }
+  ],
+  "timestamp": "2026-08-10T05:18:18.979929110Z",
+  "model": "glm-5.2"
+}

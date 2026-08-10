@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 26:23",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 26,
+  "translation": "اور وہ وہاں سے بیر شبع کو چڑھ گیا۔",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "اور چڑھ گیا"
+    },
+    {
+      "surface": "משם",
+      "gloss": "وہاں سے"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بیر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سبع"
+    }
+  ],
+  "timestamp": "2026-08-10T05:14:33.280971730Z",
+  "model": "glm-5.2"
+}

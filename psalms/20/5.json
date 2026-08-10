@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "دے تجھے تیرے دل کے مطابق، اور تیرا سارا مشورہ پورا کرے۔",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "دے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تجھے"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "تیرے دل کے مطابق"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "اور سارا"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "تیرا مشورہ"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "پورا کرے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:27:04.315817254Z",
+  "model": "glm-5.2"
+}

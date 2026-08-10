@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 12:7",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "ایسا نہیں ہے میرے بندے موشے کے ساتھ؛ میرے سارے گھرانے میں وہ امین ہے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایسا"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "میرے بندے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سارے میں"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "میرے گھرانے"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "امین ہے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    }
+  ],
+  "timestamp": "2026-08-10T07:12:28.406839673Z",
+  "model": "glm-5.2"
+}

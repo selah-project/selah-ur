@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 35:12",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 35,
+  "translation": "اور یاہویہ کا ⟨وہ⟩ کلام یِرمِیاہو کی طرف آیا، ⟨یہ⟩ کہنے کے لیے:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمِیاہو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہنے کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:37:45.206130377Z",
+  "model": "glm-5.2"
+}

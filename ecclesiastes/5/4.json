@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "بہتر ہے وہ ⟨حال⟩ جو نذر نہ مانے، اِس سے کہ نذر مانے اور پورا نہ کرے۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "بہتر ہے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "نذر مانے"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "اِس سے کہ نذر مانے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "پورا کرے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:33:49.095121223Z",
+  "model": "glm-5.2"
+}

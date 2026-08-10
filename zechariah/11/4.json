@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "یوں کہا یاہویہ میرا الوہیم: چرا ⟨את⟩ ذبح ہونے والی بھیڑ کو!",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "یوں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "کہا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "میرا الوہیم"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "چرا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ذبح ہونے والی بھیڑ کو"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "بھیڑ کو"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "ذبح ہونے والی"
+    }
+  ],
+  "timestamp": "2026-08-09T23:19:35.215625154Z",
+  "model": "glm-5.2"
+}

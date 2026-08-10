@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 1:4",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "دان، اور نَفتالی، گاد، اور آشِر۔",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "اور نَفتالی"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "اور آشِر"
+    }
+  ],
+  "timestamp": "2026-08-09T19:54:55.975751227Z",
+  "model": "glm-5.2"
+}

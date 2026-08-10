@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 96,
+  "translation": "گاؤ یاہویہ کو ایک نیا گیت، گاؤ یاہویہ کو، اے پوری زمین!",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "گاؤ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہویہ کو"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گیت"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نیا"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "گاؤ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہویہ کو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-09T23:45:00.261174984Z",
+  "model": "glm-5.2"
+}

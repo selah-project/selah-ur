@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 26:27",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 26,
+  "translation": "اور اگر اس کے باوجود تم میری نہ سنو، اور تم میرے ساتھ ⟨بیراداری⟩ چلو،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "اور اگر"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "اس کے باوجود"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "تم سنو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میری"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "اور تم چلو"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "میرے ساتھ"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "بیراداری"
+    }
+  ],
+  "timestamp": "2026-08-09T20:25:14.422382172Z",
+  "model": "glm-5.2"
+}

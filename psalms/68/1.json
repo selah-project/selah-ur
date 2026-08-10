@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 68,
+  "translation": "کورس کے رہنما کے لیے، داوِد کا، نغمہ، گیت۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "کورس کے رہنما کے لیے"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد کا"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "نغمہ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گیت"
+    }
+  ],
+  "timestamp": "2026-08-09T23:37:01.431772113Z",
+  "model": "glm-5.2"
+}

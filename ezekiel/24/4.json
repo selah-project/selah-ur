@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 24:4",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "اُس کے ٹکڑے اُسی میں جمع کرو، ہر اچھا ٹکڑا، ران اور شانہ، چنیدہ ہڈیوں سے بھر دو۔",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "جمع کرو"
+    },
+    {
+      "surface": "נתחיה",
+      "gloss": "اُس کے ٹکڑے"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "اُسی میں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "ٹکڑا"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "اچھا"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ران"
+    },
+    {
+      "surface": "וכתף",
+      "gloss": "اور شانہ"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "چنیدہ"
+    },
+    {
+      "surface": "עצמים",
+      "gloss": "ہڈیوں"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "بھر دو"
+    }
+  ],
+  "timestamp": "2026-08-10T06:18:05.199741739Z",
+  "model": "glm-5.2"
+}

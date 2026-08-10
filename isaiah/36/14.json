@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 36:14",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 36,
+  "translation": "ہوں یوں کہتا ہے بادشاہ: چِزقیاہو تمہیں گمراہ نہ کرے، کیونکہ وہ تمہیں ⟨את⟩ بچا نہ سکے گا۔",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ہوں یوں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "کہتا ہے"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "گمراہ کرے"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تمہیں"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "چِزقیاہو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "سکے گا"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "بچا"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ تمہیں",
+      "marks": "تمہیں"
+    }
+  ],
+  "timestamp": "2026-08-09T22:11:33.573202957Z",
+  "model": "glm-5.2"
+}

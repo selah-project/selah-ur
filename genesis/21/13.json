@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "اور باندی کے بیٹے کو بھی میں ایک قوم بناؤں گا، کیونکہ وہ تیرا بیج ہے۔",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "اور بھی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "باندی کے بیٹے کو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "باندی کے"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "ایک قوم"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "میں اسے بناؤں گا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "تیرا بیج"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ ہے"
+    }
+  ],
+  "timestamp": "2026-08-09T19:41:39.864215416Z",
+  "model": "glm-5.2"
+}

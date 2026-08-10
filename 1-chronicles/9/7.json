@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 9:7",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "اور بِنیامِن کے بیٹوں میں سے: سَلّو بِن مِشُلّام، بِن ہودَوْیاہ، بِن ہَسِنُواہ۔",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "اور … میں سے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹوں"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بِنیامِن"
+    },
+    {
+      "surface": "סלוא",
+      "gloss": "سَلّو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بِن"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "مِشُلّام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بِن"
+    },
+    {
+      "surface": "הודויה",
+      "gloss": "ہودَوْیاہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بِن"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "ہَسِنُواہ"
+    }
+  ],
+  "timestamp": "2026-08-10T01:03:41.926540743Z",
+  "model": "glm-5.2"
+}

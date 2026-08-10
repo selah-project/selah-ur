@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 23:31",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "شراب کو نہ دیکھ جب وہ سرخ ہو جائے، جب وہ پیالے میں اپنا رنگ دے، جب وہ स르लता سے اُترے۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תרא",
+      "gloss": "دیکھ"
+    },
+    {
+      "surface": "יין",
+      "gloss": "شراب کو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جب"
+    },
+    {
+      "surface": "יתאדם",
+      "gloss": "سرخ ہو جائے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جب"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دے"
+    },
+    {
+      "surface": "בכיס",
+      "gloss": "پیالے میں"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "اپنا رنگ"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "اُترے"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "سربسرولی طرح سے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:06:26.297332936Z",
+  "model": "glm-5.2"
+}

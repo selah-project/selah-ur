@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 9:16",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "”کوئی پتی یہاں ہٹ آئے!“ اور جو دل سے خالی ہے اس سے وہ کہتی ہے،",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کوئی"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "پتی"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "ہٹ آئے"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "یہاں"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "اور خالی"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "وہ کہتی ہے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اس سے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:31:50.495432794Z",
+  "model": "glm-5.2"
+}

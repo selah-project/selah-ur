@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 7:30",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "آشَر کے بیٹے: یِمنہ، یِشوہ، یِشوی، بَریعہ، اور سَرَح ان کی بہن۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آشَر"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "یِمنہ"
+    },
+    {
+      "surface": "וישוה",
+      "gloss": "اور یِشوہ"
+    },
+    {
+      "surface": "וישוי",
+      "gloss": "اور یِشوی"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "اور بَریعہ"
+    },
+    {
+      "surface": "ושרח",
+      "gloss": "اور سَرَح"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "ان کی بہن"
+    }
+  ],
+  "timestamp": "2026-08-10T01:03:08.939957470Z",
+  "model": "glm-5.2"
+}

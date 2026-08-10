@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 30:17",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 30,
+  "translation": "اَوِن کے نوجوان اور پی بِسِت تلوار سے گریں گے، اور یہ شہیریں اسیری میں جائیں گی۔",
+  "tokens": [
+    {
+      "surface": "בחורי",
+      "gloss": "نوجوان"
+    },
+    {
+      "surface": "און",
+      "gloss": "اَوِن"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "اور پی"
+    },
+    {
+      "surface": "בסת",
+      "gloss": "بِسِت"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "تلوار سے"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "گریں گے"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "اور یہ"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "اسیری میں"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "جائیں گی"
+    }
+  ],
+  "timestamp": "2026-08-09T22:56:45.923663668Z",
+  "model": "glm-5.2"
+}

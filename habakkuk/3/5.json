@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 3:5",
+  "book": "habakkuk",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "اُس کے آگے دَبَر چلے گا، اور اُس کے قدموں کے لیے رَشَف نکلے گا۔",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "اُس کے آگے"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "چلے گا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "دَبَر"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "اور نکلے گا"
+    },
+    {
+      "surface": "רשף",
+      "gloss": "رَشَف"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "اُس کے قدموں کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:24:30.257650913Z",
+  "model": "glm-5.2"
+}

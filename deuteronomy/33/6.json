@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 33,
+  "translation": "زندگی پائے رئُبین اور نہ مرے، اور اس کے آدمی گنتی میں ہوں۔",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "زندگی پائے"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رئُبین"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "مرے"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوں"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "اس کے آدمی"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "گنتی میں"
+    }
+  ],
+  "timestamp": "2026-08-10T05:35:46.245244658Z",
+  "model": "glm-5.2"
+}

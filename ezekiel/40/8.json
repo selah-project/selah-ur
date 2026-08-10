@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 40,
+  "translation": "اور اس نے ⟨את⟩ دروازے کے برآمدے کی ناپ اندر کی طرف سے، ایک قصب۔",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "اور اس نے ناپی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دروازے کے برآمدے"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "برآمدے"
+    },
+    {
+      "surface": "השער",
+      "gloss": "دروازے کے"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "اندر کی طرف سے"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ایک قصب"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    }
+  ],
+  "timestamp": "2026-08-10T06:19:34.032767366Z",
+  "model": "glm-5.2"
+}

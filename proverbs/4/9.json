@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 4:9",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "وہ تیرے سر کو فضل کی مالا دیگے؛ خوبصورتی کا تاج وہ تجھے ڈھال لگائے گی۔",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "وہ دیگے"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "تیرے سر کو"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "مالا"
+    },
+    {
+      "surface": "חן",
+      "gloss": "فضل کی"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "تاج"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "خوبصورتی کا"
+    },
+    {
+      "surface": "תמגנך",
+      "gloss": "وہ تجھے ڈھال لگائے گی"
+    }
+  ],
+  "timestamp": "2026-08-09T23:58:36.253166196Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "اور کاہن حکم دے، اور ⟨وہ⟩ ذبح کرے ⟨את⟩ پرندے میں سے ایک کو، مٹی کے برتن میں، زندہ پانی کے اوپر۔",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "اور حکم دے"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "اور ذبح کرے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پرندے میں سے ایک کو"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "پرندے"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کو"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "برتن"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "مٹی کے"
+    },
+    {
+      "surface": "על",
+      "gloss": "کے اوپر"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندہ"
+    }
+  ],
+  "timestamp": "2026-08-10T05:25:00.489630649Z",
+  "model": "glm-5.2"
+}

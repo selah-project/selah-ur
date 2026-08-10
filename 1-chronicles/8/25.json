@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 8:25",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اور یِفْدِیَہ، اور پْنُوایل، شَشَق کے بیٹے تھے۔",
+  "tokens": [
+    {
+      "surface": "וגו'יפדיה",
+      "gloss": "اور یِفْدِیَہ"
+    },
+    {
+      "surface": "ופניאל",
+      "gloss": "اور پْنُوایل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "ששק",
+      "gloss": "شَشَق کے"
+    }
+  ],
+  "timestamp": "2026-08-10T01:02:17.353908136Z",
+  "model": "glm-5.2"
+}

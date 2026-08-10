@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 46:25",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 46,
+  "translation": "یہ بِلہاہ کے بیٹے ہیں، جسے لابَن اپنی بیٹی راخِیل کو دیا تھا، اور اُس نے ⟨את⟩ یہ یادقوب کو جنم دیے — ہر نَفَش ⟨تھی⟩، سات۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "بِلہاہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دیا"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "لابَن"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "راخِیل کو"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "اپنی بیٹی"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "اور جنم دیے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یہ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "یادقوب کو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفَش"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "سات"
+    }
+  ],
+  "timestamp": "2026-08-09T19:53:38.171968039Z",
+  "model": "glm-5.2"
+}

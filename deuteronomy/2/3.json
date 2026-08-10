@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "”بس ہو گیا تمہارا ⟨⟨اس⟩⟩ پہاڑ کا گھومنا؛ مُڑو تم شمال کی طرف۔",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "بس ہو گیا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تمہارا"
+    },
+    {
+      "surface": "סב",
+      "gloss": "گھومنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اس پہاڑ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اس"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "مُڑو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تم"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "شمال کی طرف"
+    }
+  ],
+  "timestamp": "2026-08-10T05:31:42.052337907Z",
+  "model": "glm-5.2"
+}

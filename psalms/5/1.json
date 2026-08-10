@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "کورس کے لیے، ⟨⟨بانجری پر⟩⟩، داوِد کا گیت۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "کورس کے لیے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨⟨… پر⟩⟩"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "بانجری"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "گیت"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد کا"
+    }
+  ],
+  "timestamp": "2026-08-10T06:26:28.519828635Z",
+  "model": "glm-5.2"
+}

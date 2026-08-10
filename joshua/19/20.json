@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 19:20",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "اور رَبّیت، اور قِشیون، اور عاوِص۔",
+  "tokens": [
+    {
+      "surface": "וְהָרַבִּית",
+      "gloss": "اور رَبّیت"
+    },
+    {
+      "surface": "וְקִשְׁיוֹן",
+      "gloss": "اور قِشیون"
+    },
+    {
+      "surface": "וָאָבֶץ",
+      "gloss": "اور عاوِص"
+    }
+  ],
+  "timestamp": "2026-08-09T21:04:08.385604750Z",
+  "model": "glm-5.2"
+}

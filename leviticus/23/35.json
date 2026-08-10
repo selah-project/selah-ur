@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "پہلے دن ⟨ہوگا⟩ مقدس میں طلب کیا گیا ⟨اجتماع⟩؛ کوئی بھی ملازمت کا کام نہ کرو۔",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "پہلے"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "طلب کیا گیا ⟨اجتماع⟩"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدس میں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی بھی"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "کا کام"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "ملازمت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "کرو"
+    }
+  ],
+  "timestamp": "2026-08-09T20:23:11.439738486Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "ezekiel 40:47",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 40,
+  "translation": "اُس نے ⟨את⟩ صحن کو ناپا: لمبائی سو اَمہ اور چوڑائی سو اَمہ، چوکور؛ اور مذبح بَیت کے سامنے ہے۔",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "اُس نے ناپا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صحن کو"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "صحن"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "لمبائی"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سو"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "اَمہ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "اور چوڑائی"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سو"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "اَمہ"
+    },
+    {
+      "surface": "מרבעת",
+      "gloss": "چوکور"
+    },
+    {
+      "surface": "והמזבח",
+      "gloss": "اور مذبح"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "کے سامنے"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "بَیت"
+    }
+  ],
+  "timestamp": "2026-08-10T06:19:04.874401509Z",
+  "model": "glm-5.2"
+}

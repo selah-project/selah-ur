@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 23:13",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "لَڑکے سے تادیب نہ روک، کیونکہ تو اسے عصا سے مارے گا تو وہ نہیں مرے گا۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "روک"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "لَڑکے سے"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تادیب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "تو اسے مارے گا"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "عصا سے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مرے گا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:07:43.135313075Z",
+  "model": "glm-5.2"
+}

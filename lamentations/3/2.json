@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "⟨את⟩ مُجھے اُس نے ہَنکایا اور چلایا ہے ⟨כِہ⟩ اندھیرے میں اور نہیں روشنی میں۔",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ مُجھے"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "اُس نے ہَنکایا"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "اور چلایا ہے"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "⟨כِہ⟩ اندھیرے میں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہیں"
+    },
+    {
+      "surface": "אור",
+      "gloss": "روشنی میں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:29:48.088961193Z",
+  "model": "glm-5.2"
+}

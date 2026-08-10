@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 96,
+  "translation": "اچھل اُچھلے میدان اور جو کچھ اس میں ہے؛ تب گائیں سب جنگل کے درخت۔",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "اچھل اُچھلے"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "میدان"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "اور سب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اس میں"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ہے؛ تب"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "گائیں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "درخت"
+    },
+    {
+      "surface": "יער",
+      "gloss": "جنگل کے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:44:21.888138710Z",
+  "model": "glm-5.2"
+}

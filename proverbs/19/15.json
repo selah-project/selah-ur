@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 19:15",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "سستی گہری نیند میں گراتی ہے، اور نَفْش کاہل بھوکا رہتی ہے۔",
+  "tokens": [
+    {
+      "surface": "עצלה",
+      "gloss": "سستی"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "گراتی ہے"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "گہری نیند میں"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "اور نَفْش"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "کاہل"
+    },
+    {
+      "surface": "תרעב",
+      "gloss": "بھوکا رہتی ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:05:53.922117660Z",
+  "model": "glm-5.2"
+}

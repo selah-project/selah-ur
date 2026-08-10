@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 2:7",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "عِیلام کے بیٹے ایک ہزار دو ⟨سو⟩ پچاس اور چار۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عِیلام"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ایک ہزار"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دو ⟨سو⟩"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پچاس"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "اور چار"
+    }
+  ],
+  "timestamp": "2026-08-10T00:47:25.160021115Z",
+  "model": "glm-5.2"
+}

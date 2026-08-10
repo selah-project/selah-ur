@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 19:11",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "ایک آدمی کی سمجھ اس کے غصے کو طول دیتی ہے، اور اس کی زینت ہے گناہ پر سے گزر جانا۔",
+  "tokens": [
+    {
+      "surface": "שכל",
+      "gloss": "سمجھ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمی کی"
+    },
+    {
+      "surface": "האריך",
+      "gloss": "طول دیتی ہے"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "اس کے غصے کو"
+    },
+    {
+      "surface": "ותפארתו",
+      "gloss": "اور اس کی زینت"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "گزر جانا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر سے"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "گناہ"
+    }
+  ],
+  "timestamp": "2026-08-10T06:38:47.431915391Z",
+  "model": "glm-5.2"
+}

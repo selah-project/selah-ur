@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 5:4",
+  "book": "song-of-songs",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "میرے محبوب نے اپنا ہاتھ سوراخ سے بڑھایا اور میرا پیٹ اُس کے لیے ہِل اُٹھا۔",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "میرے محبوب نے"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "بڑھایا"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اپنا ہاتھ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "سے"
+    },
+    {
+      "surface": "החר",
+      "gloss": "سوراخ"
+    },
+    {
+      "surface": "ומעי",
+      "gloss": "اور میرا پیٹ"
+    },
+    {
+      "surface": "המו",
+      "gloss": "ہِل اُٹھا"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اُس کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:26:55.146671004Z",
+  "model": "glm-5.2"
+}

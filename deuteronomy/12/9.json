@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 12:9",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "کیونکہ تم ابھی تک نہیں آئے ⟨تک⟩ آرام اور وراثت کی جگہ تک، جو یاہویہ تمہارا الوہیم تمہیں دیتا ہے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "آئے ہو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨تک⟩"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ابھی تک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "آرام کی جگہ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "اور کی طرف"
+    },
+    {
+      "surface": "הנחלה",
+      "gloss": "وراثت کی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تمہارا الوہیم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دیتا ہے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تمہیں"
+    }
+  ],
+  "timestamp": "2026-08-09T20:49:28.294617379Z",
+  "model": "glm-5.2"
+}

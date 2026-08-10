@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "کیونکہ میں اپنے باپ کا بیٹا تھا، نرم اور اپنی ماں کے سامنے اکلوتا۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "میں تھا"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "اپنے باپ کا"
+    },
+    {
+      "surface": "רך",
+      "gloss": "نرم"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "اور اکلوتا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "کے سامنے"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "اپنی ماں"
+    }
+  ],
+  "timestamp": "2026-08-10T06:37:36.018561594Z",
+  "model": "glm-5.2"
+}

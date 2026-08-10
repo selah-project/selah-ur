@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 2:2",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "تاکہ تو اپنا کان حکمت کی طرف جھکائے اور اپنا دل سمجھ کی طرف مائل کرے،",
+  "tokens": [
+    {
+      "surface": "להקשיב",
+      "gloss": "تاکہ جھکائے"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "حکمت کی طرف"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "اپنا کان"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "مائل کرے"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "اپنا دل"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "سمجھ کی طرف"
+    }
+  ],
+  "timestamp": "2026-08-09T23:59:32.871130129Z",
+  "model": "glm-5.2"
+}

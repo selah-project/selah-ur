@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور اس نے اس کے لیے بیٹے جنے — ⟨את⟩ یَعوش اور ⟨את⟩ شَمَریاہ اور ⟨את⟩ زَہَم۔",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "اور جنے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اس کے لیے"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یَعوش کو"
+    },
+    {
+      "surface": "یעוש",
+      "gloss": "یَعوش"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "شَمَریاہ کو"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "شَمَریاہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "زَہَم کو"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "زَہَم"
+    }
+  ],
+  "timestamp": "2026-08-10T01:16:43.939824419Z",
+  "model": "glm-5.2"
+}

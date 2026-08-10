@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 2:34",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "یِریخو کے بیٹے، تین سو پینتالیس۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "یِریخو"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "تین"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چالیس"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "اور پانچ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:46:21.816816259Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 41:14",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 41,
+  "translation": "اور رُخِ خانہ کی چوڑائی اور مشرق کی طرف الگ کردہ جگہ — سو اَمہ۔",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "اور چوڑائی"
+    },
+    {
+      "surface": "פני",
+      "gloss": "رُخ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "خانہ کی"
+    },
+    {
+      "surface": "והגזרה",
+      "gloss": "اور الگ کردہ جگہ"
+    },
+    {
+      "surface": "לקדים",
+      "gloss": "مشرق کی طرف"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سو"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "اَمہ"
+    }
+  ],
+  "timestamp": "2026-08-10T06:19:54.549361129Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 30,
+  "translation": "اور لیاہ نے کہا: قسمت! اور اس نے ⟨את⟩ اس کا نام گاد رکھا۔",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لیاہ نے"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "قسمت"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "اور رکھا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اس کا نام"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اس کا نام"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    }
+  ],
+  "timestamp": "2026-08-09T19:43:56.175389761Z",
+  "model": "glm-5.2"
+}

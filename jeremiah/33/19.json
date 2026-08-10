@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 33:19",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 33,
+  "translation": "اور یاہویہ کا بات یِرمَیاهو کی طرف ہوئی، فرمانے کو:",
+  "tokens": [
+    {
+      "surface": "וַֽיְהִי",
+      "gloss": "اور ہوئی"
+    },
+    {
+      "surface": "דְּבַר",
+      "gloss": "بات"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "یاہویہ کا"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "יִרְמְיָהוּ",
+      "gloss": "یِرمَیاهو"
+    },
+    {
+      "surface": "לֵאמֹר",
+      "gloss": "فرمانے کو"
+    }
+  ],
+  "timestamp": "2026-08-09T22:36:16.759151468Z",
+  "model": "glm-5.2"
+}

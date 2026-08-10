@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 21:3",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "تو یِرمِیاہو نے اُن سے کہا: «تم صِدقیاہو سے یوں کہو گے:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تو کہا"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمِیاہو"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "اُن سے"
+    },
+    {
+      "surface": "כה",
+      "gloss": "یوں"
+    },
+    {
+      "surface": "תאמרן",
+      "gloss": "تم کہو گے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "صِدقیاہو"
+    }
+  ],
+  "timestamp": "2026-08-09T22:30:42.233859468Z",
+  "model": "glm-5.2"
+}

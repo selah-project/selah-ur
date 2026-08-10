@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 12:7",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "برگشتائے شریر اور وہ نہیں رہتے، اور صادقوں کا گھر کھڑا رہے گا۔",
+  "tokens": [
+    {
+      "surface": "הפוך",
+      "gloss": "برگشتائے"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "شریر"
+    },
+    {
+      "surface": "ואינם",
+      "gloss": "اور وہ نہیں رہتے"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "اور گھر"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "صادقوں کا"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "کھڑا رہے گا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:02:05.009915189Z",
+  "model": "glm-5.2"
+}

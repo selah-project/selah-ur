@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 69:19",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 69,
+  "translation": "میری جان کے پاس آ؛ اسے فدیہ دے؛ میرے دشمنوں کے سبب سے مجھے چھڑا۔",
+  "tokens": [
+    {
+      "surface": "קרבה",
+      "gloss": "آ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کے پاس"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "اسے فدیہ دے"
+    },
+    {
+      "surface": "למען",
+      "gloss": "کے سبب سے"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "میرے دشمنوں"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "مجھے چھڑا"
+    }
+  ],
+  "timestamp": "2026-08-10T07:29:51.711989276Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 84:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 84,
+  "translation": "کورَہ کے بیٹوں کا مزمور، گِتّیت پر، رہنما کے لیے۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "رہنما کے لیے"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "گِتّیت"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بیٹوں کا"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "کورَہ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    }
+  ],
+  "timestamp": "2026-08-10T06:33:45.670119767Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "تو یوآب بن صَرویہ نے جان لیا کہ بادشاہ کا دل اَبشالوم کی طرف ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "تو جان لیا"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یوآب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "صَرویہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ کا"
+    },
+    {
+      "surface": "על",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "اَبشالوم"
+    }
+  ],
+  "timestamp": "2026-08-09T21:35:37.353021442Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "اور وہ شخص موشے بہت حلیم تھا — ⟨سے زیادہ⟩ ہر ⟨آدم⟩ سے جو ⟨ہے⟩ زمین کے منہ پر۔",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "اور وہ شخص"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "حلیم"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "⟨سے زیادہ⟩ ہر"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨آدم⟩ سے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨ہے⟩ … پر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمین کے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:40:12.308302227Z",
+  "model": "glm-5.2"
+}

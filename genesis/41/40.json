@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "genesis 41:40",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 41,
+  "translation": "تو میرے گھر پر ہوگا اور تیرے منہ کے حکم پر میری ساری قوم بوسہ لے گی — صرف تخت میں ہی میں تجھ سے بڑا ہوں۔",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ہوگا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "میرے گھر"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "اور پر"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "تیرے منہ کے"
+    },
+    {
+      "surface": "ישק",
+      "gloss": "بوسہ لے گی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "میری قوم"
+    },
+    {
+      "surface": "רק",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "تخت میں"
+    },
+    {
+      "surface": "אגדל",
+      "gloss": "بڑا ہوں"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "تجھ سے"
+    }
+  ],
+  "timestamp": "2026-08-09T19:51:13.996121297Z",
+  "model": "glm-5.2"
+}

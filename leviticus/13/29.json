@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 13:29",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "اور ⟨جب⟩ کوئی مرد یا عورت میں، اگر اس میں ہو کوئی ضرب، سر میں یا داڑھی میں،",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "اور ⟨جب⟩ کوئی مرد"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "عورت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہو"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اس میں"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "کوئی ضرب"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "سر میں"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "داڑھی میں"
+    }
+  ],
+  "timestamp": "2026-08-10T05:24:51.420655912Z",
+  "model": "glm-5.2"
+}

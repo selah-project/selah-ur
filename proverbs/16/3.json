@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 16:3",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 16,
+  "translation": "اپنے کام یاہویہ کے سپرد کر، اور تیری تجویزیں قائم ہوں گی۔",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "کر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "اپنے کام"
+    },
+    {
+      "surface": "וב",
+      "gloss": "اور"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "قائم ہوں گی"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "تیری تجویزیں"
+    }
+  ],
+  "timestamp": "2026-08-10T06:37:56.182323070Z",
+  "model": "glm-5.2"
+}

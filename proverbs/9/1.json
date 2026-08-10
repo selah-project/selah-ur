@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 9:1",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "حکمت نے اپنا گھر بنایا، اپنے ستون ہفتمارے۔",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "بنایا"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "اپنا گھر"
+    },
+    {
+      "surface": "חצבה",
+      "gloss": "تراشے"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "اپنے ستون"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "سات"
+    }
+  ],
+  "timestamp": "2026-08-10T06:37:26.672173333Z",
+  "model": "glm-5.2"
+}

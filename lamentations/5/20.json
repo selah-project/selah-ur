@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "کیوں ہمیشہ کے لیے ہمیں بھولتا ہے؟ ہمیں لمبے دنوں تک چھوڑ دیتا ہے؟",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ہمیشہ کے لیے"
+    },
+    {
+      "surface": "תשכחנו",
+      "gloss": "ہمیں بھولتا ہے"
+    },
+    {
+      "surface": "תעזבנو",
+      "gloss": "ہمیں چھوڑ دیتا ہے"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "لمبے"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دنوں تک"
+    }
+  ],
+  "timestamp": "2026-08-10T00:32:49.639264329Z",
+  "model": "glm-5.2"
+}

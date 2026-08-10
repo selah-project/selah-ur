@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 13:18",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "اور جب کسی کے جسم میں، اس کی جلد پر، پھوڑا ہو اور وہ بھر جائے،",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "اور جسم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جب"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہو"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اس میں"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "اس کی جلد پر"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "پھوڑا"
+    },
+    {
+      "surface": "ונרפא",
+      "gloss": "اور بھر جائے"
+    }
+  ],
+  "timestamp": "2026-08-10T05:24:15.470226734Z",
+  "model": "glm-5.2"
+}

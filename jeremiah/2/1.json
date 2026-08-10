@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 2:1",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور یاہویہ کا ⟨⟩ فر میرے پاس آیا، یہ فرماتے ہوئے:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "فر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میرے پاس"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "یہ فرماتے ہوئے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:22:33.536813874Z",
+  "model": "glm-5.2"
+}

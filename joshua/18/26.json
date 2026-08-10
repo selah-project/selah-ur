@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 18:26",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "اور ہامِتسپہ اور ہاکْفِیرہ اور ہامُوتسہ",
+  "tokens": [
+    {
+      "surface": "והמצפה",
+      "gloss": "اور ہامِتسپہ"
+    },
+    {
+      "surface": "והכפירה",
+      "gloss": "اور ہاکْفِیرہ"
+    },
+    {
+      "surface": "והמצה",
+      "gloss": "اور ہامُوتسہ"
+    }
+  ],
+  "timestamp": "2026-08-10T05:37:48.849158153Z",
+  "model": "glm-5.2"
+}

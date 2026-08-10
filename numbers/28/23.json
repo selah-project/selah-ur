@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 28:23",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 28,
+  "translation": "ان کو تم صبح کی当日上升祭 کے سوا بناوٴ گے جو غیر停息上升祭 کے لیے ہے۔",
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "کے سوا"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "上升祭"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "صبح کی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "上升祭 کے لیے"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "非停息的"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "تم بناوٴ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ان کو"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "یہ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:37:48.951878997Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 7:5",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "یوں کہا ادونای یاہویہ: ایک برائی، برائی، دیکھو ⟨وہ⟩ آ رہی ہے۔",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "یوں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "کہا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "دیکھو"
+    },
+    {
+      "surface": "באה",
+      "gloss": "آ رہی ہے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:48:03.204160199Z",
+  "model": "glm-5.2"
+}

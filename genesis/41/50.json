@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "genesis 41:50",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 41,
+  "translation": "اور یوسف کے دو بیٹے پیدا ہوئے، قبل اس کے کہ قحط کا سال آتا، جنہیں اُسے اوسنات بیٹی پوتی فِرع کاہن اون کی نے جنم دیا۔",
+  "tokens": [
+    {
+      "surface": "וליוסף",
+      "gloss": "اور یوسف کے"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "پیدا ہوئے"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "قبل اس کے کہ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "آتا"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "سال"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "قحط کا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنہیں"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "جنم دیا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُسے"
+    },
+    {
+      "surface": "אסנת",
+      "gloss": "اوسنات"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بیٹی"
+    },
+    {
+      "surface": "פוטי",
+      "gloss": "پوتی"
+    },
+    {
+      "surface": "פרע",
+      "gloss": "فِرع"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "און",
+      "gloss": "اون"
+    }
+  ],
+  "timestamp": "2026-08-10T05:17:05.708268746Z",
+  "model": "glm-5.2"
+}

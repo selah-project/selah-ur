@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 16:2",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 16,
+  "translation": "اِنسان کے بیٹے، یروشلایم کو اس کی مکروہات ⟨سے⟩ آگاہ کر،",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "اِنسان کے"
+    },
+    {
+      "surface": "הודע",
+      "gloss": "آگاہ کر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یروشلایم کو"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اس کی مکروہات"
+    },
+    {
+      "surface": "תועבתיה",
+      "gloss": "اس کی مکروہات"
+    }
+  ],
+  "timestamp": "2026-08-09T22:50:59.838461693Z",
+  "model": "glm-5.2"
+}

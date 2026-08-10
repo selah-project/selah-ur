@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 34:13",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 34,
+  "translation": "کِس نے اُس پر زمین کا کام سونپا؟ اور کِس نے ساری دنیا کو قائم کیا؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کِس نے"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "کام سونپا"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اُس پر"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "زمین کا"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "اور کِس نے"
+    },
+    {
+      "surface": "שם",
+      "gloss": "قائم کیا"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "دنیا کو"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ساری"
+    }
+  ],
+  "timestamp": "2026-08-10T06:41:34.104993623Z",
+  "model": "glm-5.2"
+}

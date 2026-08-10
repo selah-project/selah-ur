@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 10:30",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "صادق ہمیشہ ہلے گا نہیں، اور بدکار زمین میں بسیرا نہیں کریں گے۔",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "صادق"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "ہلے گا"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "اور بدکار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "بسیرا کریں گے"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین میں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:01:41.205180991Z",
+  "model": "glm-5.2"
+}

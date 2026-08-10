@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 12:1",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "اور یاہویہ کا کلام میرے پاس آیا، یوں کہ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میرے پاس"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "آیا، یوں کہ"
+    }
+  ],
+  "timestamp": "2026-08-10T07:25:11.081312145Z",
+  "model": "glm-5.2"
+}

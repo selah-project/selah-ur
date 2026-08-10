@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 119,
+  "translation": "للابد، اے یاہویہ، تیرا کلام آسمانوں میں قائم ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "للابد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "تیرا کلام"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "قائم"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "آسمانوں میں"
+    }
+  ],
+  "timestamp": "2026-08-09T23:52:19.860942883Z",
+  "model": "glm-5.2"
+}

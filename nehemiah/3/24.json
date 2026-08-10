@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 3:24",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "اُس کے بعد بِنّوئی بَن حِینادَد نے دوسرا حصّہ مُحکم کیا، عَزَریا کے گھر سے موڑ تک اور کونے تک۔",
+  "tokens": [
+    {
+      "surface": "אחריו",
+      "gloss": "اُس کے بعد"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "مُحکم کیا"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "بِنّوئی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بَن"
+    },
+    {
+      "surface": "חנדד",
+      "gloss": "حِینادَد"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "حصّہ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "دوسرا"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "گھر سے"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عَزَریا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "המקצוע",
+      "gloss": "موڑ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "اور تک"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "کونے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:52:11.594613160Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 21:21",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "عدل اور خیسِد کا پیروکار ⟨وہ⟩ زندگی، عدل اور ⟨مجھ کو⟩ جلال پاتا ہے۔",
+  "tokens": [
+    {
+      "surface": "רדף",
+      "gloss": "پیروکار"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "عدل"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "اور خیسِد"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "پاتا ہے"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگی"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "عدل"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "اور جلال"
+    }
+  ],
+  "timestamp": "2026-08-10T00:05:07.119102005Z",
+  "model": "glm-5.2"
+}

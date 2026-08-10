@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 12:9",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "یَریحو کا بادشاہ، ایک؛ ہَعَی کا بادشاہ، جو بَیت اِیل کے پہلو میں ہے، ایک۔",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "یَریحو"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "העי",
+      "gloss": "ہَعَی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "پہلو میں"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بَیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِیل"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    }
+  ],
+  "timestamp": "2026-08-09T21:00:14.476389923Z",
+  "model": "glm-5.2"
+}

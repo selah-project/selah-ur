@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 27:21",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "مَلعُون ⟨ہے⟩ وہ جو کِسی بھی بِہیمَہ کے ساتھ سوتا ہے، اور سارے لوگ کہیں گے: آمِین۔",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "مَلعُون"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "سوتا ہے"
+    },
+    {
+      "surface": "עם",
+      "gloss": "کے ساتھ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "بِہیمَہ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "اور کہیں گے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوگ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمِین"
+    }
+  ],
+  "timestamp": "2026-08-09T20:54:03.033279053Z",
+  "model": "glm-5.2"
+}

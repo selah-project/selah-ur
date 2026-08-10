@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 155,
+  "ref": "psalms 119:155",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 119,
+  "translation": "رستگازی شریروں سے دور ہے، کیونکہ تیرے فرائض نہیں ڈھونڈے۔",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "دور ⟨ہے⟩"
+    },
+    {
+      "surface": "מרשעים",
+      "gloss": "شریروں سے"
+    },
+    {
+      "surface": "ישועה",
+      "gloss": "رستگازی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "تیرے فرائض"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "ڈھونڈے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:52:14.827616687Z",
+  "model": "glm-5.2"
+}

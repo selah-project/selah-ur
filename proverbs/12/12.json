@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "شریر بُرے لوگوں کے جال کو چاہتا ہے، مگر صادِقوں کی جڑ ⟨پھل⟩ دیتی ہے۔",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "چاہتا ہے"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "شریر"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "جال کو"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "بُرے لوگوں کے"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "مگر جڑ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "صادِقوں کی"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دیتی ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:01:20.529991058Z",
+  "model": "glm-5.2"
+}

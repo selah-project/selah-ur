@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 42:23",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 42,
+  "translation": "تم میں سے کون اسے کان لگائے گا، دھیان دے گا اور آگے کے لیے سُنے گا؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "تم میں سے"
+    },
+    {
+      "surface": "יאזין",
+      "gloss": "کان لگائے گا"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "اسے"
+    },
+    {
+      "surface": "יקשב",
+      "gloss": "دھیان دے گا"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "اور سُنے گا"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "آگے کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:14:03.196392482Z",
+  "model": "glm-5.2"
+}

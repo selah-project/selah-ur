@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 55,
+  "translation": "اور میں نے کہا: اَکاہ! مجھے فاختے کے پر دے، اڑ کر بس جاؤں۔",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "اور میں نے کہا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "اَکاہ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مجھے"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "فاختے کے"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "اڑ کر"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "بس جاؤں"
+    }
+  ],
+  "timestamp": "2026-08-09T23:33:51.364085011Z",
+  "model": "glm-5.2"
+}

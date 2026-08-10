@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 6:7",
+  "book": "judges",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اور ⟨یوں ہوا⟩ جب یِسرائیل کے بیٹوں نے مِدْیان کے سبب یاہویہ کو پکارا۔",
+  "tokens": [
+    {
+      "surface": "وיהי",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جب"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "پکارا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹوں نے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "کے سبب"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "کے باعث"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "مِدْیان"
+    }
+  ],
+  "timestamp": "2026-08-10T05:38:57.054766884Z",
+  "model": "glm-5.2"
+}

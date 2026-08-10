@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "اور جب داوِد نے سنا تو اُس نے یُوآب اور تمام جنگجو سرداروں کے لشکر کو بھیجا۔",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "اور سنا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد نے"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "تو بھیجا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یُوآب"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یُوآب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "تمام لشکر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لشکر"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "جنگجو سرداروں"
+    }
+  ],
+  "timestamp": "2026-08-10T01:08:59.135210407Z",
+  "model": "glm-5.2"
+}

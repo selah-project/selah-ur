@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 34:15",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 34,
+  "translation": "تو ہر گوشت یکجا دم توڑ دے، اور انسان خاک کی طرف لوٹ جائے۔",
+  "tokens": [
+    {
+      "surface": "יגוע",
+      "gloss": "دم توڑ دے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "یکجا"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "اور انسان"
+    },
+    {
+      "surface": "על",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "خاک"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "لوٹ جائے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:41:34.105419627Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 1:6",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "اور وہ ⟨את⟩ عولہ کو کھیل کرے اور اسے ⟨את⟩ اس کے ٹکڑوں میں کاٹے۔",
+  "tokens": [
+    {
+      "surface": "והפשיט",
+      "gloss": "اور وہ کھیل کرے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عولہ کو"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "عولہ"
+    },
+    {
+      "surface": "ונתח",
+      "gloss": "اور وہ کاٹے"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "اس کے ٹکڑوں میں"
+    },
+    {
+      "surface": "לנתחיה",
+      "gloss": "اس کے ٹکڑوں میں"
+    }
+  ],
+  "timestamp": "2026-08-10T07:39:40.650035504Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "کيا نفع ⟨ہے⟩ ⟨الوہ⟩ کرنے والے کو اس میں جو وہ محنت کرتا ہے؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "کيا"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "نفع"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "⟨الوہ⟩ کرنے والے کو"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "اس میں جو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "محنت کرتا ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T09:03:41.368134875Z",
+  "model": "glm-5.2"
+}

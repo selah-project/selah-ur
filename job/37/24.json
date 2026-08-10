@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 37:24",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 37,
+  "translation": "اس لیے لوگ اس سے ڈرتے ہیں ؛ وہ دیکھتا نہیں ہر دل کے داناؤں کو۔",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "اس لیے"
+    },
+    {
+      "surface": "יראוהו",
+      "gloss": "لوگ اس سے ڈرتے ہیں"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "⟨لوگ⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "دیکھتا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "חכמי",
+      "gloss": "داناؤں کو"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل کے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:23:35.248591818Z",
+  "model": "glm-5.2"
+}

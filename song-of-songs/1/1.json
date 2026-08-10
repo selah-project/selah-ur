@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "گیتِ گیتوں کا، جو لِشلومہ ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "گیت"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "گیتوں کا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "لِشلومہ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:25:42.872583209Z",
+  "model": "glm-5.2"
+}

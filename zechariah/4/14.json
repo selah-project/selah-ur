@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 4:14",
+  "book": "zechariah",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "تو اُس نے کہا: یہ تیل کے دو بیٹے ہیں جو تمام زمین کے آقا کے پاس کھڑے ہیں۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تو اُس نے کہا"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "تیل کے"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "کھڑے ہیں جو"
+    },
+    {
+      "surface": "על",
+      "gloss": "کے پاس"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "آقا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین کے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:18:00.223581713Z",
+  "model": "glm-5.2"
+}

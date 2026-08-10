@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 7:20",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "پانی پندرہ گز اوپر تک غالب آئے، اور پہاڑ ڈھک گئے۔",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "پانچ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دس"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "گز"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "اوپر تک"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "غالب آئے"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "اور ڈھک گئے"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "پہاڑ"
+    }
+  ],
+  "timestamp": "2026-08-09T19:35:09.937298135Z",
+  "model": "glm-5.2"
+}

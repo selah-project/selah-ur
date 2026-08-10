@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "جس کے ہاتھ میں ہر جاندار کی نَفَش ہے اور ہر انسانی بشر کی روح ہے۔",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جس کے"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ہاتھ میں"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفَش"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "חי",
+      "gloss": "جاندار کی"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "اور روح"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "بشر کی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "انسانی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:13:07.997884003Z",
+  "model": "glm-5.2"
+}

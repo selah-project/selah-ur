@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 2:35",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "سِنآح کے بیٹے، تین ہزار چھ سو تیس۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "سِنآح"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "تین"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "اور چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "اور تیس"
+    }
+  ],
+  "timestamp": "2026-08-10T00:46:21.816957164Z",
+  "model": "glm-5.2"
+}

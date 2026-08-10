@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 21:1",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "اور یاہویہ کا ⟨یہ⟩ بات میرے پاس ہوئی، کہہ کر:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوئی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بات"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میرے پاس"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہہ کر"
+    }
+  ],
+  "timestamp": "2026-08-09T22:52:59.083629415Z",
+  "model": "glm-5.2"
+}

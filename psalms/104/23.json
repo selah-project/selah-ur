@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 104,
+  "translation": "آدمی اپنے کام کو نکلتا ہے، اور اپنی محنت کی طرف — شام تک۔",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "نکلتا ہے"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "اپنے کام کو"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "اور اپنی محنت کی طرف"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "تک"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "شام"
+    }
+  ],
+  "timestamp": "2026-08-09T23:45:48.733743821Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "کیونکہ یقینًا ⟨ایک⟩ آخرت ہے، اور تیری امید کٹائی نہیں جائے گی۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "یقینًا"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ہے"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "آخرت"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "اور تیری امید"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "کٹائی جائے گی"
+    }
+  ],
+  "timestamp": "2026-08-10T07:51:42.037042458Z",
+  "model": "glm-5.2"
+}

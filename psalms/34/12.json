@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 34,
+  "translation": "آؤ، اے بیٹو، مجھے سنا کرو؛ میں تمہیں یاہویہ کا خوف سکھاؤں گا۔",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "آؤ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "اے بیٹو"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سنا کرو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مجھے"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "خوف"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کا"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "میں تمہیں سکھاؤں گا"
+    }
+  ],
+  "timestamp": "2026-08-10T06:29:43.143828022Z",
+  "model": "glm-5.2"
+}

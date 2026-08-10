@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "leviticus 14:49",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "اور وہ گھر کو پاک کرنے کے لیے دو پرندے اور دیودار کی لکڑی اور قرمزی دھاگہ اور اَزوب لے گا۔",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "اور وہ لے گا"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "پاک کرنے کے لیے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گھر کو"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "پرندے"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "اور لکڑی"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "دیودار"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "اور قرمزی"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "کیٹی"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "اور اَزوب"
+    }
+  ],
+  "timestamp": "2026-08-09T20:19:45.282877877Z",
+  "model": "glm-5.2"
+}

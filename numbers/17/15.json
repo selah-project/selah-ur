@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 17:15",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 17,
+  "translation": "اور اہرون موشے کے پاس، خیمۂ اجتماع کے دہلیز پر واپس آیا، اور وبا رک گئی۔",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "اور واپس آیا"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کے پاس"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کے"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دہلیز پر"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمۂ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "اجتماع"
+    },
+    {
+      "surface": "והמגפה",
+      "gloss": "اور وبا"
+    },
+    {
+      "surface": "נעצרה",
+      "gloss": "رک گئی"
+    }
+  ],
+  "timestamp": "2026-08-09T20:32:39.253088127Z",
+  "model": "glm-5.2"
+}

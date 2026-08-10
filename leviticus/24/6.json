@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "اور تو ⟨אתہا⟩ دو صفوں میں رکھے گا — ہر صف چھ — پاک میز پر، یاہویہ کے سامنے۔",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "اور تو رکھے گا"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "اُنہیں"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "صفیں"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "وہ صف"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "وہ میز"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "کے سامنے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:23:44.386454783Z",
+  "model": "glm-5.2"
+}

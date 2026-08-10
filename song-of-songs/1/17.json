@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "song-of-songs 1:17",
+  "book": "song-of-songs",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "ہمارے گھر کی کڑیاں دیودار کی ⟨ہیں⟩، ہماری چھت کی پٹیاں سرو کی ⟨ہیں⟩۔",
+  "tokens": [
+    {
+      "surface": "קרות",
+      "gloss": "کڑیاں"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "ہمارے گھر کی"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "دیودار کی"
+    },
+    {
+      "surface": "רחיטנו",
+      "gloss": "ہماری چھت کی پٹیاں"
+    },
+    {
+      "surface": "ברותים",
+      "gloss": "سرو کی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:25:34.006211311Z",
+  "model": "glm-5.2"
+}

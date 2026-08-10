@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 31:2",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 31,
+  "translation": "اور ⟨اونہوں نے⟩ ان سے کہا: میں آج ایک سو بیس برس کا ہوں؛ میں اب نہیں نکل اور داخل ہو سکتا، اور یاہویہ نے مجھ سے کہا ہے: تو ⟨اس⟩ یردن کو نہ پار کرے گا۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ان سے"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ایک سو"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "اور بیس"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "היום",
+      "gloss": "آج"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "سکتا"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "اب"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "نکلنے"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "اور داخل ہونے"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "اور یاہویہ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "نے کہا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مجھ سے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "تو پار کرے گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یردن"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یردن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اس"
+    }
+  ],
+  "timestamp": "2026-08-10T05:35:59.698143056Z",
+  "model": "glm-5.2"
+}

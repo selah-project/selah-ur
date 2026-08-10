@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 65,
+  "translation": "دعا کا سننے والا، تیری طرف تمام بشر آئے گا۔",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "سننے والا"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "دعا کا"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "تیری طرف"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "بشر"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "آئے گا"
+    }
+  ],
+  "timestamp": "2026-08-09T23:36:45.647188219Z",
+  "model": "glm-5.2"
+}

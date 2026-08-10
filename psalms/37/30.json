@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 37,
+  "translation": "صادق کا منہ دانائی بکشتا ہے اور اس کی زبان انصاف بولتی ہے۔",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صادق"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "بکشتا ہے"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "دانائی"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "اور اس کی زبان"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "بولتی ہے"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    }
+  ],
+  "timestamp": "2026-08-10T06:30:28.587253663Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "تو ساری جماعت نے اپنی آواز بلند کی اور ⟨את⟩ اپنی آواز دی، اور ⟨وہ⟩ لوپ اس رات روئے۔",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "تو اٹھایا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "جماعت نے"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "اور دی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنی آواز"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "اپنی آواز"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "اور روئے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوگ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "اس رات"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "وہ"
+    }
+  ],
+  "timestamp": "2026-08-10T05:28:26.837023036Z",
+  "model": "glm-5.2"
+}

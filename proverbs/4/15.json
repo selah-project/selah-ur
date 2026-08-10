@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "اس سے بچ، اس سے گزر نہ؛ اس سے ہٹ جا اور آگے نکل جا۔",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "اس سے بچ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "گزر"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اس سے"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "ہٹ جا"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "اس سے"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "آگے نکل جا"
+    }
+  ],
+  "timestamp": "2026-08-10T06:37:34.490099321Z",
+  "model": "glm-5.2"
+}

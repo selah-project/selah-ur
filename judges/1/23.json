@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 1:23",
+  "book": "judges",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "اور بیت یوسف نے بیت ایل پر جاسوس بھیجے؛ اور اس شہر کا نام پہلے لوز تھا۔",
+  "tokens": [
+    {
+      "surface": "ויתירו",
+      "gloss": "اور بھیجے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "اور نام"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر کا"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "پہلے"
+    },
+    {
+      "surface": "לוז",
+      "gloss": "لوز"
+    }
+  ],
+  "timestamp": "2026-08-09T21:06:17.769698345Z",
+  "model": "glm-5.2"
+}

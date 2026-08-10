@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 38:25",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 38,
+  "translation": "کِس نے سیلابی راستے کے لیے نہر بنا دی، اور گرج کے لیے راستہ؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کِس نے"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "بنا دی"
+    },
+    {
+      "surface": "לשטף",
+      "gloss": "سیلابی"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "نہر"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "اور راستہ"
+    },
+    {
+      "surface": "לחזיז",
+      "gloss": "گرج کے لیے"
+    },
+    {
+      "surface": "קלות",
+      "gloss": "گرج"
+    }
+  ],
+  "timestamp": "2026-08-10T00:23:51.667789858Z",
+  "model": "glm-5.2"
+}

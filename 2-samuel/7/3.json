@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 7:3",
+  "book": "2-samuel",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "تو ناتَن نے بادشاہ سے کہا: جو کچھ تیرے دل میں ہے جا، کر، کیونکہ یاہویہ تیرے ساتھ ہے۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تو کہا"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتَن نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جو کچھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "تیرے دل میں ہے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "جا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تیرے ساتھ ہے"
+    }
+  ],
+  "timestamp": "2026-08-09T21:33:38.040679074Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 6:5",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "خود کو چھڑا، جیسے ہرنی ہاتھ سے، اور جیسے پرندہ فاتح کے ہاتھ سے۔",
+  "tokens": [
+    {
+      "surface": "הנצל",
+      "gloss": "خود کو چھڑا"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "جیسے ہرنی"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ہاتھ سے"
+    },
+    {
+      "surface": "וכצפור",
+      "gloss": "اور جیسے پرندہ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ہاتھ سے"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "فاتح کے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:00:23.979712998Z",
+  "model": "glm-5.2"
+}

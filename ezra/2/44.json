@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "ezra 2:44",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "قیروس کے بیٹے، سیعا کے بیٹے، پَدون کے بیٹے۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "קרס",
+      "gloss": "قیروس کے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "סיעהא",
+      "gloss": "سیعا کے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "پَدون کے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:48:39.168525841Z",
+  "model": "glm-5.2"
+}

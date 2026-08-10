@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "daniel 2:36",
+  "book": "daniel",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "یہ وہ خواب ہے، اور ہم اس کی تشریح بادشاہ کے سامنے بیان کریں گے۔",
+  "tokens": [
+    {
+      "surface": "דנה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "خواب"
+    },
+    {
+      "surface": "ופשרה",
+      "gloss": "اور اس کی تشریح"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "ہم بیان کریں گے"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "کے سامنے"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "بادشاہ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:42:20.430910515Z",
+  "model": "glm-5.2"
+}

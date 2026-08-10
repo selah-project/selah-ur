@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 1:11",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "لیکن اب اپنا ہاتھ بھیج اور جو کچھ اس کا ہے سب کو چھو لے — وہ یقیناً تیرے منہ پر لعنت بھیجے گا۔",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "لیکن"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "بھیج"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اب"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "اپنا ہاتھ"
+    },
+    {
+      "surface": "וגע",
+      "gloss": "اور چھو لے"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سب کو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اس کا ہے"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تیرے منہ"
+    },
+    {
+      "surface": "יברכך",
+      "gloss": "وہ ... برکت دے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:10:42.444473053Z",
+  "model": "glm-5.2"
+}

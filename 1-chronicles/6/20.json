@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 6:20",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "تسوف کا بیٹا، اَلقانہ کا بیٹا، ماخات کا بیٹا، اَماسی کا بیٹا۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "ציף",
+      "gloss": "تسوف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "اَلقانہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "מחת",
+      "gloss": "ماخات"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "اَماسی"
+    }
+  ],
+  "timestamp": "2026-08-10T01:01:42.850514485Z",
+  "model": "glm-5.2"
+}

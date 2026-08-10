@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 30,
+  "translation": "تو بِلہہ حاملہ ہوئی اور یَعقَوب کے لیے بیٹا جنا۔",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "تو حاملہ ہوئی"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "بِلہہ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "اور جنا"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "یَعقَوب کے لیے"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    }
+  ],
+  "timestamp": "2026-08-10T05:15:00.942422016Z",
+  "model": "glm-5.2"
+}

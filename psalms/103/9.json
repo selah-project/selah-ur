@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 103,
+  "translation": "نہ ہمیشہ وہ جھگڑے گا، اور نہ ہمیشہ وہ غصہ رکھے گا۔",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "לָנֶ֥צַח",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "יָרִ֑יב",
+      "gloss": "وہ جھگڑے گا"
+    },
+    {
+      "surface": "וְלֹ֖א",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "לְעוֹלָ֣ם",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "יִטּֽוֹר",
+      "gloss": "وہ رکھے گا"
+    }
+  ],
+  "timestamp": "2026-08-09T23:46:11.823387545Z",
+  "model": "glm-5.2"
+}

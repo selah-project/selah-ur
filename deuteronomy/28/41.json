@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 28:41",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 28,
+  "translation": "بیٹے اور بیٹیاں تو پیدا کرو گے، مگر وہ تمہارے ⟨نہیں ہوں گے⟩، کیونکہ وہ قید میں جائیں گے۔",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "اور بیٹیاں"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "پیدا کرو گے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "مگر نہ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "وہ ہوں گے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تمہارے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "وہ جائیں گے"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "قید میں"
+    }
+  ],
+  "timestamp": "2026-08-10T07:56:15.460425079Z",
+  "model": "glm-5.2"
+}

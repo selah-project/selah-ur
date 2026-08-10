@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 30,
+  "translation": "کیونکہ یوں کہا یاہویہ نے: ایک کانپنے کی آواز ہم نے سنی — دہشت اور ⟨کوئی⟩ شلوم نہیں۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "یوں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "کہا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "کانپنے کی"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "ہم نے سنی"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "دہشت"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "اور نہیں"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شلوم"
+    }
+  ],
+  "timestamp": "2026-08-09T22:33:58.776673824Z",
+  "model": "glm-5.2"
+}

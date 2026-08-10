@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 3:21",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "انگوٹھیاں اور ناک کے پھُول،",
+  "tokens": [
+    {
+      "surface": "הטבעות",
+      "gloss": "انگوٹھیاں"
+    },
+    {
+      "surface": "ונזמי",
+      "gloss": "اور پھُول"
+    },
+    {
+      "surface": "האף",
+      "gloss": "ناک کے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:21:27.470040434Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 25:13",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "اس یوبیل کے سال میں تم لوٹو، ہر شخص اپنی ملکیت کی طرف۔",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "کی سال میں"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "یوبیل"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اس"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "تم لوٹو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر شخص"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "اپنی ملکیت"
+    }
+  ],
+  "timestamp": "2026-08-10T05:25:42.721592461Z",
+  "model": "glm-5.2"
+}

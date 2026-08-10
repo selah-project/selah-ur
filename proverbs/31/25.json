@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 31:25",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 31,
+  "translation": "عزت اور جلال اس کا لباس ہے، اور وہ آخری دن پر ہنستی ہے۔",
+  "tokens": [
+    {
+      "surface": "עז",
+      "gloss": "عزت"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "اور جلال"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "اس کا لباس"
+    },
+    {
+      "surface": "ותשחק",
+      "gloss": "اور وہ ہنستی ہے"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "دن پر"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "آخری"
+    }
+  ],
+  "timestamp": "2026-08-10T00:09:50.796836113Z",
+  "model": "glm-5.2"
+}

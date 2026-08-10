@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اور ⟨את⟩ پوری جماعت کو خیمۂ اجتماع کے دہانے پر جمع کر۔”",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "پوری جماعت کو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوری"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "جماعت کو"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "جمع کر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کے پاس"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دہانے"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمے"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "اجتماع"
+    }
+  ],
+  "timestamp": "2026-08-10T05:23:45.293825407Z",
+  "model": "glm-5.2"
+}

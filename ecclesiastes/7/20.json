@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "کیونکہ انسان کو، زمین پر کوئی نیک نہیں جو بھلائی کرے اور گناہ نہ کرے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسان کو"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نیک"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین پر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کرے"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "بھلائی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "گناہ کرے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:43:06.141537622Z",
+  "model": "glm-5.2"
+}

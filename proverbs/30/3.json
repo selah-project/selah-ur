@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 30,
+  "translation": "اور میں نے نہ تو حکمت سیکھی ہے، اور نہ مقدسوں کا علم جانتا ہوں۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "میں نے سیکھی ہے"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "اور علم"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "مقدسوں کا"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "جانتا ہوں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:09:09.954673875Z",
+  "model": "glm-5.2"
+}

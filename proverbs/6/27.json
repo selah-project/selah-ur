@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 6:27",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "کیا کوئی آدمی اپنی گود میں آگ رکھتا، اور اُس کے کپڑے جل نہیں سکتے؟",
+  "tokens": [
+    {
+      "surface": "היחתה",
+      "gloss": "کیا… رکھتا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "کوئی آدمی"
+    },
+    {
+      "surface": "אש",
+      "gloss": "آگ"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "اپنی گود میں"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "اور اُس کے کپڑے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "תשרפנה",
+      "gloss": "جل سکتے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:00:55.170831040Z",
+  "model": "glm-5.2"
+}

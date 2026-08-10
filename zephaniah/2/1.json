@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 2:1",
+  "book": "zephaniah",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "خود کو یکجا کرو، بلکہ یکجا کرو، اے قومِ ⟨نامریدی⟩!",
+  "tokens": [
+    {
+      "surface": "התקוששו",
+      "gloss": "خود کو یکجا کرو"
+    },
+    {
+      "surface": "וקושו",
+      "gloss": "بلکہ یکجا کرو"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "اے قوم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "نכסף",
+      "gloss": "مریدی والی"
+    }
+  ],
+  "timestamp": "2026-08-10T07:29:43.657942801Z",
+  "model": "glm-5.2"
+}

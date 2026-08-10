@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 44:16",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 44,
+  "translation": "جو بات تو نے ہمارے نام ⟨कही⟩ یاہویہ के नाम पर हमसे कही है, हम تیری बات نहीं सुनेंगे।",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "وہ بات"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "تو نے کہی"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ہم سے"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "के نام پر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ہم نہیں"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "سننے والے"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیری طرف"
+    }
+  ],
+  "timestamp": "2026-08-09T22:41:15.654666069Z",
+  "model": "glm-5.2"
+}

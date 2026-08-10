@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 10:15",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "وہ فانی ہیں، دھوکوں کا عملہ؛ ان کے پکڑے جانے کے وقت وہ فنا ہو جائیں گے۔",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "فانی ہیں"
+    },
+    {
+      "surface": "המה",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "عملہ"
+    },
+    {
+      "surface": "תעתעים",
+      "gloss": "دھوکوں کا"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "کے وقت"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "ان کے پکڑے جانے"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "وہ فنا ہو جائیں گے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:24:56.043249798Z",
+  "model": "glm-5.2"
+}

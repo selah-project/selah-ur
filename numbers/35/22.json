@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 35:22",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 35,
+  "translation": "اور اگر اچانک، بغیر بغض کے، اُسے دھکا دے یا اُس پر کوئی اوزار پھینکے، بغیر سازش کے —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "اور اگر"
+    },
+    {
+      "surface": "בפתע",
+      "gloss": "اچانک"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "بغیر"
+    },
+    {
+      "surface": "איבה",
+      "gloss": "بغض کے"
+    },
+    {
+      "surface": "הדפו",
+      "gloss": "اُسے دھکا دے"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "השליך",
+      "gloss": "پھینکے"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اُس پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "اوزار"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "بغیر"
+    },
+    {
+      "surface": "צדיה",
+      "gloss": "سازش کے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:41:26.843455618Z",
+  "model": "glm-5.2"
+}

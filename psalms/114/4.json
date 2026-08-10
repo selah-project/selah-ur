@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 114:4",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 114,
+  "translation": "پہاڑ ناچے جیسے مینڈھ، پہاڑیاں جیسے بھیڑوں کے بچے۔",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "רקדו",
+      "gloss": "ناچے"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "جیسے مینڈھ"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "پہاڑیاں"
+    },
+    {
+      "surface": "כבני",
+      "gloss": "جیسے بچے"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "بھیڑوں کے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:50:03.507623534Z",
+  "model": "glm-5.2"
+}

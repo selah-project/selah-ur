@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 9:4",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "کیونکہ جو شخص زندہ سب میں شامل ہو اس کی بھروسہ ہے؛ کیونکہ زندہ کتبے کا بھی بہتر ہے مرے ہوئے شیر سے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "جو شخص"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "شامل ہو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "میں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "زندہ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ہے"
+    },
+    {
+      "surface": "בטחון",
+      "gloss": "بھروسہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "کتبے کا"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زندہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "بہتر ہے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "سے"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "شیر"
+    },
+    {
+      "surface": "המת",
+      "gloss": "مرے ہوئے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:35:49.841626334Z",
+  "model": "glm-5.2"
+}

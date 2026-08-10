@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 18:19",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "اور یوں ہوگا: جو آدمی میرے الفاظ نہ سنے گا — جنہیں وہ میرے نام سے بولے گا — میں خود اس سے بازپرس کروں گا۔",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "اور یوں ہوگا"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "جو آدمی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "سنے گا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کو"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "میرے الفاظ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنہیں"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "وہ بولے گا"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "میرے نام سے"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں خود"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "بازپرس کروں گا"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "اس سے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:50:53.876281692Z",
+  "model": "glm-5.2"
+}

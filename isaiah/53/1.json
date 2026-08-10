@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 53,
+  "translation": "کون ہمارے سننے پر ایمان لایا، اور یاہویہ کی بازو کس پر ظاہر ہوئی؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "ایمان لایا"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "ہمارے سننے پر"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "اور بازو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کی"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کس"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "ظاہر ہوئی"
+    }
+  ],
+  "timestamp": "2026-08-10T06:03:12.248869921Z",
+  "model": "glm-5.2"
+}

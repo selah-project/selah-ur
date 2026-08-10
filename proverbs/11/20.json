@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 11:20",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "ٹیڑھے دل یاہویہ کے نزدیک مکروہ (ہیں)، اور اُس کی رضا کمالِ راست پر (ہے)۔",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "مکروہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "עקשי",
+      "gloss": "ٹیڑھے"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "ורצונו",
+      "gloss": "اور اُس کی رضا"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "کمال"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راست"
+    }
+  ],
+  "timestamp": "2026-08-10T00:02:45.115865570Z",
+  "model": "glm-5.2"
+}

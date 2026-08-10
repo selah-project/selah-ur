@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 6:17",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اور یاہویہ نے موشہ سے کلام کیا، یوں کہہ کر:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "اور کلام کیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "یوں کہہ کر"
+    }
+  ],
+  "timestamp": "2026-08-10T05:23:52.093484033Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 39:9",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 39,
+  "translation": "میرے سبھی گناہوں سے مجھے چھڑا، نادان کی توہین مجھے نہ بنا۔",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "سبھی سے"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "میرے گناہوں"
+    },
+    {
+      "surface": "הצילני",
+      "gloss": "مجھے چھڑا"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "توہین"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "نادان کی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשימני",
+      "gloss": "مجھے بنا"
+    }
+  ],
+  "timestamp": "2026-08-10T06:29:42.127270504Z",
+  "model": "glm-5.2"
+}

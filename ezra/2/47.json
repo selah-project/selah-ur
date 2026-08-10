@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "ezra 2:47",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "گِدّیل کے بیٹے، گَحَر کے بیٹے، رِعایہ کے بیٹے۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "گِدّیل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "גחר",
+      "gloss": "گَحَر"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "رِعایہ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:49:17.938393475Z",
+  "model": "glm-5.2"
+}

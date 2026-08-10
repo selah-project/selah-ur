@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 69:33",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 69,
+  "translation": "خاکسار دیکھیں گے، خوش ہوں گے؛ الوہیم کے طالبو، تمہارا دل جیے۔",
+  "tokens": [
+    {
+      "surface": "ראו",
+      "gloss": "دیکھیں گے"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "خاکسار"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "خوش ہوں گے"
+    },
+    {
+      "surface": "דרשי",
+      "gloss": "طالبو"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "اور جیے"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "تمہارا دل"
+    }
+  ],
+  "timestamp": "2026-08-09T23:37:17.927724931Z",
+  "model": "glm-5.2"
+}

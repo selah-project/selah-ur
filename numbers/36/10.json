@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 36:10",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 36,
+  "translation": "جیسا کہ یاہویہ نے حکم دیا موشے کو، ویسے ہی کیا بیٹیوں نے صلافخاد کی۔",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "جیسا کہ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم دیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشے کو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ویسے ہی"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "بیٹیوں نے"
+    },
+    {
+      "surface": "צלפחד",
+      "gloss": "صلافخاد کی"
+    }
+  ],
+  "timestamp": "2026-08-09T20:41:30.410468391Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "یہ سب نَبُوکَدْنَصَّر بادشاہ پر آ پہنچا۔",
+  "tokens": [
+    {
+      "surface": "כלא",
+      "gloss": "یہ سب"
+    },
+    {
+      "surface": "מטא",
+      "gloss": "آ پہنچا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "نَبُوکَدْنَصَّر"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "بادشاہ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:41:25.693596322Z",
+  "model": "glm-5.2"
+}

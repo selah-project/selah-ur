@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 55:17",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 55,
+  "translation": "میں ایل کو پکاروں گا اور یاہویہ مجھے بچائے گا۔",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "پکاروں گا"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "اور یاہویہ"
+    },
+    {
+      "surface": "יושיעני",
+      "gloss": "مجھے بچائے گا"
+    }
+  ],
+  "timestamp": "2026-08-09T23:34:04.720853165Z",
+  "model": "glm-5.2"
+}

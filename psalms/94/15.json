@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 94,
+  "translation": "کیونکہ انصاف ⟨سے⟩ عدل کی طرف لوٹے گا، اور اُس کے پیچھے تمام سیدھے دِل ⟨ہوں گے⟩۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨سے⟩"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "عدل کی طرف"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "لوٹے گا"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "اور اُس کے پیچھے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "سیدھے"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دِل"
+    }
+  ],
+  "timestamp": "2026-08-09T23:43:59.971037589Z",
+  "model": "glm-5.2"
+}

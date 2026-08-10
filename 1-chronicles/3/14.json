@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 3:14",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "آمون اس کا بیٹا، یُوشییاہو اس کا بیٹا۔",
+  "tokens": [
+    {
+      "surface": "אמון",
+      "gloss": "آمون"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اس کا بیٹا"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "یُوشییاہو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اس کا بیٹا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:59:56.423168790Z",
+  "model": "glm-5.2"
+}

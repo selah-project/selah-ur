@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 23:30",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "اور ہر ⟨نفس⟩ جو اُس ٹھیک ⟨دن⟩ کوئی بھی کام کرے، تو میں اُس ⟨نفس⟩ کو اس کے لوگوں کے درمیان سے ہلاک کر دوں گا۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "اور ہر"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "⟨نفس⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "کرے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی بھی"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "کام"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "کے ٹھیک"
+    },
+    {
+      "surface": "היום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اُس"
+    },
+    {
+      "surface": "והאבדתי",
+      "gloss": "ہلاک کر دوں گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اُس نفس کو"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُس"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "کے درمیان سے"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "اس کے لوگوں"
+    }
+  ],
+  "timestamp": "2026-08-09T20:23:29.772821227Z",
+  "model": "glm-5.2"
+}

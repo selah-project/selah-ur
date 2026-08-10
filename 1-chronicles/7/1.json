@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 7:1",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اور یِسّاکَر کے بیٹوں ⟨تھے⟩: تُولَع اور پُوَع، یَشُو ب اور شِمْرُون — چار۔",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "اور بیٹوں"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "یِسّاکَر"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "تُولَع"
+    },
+    {
+      "surface": "ופואה",
+      "gloss": "اور پُوَع"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "یَشُو ب"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "اور شِمْرُون"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    }
+  ],
+  "timestamp": "2026-08-10T01:02:27.018644070Z",
+  "model": "glm-5.2"
+}

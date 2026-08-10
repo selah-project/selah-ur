@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 33:24",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 33,
+  "translation": "وچلے کوہِ شافِر سے، اور ٹھہرے بِحَراداہ میں۔",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "وچلے"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "کوہ سے"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "شافِر"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "اور ٹھہرے"
+    },
+    {
+      "surface": "בחרדה",
+      "gloss": "بِحَراداہ میں"
+    }
+  ],
+  "timestamp": "2026-08-09T20:40:26.470036078Z",
+  "model": "glm-5.2"
+}

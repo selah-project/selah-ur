@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 30:19",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 30,
+  "translation": "اور لِاہ پھر حاملہ ہوئی اور یَعقوپ کو چھٹا بیٹا جنم دیا۔",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "اور وہ حاملہ ہوئی"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "پھر"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لِاہ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "اور جنم دیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "چھٹا"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "یَعقوپ کو"
+    }
+  ],
+  "timestamp": "2026-08-10T07:08:46.981377206Z",
+  "model": "glm-5.2"
+}

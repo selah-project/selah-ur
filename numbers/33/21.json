@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 33:21",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 33,
+  "translation": "وچلے مِنبناہ سے، اور ٹھہرے برِیساہ میں۔",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "وچلے"
+    },
+    {
+      "surface": "מלבנה",
+      "gloss": "مِنبناہ سے"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "اور ٹھہرے"
+    },
+    {
+      "surface": "ברסה",
+      "gloss": "برِیساہ میں"
+    }
+  ],
+  "timestamp": "2026-08-09T20:40:26.469602620Z",
+  "model": "glm-5.2"
+}

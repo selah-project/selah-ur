@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 2:36",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "کاہن: یَدَعیاہ کے بیٹے، یِیشوع کے خاندانِ، نو سو تہتر۔",
+  "tokens": [
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "یَدَعیاہ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "خاندانِ"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "یِیشوع"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نو"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ستر"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "اور تین"
+    }
+  ],
+  "timestamp": "2026-08-10T00:46:21.817099653Z",
+  "model": "glm-5.2"
+}

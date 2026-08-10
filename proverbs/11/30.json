@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 11:30",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "صدیق کا پھل حیات کا درخت ⟨ہے⟩، اور جو جانوں کو پکڑتا ہے حکیم ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "פרי",
+      "gloss": "پھل"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صدیق کا"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "درخت"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "حیات کا"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "اور جو پکڑتا ہے"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "جانوں کو"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حکیم"
+    }
+  ],
+  "timestamp": "2026-08-10T00:01:42.160266094Z",
+  "model": "glm-5.2"
+}

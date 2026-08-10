@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "آگ مسلسل قربان گاہ پر جلتی رہے گی، ⟨وہ⟩ بجھائی نہ جائے گی۔",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "آگ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "مسلسل"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "جلتی رہے گی"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قربان گاہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "بجھائی جائے گی"
+    }
+  ],
+  "timestamp": "2026-08-09T20:16:29.759904307Z",
+  "model": "glm-5.2"
+}

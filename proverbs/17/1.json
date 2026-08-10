@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 17:1",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 17,
+  "translation": "بہتر ہے خشک ٹکڑا اور اس کے ساتھ سکون، ایک گھر سے جو جھگڑے کی قربانیوں سے بھرا ہو۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "بہتر ہے"
+    },
+    {
+      "surface": "פת",
+      "gloss": "ٹکڑا"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "خشک"
+    },
+    {
+      "surface": "ושלוה",
+      "gloss": "اور سکون"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اس کے ساتھ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ایک گھر سے"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "بھرا ہوا"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "قربانیوں کے"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "جھگڑے کی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:04:13.011641121Z",
+  "model": "glm-5.2"
+}

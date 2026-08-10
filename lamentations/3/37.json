@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "کون ہے جو کہہ دے اور وہ ہو، جب ادونای نے اس کا حکم نہ دیا ہو؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "זה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "کہہ دے"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "اور وہ ہو"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم دیا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:29:43.377813778Z",
+  "model": "glm-5.2"
+}

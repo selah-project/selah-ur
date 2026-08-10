@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 9:10",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "اور کاہنوں میں سے یَدَعیاہ، یِہوْیارِب، اور یاکِین۔",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "اور میں سے"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہنوں"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "یَدَعیاہ"
+    },
+    {
+      "surface": "ויהויריב",
+      "gloss": "یِہوْیارِب"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "اور یاکِین"
+    }
+  ],
+  "timestamp": "2026-08-10T01:03:32.993843743Z",
+  "model": "glm-5.2"
+}

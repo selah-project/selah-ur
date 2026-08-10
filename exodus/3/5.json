@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 3:5",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "اور اُس نے کہا: اِدھر نزدیک نہ آؤ، اپنے پاؤں سے اپنی جُتیاں اُتار، کیونکہ جگہ جس پر تو کھڑا ہے وہ ⟨ہے⟩ مقدس زمین۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور اُس نے کہا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "نزدیک آؤ"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "اِدھر"
+    },
+    {
+      "surface": "של",
+      "gloss": "اُتار"
+    },
+    {
+      "surface": "נעליך",
+      "gloss": "اپنی جُتیاں"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "اپنے پاؤں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "جگہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "עומד",
+      "gloss": "کھڑا ہے"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "جس پر"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    }
+  ],
+  "timestamp": "2026-08-10T08:34:03.379906769Z",
+  "model": "glm-5.2"
+}

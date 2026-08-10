@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "اور ⟨את⟩ سمندر کو اس نے دایاں کاندھے سے مشرق کی طرف، مقابل جنوب کے رکھا۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "سمندر"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر کو"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "رکھا"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "کاندھے سے"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "دایاں"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "مشرق کی طرف"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "مقابل"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "جنوب کے"
+    }
+  ],
+  "timestamp": "2026-08-10T01:14:25.780359585Z",
+  "model": "glm-5.2"
+}

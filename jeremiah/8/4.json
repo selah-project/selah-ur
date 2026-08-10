@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 8:4",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اور تم ان سے کہو گے: یاہویہ فرماتا ہے، کیا وہ گریں اور نہ اٹھیں؟ کیا کوئی لوٹے اور نہ لوٹے؟",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "اور تو کہے گا"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ان سے"
+    },
+    {
+      "surface": "כה",
+      "gloss": "اس طرح"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فرماتا ہے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "היפלו",
+      "gloss": "کیا گریں گے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "اٹھیں گے"
+    },
+    {
+      "surface": "אם",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "لوٹے گا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "لوٹے گا"
+    }
+  ],
+  "timestamp": "2026-08-10T07:46:47.549214192Z",
+  "model": "glm-5.2"
+}

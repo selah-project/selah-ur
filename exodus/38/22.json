@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 38:22",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 38,
+  "translation": "اور بِتصرایل بَن اُوری بَن خُور، یہودا کے قبیلے کے، نے ⟨את⟩ سب ⟨وہ⟩ بنایا جو یاہویہ نے موشے کو حکم دیا تھا۔",
+  "tokens": [
+    {
+      "surface": "ובצלאל",
+      "gloss": "اور بِتصرایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "اُوری"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "חור",
+      "gloss": "خُور"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "قبیلے کے"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہودا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بنایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سب"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم دیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشے کو"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:10:16.689760247Z",
+  "model": "glm-5.2"
+}

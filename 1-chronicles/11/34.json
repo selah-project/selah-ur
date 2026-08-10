@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 11:34",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "ہاشیم گیزونی کے بیٹے، یُوناتان ہَراری شَگِہ کا بیٹا،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "השם",
+      "gloss": "ہاشیم"
+    },
+    {
+      "surface": "הגזוני",
+      "gloss": "گیزونی"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "یُوناتان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "شَگِہ"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "ہَراری"
+    }
+  ],
+  "timestamp": "2026-08-10T01:02:57.522709534Z",
+  "model": "glm-5.2"
+}

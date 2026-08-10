@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 49,
+  "translation": "وہ اپنے باپ دادا کی نسل میں جائے گا؛ ہمیشہ کے لیے وہ روشنی نہیں دیکھیں گے۔",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "وہ جائے گا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "میں"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "اپنے باپ دادا کی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ہمیشہ کے لیے"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "وہ دیکھیں گے"
+    },
+    {
+      "surface": "אור",
+      "gloss": "روشنی"
+    }
+  ],
+  "timestamp": "2026-08-10T06:30:21.699271469Z",
+  "model": "glm-5.2"
+}

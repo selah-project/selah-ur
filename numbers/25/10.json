@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 25:10",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "اور یاہویہ نے موشے سے کہا، ⟨یہ⟩ کہہ کر:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "اور بولا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہہ کر"
+    }
+  ],
+  "timestamp": "2026-08-10T07:56:10.300571290Z",
+  "model": "glm-5.2"
+}

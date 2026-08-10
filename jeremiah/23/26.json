@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 23:26",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "کتنے عرصے تک یہ بات جھوٹ کے نبّیوں کے دل میں ہوگی، اور اپنے دل کے دھوکے کے نبّی ہوں گے؟",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کتنے عرصے"
+    },
+    {
+      "surface": "היש",
+      "gloss": "کیا ہے"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "دل میں"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "نبّیوں کے"
+    },
+    {
+      "surface": "נבאי",
+      "gloss": "نبّی"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "جھوٹ کے"
+    },
+    {
+      "surface": "ונביאי",
+      "gloss": "اور نبّی"
+    },
+    {
+      "surface": "תרמת",
+      "gloss": "دھوکے کے"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "اپنے دل کے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:32:28.655934662Z",
+  "model": "glm-5.2"
+}

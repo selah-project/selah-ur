@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 7:14",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "زَکّای کے بیٹے، سات سو ساٹھ۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "زَکّای"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سات"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "اور ساٹھ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:54:00.871996382Z",
+  "model": "glm-5.2"
+}

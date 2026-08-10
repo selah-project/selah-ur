@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 4:15",
+  "book": "esther",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "تو اِستِر نے مردخای کو جواب میں کہنا بھیجا۔",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "تو کہا"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "اِستِر"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "جواب دینے کو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "مردخای"
+    }
+  ],
+  "timestamp": "2026-08-10T00:37:41.069364409Z",
+  "model": "glm-5.2"
+}

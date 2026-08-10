@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 23:15",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "اور اس نے بَلاق سے کہا: اپنی عُلُوہ کے پاس یوں کھڑے رہو، اور میں یوں ملاقات کو جاؤں گا۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بَلاق"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "کھڑے رہو"
+    },
+    {
+      "surface": "כה",
+      "gloss": "یوں"
+    },
+    {
+      "surface": "על",
+      "gloss": "کے پاس"
+    },
+    {
+      "surface": "עלתך",
+      "gloss": "تیری عُلُوہ"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "اور میں"
+    },
+    {
+      "surface": "אקרה",
+      "gloss": "ملاقات کو جاؤں گا"
+    },
+    {
+      "surface": "כה",
+      "gloss": "یوں"
+    }
+  ],
+  "timestamp": "2026-08-10T05:30:51.221350161Z",
+  "model": "glm-5.2"
+}

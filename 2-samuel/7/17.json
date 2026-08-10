@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 7:17",
+  "book": "2-samuel",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "ان سب باتوں اور اس سب رؤیا کے مطابق، نَاتَن نے داوِد سے کہہ دیا۔",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "ان سب کے مطابق"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "باتوں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "اور اس سب کے مطابق"
+    },
+    {
+      "surface": "החזיון",
+      "gloss": "رؤیا"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایسے"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بولا"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "نَاتَن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کے پاس"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    }
+  ],
+  "timestamp": "2026-08-09T21:33:42.584766544Z",
+  "model": "glm-5.2"
+}

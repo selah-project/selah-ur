@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 3:17",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "اور یَکَنْیَاہُ ⟨کے بیٹے⟩ اَسِیر، شَالْتِی ایل اُس کا بیٹا۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "اور ⟨کے بیٹے⟩"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "یَکَنْیَاہُ"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "اَسِیر"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "شَالْتِی ایل"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اُس کا بیٹا"
+    }
+  ],
+  "timestamp": "2026-08-10T01:00:01.140711344Z",
+  "model": "glm-5.2"
+}

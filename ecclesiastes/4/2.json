@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "اور میں نے تعریف کی ⟨את⟩ مردوں کو جو پہلے ہی مر چکے، ⟨ان کی⟩ زندوں سے جو اب تک زندہ ہیں۔",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "اور میں نے تعریف کی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مردوں کو"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "مردوں"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "جو پہلے ہی"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "مر چکے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "سے"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "زندوں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "המה",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندہ"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "اب تک"
+    }
+  ],
+  "timestamp": "2026-08-10T00:34:04.485812187Z",
+  "model": "glm-5.2"
+}

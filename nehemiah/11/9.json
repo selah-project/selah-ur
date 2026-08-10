@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 11:9",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور یوایل بن زِکری ان کے نگران تھا، اور یِہوداہ بن ہَسَنُوعہ شہر کا ⟨دوسرا⟩ تھا۔",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "اور یوایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "زכרי",
+      "gloss": "زِکری"
+    },
+    {
+      "surface": "פקיד",
+      "gloss": "نگران"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ان پر"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "اور یِہوداہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "הסנואה",
+      "gloss": "ہَسَنُوعہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "دوسرا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:57:05.814750292Z",
+  "model": "glm-5.2"
+}

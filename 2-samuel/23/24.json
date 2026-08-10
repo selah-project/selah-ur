@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 23:24",
+  "book": "2-samuel",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "عَساہێل اَخی یُوآب تیس میں سے؛ ایلحانان بن دودو بیت لاحم سے،",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "عَساہێل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "عَساہێل"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "اَخی"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "یُوآب"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "تیس میں سے"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "ایلحانان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "دودو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لاحم"
+    }
+  ],
+  "timestamp": "2026-08-09T21:39:05.810580408Z",
+  "model": "glm-5.2"
+}

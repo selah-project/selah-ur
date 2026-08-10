@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 8:1",
+  "book": "zechariah",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اور یاہویہ صباؤت کا فرمان ⟨مجھے⟩ ہوا، یوں کہنے کو:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "فرمان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صباؤت"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "یوں کہنے کو"
+    }
+  ],
+  "timestamp": "2026-08-09T23:19:53.103442701Z",
+  "model": "glm-5.2"
+}

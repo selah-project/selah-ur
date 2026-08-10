@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 27:9",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "تیل اور خوشبو دل کو خوش کرتے ہیں، اور کسی کے ⟨دوست کا⟩ میٹھا پن ← جان کی صلاح سے ← ہے۔",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "تیل"
+    },
+    {
+      "surface": "וקטרת",
+      "gloss": "اور خوشبو"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "خوش کرتے ہیں"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل کو"
+    },
+    {
+      "surface": "ומתק",
+      "gloss": "اور میٹھا پن"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "⟨دوست کا⟩"
+    },
+    {
+      "surface": "מעצת",
+      "gloss": "صلاح سے"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان کی"
+    }
+  ],
+  "timestamp": "2026-08-10T06:39:23.246859446Z",
+  "model": "glm-5.2"
+}

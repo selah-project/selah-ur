@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 3:19",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "یاہویہ نے حکمت سے زمین کو بنا، اور بُصیرت سے آسمانوں کو قائم کیا۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ نے"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "حکمت سے"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "بنا"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین کو"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "قائم کیا"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمانوں کو"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "بُصیرت سے"
+    }
+  ],
+  "timestamp": "2026-08-10T09:00:36.836897871Z",
+  "model": "glm-5.2"
+}

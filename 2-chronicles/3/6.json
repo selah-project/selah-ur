@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "اور اس نے ⟨את⟩ گھر کو قیمتی پتھروں سے آراستہ کیا، زینت کے لیے؛ اور سونا پَروایم کا سونا تھا۔",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "اور آراستہ کیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گھر کو"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "پتھر"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "قیمتی"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "زینت کے لیے"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "اور سونا"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونا"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "پَروایم"
+    }
+  ],
+  "timestamp": "2026-08-10T01:15:09.317708593Z",
+  "model": "glm-5.2"
+}

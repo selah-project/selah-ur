@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 22:8",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "اور بہت سی قومیں اس شہر سے گزرں گی، اور ہر ایک اپنے ساتھی سے کہے گا: یاہویہ نے اس عظیم شہر کے ساتھ ایسا کیوں کیا؟",
+  "tokens": [
+    {
+      "surface": "ועברו",
+      "gloss": "اور گزرں گی"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قومیں"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "بہت سی"
+    },
+    {
+      "surface": "על",
+      "gloss": "سے"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اس"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "اور کہے گا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر ایک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "اپنے ساتھی"
+    },
+    {
+      "surface": "על",
+      "gloss": "کے بارے میں"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ایسا"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "شہر کے ساتھ"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "عظیم"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اس"
+    }
+  ],
+  "timestamp": "2026-08-10T06:08:27.626090102Z",
+  "model": "glm-5.2"
+}

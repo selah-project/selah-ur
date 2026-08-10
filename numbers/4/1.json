@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 4:1",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "اور یاہویہ نے موشے اور اہرون سے کہا،",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "اور بولا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کے پاس"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "اور کے پاس"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہتے ہوئے"
+    }
+  ],
+  "timestamp": "2026-08-10T05:26:29.266080861Z",
+  "model": "glm-5.2"
+}

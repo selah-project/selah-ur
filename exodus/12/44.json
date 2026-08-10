@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "exodus 12:44",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "اور ہر غلام — کسی آدمی کا، چاندی سے خریدا ہوا — تو اسے ختنہ کرنا، پھر وہ کھائے گا اس میں۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "اور ہر"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "איש",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "מקנת",
+      "gloss": "خریدا ہوا"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی"
+    },
+    {
+      "surface": "ומלתה",
+      "gloss": "ختنہ کرنا"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اسے"
+    },
+    {
+      "surface": "אז",
+      "gloss": "پھر"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھائے گا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اس میں"
+    }
+  ],
+  "timestamp": "2026-08-09T19:59:58.871522122Z",
+  "model": "glm-5.2"
+}

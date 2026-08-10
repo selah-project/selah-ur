@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 31:37",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 31,
+  "translation": "اور یاہویہ کا محصول بھیڑوں میں سے چھ سو پچہتر تھا۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور وہ تھا"
+    },
+    {
+      "surface": "המכס",
+      "gloss": "محصول"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہویہ کے لیے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "میں سے"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "بھیڑوں"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پانچ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "اور ستر"
+    }
+  ],
+  "timestamp": "2026-08-09T20:38:40.212866106Z",
+  "model": "glm-5.2"
+}

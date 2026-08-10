@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 13:17",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "بدکردار ⟨کا⟩ فرشتہ برائی میں گرتا ہے، مگر امانتداروں کا قائل شفا ہے۔",
+  "tokens": [
+    {
+      "surface": "מלאך",
+      "gloss": "بدکردار کا فرشتہ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": ""
+    },
+    {
+      "surface": "יפל",
+      "gloss": "گرتا ہے"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "برائی میں"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "مگر قائل"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "امانتداروں کا"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "شفا ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:51:35.902674258Z",
+  "model": "glm-5.2"
+}

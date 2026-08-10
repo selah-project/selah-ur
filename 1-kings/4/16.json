@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 4:16",
+  "book": "1-kings",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "بَعنا بِن حوشی اَشَر اور بَعَلوت میں (تھا):",
+  "tokens": [
+    {
+      "surface": "בענא",
+      "gloss": "بَعنا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بِن"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "حوشی"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "اَشَر میں"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "اور بَعَلوت میں"
+    }
+  ],
+  "timestamp": "2026-08-09T21:41:19.441354675Z",
+  "model": "glm-5.2"
+}

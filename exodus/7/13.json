@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 7:13",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اور پِعرۆہ کا دل سخت ہو گیا، اور اس نے ان کی نہ سنی، جیسا کہ یاہویہ نے کہا تھا۔",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "اور سخت ہو گیا"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پِعرۆہ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سنا"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ان کی"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیسا کہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کہا تھا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    }
+  ],
+  "timestamp": "2026-08-09T19:57:10.795971338Z",
+  "model": "glm-5.2"
+}

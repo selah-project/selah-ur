@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 7:13",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "تو اُس نے اُسے پکڑا اور اُسے چوما، اور اُس نے اپنا چہرہ سخت کیا اور اُس سے کہا،",
+  "tokens": [
+    {
+      "surface": "והחזיקה",
+      "gloss": "تو اُس نے پکڑا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اُسے"
+    },
+    {
+      "surface": "ונשקה",
+      "gloss": "اور چوما"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُسے"
+    },
+    {
+      "surface": "העזה",
+      "gloss": "سخت کیا"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "اپنا چہرہ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُس سے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:37:30.928488742Z",
+  "model": "glm-5.2"
+}

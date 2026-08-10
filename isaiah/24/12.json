@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 24:12",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "باقی ہے شہر میں ویرانی، اور کھنڈر — توڑ دیا گیا ⟨هو⟩ دروازہ۔",
+  "tokens": [
+    {
+      "surface": "נשאר",
+      "gloss": "باقی ہے"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شہر میں"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ویرانی"
+    },
+    {
+      "surface": "ושאיה",
+      "gloss": "اور کھنڈر"
+    },
+    {
+      "surface": "יכת",
+      "gloss": "توڑ دیا گیا"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازہ"
+    }
+  ],
+  "timestamp": "2026-08-09T22:07:40.485113886Z",
+  "model": "glm-5.2"
+}

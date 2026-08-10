@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "اُس نے مجھ سے کہا: تو کون ہے؟ اور میں نے اُس سے کہا: عمالقیؔ میں ہوں۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اُس نے کہا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مجھ سے"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "اور میں نے کہا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اُس سے"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "عمالقی"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں ہوں"
+    }
+  ],
+  "timestamp": "2026-08-09T21:30:03.390764426Z",
+  "model": "glm-5.2"
+}

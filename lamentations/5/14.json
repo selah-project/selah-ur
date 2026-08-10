@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 5:14",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "بُڑھوں نے پھاٹک سے ⟨ركود⟩ کیا، نوجوانوں نے اپنی راگنی سے۔",
+  "tokens": [
+    {
+      "surface": "זקנים",
+      "gloss": "بُڑھوں نے"
+    },
+    {
+      "surface": "משער",
+      "gloss": "پھاٹک سے"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "⟨رکود⟩ کیا"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "نوجوانوں نے"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "اپنی راگنی سے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:33:21.603662059Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 8:15",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اور زَبَدیاہ، اور عَراد، اور عیدِر۔",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "اور زَبَدیاہ"
+    },
+    {
+      "surface": "וערד",
+      "gloss": "اور عَراد"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "اور عیدِر"
+    }
+  ],
+  "timestamp": "2026-08-10T01:02:37.215322347Z",
+  "model": "glm-5.2"
+}

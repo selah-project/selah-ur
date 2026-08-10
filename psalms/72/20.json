@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 72,
+  "translation": "مکمل ہوئیں دعائیں داوِد کی، بیٹے یِشای کی۔",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "مکمل ہوئیں"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "دعائیں"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "یِشای"
+    }
+  ],
+  "timestamp": "2026-08-09T23:38:53.527956220Z",
+  "model": "glm-5.2"
+}

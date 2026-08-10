@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 11:38",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "یُوآیل اَخی ناتَن، مِبخار بَن ہَگری،",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "یُوآیل"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "اَخی"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتَن"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "مِبخار"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بَن"
+    },
+    {
+      "surface": "הגרי",
+      "gloss": "ہَگری"
+    }
+  ],
+  "timestamp": "2026-08-10T01:03:29.070731743Z",
+  "model": "glm-5.2"
+}

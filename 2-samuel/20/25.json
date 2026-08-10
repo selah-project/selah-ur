@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 20:25",
+  "book": "2-samuel",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "اور شِوا سُفْر تھا، اور ضادوق اور اَبیاتار کاہن تھے۔",
+  "tokens": [
+    {
+      "surface": "ושיא",
+      "gloss": "اور شِوا"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ਲਿਖਾਰੀ"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "ਅਤੇ ਸਦੋਕ"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "ਅਤੇ ਅਬਿਆਥਰ"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "ਪੁਜਾਰੀ"
+    }
+  ],
+  "timestamp": "2026-08-10T09:14:16.369873290Z",
+  "model": "glm-5.2"
+}

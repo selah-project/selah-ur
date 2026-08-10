@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 20:14",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "تو زنا نہ کر۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "زنا کر"
+    }
+  ],
+  "timestamp": "2026-08-09T20:02:06.636122588Z",
+  "model": "glm-5.2"
+}

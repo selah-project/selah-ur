@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 1:6",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "یاہویہ ہمارا الوہیم ہمیں حورب میں خطاب کرتا ہے، یہ کہتے ہوئے:",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ہمارا الوہیم"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "خطاب کرتا ہے"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ہمیں"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "حورب میں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "یہ کہتے ہوئے"
+    },
+    {
+      "surface": "רב",
+      "gloss": "کافی ہے"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تمہارے لیے"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "رہنا"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "پہاڑ میں"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اس"
+    }
+  ],
+  "timestamp": "2026-08-09T20:41:46.044188886Z",
+  "model": "glm-5.2"
+}

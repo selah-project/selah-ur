@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 38:2",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 38,
+  "translation": "تب حِزقیاہو نے اپنا منہ دیوار کی طرف پھیرا اور یاہویہ سے دعا کی۔",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "تب پھیرا"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "حِزقیاہو نے"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "اپنا منہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "دیوار"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "اور دعا کی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    }
+  ],
+  "timestamp": "2026-08-09T22:11:04.452054717Z",
+  "model": "glm-5.2"
+}

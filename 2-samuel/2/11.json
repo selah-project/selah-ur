@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 2:11",
+  "book": "2-samuel",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور وہ دنوں کی تعداد جو داوِد نے حبرون میں بیت یہودہ پر بادشاہ رہا، سات سال اور چھ مہینے تھی۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور وہ تھی"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "تعداد"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "دنوں کی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "رہا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "حبرون میں"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہودہ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سات"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "اور چھ"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "مہینے"
+    }
+  ],
+  "timestamp": "2026-08-09T21:30:00.857372056Z",
+  "model": "glm-5.2"
+}

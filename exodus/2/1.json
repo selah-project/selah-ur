@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور چلا گیا ایک آدمی بیتِ لِوی میں سے، اور لے لی ⟨את⟩ بیٹی لِوی کی۔",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "اور چلا گیا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ایک آدمی"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "گھر میں سے"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لِوی"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "اور لے لی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لِوی کی بیٹی کو"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بیٹی"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لِوی"
+    }
+  ],
+  "timestamp": "2026-08-10T08:34:30.279131031Z",
+  "model": "glm-5.2"
+}

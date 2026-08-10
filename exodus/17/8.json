@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 17,
+  "translation": "اور عمالِق آیا، اور رَفیدِیم میں یِسرائیل سے لڑا۔",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "اور آیا"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "عمالِق"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "اور لڑا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "رَفیدِیم میں"
+    }
+  ],
+  "timestamp": "2026-08-09T20:02:59.191865150Z",
+  "model": "glm-5.2"
+}

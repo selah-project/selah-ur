@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 31:15",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 31,
+  "translation": "اور موشے (موسیٰ) نے ان سے کہا: کیا تم نے ہر مادہ کو زندہ رکھا؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ان سے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے (موسیٰ)"
+    },
+    {
+      "surface": "החייתם",
+      "gloss": "کیا تم نے زندہ رکھا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "مادہ کو"
+    }
+  ],
+  "timestamp": "2026-08-09T20:38:45.242704664Z",
+  "model": "glm-5.2"
+}

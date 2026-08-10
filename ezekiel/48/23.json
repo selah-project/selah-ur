@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 48:23",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 48,
+  "translation": "اور باقی قبیلوں کے لیے: مشرقی طرف سے مغربی طرف تک، بنیامین ایک ⟨حصہ⟩۔",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "اور باقی"
+    },
+    {
+      "surface": "השבטים",
+      "gloss": "قبیلوں کے"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "طرف سے"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "مشرقی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "طرف"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "مغربی"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بنیامین"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    }
+  ],
+  "timestamp": "2026-08-10T07:28:18.429419522Z",
+  "model": "glm-5.2"
+}

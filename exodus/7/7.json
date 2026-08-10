@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 7:7",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اور موشے اسی برس کا تھا اور اہرون تین اور ااسی برس کا تھا، جب وہ فِرعون سے بولے۔",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "اور موشے"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "اسی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "برس"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "اور اہرون"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "تین"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "اور ااسی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "برس"
+    },
+    {
+      "surface": "בדברם",
+      "gloss": "جب وہ بولے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فِرعون"
+    }
+  ],
+  "timestamp": "2026-08-09T19:56:44.805445410Z",
+  "model": "glm-5.2"
+}

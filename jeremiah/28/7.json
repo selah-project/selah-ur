@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 28:7",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 28,
+  "translation": "تاہم اب اِس بات کو سن جو میں تیرے کانوں میں اور سارے لوہ کے کانوں میں بول رہا ہوں۔",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "تاہم"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سن"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اب"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "بات کو"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اِس"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بول رہا ہوں"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "تیرے کانوں میں"
+    },
+    {
+      "surface": "ובאזני",
+      "gloss": "اور کانوں میں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوہ کے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:08:55.479404735Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 9:20",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "اور پِنحاس بن اِلعازار ان کا سردار پہلے وقت میں ⟨تھا⟩، یاہویہ اس کے ساتھ ⟨تھا⟩۔",
+  "tokens": [
+    {
+      "surface": "ופינחס",
+      "gloss": "اور پِنحاس"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "اِلعازار"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "היה",
+      "gloss": "تھا"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ان کا"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "پہلے وقت میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اس کے ساتھ"
+    }
+  ],
+  "timestamp": "2026-08-10T07:54:03.073321481Z",
+  "model": "glm-5.2"
+}

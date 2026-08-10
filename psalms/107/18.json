@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 107,
+  "translation": "ان کا جان سب کھانے سے گھناتا ہے، اور وہ موت کے دروازوں تک پہنچتے ہیں۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "کھانے سے"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "گھناتا ہے"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ان کا جان"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "اور وہ پہنچتے ہیں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "دروازوں"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت کے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:48:01.419783482Z",
+  "model": "glm-5.2"
+}

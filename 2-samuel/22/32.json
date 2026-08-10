@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 22:32",
+  "book": "2-samuel",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "کیونکہ یاہویہ کے سوا کون ایل ہے؟ اور ہمارے الوہیم کے سوا کون چٹان ہے؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "کے سوا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "اور کون"
+    },
+    {
+      "surface": "צור",
+      "gloss": "چٹان"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "کے سوا"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ہمارے الوہیم"
+    }
+  ],
+  "timestamp": "2026-08-09T21:38:37.448224702Z",
+  "model": "glm-5.2"
+}

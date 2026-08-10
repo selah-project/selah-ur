@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "اور یَعقُوب نے کہا: مجھے آج ہی ⟨את⟩ تیری پسندانی بیچ دے۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یَعقُوب"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "بیچ دے"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "آج ہی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تیری پسندانی"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "تیری پسندانی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مجھے"
+    }
+  ],
+  "timestamp": "2026-08-09T19:42:26.985250396Z",
+  "model": "glm-5.2"
+}

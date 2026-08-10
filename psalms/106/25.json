@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 106:25",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 106,
+  "translation": "اور وہ اپنے خیموں میں بکبکایے، اور یاہویہ کی آواز نہ سنی۔",
+  "tokens": [
+    {
+      "surface": "וירגנו",
+      "gloss": "اور وہ بکبکایے"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "اپنے خیموں میں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سنی"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "کی آواز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    }
+  ],
+  "timestamp": "2026-08-10T06:34:49.261233431Z",
+  "model": "glm-5.2"
+}

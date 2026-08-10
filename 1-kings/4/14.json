@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 4:14",
+  "book": "1-kings",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "اَخینادَو بِن عِدّو مَخَنایِم میں (تھا):",
+  "tokens": [
+    {
+      "surface": "אחינדב",
+      "gloss": "اَخینادَو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بِن"
+    },
+    {
+      "surface": "עדא",
+      "gloss": "عِدّو"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "مَخَنایِم میں"
+    }
+  ],
+  "timestamp": "2026-08-09T21:41:19.441119225Z",
+  "model": "glm-5.2"
+}

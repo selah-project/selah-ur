@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "الوہیم صالح کا فیصلہ کرتا ہے، اور ایل ہر روز غصہ ہوتا ہے۔",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "فیصلہ کرتا ہے"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صالح کا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "اور ایل"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "غصہ ہوتا ہے"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روز"
+    }
+  ],
+  "timestamp": "2026-08-09T23:23:42.016293534Z",
+  "model": "glm-5.2"
+}

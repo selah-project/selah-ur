@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 13:15",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "قبیلے گاد کی طرف سے گِئو ایل، ماکی کا بیٹا۔",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "قبیلے کی طرف سے"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "גאואל",
+      "gloss": "گِئو ایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "מכי",
+      "gloss": "ماکی"
+    }
+  ],
+  "timestamp": "2026-08-10T05:27:53.146514925Z",
+  "model": "glm-5.2"
+}

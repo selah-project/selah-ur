@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور اس زمین کا سونا اچھا ⟨ہے⟩؛ وہاں بَدولخ اور شُوہَم کی پتھر ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "اور سونا"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین کا"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اس"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "اچھا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "وہاں"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "بَدولخ"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "اور پتھر"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "شُوہَم کی"
+    }
+  ],
+  "timestamp": "2026-08-09T19:33:31.012925310Z",
+  "model": "glm-5.2"
+}

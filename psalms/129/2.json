@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 129:2",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 129,
+  "translation": "بہت بار مجھے میرے ننھپن سے تنگ کیا ہے، مگر وہ میرے مقابل نہ ہو سکے۔",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "بہت بار"
+    },
+    {
+      "surface": "צררוני",
+      "gloss": "مجھے تنگ کیا ہے"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "میرے ننھپن سے"
+    },
+    {
+      "surface": "גם",
+      "gloss": "مگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "ہو سکے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے مقابل"
+    }
+  ],
+  "timestamp": "2026-08-09T23:54:58.567109802Z",
+  "model": "glm-5.2"
+}

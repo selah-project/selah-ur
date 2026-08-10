@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 96,
+  "ref": "psalms 119:96",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 119,
+  "translation": "ہر تکمیل کا میں نے انجام دیکھا ہے؛ تیرا حکم بہت وسیع ہے۔",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "תכلה",
+      "gloss": "تکمیل"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "میں نے دیکھا ہے"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "انجام"
+    },
+    {
+      "surface": "רחבה",
+      "gloss": "وسیع ہے"
+    },
+    {
+      "surface": "מצותך",
+      "gloss": "تیرا حکم"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    }
+  ],
+  "timestamp": "2026-08-09T23:52:18.158463865Z",
+  "model": "glm-5.2"
+}

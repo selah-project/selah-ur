@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 4:27",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "کیونکہ یاہویہ نے یوں فرمایا: تباہی ہو گی تمام زمین، مگر مُکمل ⟨خاتمہ⟩ نہیں کروں گا۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "یوں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فرمایا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ نے"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "تباہی"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ہو گی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "مگر مُکمل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "کروں گا"
+    }
+  ],
+  "timestamp": "2026-08-09T22:22:34.029282669Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 24:1",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "اور یاہویہ نے موشے سے کہا، ⟨کہ⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "اور بولا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:24:20.626532940Z",
+  "model": "glm-5.2"
+}

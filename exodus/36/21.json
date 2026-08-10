@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 36,
+  "translation": "دس ہاتھ ⟨تھا⟩ طول ہر تختے کا، اور ہاتھ اور نصف ہاتھ ⟨تھا⟩ عرض ایک تختے کا۔",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "دس"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ہاتھ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "طول"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "ہر تختے کا"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "اور ہاتھ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "اور نصف"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ہاتھ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "عرض"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "تختے کا"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ایک"
+    }
+  ],
+  "timestamp": "2026-08-09T20:11:51.299866619Z",
+  "model": "glm-5.2"
+}

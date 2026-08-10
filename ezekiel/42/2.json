@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 42:2",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 42,
+  "translation": "شمال کے دہانے کے سامنے، لمبائی سو باع اور چوڑائی پچاس باع تھی۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "פני",
+      "gloss": "سامنے"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "لمبائی"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "باع"
+    },
+    {
+      "surface": "המאה",
+      "gloss": "سو"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دہانے"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "شمال"
+    },
+    {
+      "surface": "והרחב",
+      "gloss": "اور چوڑائی"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پچاس"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "باع"
+    }
+  ],
+  "timestamp": "2026-08-09T23:02:00.673119684Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 5:11",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "اور گاد کے بیٹے اُن کے مُقابل بسے تھے، باشان کے مُلک میں سَلْکھہ تک۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "اور بیٹے"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد کے"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "اُن کے مُقابل"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "بسے تھے"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "کے مُلک میں"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "باشان"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "سَلْکھہ"
+    }
+  ],
+  "timestamp": "2026-08-10T06:48:10.466163912Z",
+  "model": "glm-5.2"
+}

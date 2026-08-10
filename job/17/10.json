@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 17:10",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 17,
+  "translation": "لیکن تم سب لوٹ آؤ، اور آ جاؤ اب، اور میں تم میں کوئی حکیم نہیں پاؤں گا۔",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "لیکن"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "تم سب"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "لوٹ آؤ"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "اور آ جاؤ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اب"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہیں"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "میں پاؤں گا"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "تم میں"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حکیم"
+    }
+  ],
+  "timestamp": "2026-08-10T06:40:33.561689317Z",
+  "model": "glm-5.2"
+}

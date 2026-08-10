@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 14:40",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "تو کاہن حکم کرے گا، اور وہ ⟨את⟩ پتھر جن میں وہ حتف ہو نکال دیں، اور ⟨את⟩ انہیں شہر کے باہر نجس جگہ پر پھینک دیں۔",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "تو حکم کرے گا"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "וחלצו",
+      "gloss": "اور وہ نکال دیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پتھر"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "پتھر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "جن میں"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "حتف"
+    },
+    {
+      "surface": "והשליכו",
+      "gloss": "اور پھینک دیں"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩ انہیں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "طرف"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "باہر"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "شہر کے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کو"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جگہ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "نجس"
+    }
+  ],
+  "timestamp": "2026-08-10T08:37:39.972682168Z",
+  "model": "glm-5.2"
+}

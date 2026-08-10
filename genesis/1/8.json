@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "اور الوہیم نے فلک کو آسمان پکارا۔ تو شام ہوئی، تو صبح ہوئی — دوسرا دن۔",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "اور پکارا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم نے"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "فلک کو"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمان"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تو ہوئی"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "شام"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "تو ہوئی"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دوسرا"
+    }
+  ],
+  "timestamp": "2026-08-09T19:34:11.438611981Z",
+  "model": "glm-5.2"
+}

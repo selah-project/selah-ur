@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 20:11",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "اپنے اعمال سے بھی ⟨ایک⟩ لڑکا پہچانا جاتا ہے—کیا اس کا عمل پاک ہے اور کیا سیدھا؟",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "بھی"
+    },
+    {
+      "surface": "במעלליו",
+      "gloss": "اپنے اعمال سے"
+    },
+    {
+      "surface": "یִתְנַכֶּר",
+      "gloss": "پہچانا جاتا ہے"
+    },
+    {
+      "surface": "נער",
+      "gloss": "لڑکا"
+    },
+    {
+      "surface": "אם",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "זך",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "اور کیا"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "سیدھا"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "اس کا عمل"
+    }
+  ],
+  "timestamp": "2026-08-10T06:38:46.744911783Z",
+  "model": "glm-5.2"
+}

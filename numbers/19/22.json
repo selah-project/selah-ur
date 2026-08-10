@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 19:22",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "اور جو کچھ ناپاک ⟨اسے⟩ چھوئے گا وہ ناپاک ہوگا، اور چھونے والی نفش شام تک ناپاک ہوگی۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "اور جو کچھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "چھوئے گا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اسے"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "ناپاک"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ناپاک ہوگا"
+    },
+    {
+      "surface": "והנפש",
+      "gloss": "اور نفش"
+    },
+    {
+      "surface": "הנגעת",
+      "gloss": "چھونے والی"
+    },
+    {
+      "surface": "תטמא",
+      "gloss": "ناپاک ہوگی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "شام"
+    }
+  ],
+  "timestamp": "2026-08-10T05:29:02.842335796Z",
+  "model": "glm-5.2"
+}

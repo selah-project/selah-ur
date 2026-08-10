@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 17,
+  "translation": "وہی میرے لیے ⟨ایک⟩ گھر بنائے گا، اور میں اس کے تخت کو ⟨את⟩ ہمیشہ کے لیے قائم رکھوں گا۔",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "وہی"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "بنائے گا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے لیے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "اور میں قائم رکھوں گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اس کے تخت کو"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "اس کا تخت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-08-10T06:50:50.252297349Z",
+  "model": "glm-5.2"
+}

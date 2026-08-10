@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 37:15",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 37,
+  "translation": "اور حِزقیاہو نے یاہویہ سے دعا کی، کہتے ہوئے:",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "اور دعا کی"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "حِزقیاہو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہتے ہوئے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:46:18.806885933Z",
+  "model": "glm-5.2"
+}

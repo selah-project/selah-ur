@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "تو ⟨وہ⟩ اُٹھا اور چلا گیا، اور یِہوناتن ⟨وہ⟩ شہر میں آیا۔",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "تو اُٹھا"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "اور چلا گیا"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "اور یِہوناتن"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر میں"
+    }
+  ],
+  "timestamp": "2026-08-10T05:46:26.569335509Z",
+  "model": "glm-5.2"
+}

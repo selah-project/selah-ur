@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 77:8",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 77,
+  "translation": "کیا ادونای ہمیشہ کے لیے چھوڑ دے گا، اور مزید کبھی خوش نہ ہوگا؟",
+  "tokens": [
+    {
+      "surface": "הלעולמים",
+      "gloss": "کیا ہمیشہ کے لیے"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "چھوڑ دے گا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "مزید"
+    },
+    {
+      "surface": "לרצות",
+      "gloss": "خوش ہوگا"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "کبھی"
+    }
+  ],
+  "timestamp": "2026-08-09T23:39:25.418036264Z",
+  "model": "glm-5.2"
+}

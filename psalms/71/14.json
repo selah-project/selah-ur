@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 71,
+  "translation": "اور میں مسلسل آس رکھوں گا اور ہر تیری تعریف پر بڑھاؤں گا۔",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "اور میں"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "مسلسل"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "آس رکھوں گا"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "اور بڑھاؤں گا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "تیری تعریف"
+    }
+  ],
+  "timestamp": "2026-08-10T06:31:55.870811411Z",
+  "model": "glm-5.2"
+}

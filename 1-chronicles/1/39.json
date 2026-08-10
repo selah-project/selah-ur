@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 1:39",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "اور لوتان کے بیٹے: حوری اور ہومام؛ اور لوتان کی بہن تِمنع تھی۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "اور بیٹے"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "لوتان"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "حوری"
+    },
+    {
+      "surface": "והומם",
+      "gloss": "اور ہومام"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "اور بہن"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "لوتان"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "تِمنع"
+    }
+  ],
+  "timestamp": "2026-08-10T06:48:02.239364505Z",
+  "model": "glm-5.2"
+}

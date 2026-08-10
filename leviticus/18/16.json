@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 18:16",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "تیرے بھائی کی بیوی کی عریانی کو مت کھولھ؛ وہ تیرے بھائی کی عریانی ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "عریانی"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "بیوی"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "تیرے بھائی کی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "کھولھ"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "عریانی"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "تیرے بھائی کی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ ⟨ہے⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T07:39:53.402148520Z",
+  "model": "glm-5.2"
+}

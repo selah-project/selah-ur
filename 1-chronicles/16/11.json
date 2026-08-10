@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 16:11",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 16,
+  "translation": "یاہویہ اور اس کی طاقت کو تلاش کرو، اس کا منہ ہمیشہ ڈھونڈو۔",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "تلاش کرو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کو"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "اور اس کی طاقت"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "ڈھونڈو"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "اس کا منہ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-08-10T01:04:48.295891391Z",
+  "model": "glm-5.2"
+}

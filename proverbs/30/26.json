@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 30:26",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 30,
+  "translation": "صخراتیں ایک قوم ہیں ⟨जो⟩ زور آور نہیں، لیکن چٹان میں وہ اپنا گھر رکھتے ہیں۔",
+  "tokens": [
+    {
+      "surface": "שפנים",
+      "gloss": "صخراتیں"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ایک قوم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "زور آور"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "اور رکھا"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "چٹان میں"
+    },
+    {
+      "surface": "ביתם",
+      "gloss": "ان کا گھر"
+    }
+  ],
+  "timestamp": "2026-08-10T00:09:32.221358604Z",
+  "model": "glm-5.2"
+}

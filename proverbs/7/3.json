@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "انہیں اپنی انگلیوں سے باندھ، انہیں اپنے دل کی تختی پر لکھ۔",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "انہیں باندھ"
+    },
+    {
+      "surface": "על",
+      "gloss": "سے"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "اپنی انگلیوں"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "انہیں لکھ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "تختی"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "اپنے دل کی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:00:25.838336802Z",
+  "model": "glm-5.2"
+}

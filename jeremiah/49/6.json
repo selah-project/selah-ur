@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 49,
+  "translation": "اور اس کے بعد میں بَنی عَمّون کی ⟨את⟩ قیدِ کو برقر آوں گا، یاہویہ کا فتویٰ۔",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "اور اس کے بعد"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "برقر آوں گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قید"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "قید"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَنی"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عَمّون"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "فتویٰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    }
+  ],
+  "timestamp": "2026-08-10T07:25:31.810134559Z",
+  "model": "glm-5.2"
+}

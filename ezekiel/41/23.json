@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 41:23",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 41,
+  "translation": "اور ہَیکل کے لیے اور قُدس کے لیے دو دروازے ⟨تھے⟩۔",
+  "tokens": [
+    {
+      "surface": "ושתים",
+      "gloss": "اور دو"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "دروازے"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "ہَیکل کے لیے"
+    },
+    {
+      "surface": "ולקדש",
+      "gloss": "اور قُدس کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:19:26.717703531Z",
+  "model": "glm-5.2"
+}

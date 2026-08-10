@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "کیا دو ⟨آدمی⟩ ایک ساتھ چلیں، سوائے یہ کہ ⟨وہ⟩ آپس میں میعاد کریں؟",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "کیا چلیں"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ایک ساتھ"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "سوائے"
+    },
+    {
+      "surface": "אם",
+      "gloss": "کیہ"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "میعاد کریں"
+    }
+  ],
+  "timestamp": "2026-08-09T23:08:11.726966816Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "اُس نے ⟨את⟩ یاہویہ کے گھر کا اُونچا دروازہ بنایا، اور عوفیل کی دیوار پر اُس نے کثرت سے بنایا۔",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "اُس نے"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "بنایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دروازہ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دروازہ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "اُونچا"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "اور دیوار پر"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "عوفیل"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "اُس نے بنایا"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "کثرت سے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:53:16.502933566Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 8:20",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اَور اِلیعِینای، اَور صِلتای، اَور اِلیایل۔",
+  "tokens": [
+    {
+      "surface": "ואליעני",
+      "gloss": "اَور اِلیعِینای"
+    },
+    {
+      "surface": "וצלתי",
+      "gloss": "اَور صِلتای"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "اَور اِلیائل"
+    }
+  ],
+  "timestamp": "2026-08-10T01:01:59.852584180Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 19:7",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "عین رِمّون، اور عِتِر، اور عَشان — چار شہر اور ان کے گاؤں،",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "عین"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "رِمّون"
+    },
+    {
+      "surface": "ועתר",
+      "gloss": "اور عِتِر"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "اور عَشان"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "اور ان کے گاؤں"
+    }
+  ],
+  "timestamp": "2026-08-09T21:03:53.085825340Z",
+  "model": "glm-5.2"
+}

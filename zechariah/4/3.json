@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 4:3",
+  "book": "zechariah",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "اور اس پر دو زیتون کے درخت ہیں، ایک گولے کے دائیں طرف اور ایک اس کے بائیں طرف۔",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "اور دو"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "زیتون کے درخت"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "اس پر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "دائیں طرف"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "گولے کے"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "اور ایک"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "שמאלה",
+      "gloss": "اس کے بائیں طرف"
+    }
+  ],
+  "timestamp": "2026-08-10T06:27:02.952258812Z",
+  "model": "glm-5.2"
+}

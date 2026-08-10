@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "میں نے نہیں بھیجا ⟨את⟩ نبیوں کو، اور وہ دوڑے؛ میں نے ان سے نہیں کہا، اور وہ نبی بنے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "میں نے بھیجا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نبیوں کو"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "نبیوں"
+    },
+    {
+      "surface": "והם",
+      "gloss": "اور وہ"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "دوڑے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "میں نے کہا"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ان سے"
+    },
+    {
+      "surface": "והם",
+      "gloss": "اور وہ"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "نبی بنے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:31:22.614817151Z",
+  "model": "glm-5.2"
+}

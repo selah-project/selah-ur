@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور ⟨את⟩ ہَخَزیر کو، کیونکہ وہ کھُر پھاڑتا ہے اور کھُر کی شگاف شگاف ہے مگر وہ گھنا نہیں لاہتا — وہ تمہارے لیے ناپاک ہے۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "ہَخَزیر"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "ہَخَزیر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "پھاڑتا ہے"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "کھُر"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "اور شگاف"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "شگاف"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "کھُر"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "اور وہ"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "گھنا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "لاہتا"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ناپاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تمہارے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:17:00.554362340Z",
+  "model": "glm-5.2"
+}

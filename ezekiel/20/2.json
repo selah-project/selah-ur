@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 20:2",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "اور یاہویہ کا فرق مجھے آیا، یوں فرماتے ہوئے:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "فرق"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مجھے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "یوں فرماتے ہوئے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:15:18.525898455Z",
+  "model": "glm-5.2"
+}

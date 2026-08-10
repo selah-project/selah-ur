@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "exodus 39:42",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 39,
+  "translation": "سب ⟨وہ⟩ جیسا یاہویہ نے ⟨את⟩ موشے کو حکم دیا تھا، اسی طرح بنی اسرائیل نے ⟨את⟩ ساری خدمت کو کیا۔",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "سب کے مطابق"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم دیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے کو"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اسی طرح"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹوں نے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ساری خدمت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "خدمت"
+    }
+  ],
+  "timestamp": "2026-08-09T20:13:40.957076394Z",
+  "model": "glm-5.2"
+}

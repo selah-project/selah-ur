@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 6:23",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "کیونکہ حکم ⟨یک⟩ چراغ ہے اور توریت ⟨یک⟩ نور ہے، اور زِندگی کا راستہ تربیتی تنبیہات کی ہے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "נר",
+      "gloss": "چراغ"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "اور توریت"
+    },
+    {
+      "surface": "אור",
+      "gloss": "نور"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "اور راستہ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زِندگی کا"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "تنبیہات"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تربیتی"
+    }
+  ],
+  "timestamp": "2026-08-09T23:59:58.651142279Z",
+  "model": "glm-5.2"
+}

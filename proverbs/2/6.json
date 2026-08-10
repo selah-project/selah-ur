@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 2:6",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "کیونکہ یاہویہ حکمت دیتا ہے؛ اُس کے مُنہ سے معرفت اور سمجھ ⟨آتی ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دیتا ہے"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "اُس کے مُنہ سے"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "معرفت"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "اور سمجھ"
+    }
+  ],
+  "timestamp": "2026-08-10T06:36:24.603377930Z",
+  "model": "glm-5.2"
+}

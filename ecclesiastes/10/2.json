@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "دانا کا دل ⟨اس کے⟩ دائیں طرف پر ⟨ہے⟩، اور نادان کا دل ⟨اس کے⟩ بائیں طرف پر ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "اس کے دائیں طرف"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "اور دل"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "اس کے بائیں طرف"
+    }
+  ],
+  "timestamp": "2026-08-10T00:35:19.592295695Z",
+  "model": "glm-5.2"
+}

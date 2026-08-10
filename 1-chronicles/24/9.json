@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 24:9",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "پانچواں مَلْکی‌یاه، چھٹا مِیامِین۔",
+  "tokens": [
+    {
+      "surface": "למלכיה",
+      "gloss": "مَلْکی‌یاه کو"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "پانچواں"
+    },
+    {
+      "surface": "למימן",
+      "gloss": "مِیامِین کو"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "چھٹا"
+    }
+  ],
+  "timestamp": "2026-08-10T01:10:01.311528342Z",
+  "model": "glm-5.2"
+}

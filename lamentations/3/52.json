@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "lamentations 3:52",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "شکار کرنا — میرے دشمنوں نے مجھے شکار کیا، پرندے کی طرح، بغیر وجہ۔",
+  "tokens": [
+    {
+      "surface": "צוד",
+      "gloss": "شکار کرنا"
+    },
+    {
+      "surface": "צדוני",
+      "gloss": "مجھے شکار کیا"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "پرندے کی طرح"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "میرے دشمنوں نے"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بغیر وجہ"
+    }
+  ],
+  "timestamp": "2026-08-10T07:33:16.128760536Z",
+  "model": "glm-5.2"
+}

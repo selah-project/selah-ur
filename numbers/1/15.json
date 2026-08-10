@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 1:15",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "لِنَفتالی، اَخیرع بَن عِینان۔",
+  "tokens": [
+    {
+      "surface": "לנפתלי",
+      "gloss": "لِنَفتالی"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "اَخیرع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بَن"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "عِینان"
+    }
+  ],
+  "timestamp": "2026-08-09T20:25:30.222248928Z",
+  "model": "glm-5.2"
+}

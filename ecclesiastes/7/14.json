@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 7:14",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اچھے دن میں اچھائی میں رہ، اور برے دن میں دیکہہ؛ نیز ⟨את⟩ یہ اس کے سامنے اس نے بنایا ہے، اس غرض سے کہ آدمی اس کے بعد کچھ نہ پا سکے۔",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "دن میں"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "اچھے"
+    },
+    {
+      "surface": "היה",
+      "gloss": "رہ"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "اچھائی میں"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "اور دن میں"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برے"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "دیکہہ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "نیز"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یہ اس کے سامنے"
+    },
+    {
+      "surface": "זה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "اس کے سامنے"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اس کے"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "اس نے بنایا ہے"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوہیم نے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اس غرض سے"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "پا سکے"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "اس کے بعد"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "کچھ"
+    }
+  ],
+  "timestamp": "2026-08-10T07:34:27.522478054Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "اس نے اپنے دل میں کہا: \"⟨میں⟩ ہرگز نہ ہلوں گا؛ نسلاً نسل تک، برائی میں نہ ہوں گا۔\"",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "اس نے کہا"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "اپنے دل میں"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ہرگز نہ"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ہلوں گا"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "نسل تک"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "اور نسل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "برائی میں ہوں گا"
+    }
+  ],
+  "timestamp": "2026-08-09T23:24:32.320992923Z",
+  "model": "glm-5.2"
+}

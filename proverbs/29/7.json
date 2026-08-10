@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 29,
+  "translation": "صادِق ⟨یہ⟩ جانتا ہے دالِیم کا حق، بدکار نہیں سمجھتا دعَت۔",
+  "tokens": [
+    {
+      "surface": "יֹדֵ֣עַ",
+      "gloss": "جانتا ہے"
+    },
+    {
+      "surface": "צַ֭דִּיק",
+      "gloss": "صادِق"
+    },
+    {
+      "surface": "דִּ֣ין",
+      "gloss": "حق"
+    },
+    {
+      "surface": "דַּלִּ֑ים",
+      "gloss": "دالِیم کا"
+    },
+    {
+      "surface": "רָ֝שָׁ֗ע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "יָבִ֥ין",
+      "gloss": "سمجھتا"
+    },
+    {
+      "surface": "דָּֽעַת",
+      "gloss": "دعَت"
+    }
+  ],
+  "timestamp": "2026-08-10T09:01:39.941687260Z",
+  "model": "glm-5.2"
+}

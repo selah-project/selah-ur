@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "jeremiah 32:38",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 32,
+  "translation": "اور وہ مجھے ⟨برائے⟩ قوم ہوں گے اور میں انہیں ⟨برائے⟩ الوہیم ہوں گا۔",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "اور وہ ہوں گے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مجھے"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "اور میں"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ہوں گا"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انہیں"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "الوہیم"
+    }
+  ],
+  "timestamp": "2026-08-09T22:36:16.951605273Z",
+  "model": "glm-5.2"
+}

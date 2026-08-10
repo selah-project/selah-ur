@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "اور آٹھویں دن اس کی ختنہ کی جائے، ⟨یعنی⟩ اس کی چمڑی کا قبلہ۔",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "اور دن"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "آٹھویں"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "ختنہ کی جائے"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "چمڑی"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "اس کی قبلہ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:18:30.474840047Z",
+  "model": "glm-5.2"
+}

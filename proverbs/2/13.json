@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 2:13",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "جو سیدھے راستوں کو چھوڑتے ہیں، تاکہ اندھیروں کی راہوں میں چلیں،",
+  "tokens": [
+    {
+      "surface": "העזבים",
+      "gloss": "جو چھوڑتے ہیں"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "راہوں کو"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "سیدھے"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "تاکہ چلیں"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "کے راستوں میں"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "اندھیروں"
+    }
+  ],
+  "timestamp": "2026-08-09T23:58:13.542549643Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور تامار، اُس کی بہو، نے اُسے ⟨את⟩ پَرِص اور ⟨את⟩ زَراخ جنم دیا۔ یہوداہ کے سب بیٹے پانچ تھے۔",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "اور تامار"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "اُس کی بہو"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "جنم دیا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُسے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پَرِص"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پَرِص"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "زَراخ"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زَراخ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پانچ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:58:15.217668117Z",
+  "model": "glm-5.2"
+}

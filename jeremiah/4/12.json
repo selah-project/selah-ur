@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "ایک ہوا ان سے بھری مجھے آئے گی؛ اب میں بھی فیصلے بولا کروں گا گواہ ⟨انہیں⟩۔",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "ہوا"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "بھری"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "ان سے"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "آئے گی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مجھے"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "اب"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بھی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "بولا کروں گا"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "فیصلے"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "انہیں"
+    }
+  ],
+  "timestamp": "2026-08-10T06:06:43.122494851Z",
+  "model": "glm-5.2"
+}

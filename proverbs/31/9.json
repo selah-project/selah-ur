@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 31:9",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 31,
+  "translation": "کھول اپنا منہ، انصاف کا فیصلہ کرو، اور ⟨دین⟩ دبے اور محتاج کا۔",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "کھول"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "اپنا منہ"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "فیصلہ کرو"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "انصاف کا"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "اور ⟨دین⟩"
+    },
+    {
+      "surface": "עני",
+      "gloss": "دبے"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "اور محتاج کا"
+    }
+  ],
+  "timestamp": "2026-08-10T06:38:44.333214973Z",
+  "model": "glm-5.2"
+}

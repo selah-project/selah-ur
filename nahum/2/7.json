@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nahum 2:7",
+  "book": "nahum",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "نہروں کے دروازے کھول دیے گئے، اور ہیکل پگھل گیا۔",
+  "tokens": [
+    {
+      "surface": "שערי",
+      "gloss": "دروازے"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "نہروں کے"
+    },
+    {
+      "surface": "נפתחו",
+      "gloss": "کھول دیے گئے"
+    },
+    {
+      "surface": "וההיכל",
+      "gloss": "اور ہیکل"
+    },
+    {
+      "surface": "נמוג",
+      "gloss": "پگھل گیا"
+    }
+  ],
+  "timestamp": "2026-08-09T23:13:55.939546135Z",
+  "model": "glm-5.2"
+}

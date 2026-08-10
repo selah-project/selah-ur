@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "اور اب تیری ہتھیلی کے نیچے کیا ہے؟ پانچ روٹیاں میرے ہاتھ میں دے، یا جو کچھ مل سکے۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "اور اب"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ہے"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "کے نیچے"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "تیری ہتھیلی"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پانچ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹیاں"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "دے"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "میرے ہاتھ میں"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "جو کچھ مل سکے"
+    }
+  ],
+  "timestamp": "2026-08-10T05:46:26.569968549Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 1:14",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "تُو اپنا گورلا ہم میں ڈال دے، سب کا ایک ہی تھیلا ہوگا۔",
+  "tokens": [
+    {
+      "surface": "גורלך",
+      "gloss": "تیرا گورلا"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "تُو ڈال دے"
+    },
+    {
+      "surface": "בתוכנו",
+      "gloss": "ہم میں"
+    },
+    {
+      "surface": "כיס",
+      "gloss": "تھیلا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوگا"
+    },
+    {
+      "surface": "לכלנו",
+      "gloss": "سب کا"
+    }
+  ],
+  "timestamp": "2026-08-09T23:58:08.832545378Z",
+  "model": "glm-5.2"
+}

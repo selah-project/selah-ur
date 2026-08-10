@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 23:6",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "اور اس مہینے کے پندرہویں ⟨دن⟩، مٹھیوں کا چَگ یاہویہ کے لیے ہے — سات دن تک مٹھیٰ کھاؤ گے۔",
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "اور پانچ میں"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دس"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مہینے کے"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اس"
+    },
+    {
+      "surface": "חג",
+      "gloss": "چَگ"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "مٹھیوں کا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہویہ کے لیے"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "سات"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دن"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "مٹھیٰ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کھاؤ گے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:11:48.018058324Z",
+  "model": "glm-5.2"
+}

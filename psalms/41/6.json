@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 41,
+  "translation": "میرے دشمن مجھے برا کہتے ہیں: کب وہ مرے گا اور اس کا نام ضائع ہوگا؟",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "میرے دشمن"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "کہتے ہیں"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مجھے"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "کب"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "وہ مرے گا"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "اور ضائع ہوگا"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اس کا نام"
+    }
+  ],
+  "timestamp": "2026-08-09T23:32:06.284491852Z",
+  "model": "glm-5.2"
+}

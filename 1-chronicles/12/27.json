@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 12:27",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "بَنیٔے لاوی میں سے، چار ہزار اور چھ سو۔",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "میں سے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَنیٔے"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "لاوی"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "چار"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "اور چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    }
+  ],
+  "timestamp": "2026-08-10T06:50:07.217175393Z",
+  "model": "glm-5.2"
+}

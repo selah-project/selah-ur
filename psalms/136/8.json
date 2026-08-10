@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 136,
+  "translation": "دن پر حکومت के लिए ⟨את⟩ سورج को, क्योंकि उसका خِसद हमेशा तक है।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سورج کو"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سورج"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "حکومت کے لیے"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دن پر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ تک"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "اس کا خیسِد"
+    }
+  ],
+  "timestamp": "2026-08-09T23:55:35.892117507Z",
+  "model": "glm-5.2"
+}

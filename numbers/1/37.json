@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 1:37",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "ان کے شمار شدہ، قبیلہ بِنْیامین کے، پانچ اور تیس ہزار اور چار سو تھے۔",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ان کے شمار شدہ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "قبیلہ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بِنْیامین"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پانچ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "اور تیس"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "اور چار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    }
+  ],
+  "timestamp": "2026-08-10T05:26:36.528016100Z",
+  "model": "glm-5.2"
+}

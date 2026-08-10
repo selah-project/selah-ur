@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 26:25",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 26,
+  "translation": "یہ ہیں یِسّاسخار کے خاندان، ان کے شمار کے مطابق: چونسٹھ ہزار اور تین سو۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "یِسّاسخار"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "ان کے شمار کے مطابق"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "اور ساٹھ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "اور تین"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    }
+  ],
+  "timestamp": "2026-08-10T05:30:08.797465175Z",
+  "model": "glm-5.2"
+}

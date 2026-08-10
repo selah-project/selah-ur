@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 7:24",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "تیسرے دن زیبولون کے بیٹوں کا سردار، اِلی‌اَو، خیلون کا بیٹا۔",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "تیسرے"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بیٹوں کا"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زیبولون"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "اِلی‌اَو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "خیلون"
+    }
+  ],
+  "timestamp": "2026-08-09T20:28:25.257999455Z",
+  "model": "glm-5.2"
+}

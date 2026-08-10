@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 21:9",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "بہتر ہے چھت کے کونے میں بیٹھنا، جھگڑالو عورت اور کشادہ گھر سے۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "بہتر"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "بیٹھنا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "کونے"
+    },
+    {
+      "surface": "גג",
+      "gloss": "چھت"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "سے عورت"
+    },
+    {
+      "surface": "מדינים",
+      "gloss": "جھگڑالو"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "اور گھر"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "کشادہ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:04:33.625720831Z",
+  "model": "glm-5.2"
+}

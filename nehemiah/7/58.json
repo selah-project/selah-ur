@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "nehemiah 7:58",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "یَعلا کے بیٹے، دَرقُون کے بیٹے، گِدّیل کے بیٹے۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "יעלא",
+      "gloss": "یَعلا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "דרקון",
+      "gloss": "دَرقُون"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "گِدّیل"
+    }
+  ],
+  "timestamp": "2026-08-10T06:48:03.797797484Z",
+  "model": "glm-5.2"
+}

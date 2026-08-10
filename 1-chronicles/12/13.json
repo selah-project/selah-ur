@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 12:13",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "یُوخانان ہشتم، اَلزاباد نہم۔",
+  "tokens": [
+    {
+      "surface": "יוחנן",
+      "gloss": "یُوخانان"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ہشتم"
+    },
+    {
+      "surface": "אלזבד",
+      "gloss": "اَلزاباد"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "نہم"
+    }
+  ],
+  "timestamp": "2026-08-10T06:50:15.366387162Z",
+  "model": "glm-5.2"
+}

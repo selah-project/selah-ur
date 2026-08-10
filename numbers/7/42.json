@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 7:42",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "چھٹے دن گاد کے بیٹوں کا نسی، اِلیاساف، دعُو ایل کا بیٹا۔",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "چھٹے"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "نسی"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "کے بیٹوں کا"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "اِلیاساف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کا بیٹا"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "دعُوایل"
+    }
+  ],
+  "timestamp": "2026-08-09T20:29:24.339957172Z",
+  "model": "glm-5.2"
+}

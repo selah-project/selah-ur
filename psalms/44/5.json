@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 44,
+  "translation": "تو ہی ⟨ہے⟩ میرا بادشاہ، اے الوہیم؛ یَعقُوپ کے ⟨لیے⟩ نجات کا حکم دے۔",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ہی"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "میرا بادشاہ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "اے الوہیم"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم دے"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "نجات"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یَعقُوپ"
+    }
+  ],
+  "timestamp": "2026-08-09T23:32:15.367245970Z",
+  "model": "glm-5.2"
+}

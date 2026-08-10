@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 2:16",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "آطِیر کے بیٹے — یِحِزقیاہ کے ⟨قبیلے سے⟩ — اٹھانوے۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کے بیٹے"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "آطِیر"
+    },
+    {
+      "surface": "ליחזקיה",
+      "gloss": "یِحِزقیاہ کے"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "ننانوے"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "اور آٹھ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:46:24.626167274Z",
+  "model": "glm-5.2"
+}

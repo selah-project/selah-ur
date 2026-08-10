@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 87,
+  "translation": "یاہویہ شمار کرے گا، جب وہ قوموں کو لکھے گا: یہ وہاں پیدا ہوا۔ سِلاہ۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "شمار کرے گا"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "جب لکھے گا"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قوموں کو"
+    },
+    {
+      "surface": "זה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "پیدا ہوا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "وہاں"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاہ"
+    }
+  ],
+  "timestamp": "2026-08-10T07:30:39.017880943Z",
+  "model": "glm-5.2"
+}

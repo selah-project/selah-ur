@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 131,
+  "translation": "اُمید رکھے یِسرایل، الوہیم کی طرف سے اب سے اور ہمیشہ تک۔",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "اُمید رکھے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف سے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "اب سے"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "اور تک"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-08-09T23:54:11.535838709Z",
+  "model": "glm-5.2"
+}

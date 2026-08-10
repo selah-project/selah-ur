@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 25:29",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "بائیسویں گِدّلتی کے لیے، ⟨وہ⟩ اس کے بیٹے اور اس کے بھائی — بارہ۔",
+  "tokens": [
+    {
+      "surface": "לשנים",
+      "gloss": "بائیسویں"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "بائیسویں"
+    },
+    {
+      "surface": "לגדלתי",
+      "gloss": "گِدّلتی کے لیے"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "اس کے بیٹے"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "اور اس کے بھائی"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "بارہ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "بارہ"
+    }
+  ],
+  "timestamp": "2026-08-10T01:09:26.941500097Z",
+  "model": "glm-5.2"
+}

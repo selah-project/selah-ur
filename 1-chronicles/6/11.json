@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 6:11",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اَلقَنہ اُس کا بیٹا، اَلقَنہ، صوفی اُس کا بیٹا، اور نَحَت اُس کا بیٹا۔",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "اَلقَنہ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اُس کا بیٹا"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "اَلقَنہ"
+    },
+    {
+      "surface": "צופי",
+      "gloss": "صوفی"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اُس کا بیٹا"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "اور نَحَت"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اُس کا بیٹا"
+    }
+  ],
+  "timestamp": "2026-08-10T01:01:09.639026854Z",
+  "model": "glm-5.2"
+}

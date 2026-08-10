@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 8:9",
+  "book": "song-of-songs",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اگر وہ دیوار ہے، تو ہم اس پر چاندی کا قلعہ بنائیں گے؛ اور اگر وہ دروازہ ہے، تو ہم اس پر دیوارِ آرز لگائیں گے۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "دیوار"
+    },
+    {
+      "surface": "היא",
+      "gloss": "وہ ⟨ہے⟩"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "ہم بنائیں گے"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "اس پر"
+    },
+    {
+      "surface": "טירת",
+      "gloss": "قلعہ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی کا"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "اور اگر"
+    },
+    {
+      "surface": "דלת",
+      "gloss": "دروازہ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "وہ ⟨ہے⟩"
+    },
+    {
+      "surface": "נצור",
+      "gloss": "ہم بند کریں گے"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "اس پر"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "تختہ"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "آرز کا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:27:49.463118439Z",
+  "model": "glm-5.2"
+}

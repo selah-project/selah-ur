@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 12:9",
+  "book": "daniel",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "اور اس نے کہا: جا، دَنیِییل، کیونکہ ⟨یہ⟩ باتیں بند اور مہربند ہیں، وقتِ انجام تک۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور اس نے کہا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "جا"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "دَنیِییل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "סתמים",
+      "gloss": "بند ہیں"
+    },
+    {
+      "surface": "וחתמים",
+      "gloss": "اور مہربند"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "باتیں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقتِ"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "انجام"
+    }
+  ],
+  "timestamp": "2026-08-10T06:46:45.543791023Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 13:15",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "سنو اور کان لگاؤ! مت اکڑو! کیونکہ یاہویہ نے بات کی ہے۔",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "سنو"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "اور کان لگاؤ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مت"
+    },
+    {
+      "surface": "תגבהו",
+      "gloss": "اکڑو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بات کی ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:09:13.942935281Z",
+  "model": "glm-5.2"
+}

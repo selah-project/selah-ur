@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 9:6",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "اور موشے نے کہا: یہ وہ بات ہے جس کا یاہویہ نے حکم دیا کہ تم اسے کرو، اور تمہیں یاہویہ کا جلال دکھائی دے گا۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور … کہا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "זה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "بات"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم دیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "تم کرو"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "اور … دکھائی دے گا"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "تمہیں"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:17:02.549039843Z",
+  "model": "glm-5.2"
+}

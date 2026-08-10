@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 14:9",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "اَحمق گنہ کا مذاق اڑاتے ہیں، اور سیانوں میں رضا ہے۔",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "اَحمق"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "مذاق اڑاتے ہیں"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "گنہ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "اور سیانوں میں"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "سیانے"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "رضا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:02:34.266613863Z",
+  "model": "glm-5.2"
+}

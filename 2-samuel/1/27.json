@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 1:27",
+  "book": "2-samuel",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "کیسے گرے ہیں جنگجو، اور جنگ کے ہتھیار نابود ہو گئے!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "کیسے"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "گرے ہیں"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "جنگجو"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "اور نابود ہو گئے"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ہتھیار"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ کے"
+    }
+  ],
+  "timestamp": "2026-08-09T21:29:56.806944460Z",
+  "model": "glm-5.2"
+}

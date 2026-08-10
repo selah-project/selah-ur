@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 8:32",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اور اب، اے بیٹو، مجھے سُنو، اور ⟨وہ⟩ خوش بخت ہیں جو میری راہیں مانتے ہیں،",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "اور اب"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "اے بیٹو"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سُنو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مجھے"
+    },
+    {
+      "surface": "ואשרי",
+      "gloss": "اور خوش بخت ⟨ہیں⟩"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "میری راہیں"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "جو مانتے ہیں"
+    }
+  ],
+  "timestamp": "2026-08-10T06:37:45.875549352Z",
+  "model": "glm-5.2"
+}

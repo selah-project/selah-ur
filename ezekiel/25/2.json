@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 25:2",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "اے آدم کے بیٹے، اپنا منہ بنی عمون کی طرف کر، اور ان کے خلاف نبوت کر۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم کے"
+    },
+    {
+      "surface": "שים",
+      "gloss": "کر"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "اپنا منہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "طرف"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمون کی"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "اور نبوت کر"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ان کے خلاف"
+    }
+  ],
+  "timestamp": "2026-08-09T22:55:38.958193839Z",
+  "model": "glm-5.2"
+}

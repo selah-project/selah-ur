@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "بکھر گئی ⟨هو⟩ بے معنی شہر، بند کر دیا گیا ہر گھر داخلے سے۔",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "بکھر گئی"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "بے معنی"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "بند کر دیا گیا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "داخلے سے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:07:40.484732859Z",
+  "model": "glm-5.2"
+}

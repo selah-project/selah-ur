@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 16:21",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 16,
+  "translation": "دل کے حکیم کو سمجھدار کہا جاتا ہے، اور ہونٹوں کی مٹھاس تعلیم کو بڑھاتی ہے۔",
+  "tokens": [
+    {
+      "surface": "לחכם",
+      "gloss": "حکیم کو"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل کے"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "کہا جاتا ہے"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "سمجھدار"
+    },
+    {
+      "surface": "ומתק",
+      "gloss": "اور مٹھاس"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ہونٹوں کی"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "بڑھاتی ہے"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "تعلیم کو"
+    }
+  ],
+  "timestamp": "2026-08-10T09:01:45.715165023Z",
+  "model": "glm-5.2"
+}

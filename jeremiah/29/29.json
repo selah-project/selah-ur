@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 29:29",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 29,
+  "translation": "اور صِفَنیاہ کاہن نے ⟨את⟩ یہ خط یِرمِیاہو نبی کے کانوں میں پڑھا۔",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "اور پڑھا"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "صِفَنیاہ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یہ خط"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "خط"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "کانوں میں"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمِیاہو"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    }
+  ],
+  "timestamp": "2026-08-09T22:34:16.109180246Z",
+  "model": "glm-5.2"
+}

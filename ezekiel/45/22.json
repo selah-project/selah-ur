@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 45:22",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 45,
+  "translation": "اور اُس دن ناسی اپنے لیے اور ساری زمین کے لوگوں کے لیے ایک بیل، گناہ کی قربانی، کرے گا۔",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "اور کرے گا"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "ناسی"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُس"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "اپنے لیے"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "اور کے لیے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لوگوں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین کے"
+    },
+    {
+      "surface": "פר",
+      "gloss": "بیل"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "گناہ کی قربانی"
+    }
+  ],
+  "timestamp": "2026-08-10T06:21:30.116693869Z",
+  "model": "glm-5.2"
+}

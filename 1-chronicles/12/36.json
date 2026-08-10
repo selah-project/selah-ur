@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 12:36",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "اَور دانی سے — جنگ کی صف آرائی کرنے والے، اٹھائیس ہزار اور چھ سو۔",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "اَور سے"
+    },
+    {
+      "surface": "הדני",
+      "gloss": "دانی"
+    },
+    {
+      "surface": "ערכי",
+      "gloss": "صف آرائی کرنے والے"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ کی"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیس"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "اَور آٹھ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "اَور چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    }
+  ],
+  "timestamp": "2026-08-10T06:50:15.702506859Z",
+  "model": "glm-5.2"
+}

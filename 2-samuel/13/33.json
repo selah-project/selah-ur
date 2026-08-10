@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 13:33",
+  "book": "2-samuel",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "اور اب میرے آقا بادشاہ ⟨اپنے⟩ دل میں ⟨یہ⟩ بات نہ رکھیں کہ „بادشاہ کے تمام بیٹے مر گئے“ — بلکہ صرف اَمنون اکیلا مرا ہے۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "اور اب"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "رکھیں"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "میرے آقا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "میں"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "اپنے دل"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بات"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ کے"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "مر گئے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "اَمنون"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "اکیلا"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مرا ہے"
+    }
+  ],
+  "timestamp": "2026-08-09T21:35:02.846636124Z",
+  "model": "glm-5.2"
+}

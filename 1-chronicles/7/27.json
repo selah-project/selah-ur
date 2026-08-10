@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 7:27",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "نون اس کا بیٹا، یِہوشوع اس کا بیٹا۔",
+  "tokens": [
+    {
+      "surface": "נון",
+      "gloss": "نون"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اس کا بیٹا"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یِہوشوع"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اس کا بیٹا"
+    }
+  ],
+  "timestamp": "2026-08-10T01:01:58.058176011Z",
+  "model": "glm-5.2"
+}

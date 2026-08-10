@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 4:21",
+  "book": "daniel",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "یہ ⟨ہے⟩ تفسیر اے بادشاہ، اور یہ ⟨ہے⟩ غرضِ اعلیٰ کا فرمان، جو میرے آقا بادشاہ پر پہنچا ہے۔",
+  "tokens": [
+    {
+      "surface": "דנה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "פשרא",
+      "gloss": "تفسیر"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "اے بادشاہ"
+    },
+    {
+      "surface": "וגזרת",
+      "gloss": "اور فرمان"
+    },
+    {
+      "surface": "עליא",
+      "gloss": "اعلیٰ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "یہ ⟨ہے⟩"
+    },
+    {
+      "surface": "די",
+      "gloss": "جو"
+    },
+    {
+      "surface": "מטת",
+      "gloss": "پہنچا ہے"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "מראי",
+      "gloss": "میرے آقا"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "بادشاہ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:43:31.110595965Z",
+  "model": "glm-5.2"
+}

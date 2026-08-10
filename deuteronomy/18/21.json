@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "اور اگر تو اپنے دل میں کہے کہ ہم کیسے پہچانیں ⟨את⟩ ⟨وہ⟩ بات جسے یاہویہ نے نہیں کہی؟",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "اور اگر"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "تو کہے"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "اپنے دل میں"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "کیسے"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "ہم پہچانیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨وہ⟩ بات"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨وہ⟩ بات"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جسے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "کہی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    }
+  ],
+  "timestamp": "2026-08-10T07:13:38.145041321Z",
+  "model": "glm-5.2"
+}

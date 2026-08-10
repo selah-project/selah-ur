@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 21:16",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "آدمی جو فہم کی راہ سے بھٹک جاتا ہے، وہ رفائیم کی مجلس میں ٹھہرے گا۔",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "תועה",
+      "gloss": "بھٹک جاتا ہے"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "راہ سے"
+    },
+    {
+      "surface": "השכל",
+      "gloss": "فہم کی"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "مجلس میں"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "رفائیم کی"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "ٹھہرے گا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:05:22.107725867Z",
+  "model": "glm-5.2"
+}

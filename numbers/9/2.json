@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "اور یِسرائیل کے بیٹے ⟨את⟩ فِصح کو اس کے مقررہ وقت پر کریں۔",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "اور کریں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل کے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فِصح کو"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "فِصح"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "اس کے مقررہ وقت پر"
+    }
+  ],
+  "timestamp": "2026-08-10T05:28:49.956666388Z",
+  "model": "glm-5.2"
+}

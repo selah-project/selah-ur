@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezra 2:18",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "بَنِیں یوراہ کی، ایک سو بارہ۔",
+  "tokens": [
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "بَنِیں"
+    },
+    {
+      "surface": "יוֹרָ֔ה",
+      "gloss": "یوراہ"
+    },
+    {
+      "surface": "מֵאָ֖ה",
+      "gloss": "ایک سو"
+    },
+    {
+      "surface": "וּשְׁנֵ֥ים",
+      "gloss": "اور"
+    },
+    {
+      "surface": "עָשָֽׂר",
+      "gloss": "بارہ"
+    }
+  ],
+  "timestamp": "2026-08-10T09:03:42.416289322Z",
+  "model": "glm-5.2"
+}

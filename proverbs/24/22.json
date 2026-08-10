@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 24:22",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "کیونکہ اچانک اُن کی تباہی اُٹھے گی، اور اُن دونوں کا پجھڑ کون جانتا ہے؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "اچانک"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "اُٹھے گی"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "اُن کی تباہی"
+    },
+    {
+      "surface": "ופיד",
+      "gloss": "اور پجھڑ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "اُن دونوں کا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "جانتا ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:06:54.955720799Z",
+  "model": "glm-5.2"
+}

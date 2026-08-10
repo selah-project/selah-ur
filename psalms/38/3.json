@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 38,
+  "translation": "کیونکہ تیرے تیر مجھ میں اتر گئے، اور تیرا ہاتھ مجھ پر ٹھہر گیا ہے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "تیرے تیر"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "اتر گئے"
+    },
+    {
+      "surface": "בי",
+      "gloss": "مجھ میں"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "اور ٹھہر گیا ہے"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "مجھ پر"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "تیرا ہاتھ"
+    }
+  ],
+  "timestamp": "2026-08-09T23:31:28.440965216Z",
+  "model": "glm-5.2"
+}

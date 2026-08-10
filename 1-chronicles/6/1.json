@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 6:1",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "لَوِی کے بیٹے: گِرِشُوم، قِہات اور مِراری۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لَوِی"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "گِرِشُوم"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قِہات"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "اور مِراری"
+    }
+  ],
+  "timestamp": "2026-08-10T01:01:12.290490149Z",
+  "model": "glm-5.2"
+}

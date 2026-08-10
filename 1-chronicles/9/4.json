@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 9:4",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "عُوتای بن عمیہود، بن عمری، بن امری، بن بانی — پَرِص کے بیٹوں میں سے، یہوداہ کا بیٹا۔",
+  "tokens": [
+    {
+      "surface": "עותי",
+      "gloss": "عُوتای"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "عمیہود"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "عمری"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "امری"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بانی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹوں"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پَرِص"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    }
+  ],
+  "timestamp": "2026-08-10T01:03:32.766194883Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 10:25",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "جیسے آندھی کا گزرنا — اور شریر نہیں رہتا — اور راست باز ⟨ہے⟩ ہمیشہ کی بنیاد۔",
+  "tokens": [
+    {
+      "surface": "כעבור",
+      "gloss": "جیسے گزرنا"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "آندھی"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "اور نہیں"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "شریر"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "اور راست باز"
+    },
+    {
+      "surface": "יסוד",
+      "gloss": "بنیاد"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:01:59.879884578Z",
+  "model": "glm-5.2"
+}

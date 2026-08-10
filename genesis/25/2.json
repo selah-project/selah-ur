@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "اور اس نے اسے ⟨את⟩ زِمران اور ⟨את⟩ یُقشان اور ⟨את⟩ مَدان اور ⟨את⟩ مِدیان اور ⟨את⟩ یِشباق اور ⟨את⟩ شُوحَجنا۔",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "اور جنا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اسے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زِمران"
+    },
+    {
+      "surface": "زמרן",
+      "gloss": "زِمران"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "یُقشان"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "یُقشان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "مَدان"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "مَدان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "مِدیان"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "مِدیان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "یِشباق"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "یِشباق"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "شُوحَ"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "شُوحَ"
+    }
+  ],
+  "timestamp": "2026-08-09T19:42:55.884298401Z",
+  "model": "glm-5.2"
+}

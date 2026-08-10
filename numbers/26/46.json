@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 26:46",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 26,
+  "translation": "اور اَشِیر کی بیٹی کا نام ⟨تھا⟩ سَرَخ۔",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "اور نام"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بیٹی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "اَشِیر"
+    },
+    {
+      "surface": "שרח",
+      "gloss": "سَرَخ"
+    }
+  ],
+  "timestamp": "2026-08-10T07:13:29.216057925Z",
+  "model": "glm-5.2"
+}

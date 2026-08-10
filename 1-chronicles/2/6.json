@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 2:6",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور زَرَح کے بیٹے زِمری اور اَیتان اور ہیمان اور کَلکول اور دارع ⟨تھے⟩ — سب مل کر پانچ۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "اور بیٹے"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زَرَح"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "زِمری"
+    },
+    {
+      "surface": "ואיתן",
+      "gloss": "اور اَیتان"
+    },
+    {
+      "surface": "והימן",
+      "gloss": "اور ہیمان"
+    },
+    {
+      "surface": "וכלכל",
+      "gloss": "اور کَلکول"
+    },
+    {
+      "surface": "ודרע",
+      "gloss": "اور دارع"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "سب"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پانچ"
+    }
+  ],
+  "timestamp": "2026-08-10T09:05:21.326499614Z",
+  "model": "glm-5.2"
+}

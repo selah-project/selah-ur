@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 65,
+  "translation": "کور کے لیے۔ ایک مزمور، داوِد کے لیے۔ ایک گیت۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "کور کے لیے"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ایک مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد کے لیے"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ایک گیت"
+    }
+  ],
+  "timestamp": "2026-08-09T23:36:45.646722177Z",
+  "model": "glm-5.2"
+}

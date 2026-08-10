@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 6:7",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "قِہات کے بیٹے: عَمِّیناداب اُس کا بیٹا، قُورح اُس کا بیٹا، اَسِّیر اُس کا بیٹا۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کے بیٹے"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قِہات"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "عَمِّیناداب"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اُس کا بیٹا"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قُورح"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اُس کا بیٹا"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "اَسِّیر"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اُس کا بیٹا"
+    }
+  ],
+  "timestamp": "2026-08-10T01:01:04.228075963Z",
+  "model": "glm-5.2"
+}

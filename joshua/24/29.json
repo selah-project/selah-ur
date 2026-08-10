@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "joshua 24:29",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "اور یہ ہوا کہ ان باتوں کے بعد یہوشُع بن نون، یاہویہ کا خادم، ایک سو دس سال کا بیٹا، فوت ہو گیا۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "کے بعد"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ان باتوں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "فوت ہو گیا"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشُع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "נון",
+      "gloss": "نون"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "خادم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ایک سو"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "اور دس"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-08-09T21:06:47.438733944Z",
+  "model": "glm-5.2"
+}

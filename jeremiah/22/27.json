@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 22:27",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "اور اس زمین کی طرف جس کی طرف وہ اپنی جان کو اٹھاتے ہیں کہ وہاں لوٹیں، وہیں وہ نہیں لوٹیں گے۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "اور کی طرف"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "הם",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "מנשאים",
+      "gloss": "اپنی جان کو اٹھاتے ہیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنی جان"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "اپنی جان"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "لوٹنے کو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "وہاں"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "وہیں"
+    },
+    {
+      "surface": "لא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "وہ لوٹیں گے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:29:50.456120757Z",
+  "model": "glm-5.2"
+}

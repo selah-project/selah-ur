@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 29:27",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 29,
+  "translation": "یہ ہفتہ پورا کر، اور ⟨ہم⟩ تجھے یہ بھی دیں گے، ⟨את⟩ اس خدمت کے بدلے جو تو میرے ساتھ مزید سات اور سال کرے گا۔",
+  "tokens": [
+    {
+      "surface": "מלא",
+      "gloss": "پورا کر"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ہفتہ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "وנתנה",
+      "gloss": "اور ہم دیں گے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تجھے"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بھی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یہ [راخێل]"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "בעבדה",
+      "gloss": "خدمت کے بدلے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "تو کریں گے"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "میرے ساتھ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "مزید"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سات"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "اور"
+    }
+  ],
+  "timestamp": "2026-08-10T05:15:10.084435082Z",
+  "model": "glm-5.2"
+}

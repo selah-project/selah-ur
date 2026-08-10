@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 5:10",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "وہ ⟨ہے جو⟩ زمین کے منہ پر مینہ دیتا ہے اور گلیوں کے منہ پر پانی بھیجتا ہے،",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "دیتا ہے"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "مینہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "اور بھیجتا ہے"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "گلیوں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:11:52.083327999Z",
+  "model": "glm-5.2"
+}

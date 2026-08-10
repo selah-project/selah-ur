@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 29:30",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 29,
+  "translation": "تو یاہویہ کا یہ کلام یِرمِیاہو کی طرف ⟨آیا⟩، ⟨یہ⟩ کہہ کر:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تو ہوا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمِیاہو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہہ کر"
+    }
+  ],
+  "timestamp": "2026-08-09T22:34:16.109418981Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 33:26",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 33,
+  "translation": "اور وہ چلے مَقہیلوت سے، اور ڈیرہ ڈالا تَاحَت میں۔",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "اور وہ چلے"
+    },
+    {
+      "surface": "ממקהלת",
+      "gloss": "مَقہیلوت سے"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "اور ڈیرہ ڈالا"
+    },
+    {
+      "surface": "בתחת",
+      "gloss": "تَاحَت میں"
+    }
+  ],
+  "timestamp": "2026-08-09T20:40:25.958270544Z",
+  "model": "glm-5.2"
+}

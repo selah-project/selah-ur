@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "امیر کا مال اُس کی طاقت کا شہر ہے، کمزوروں کی بربادی اُن کی مفلوکی ہے۔",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "مال"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "امیر کا"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "اُس کی طاقت کا"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "بربادی"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "کمزوروں کی"
+    },
+    {
+      "surface": "רישם",
+      "gloss": "اُن کی مفلوکی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:01:19.987548558Z",
+  "model": "glm-5.2"
+}

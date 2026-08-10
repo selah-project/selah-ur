@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 20:23",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "اور یاہویہ نے موشے اور اہرون سے ہور ⟨پہاڑ⟩ پر، اَدُوم کی زمین کی سرحد کے پاس، فرمایا:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور فرمایا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "اور سے"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "پر ہور"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "⟨پہاڑ⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "کے پاس"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "اَدُوم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:33:54.888032622Z",
+  "model": "glm-5.2"
+}

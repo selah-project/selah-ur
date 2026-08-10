@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 11:25",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "نفسِ برکت والا ⟨تبتلا⟩ ہوگا، اور جو سیراب کرتا ہے وہ بھی خود سیراب ہوگا۔",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "نفس"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "برکت والا"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "تابتلا ہوگا"
+    },
+    {
+      "surface": "ומרוה",
+      "gloss": "اور جو سیراب کرتا ہے"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بھی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ خود"
+    },
+    {
+      "surface": "יורא",
+      "gloss": "سیراب ہوگا"
+    }
+  ],
+  "timestamp": "2026-08-10T07:31:54.025573828Z",
+  "model": "glm-5.2"
+}

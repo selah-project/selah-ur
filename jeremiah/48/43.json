@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "jeremiah 48:43",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 48,
+  "translation": "دہشت اور گڑھا اور پھندا، تم پر ہے، اے مُوآب کے باشندہ، ⟨یہ⟩ یاہویہ کا فتویٰ ہے۔",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "دہشت"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "اور گڑھا"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "اور پھندا"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تم پر"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "باشندہ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُوآب کے"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "فتویٰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    }
+  ],
+  "timestamp": "2026-08-09T22:43:56.656050996Z",
+  "model": "glm-5.2"
+}

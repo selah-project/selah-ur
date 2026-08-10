@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 36:13",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 36,
+  "translation": "اور یہ تھے رِعوایل کے بیٹے: ناحات اور زِراح، شَمّہ اور مِزّہ۔ یہ تھے بَشمَت، عیسو کی بیوی، کے بیٹے۔",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "اور یہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "رِعوایل"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ناحات"
+    },
+    {
+      "surface": "וזרח",
+      "gloss": "اور زِراح"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "شَمّہ"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "اور مِزّہ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "تھے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "بَشمَت"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "بیوی"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو"
+    }
+  ],
+  "timestamp": "2026-08-10T05:15:34.706107458Z",
+  "model": "glm-5.2"
+}

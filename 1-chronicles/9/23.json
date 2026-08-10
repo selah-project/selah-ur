@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 9:23",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "اور وہ اور ان کے بیٹے یاہویہ کے گھر کے دروازوں پر، خیمے کے گھر پر، نگہبانیوں میں ⟨تھے⟩۔",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "اور وہ"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "اور ان کے بیٹے"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "دروازوں"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "خیمے کے"
+    },
+    {
+      "surface": "למשמרות",
+      "gloss": "نگہبانیوں میں"
+    }
+  ],
+  "timestamp": "2026-08-10T06:50:15.454005363Z",
+  "model": "glm-5.2"
+}

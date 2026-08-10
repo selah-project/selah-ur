@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 39:4",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 39,
+  "translation": "اس کے لیے کندھے بنائے جوڑے ہوئے؛ اس کے دو سروں پر جوڑا گیا۔",
+  "tokens": [
+    {
+      "surface": "כתפת",
+      "gloss": "کندھے"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "بنائے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اس کے لیے"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "جوڑے ہوئے"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "اس کے سروں"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "جوڑا گیا"
+    }
+  ],
+  "timestamp": "2026-08-10T07:10:18.055410128Z",
+  "model": "glm-5.2"
+}

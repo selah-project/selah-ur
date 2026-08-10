@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 46:12",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 46,
+  "translation": "میری سنیں، اے دل کے ہٹھیلو، جو صداقت سے دور ہو!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "میری سنیں"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میری"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "اے ہٹھیلو"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل کے"
+    },
+    {
+      "surface": "הרחוקים",
+      "gloss": "جو دور ہو"
+    },
+    {
+      "surface": "מצדקה",
+      "gloss": "صداقت سے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:14:44.069138180Z",
+  "model": "glm-5.2"
+}

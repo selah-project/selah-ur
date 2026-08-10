@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 120,
+  "translation": "میں سلامتی ہوں؛ مگر جب ⟨میں⟩ بولتا ہوں، وہ جنگ کے لیے ہیں۔",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتی ہوں"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "مگر جب"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "میں بولتا ہوں"
+    },
+    {
+      "surface": "המה",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "جنگ کے لیے ہیں"
+    }
+  ],
+  "timestamp": "2026-08-09T23:53:50.809892203Z",
+  "model": "glm-5.2"
+}

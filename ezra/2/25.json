@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 2:25",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "قِریات عَریم، کَفیرہ اور بِیروت کے بیٹے: سات سو اور تالیسۃ۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "قِریات"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "عَریم"
+    },
+    {
+      "surface": "כפירה",
+      "gloss": "کَفیرہ"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "اور بِیروت"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سات"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "اور چالیس"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "اور تین"
+    }
+  ],
+  "timestamp": "2026-08-10T09:04:19.094557983Z",
+  "model": "glm-5.2"
+}

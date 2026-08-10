@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 7:20",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "بنیں عادین کی، چھ سو پچپن۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بنیں"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "عادین"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پچاس"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "اور پانچ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:53:58.931657617Z",
+  "model": "glm-5.2"
+}

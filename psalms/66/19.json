@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 66:19",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 66,
+  "translation": "یقیناً سُنا الوہیم نے، کان لگائے ⟨ہم نے⟩ میری دعا کی آواز پر۔",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "یقیناً"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سُنا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم نے"
+    },
+    {
+      "surface": "הקשיב",
+      "gloss": "کان لگائے"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "کی آواز پر"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "میری دعا"
+    }
+  ],
+  "timestamp": "2026-08-09T23:36:11.132338484Z",
+  "model": "glm-5.2"
+}

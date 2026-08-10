@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 57:12",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 57,
+  "translation": "بلند ہو، آسمانوں سے اوپر، اے الوہیم! پوری زمین پر تیرا جلال!",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "بلند ہو"
+    },
+    {
+      "surface": "על",
+      "gloss": "سے اوپر"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمانوں"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "اے الوہیم"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "تیرا جلال"
+    }
+  ],
+  "timestamp": "2026-08-09T23:33:49.812341371Z",
+  "model": "glm-5.2"
+}

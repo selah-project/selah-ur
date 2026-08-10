@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 105,
+  "translation": "وہ یاہویہ ہمارا الوہیم ہے؛ ساری زمین میں اس کے فیصلے ہیں،",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ہمارا الوہیم"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین میں"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "اس کے فیصلے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:34:33.754157684Z",
+  "model": "glm-5.2"
+}

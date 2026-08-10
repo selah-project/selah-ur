@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 29:16",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 29,
+  "translation": "اور لابَن کی دو بیٹیاں تھیں؛ بڑی کا نام لێہ اور چھوٹی کا نام راخِیل تھا۔",
+  "tokens": [
+    {
+      "surface": "וללבן",
+      "gloss": "اور لابَن کی"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "بیٹیاں تھیں"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نام"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "بڑی کا"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لێہ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "اور نام"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "چھوٹی کا"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راخِیل"
+    }
+  ],
+  "timestamp": "2026-08-10T05:14:31.358906238Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 24:7",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "نئی شراب سوگوار ہے، انگور کی بیل مُردہ ہے، دل کے خوش سب آہیں بھرتے ہیں۔",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "سوگوار ہے"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "نئی شراب"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "مُردہ ہے"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "انگور کی بیل"
+    },
+    {
+      "surface": "נאנחו",
+      "gloss": "آہیں بھرتے ہیں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "שמחי",
+      "gloss": "خوش"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل کے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:01:04.380637677Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 7:8",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "پَرعوش کے بیٹے، دو ہزار ایک سو بہتر۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "پَرعوش کے"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "دو ہزار"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ایک سو"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "بہتر"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "دو"
+    }
+  ],
+  "timestamp": "2026-08-10T00:53:50.539399454Z",
+  "model": "glm-5.2"
+}

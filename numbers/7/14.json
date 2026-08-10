@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 7:14",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "ایک سونے کی کفِ ہاتھ دس شیکل سونے کی، خوشبو سے بھری ہوئی۔",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ایک کفِ ہاتھ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دس"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونا"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "بھری ہوئی"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "خوشبو"
+    }
+  ],
+  "timestamp": "2026-08-09T20:28:30.357807197Z",
+  "model": "glm-5.2"
+}

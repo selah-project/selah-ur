@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 30:4",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 30,
+  "translation": "اور بات بادشاہ کی نظر میں اور تمام جماعت کی نظر میں درست تھی۔",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "اور درست تھی"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "بات"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "کی نظر میں"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "اور کی نظر میں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "جماعت"
+    }
+  ],
+  "timestamp": "2026-08-10T01:26:15.967526494Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 6:19",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اَلقانہ کا بیٹا، یِروخام کا بیٹا، اِلیایل کا بیٹا، تُواخ کا بیٹا۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "اَلقانہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "یِروخام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "اِلیایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "תוח",
+      "gloss": "تُواخ"
+    }
+  ],
+  "timestamp": "2026-08-10T01:01:42.850400292Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 22:18",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "جو کوئی کسی بہیمہ کے ساتھ مل کر لیٹے، وہ موت کے ساتھ موت پائے۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "لیٹنے والا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "کے ساتھ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "بہیمہ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "موت پائے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:05:14.145662774Z",
+  "model": "glm-5.2"
+}

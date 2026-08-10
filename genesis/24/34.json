@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "تو اس نے کہا: میں اَوراہام کا غلام ہوں۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تو اس نے کہا"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    }
+  ],
+  "timestamp": "2026-08-10T05:13:16.625569053Z",
+  "model": "glm-5.2"
+}

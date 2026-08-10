@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 12:21",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "صادق کو کوئی بھی برائی ہاتھ نہیں لگتی، اور شریر برائی سے بھرے ہیں۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "יאנה",
+      "gloss": "ہاتھ لگتی"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "صادق کو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی بھی"
+    },
+    {
+      "surface": "און",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "اور شریر"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "بھرے ہیں"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برائی سے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:02:24.242830852Z",
+  "model": "glm-5.2"
+}

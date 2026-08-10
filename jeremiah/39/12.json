@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 39:12",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 39,
+  "translation": "اسے لے لو، اور اپنی آنکھیں اس پر رکھو، اور اسے کوئی برائی مت کرنا، بلکہ جیسا وہ تم سے بولے ویسا ہی اس کے ساتھ کرنا۔",
+  "tokens": [
+    {
+      "surface": "קחנו",
+      "gloss": "اسے لے لو"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "اور اپنی آنکھیں"
+    },
+    {
+      "surface": "שים",
+      "gloss": "رکھو"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اس پر"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "اور مت"
+    },
+    {
+      "surface": "תעש",
+      "gloss": "کرنا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اسے"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "کوئی چیز"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ہاں"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیسا"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "وہ بولے"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تم سے"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ویسا ہی"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرنا"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اس کے ساتھ"
+    }
+  ],
+  "timestamp": "2026-08-10T07:24:55.371226375Z",
+  "model": "glm-5.2"
+}

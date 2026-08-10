@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 8:3",
+  "book": "hosea",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "یِسرائل نے بھلائی کو چھوڑ دیا، دشمن اُس کا پیچھا کرے گا۔",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "چھوڑ دیا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "نے یِسرائل"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "بھلائی کو"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "دشمن"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "پیچھا کرے گا"
+    }
+  ],
+  "timestamp": "2026-08-10T06:21:30.514516641Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 47,
+  "translation": "الوہیم تروے گژ کے ساتھ چڑھ گیا، یاہویہ شُور کے ساتھ۔",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "چڑھ گیا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "تروے گژ کے ساتھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "آواز\/شُور کے ساتھ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "شوفار"
+    }
+  ],
+  "timestamp": "2026-08-09T23:32:44.067275463Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 116,
+  "translation": "تجھے میں ذبح کروں گا ذبحِ تشکر، اور نام یاہویہ کا پکاروں گا۔",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "تجھے"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "میں ذبح کروں گا"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ذبحِ"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "تشکر"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "اور نام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "کا پکاروں گا"
+    }
+  ],
+  "timestamp": "2026-08-09T23:50:56.608933695Z",
+  "model": "glm-5.2"
+}

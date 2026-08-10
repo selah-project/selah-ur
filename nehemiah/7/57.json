@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "nehemiah 7:57",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "شَلُومُوہ کے غلاموں کے بیٹے: سُوتای کے بیٹے، سُوفیرِت کے بیٹے، پِرِیدا کے بیٹے۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "غلاموں کے"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شَلُومُوہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "סוטי",
+      "gloss": "سُوتای"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "סופרת",
+      "gloss": "سُوفیرِت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "פרידא",
+      "gloss": "پِرِیدا"
+    }
+  ],
+  "timestamp": "2026-08-10T06:48:03.797580970Z",
+  "model": "glm-5.2"
+}

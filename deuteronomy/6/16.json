@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "⟨את⟩ یاہویہ اپنے الوہیم کی آزمائش نہ کرو، جیسا کہ تم نے مَسّہ میں آزمایا۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "آزمائش کرو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہویہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "تمہارے الوہیم"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیسا کہ"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "تم نے آزمایا"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "مَسّہ میں"
+    }
+  ],
+  "timestamp": "2026-08-09T20:45:52.196164701Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 38:6",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 38,
+  "translation": "کس چیز پر اس کے بنیاد گاڑے گئے؟ یا کس نے اس کا کونے کا پتھر رکھا —",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کس چیز"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "اس کے بنیاد"
+    },
+    {
+      "surface": "הטבעו",
+      "gloss": "گاڑے گئے"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کس نے"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "رکھا"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "پتھر"
+    },
+    {
+      "surface": "פנתה",
+      "gloss": "اس کا کونے کا"
+    }
+  ],
+  "timestamp": "2026-08-10T07:33:23.676714103Z",
+  "model": "glm-5.2"
+}

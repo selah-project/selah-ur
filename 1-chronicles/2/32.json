@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 2:32",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور یَداع کے بیٹے، شَمّای کے بھائی، یِتِر اور یُوناتان تھے؛ اور یِتِر بے اولاد مر گیا۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "اور بیٹے"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "یَداع"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "بھائی"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "شَمّای"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "یِتِر"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "اور یُوناتان"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "اور مر گیا"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "یِتِر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بیٹے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:58:28.729654672Z",
+  "model": "glm-5.2"
+}

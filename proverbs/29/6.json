@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 29:6",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 29,
+  "translation": "بدکار آدمی کے گناہ میں ایک پھندا ⟨ہے⟩، اور صالح ⟨آدمی⟩ گاتا اور خوش ہوتا ہے۔",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "کے گناہ میں"
+    },
+    {
+      "surface": "איש",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "ایک پھندا"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "اور صالح"
+    },
+    {
+      "surface": "ירון",
+      "gloss": "گاتا"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "اور خوش ہوتا ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:09:16.736412098Z",
+  "model": "glm-5.2"
+}

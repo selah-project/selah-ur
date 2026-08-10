@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "وہ ایل جو مجھے بدلے دیتا ہے اور قوموں کو میرے تھلے مسخر کرتا ہے،",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "وہ ایل"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "جو دیتا ہے"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "بدلے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مجھے"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "اور مسخر کرتا ہے"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قومیں"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "میرے تھلے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:26:46.131462902Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 5:4",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "مگر اس کا انجام ↔افسنتین⟩ کی طرح تلخ ہے، ↔دھاری تلوار⟩ کی طرح تیز ہے۔",
+  "tokens": [
+    {
+      "surface": "ואחריתה",
+      "gloss": "مگر اس کا انجام"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "تلخ ہے"
+    },
+    {
+      "surface": "כלענה",
+      "gloss": "افسنتین کی طرح"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "تیز ہے"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "تلوار کی طرح"
+    },
+    {
+      "surface": "פיות",
+      "gloss": "دھاری"
+    }
+  ],
+  "timestamp": "2026-08-09T23:58:59.445988287Z",
+  "model": "glm-5.2"
+}

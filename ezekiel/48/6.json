@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 48:6",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 48,
+  "translation": "اور اِفرایم کی سرحد کے ساتھ، مشرقی طرف سے لے کر مغربی طرف تک، رئوبِن کا ⟨ایک⟩ ⟨حصہ⟩۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "اور … کے ساتھ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اِفرایم"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "طرف سے"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "مشرقی"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "اور … تک"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "طرف"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "مغربی"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رئوبِن"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    }
+  ],
+  "timestamp": "2026-08-09T23:03:29.655883044Z",
+  "model": "glm-5.2"
+}

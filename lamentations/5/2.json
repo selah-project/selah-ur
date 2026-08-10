@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 5:2",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "ہماری میراث اجنبیوں کے حصے میں پھر گئی، ہمارے گھر بیگانوں کو۔",
+  "tokens": [
+    {
+      "surface": "נחלתנו",
+      "gloss": "ہماری میراث"
+    },
+    {
+      "surface": "נהפכה",
+      "gloss": "پھر گئی"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "اجنبیوں کے حصے میں"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "ہمارے گھر"
+    },
+    {
+      "surface": "לנכרים",
+      "gloss": "بیگانوں کو"
+    }
+  ],
+  "timestamp": "2026-08-10T00:32:59.878440612Z",
+  "model": "glm-5.2"
+}

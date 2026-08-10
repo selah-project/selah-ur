@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "سست ہاتھ والا کنگال کرتا ہے، مگر محنتیوں کا ہاتھ دولت مند بناتا ہے۔",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "کنگال"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرتا ہے"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ہاتھ"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "سست"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "مگر … کا ہاتھ"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "محنتیوں"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "دولت مند بناتا ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:00:50.268754127Z",
+  "model": "glm-5.2"
+}

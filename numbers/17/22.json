@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 17,
+  "translation": "اور موشے نے ⟨את⟩ چھڑیوں کو یاہویہ کے سامنے گواہی کے خیمے میں رکھ دیا۔",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "اور رکھ دیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چھڑیوں کو"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "چھڑیوں"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "کے سامنے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "خیمے میں"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "گواہی کے"
+    }
+  ],
+  "timestamp": "2026-08-10T05:29:38.546048171Z",
+  "model": "glm-5.2"
+}

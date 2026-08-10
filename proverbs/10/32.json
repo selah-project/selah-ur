@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 10:32",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "صادق کے ہونٹ خوشنودگی جانتے ہیں، اور بدکاروں کا منہ مکاری کا ہے۔",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "ہونٹ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صادق کے"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "جانتے ہیں"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "خوشنودگی"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "اور منہ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکاروں کا"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "مکاری"
+    }
+  ],
+  "timestamp": "2026-08-10T00:01:41.205500226Z",
+  "model": "glm-5.2"
+}

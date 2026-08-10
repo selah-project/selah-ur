@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 21:26",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "اور اَویمَلِکھ نے کہا: میں نہیں جانتا کس نے ⟨את⟩ ⟨یہ⟩ بات کی ہے، اور نہ تو نے مجھے بتایا، اور نہ میں نے سنا، سوائے آج کے۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "اَویمَلِکھ نے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "جانتا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کس نے"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨یہ⟩ بات"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "بات"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو نے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "بتایا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مجھے"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں نے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "سنا"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "سوائے"
+    },
+    {
+      "surface": "היום",
+      "gloss": "آج کے"
+    }
+  ],
+  "timestamp": "2026-08-09T19:40:39.248860944Z",
+  "model": "glm-5.2"
+}

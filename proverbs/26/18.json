@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 26:18",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 26,
+  "translation": "ایسا ہی ⟨ہے⟩ وہ دیوانہ جو آگ کے تیر، تیر اور موت برساتا ہے۔",
+  "tokens": [
+    {
+      "surface": "כמתלהלה",
+      "gloss": "ایسا ہی دیوانہ"
+    },
+    {
+      "surface": "הירה",
+      "gloss": "برساتا ہے"
+    },
+    {
+      "surface": "זקים",
+      "gloss": "آگ کے تیر"
+    },
+    {
+      "surface": "חצים",
+      "gloss": "تیر"
+    },
+    {
+      "surface": "ומות",
+      "gloss": "اور موت"
+    }
+  ],
+  "timestamp": "2026-08-10T00:08:06.375251437Z",
+  "model": "glm-5.2"
+}

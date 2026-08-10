@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 81,
+  "translation": "نہ ہوگا تجھ میں کوئی بیگانہ ایل، اور نہ تو سجدہ کرے کسی بیگانہ ایل کو۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوگا"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تجھ میں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "זר",
+      "gloss": "بیگانہ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "تو سجدہ کرے"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "کسی ایل کو"
+    },
+    {
+      "surface": "نכר",
+      "gloss": "بیگانہ"
+    }
+  ],
+  "timestamp": "2026-08-09T23:40:30.613508912Z",
+  "model": "glm-5.2"
+}

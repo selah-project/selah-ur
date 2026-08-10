@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "⟨את⟩ اپنے چاندی کو نہ اسے سود پر دے، اور نفعِ افزائش پر ⟨את⟩ اپنی خوراک نہ دے۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آپ کی چاندی"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "آپ کی چاندی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اسے"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "سود پر"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "اور نفعِ افزائش پر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دے"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "آپ کی خوراک"
+    }
+  ],
+  "timestamp": "2026-08-10T05:25:47.207654535Z",
+  "model": "glm-5.2"
+}

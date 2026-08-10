@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 3:11",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "یورام اس کا بیٹا، اَخَزْیاهو اس کا بیٹا، یوآش اس کا بیٹا،",
+  "tokens": [
+    {
+      "surface": "יורם",
+      "gloss": "یورام"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اس کا بیٹا"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "اَخَزْیاهو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اس کا بیٹا"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "یوآش"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اس کا بیٹا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:59:59.308747315Z",
+  "model": "glm-5.2"
+}

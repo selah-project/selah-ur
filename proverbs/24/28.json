@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 24:28",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "نہ ہو گواہ بے وجہ اپنے ہمسائے کے خلاف، اور اپنے ہونٹوں سے بہلا نہ گامع۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ہو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "گواہ"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "بے وجہ"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "اپنے ہمسائے کے خلاف"
+    },
+    {
+      "surface": "והפתית",
+      "gloss": "اور بہلا نہ گامع"
+    },
+    {
+      "surface": "בשפתיך",
+      "gloss": "اپنے ہونٹوں سے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:07:36.003773845Z",
+  "model": "glm-5.2"
+}

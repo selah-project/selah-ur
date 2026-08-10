@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 28:46",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 28,
+  "translation": "اور وہ تجھ میں نشان اور عبرت ہوں گے، اور تیری نسل میں ہمیشہ تک۔",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "اور وہ ہوں گے"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تجھ میں"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "نشان"
+    },
+    {
+      "surface": "ולמופת",
+      "gloss": "اور عبرت"
+    },
+    {
+      "surface": "ובזרעך",
+      "gloss": "اور تیری نسل میں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:55:44.099091759Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "صرف گوشَن کی زمین میں، جہاں بنی یِسرائیل تھے، اولا نہیں تھا۔",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین میں"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "گوشَن"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جہاں"
+    },
+    {
+      "surface": "שם",
+      "gloss": "وہاں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "היה",
+      "gloss": "تھا"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "ولا"
+    }
+  ],
+  "timestamp": "2026-08-09T19:58:22.054595505Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 66,
+  "translation": "اس کے نام کے جلال کو گاؤ، اس کی تعریف کو جلال بخشو۔",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "گاؤ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال کو"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اس کے نام کے"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "بخشو"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "اس کی تعریف کو"
+    }
+  ],
+  "timestamp": "2026-08-09T23:36:40.033368377Z",
+  "model": "glm-5.2"
+}

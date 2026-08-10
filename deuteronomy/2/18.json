@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "تُو آج ⟨את⟩ سرحدِ مُوآب کو، یعنی عار کو، عبور کر رہا ہے۔",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "تُو"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عبور کر رہا ہے"
+    },
+    {
+      "surface": "היום",
+      "gloss": "آج"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سرحدِ مُوآب کو"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُوآب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عار کو"
+    },
+    {
+      "surface": "ער",
+      "gloss": "عار"
+    }
+  ],
+  "timestamp": "2026-08-10T05:31:32.263582861Z",
+  "model": "glm-5.2"
+}

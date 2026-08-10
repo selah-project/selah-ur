@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "obadiah 1:21",
+  "book": "obadiah",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "اور بچانے والے کوہِ صِیون پر چڑھیں گے، کوہِ عیسو کو ⟨یعنی⟩ ⟨את⟩ پہاڑِ عیسو کو ) کے لیے۔",
+  "tokens": [
+    {
+      "surface": "ציון",
+      "gloss": "صِیون"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "تاکہ فیصلہ کریں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پہاڑ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو"
+    }
+  ],
+  "timestamp": "2026-08-09T23:09:24.389693228Z",
+  "model": "glm-5.2"
+}

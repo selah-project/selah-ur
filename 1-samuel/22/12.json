@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 22:12",
+  "book": "1-samuel",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "اور شاؤل نے کہا: سن، اَخیتُوف کے بیٹے! اور اُس نے کہا: حاضر ہوں، میرے آقا۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل نے"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سن"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "اَخیتُوف"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "حاضر ہوں"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "میرے آقا"
+    }
+  ],
+  "timestamp": "2026-08-09T21:26:48.025612173Z",
+  "model": "glm-5.2"
+}

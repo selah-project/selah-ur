@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-samuel 20:39",
+  "book": "1-samuel",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "اور لڑکے کو کچھ معلوم نہ تھا، فقط یِہوناتان اور داوِد ⟨את⟩ بات جانتے تھے۔",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "اور لڑکے کو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "معلوم تھا"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "کچھ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "فقط"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یِہوناتان"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "اور داوِد"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "جانتے تھے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بات"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "بات"
+    }
+  ],
+  "timestamp": "2026-08-09T21:26:51.035241093Z",
+  "model": "glm-5.2"
+}

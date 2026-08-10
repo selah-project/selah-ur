@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 120,
+  "translation": "तुम्हें क्या दिया जाएगा और तुम्हें क्या जोड़ा जाएगा, हे धोखे की ज़बान?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "क्या"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "दिया जाएगा"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुम्हें"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "और क्या"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "जोड़ा जाएगा"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तुम्हें"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "हे ज़बान"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "धोखे की"
+    }
+  ],
+  "timestamp": "2026-08-10T09:00:59.931994272Z",
+  "model": "glm-5.2"
+}

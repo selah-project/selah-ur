@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 56,
+  "translation": "تمام میدان کے جانور، آؤ کھانے کو، جنگل کے تمام جانور۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "اس کے جانور"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "میدان"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "آؤ"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "کھانے کو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "اس کے جانور"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "جنگل میں"
+    }
+  ],
+  "timestamp": "2026-08-09T22:16:35.407502968Z",
+  "model": "glm-5.2"
+}

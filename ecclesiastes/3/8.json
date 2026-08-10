@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "محبت کا وقت، اور نفرت کا وقت؛ جنگ کا وقت، اور سلامتی کا وقت۔",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "محبت کا"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "اور وقت"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "نفرت کا"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ کا"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "اور وقت"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتی کا"
+    }
+  ],
+  "timestamp": "2026-08-10T06:43:01.240404454Z",
+  "model": "glm-5.2"
+}

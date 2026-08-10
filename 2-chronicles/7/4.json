@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اور بادشاہ اور ساری قوم یاہویہ کے سامنے قربانی ذبح کر رہے تھے۔",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "اور بادشاہ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "اور ساری"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "زבחים",
+      "gloss": "ذبح کر رہے تھے"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "قربانی"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "کے سامنے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    }
+  ],
+  "timestamp": "2026-08-10T01:15:13.910487760Z",
+  "model": "glm-5.2"
+}

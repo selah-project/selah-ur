@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "job 34:34",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 34,
+  "translation": "دل والے آدمی مجھ سے کہیں گے، اور ایک حکیم آدمی جو مجھے سنتا ہے ⟨وہ بھی⟩۔",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دل والے"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "کہیں گے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مجھ سے"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "اور آدمی"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حکیم"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سنتا ہے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مجھے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:41:43.475858797Z",
+  "model": "glm-5.2"
+}

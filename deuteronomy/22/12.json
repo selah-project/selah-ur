@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 22:12",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "اپنے لیے گرہیں بناؤ، اپنے اوڑھنے کی چار کنگوں پر، جس سے تم خود کو ڈھانپتے ہو۔",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "گرہیں"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "بناؤ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اپنے لیے"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "کنگوں"
+    },
+    {
+      "surface": "כסותך",
+      "gloss": "اپنے اوڑھنے کی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جس سے"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "تم خود کو ڈھانپتے ہو"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اسے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:51:31.459316270Z",
+  "model": "glm-5.2"
+}

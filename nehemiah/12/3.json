@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 12:3",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "شِکَنیا، رَحُوم، مَرِیموت۔",
+  "tokens": [
+    {
+      "surface": "שכניה",
+      "gloss": "شِکَنیا"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "رَحُوم"
+    },
+    {
+      "surface": "מרמת",
+      "gloss": "مَرِیموت"
+    }
+  ],
+  "timestamp": "2026-08-10T00:55:28.929533406Z",
+  "model": "glm-5.2"
+}

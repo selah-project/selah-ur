@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "یہ سب داوِد کے بیٹے تھے، فِلَگْشوں کے بیٹوں کے علاوہ؛ اور تامار ان کی بہن تھی۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "کے علاوہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹوں"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "فِلَگْشوں"
+    },
+    {
+      "surface": "ותמר",
+      "gloss": "اور تامار"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "ان کی بہن"
+    }
+  ],
+  "timestamp": "2026-08-10T09:31:15.544484989Z",
+  "model": "glm-5.2"
+}

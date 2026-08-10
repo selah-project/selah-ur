@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 32:17",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 32,
+  "translation": "اور بارہویں سال کا ہوا، مہینے کے پندرہویں ⟨دن⟩، یاہویہ کا کل مجھ تک ہوا، ⟨یوں⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "بارہویں"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "کا"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "پندرہویں"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨دن⟩"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مہینے"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہو چکا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کل"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مجھ تک"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨یوں⟩"
+    }
+  ],
+  "timestamp": "2026-08-09T22:58:06.670390543Z",
+  "model": "glm-5.2"
+}

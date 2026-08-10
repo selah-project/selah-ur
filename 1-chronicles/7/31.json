@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 7:31",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اور بَریعہ کے بیٹے: حِبِر اور مَلکیایل، وہ بِرزوت کا باپ ہے۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "اور بیٹے"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "بَریعہ"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "حِبِر"
+    },
+    {
+      "surface": "ומלכיאל",
+      "gloss": "اور مَلکیایل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باپ"
+    },
+    {
+      "surface": "ברזות",
+      "gloss": "بِرزوت"
+    }
+  ],
+  "timestamp": "2026-08-10T01:03:08.940078026Z",
+  "model": "glm-5.2"
+}

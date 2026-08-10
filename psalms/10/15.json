@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "तू दुष्ट की भुजा तोड़ डाल; और बुरे का, तू उसकी बुराई खोज, ⟨ताकि⟩ कुछ न मिले।",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "तोड़ डाल"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "भुजा"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्ट की"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "और बुरे का"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "तू खोज"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "उसकी बुराई"
+    },
+    {
+      "surface": "בל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "मिले"
+    }
+  ],
+  "timestamp": "2026-08-10T07:29:08.126406785Z",
+  "model": "glm-5.2"
+}

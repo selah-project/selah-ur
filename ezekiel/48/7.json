@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 48:7",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 48,
+  "translation": "اور رئوبِن کی سرحد کے ساتھ، مشرقی طرف سے لے کر مغربی طرف تک، یہوداہ کا ⟨ایک⟩ ⟨حصہ⟩۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "اور … کے ساتھ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رئوبِن"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "طرف سے"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "مشرقی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "طرف"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "مغربی"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    }
+  ],
+  "timestamp": "2026-08-09T23:03:29.656038398Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 30,
+  "translation": "سُنو، اَے یاہویہ، اور مجھ پر رحم کرو؛ یاہویہ، میرے مددگار ⟨بنو⟩۔",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "سُنو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اَے یاہویہ"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "اور مجھ پر رحم کرو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨بنو⟩"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "مددگار"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:29:26.161386067Z",
+  "model": "glm-5.2"
+}

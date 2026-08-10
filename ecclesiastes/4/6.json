@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "بہتر ہے ایک ہتھیڑا آرام کا، دو مٹھیوں بھر محنت اور ہوا کی بھوک سے۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "بہتر ہے"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "بھرا"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ہتھیڑا"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "آرام کا"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "سے"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "دو مٹھیوں بھر"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "محنت"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "اور بھوک"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ہوا کی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:34:40.775511933Z",
+  "model": "glm-5.2"
+}

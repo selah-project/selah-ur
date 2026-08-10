@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "numbers 7:78",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "بارہویں دن نَفْتالی کے بیٹوں کا نسیع اَخِیرَع بن عِینان تھا۔",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دس"
+    },
+    {
+      "surface": "יום",
+      "gloss": "پر"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "نسیع"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "کے بیٹوں کا"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نَفْتالی"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "اَخِیرَع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "عِینان"
+    }
+  ],
+  "timestamp": "2026-08-10T05:28:18.929716221Z",
+  "model": "glm-5.2"
+}

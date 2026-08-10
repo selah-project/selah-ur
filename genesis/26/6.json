@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 26:6",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 26,
+  "translation": "تو یِتسحاق گِرار میں رہنے لگا۔",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "تو رہنے لگا"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "یِتسحاق"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "گِرار میں"
+    }
+  ],
+  "timestamp": "2026-08-09T19:43:22.153004976Z",
+  "model": "glm-5.2"
+}

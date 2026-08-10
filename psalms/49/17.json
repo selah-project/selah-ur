@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 49,
+  "translation": "مت ڈر جب کوئی آدمی مالدار ہو، جب اس کے گھر کی شان بڑھ جائے؛",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مت"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "تو ڈر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جب"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "وہ مالدار ہو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "کوئی آدمی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جب"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "بڑھ جائے"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "شان"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "اس کے گھر کی"
+    }
+  ],
+  "timestamp": "2026-08-10T06:30:21.698699598Z",
+  "model": "glm-5.2"
+}

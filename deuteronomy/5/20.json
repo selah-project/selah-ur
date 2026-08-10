@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "اور تو اپنے ہمسیتے کے خلاف جھوٹی گواہی نہ دے۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "تو جواب دے"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "اپنے ہمسیتے کے خلاف"
+    },
+    {
+      "surface": "עד",
+      "gloss": "گواہی"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "جھوٹی"
+    }
+  ],
+  "timestamp": "2026-08-09T20:43:51.613731517Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 14:25",
+  "book": "1-samuel",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "اور ساری زمین کے ⟨لوگوں⟩ نے جنگل میں آنا تھا، اور ⟨تھا⟩ شہد میدان کے منہ پر۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "اور ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین کے"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آنا تھا"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "جنگل میں"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "اور ⟨تھا⟩"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "شہد"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "میدان کے"
+    }
+  ],
+  "timestamp": "2026-08-09T21:23:42.290466653Z",
+  "model": "glm-5.2"
+}

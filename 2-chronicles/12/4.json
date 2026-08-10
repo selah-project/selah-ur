@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "اور اُس نے ⟨את⟩ یہوداہ کی محفوظ شہروں کو پکڑ لیا اور یروشلایم تک آ گیا۔",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "اور اُس نے پکڑ لیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یہوداہ کی محفوظ شہروں کو"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شہروں"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "محفوظ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "یہوداہ کی"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "اور آ گیا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    }
+  ],
+  "timestamp": "2026-08-10T01:17:08.327301752Z",
+  "model": "glm-5.2"
+}

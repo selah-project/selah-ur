@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 21:8",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "ایک شخص کا راستہ موڑ دار اور اجنبی ہوتا ہے، مگر پاک کا عمل سیدھا ہوتا ہے۔",
+  "tokens": [
+    {
+      "surface": "הפכפך",
+      "gloss": "موڑ دار"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راستہ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ایک شخص کا"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "اور اجنبی"
+    },
+    {
+      "surface": "וזך",
+      "gloss": "مگر پاک کا"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "سیدھا"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "عمل"
+    }
+  ],
+  "timestamp": "2026-08-10T00:04:57.055347655Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 10:19",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "اور شِمعون کے بیٹوں کے قبیلے کے لشکر پر شِلُومیایل بِن صوری شدّای تھا۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "اور پر"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لشکر"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "قبیلے کے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹوں کے"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شِمعون"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "شِلُومیایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بِن"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "صوری"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدّای"
+    }
+  ],
+  "timestamp": "2026-08-10T05:27:57.693892706Z",
+  "model": "glm-5.2"
+}

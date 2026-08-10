@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 18:9",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "تو تُوعو بادشاہِ حَمات نے سنا کہ داوِد نے ہَدَدعِزر بادشاہِ صُوبہ کے تمام لشکر کو مار مٹایا،",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "تو سنا"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "تُوعو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہِ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حَمات"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "مار مٹایا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تمام لشکر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "لشکر"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ہَدَدعِزر"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہِ"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "صُوبہ"
+    }
+  ],
+  "timestamp": "2026-08-10T09:06:15.549469925Z",
+  "model": "glm-5.2"
+}

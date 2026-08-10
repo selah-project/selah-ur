@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 21:14",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "تو یاہویہ نے یِسرائیل میں وبا بھیجی، اور یِسرائیل میں سے ستر ہزار آدمی گر گئے۔",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "تو دِیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ نے"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "وبا"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "یِسرائیل میں"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "اور گر گئے"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "یِسرائیل میں سے"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ستر"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "آدمی"
+    }
+  ],
+  "timestamp": "2026-08-10T06:51:35.702881374Z",
+  "model": "glm-5.2"
+}

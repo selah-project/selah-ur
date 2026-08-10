@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 8:28",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اور یہوشُعَ نے ⟨את⟩ ہاۓ کو جلا دیا اور اسے ہمیشہ کا ٹیلہ، ایک ویرانی بنا دیا، اس دن تک۔",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "اور جلا دیا"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشُعَ نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہاۓ کو"
+    },
+    {
+      "surface": "העי",
+      "gloss": "ہاۓ"
+    },
+    {
+      "surface": "וישימה",
+      "gloss": "اور بنا دیا"
+    },
+    {
+      "surface": "תל",
+      "gloss": "ٹیلہ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ کا"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "ویرانی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "היום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اس"
+    }
+  ],
+  "timestamp": "2026-08-09T20:59:52.986994172Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 122:6",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 122,
+  "translation": "مانگو سلامتی یروشلایم کی؛ آرام پائیں تیرے محبوب۔",
+  "tokens": [
+    {
+      "surface": "שאלו",
+      "gloss": "مانگو"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتی"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "ישליו",
+      "gloss": "آرام پائیں"
+    },
+    {
+      "surface": "אהביך",
+      "gloss": "تیرے محبوب"
+    }
+  ],
+  "timestamp": "2026-08-09T23:54:30.803897785Z",
+  "model": "glm-5.2"
+}

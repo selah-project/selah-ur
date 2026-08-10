@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "اور ⟨את⟩ شترمرغ اور ⟨את⟩ تچمس اور ⟨את⟩ شاخف اور ⟨את⟩ باز کو، اپنی اپنی قسم کے مطابق۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "شترمرغ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "شترمرغ"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "شترمرغ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "تچمس"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "تچمس"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "شاخف"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "شاخف"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "باز"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "باز"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "اپنی اپنی قسم کے مطابق"
+    }
+  ],
+  "timestamp": "2026-08-10T08:39:45.748247181Z",
+  "model": "glm-5.2"
+}

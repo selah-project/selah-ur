@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 18:13",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "جو بات سننے سے پہلے جواب دیتا ہے، ⟨یہ⟩ اُس کے لیے بیوقوفی اور رسوائی ہے۔",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "جواب دیتا ہے"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بات"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "سے پہلے"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "سننے"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "بیوقوفی"
+    },
+    {
+      "surface": "היא",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُس کے لیے"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "اور رسوائی ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:04:33.666617855Z",
+  "model": "glm-5.2"
+}

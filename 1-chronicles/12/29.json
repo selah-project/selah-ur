@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 12:29",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "اور صادوق، ایک نوجوان، بہادر جنگجو، اور اُس کے باپ کے گھر کے بائیس سردار۔",
+  "tokens": [
+    {
+      "surface": "וצדוק",
+      "gloss": "اور صادوق"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ایک نوجوان"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "بہادر جنگجو"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "بہادر جنگجو"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "اور گھر"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "اُس کے باپ کے"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیس"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "اور دو"
+    }
+  ],
+  "timestamp": "2026-08-10T01:05:09.095811700Z",
+  "model": "glm-5.2"
+}

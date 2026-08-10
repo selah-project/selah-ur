@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 16:5",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 16,
+  "translation": "توجِیبِ یاہویہ ہے ہر اونچے دل والا — ہاتھ ہاتھ سے ملا ہو، وہ بری نہیں ہوگا۔",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "توجِیب"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "اونچے"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل والا"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ہاتھ"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "ہاتھ سے ملا ہو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "بری ہوگا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:03:39.796578653Z",
+  "model": "glm-5.2"
+}

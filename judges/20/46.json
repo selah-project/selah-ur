@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "judges 20:46",
+  "book": "judges",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "۽ ٿيو بنيامين مان ڪڙياڻ آدمين جو سڄوڳڻپٽي وي، ان ڏينهن ۾؛ ⟨את⟩ سڀ اھي جنگجو سورمور ھئا۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "۽ ٿيو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "مارجيل ڪڙياڻ"
+    },
+    {
+      "surface": "مבנימן",
+      "gloss": "بنيامين مان"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ويھه"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "۽ پنج"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ھزار"
+    },
+    {
+      "surface": "איש",
+      "gloss": "آدمي"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "ڪڍڻھار"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ان ڏينهن ۾"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "وھانءُ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سڀ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سڀ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "اھي"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "جا آدمي"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "جنگجو سورمور"
+    }
+  ],
+  "timestamp": "2026-08-10T05:42:37.085997769Z",
+  "model": "glm-5.2"
+}

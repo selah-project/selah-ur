@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 27:15",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "ٹپکنا جو مینہ کے دن ہوتا ہے اور جھگڑالو عورت برابر ہیں۔",
+  "tokens": [
+    {
+      "surface": "דלף",
+      "gloss": "ٹپکنا"
+    },
+    {
+      "surface": "טורד",
+      "gloss": "جو ہوتا ہے"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "کے دن"
+    },
+    {
+      "surface": "סגריר",
+      "gloss": "مینہ"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "اور عورتِ"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "جھگڑالو"
+    },
+    {
+      "surface": "נשתוה",
+      "gloss": "برابر ہیں"
+    }
+  ],
+  "timestamp": "2026-08-10T06:39:21.652181819Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 44:27",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 44,
+  "translation": "اُٹھ، ہماری مدد کے لیے، اور ہمیں چھڑا، تیرے خیسِد کے سبب۔",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "اُٹھ"
+    },
+    {
+      "surface": "עזרתה",
+      "gloss": "مدد کے لیے"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ہماری"
+    },
+    {
+      "surface": "ופדנו",
+      "gloss": "اور ہمیں چھڑا"
+    },
+    {
+      "surface": "למען",
+      "gloss": "کے سبب"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "تیرے خیسِد"
+    }
+  ],
+  "timestamp": "2026-08-09T23:32:11.713885876Z",
+  "model": "glm-5.2"
+}

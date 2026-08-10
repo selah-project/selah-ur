@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "اور بیل یا بھیڑ، ⟨את⟩ اسے اور ⟨את⟩ اس کے بچے کو — تم ایک ہی دن میں ذبح نہیں کرو گے۔",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "اور بیل"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "שה",
+      "gloss": "بھیڑ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اسے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "اس کے بچے کو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اس کے بچے کو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "تم ذبح کرو گے"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دن میں"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک ہی"
+    }
+  ],
+  "timestamp": "2026-08-09T20:23:02.010649773Z",
+  "model": "glm-5.2"
+}

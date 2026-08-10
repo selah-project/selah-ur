@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 6:35",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "وہ ہر فدیہ کی ⟨شکل⟩ کی پروا نہیں کرے گا، اور راضی نہ ہوگا اگرچہ تو رشوت بڑھائے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "وہ اٹھائے گا"
+    },
+    {
+      "surface": "פני",
+      "gloss": "کا چہرہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "فدیہ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "יאבה",
+      "gloss": "وہ رضا مند ہوگا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "اگرچہ"
+    },
+    {
+      "surface": "תרבה",
+      "gloss": "تو بڑھائے"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "رشوت"
+    }
+  ],
+  "timestamp": "2026-08-10T06:37:11.864759598Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور خَتسرون کے بیٹے جو اُسے پیدا ہوئے: ⟨את⟩ یَرَخمیل اور ⟨את⟩ رام اور ⟨את⟩ کِلوبای۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "اور بیٹے"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "خَتسرون"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "پیدا ہوئے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُسے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یَرَخمیل"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "یَرَخمیل"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "رام"
+    },
+    {
+      "surface": "רם",
+      "gloss": "رام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "کِلوبای"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "کِلوبای"
+    }
+  ],
+  "timestamp": "2026-08-10T00:57:48.203786363Z",
+  "model": "glm-5.2"
+}

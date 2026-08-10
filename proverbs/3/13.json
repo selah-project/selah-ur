@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 3:13",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "خوشا ⟨برا⟩ آدم کو جسے حکمت ملے، اور آدم کو جو سمجھ ⟨حاصل⟩ کرے۔",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "خوشا"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "ملے"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "اور آدم"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "حاصل کرے"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "سمجھ"
+    }
+  ],
+  "timestamp": "2026-08-10T06:37:26.491916026Z",
+  "model": "glm-5.2"
+}

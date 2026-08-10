@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 62:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 62,
+  "translation": "کورس کے رہنما کے لیے، یَدوتون پر، داوِد کا मंज़िला۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "کورس کے رہنما کے لیے"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "یَدوتون"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "मंज़िला"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد کا"
+    }
+  ],
+  "timestamp": "2026-08-09T23:36:28.518960208Z",
+  "model": "glm-5.2"
+}

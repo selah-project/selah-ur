@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 11:24",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور ان کے ذریعے تم نجس ہو جاؤ گے؛ جو کوئی ان کی لاش کو چھوئے وہ شام تک نجس ہوگا۔",
+  "tokens": [
+    {
+      "surface": "ולאלה",
+      "gloss": "اور ان کے ذریعے"
+    },
+    {
+      "surface": "תטמאו",
+      "gloss": "تم نجس ہو جاؤ گے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جو کوئی"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "چھوئے"
+    },
+    {
+      "surface": "בנבלתם",
+      "gloss": "ان کی لاش کو"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "نجس ہوگا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "شام"
+    }
+  ],
+  "timestamp": "2026-08-09T20:18:13.275341913Z",
+  "model": "glm-5.2"
+}

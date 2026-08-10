@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 38:13",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 38,
+  "translation": "اور مشرقی جانب، مشرق کی طرف، پچاس ہاتھ ⟨تھی⟩۔",
+  "tokens": [
+    {
+      "surface": "ולפאת",
+      "gloss": "اور ⟨اس⟩ جانب"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "مشرقی"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "مشرق کی طرف"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پچاس"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ہاتھ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:10:56.236081684Z",
+  "model": "glm-5.2"
+}

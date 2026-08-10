@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 9:3",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "اگر ⟨وہ⟩ چاہے اس سے لتڑائی، ⟨تو⟩ وہ اسے ایک ہزار میں سے ایک کا جواب نہ دے سکے۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "چاہے"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "لتڑائی"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اس سے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "دے سکے (جواب)"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "מני",
+      "gloss": "میں سے"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    }
+  ],
+  "timestamp": "2026-08-10T07:51:47.800758168Z",
+  "model": "glm-5.2"
+}

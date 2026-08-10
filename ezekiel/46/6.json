@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 46:6",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 46,
+  "translation": "اور ہر نئے چاندھ کے دن ایک بِل بکر کا بچہ بے داغ اور چھ مینھے اور ایک مینھ بے داغ ہوں۔",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "اور دن"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "نئے چاندھ کے"
+    },
+    {
+      "surface": "פר",
+      "gloss": "ایک بِل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بچہ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "بکر کا"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "بے داغ"
+    },
+    {
+      "surface": "וששת",
+      "gloss": "اور چھ"
+    },
+    {
+      "surface": "כבשם",
+      "gloss": "مینھے"
+    },
+    {
+      "surface": "ואיל",
+      "gloss": "اور ایک مینھ"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "بے داغ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ہوں"
+    }
+  ],
+  "timestamp": "2026-08-10T06:21:01.676831344Z",
+  "model": "glm-5.2"
+}

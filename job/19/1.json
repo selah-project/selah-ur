@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 19:1",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "تو ایّوب نے جواب دیا اور کہا:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "اور جواب دیا"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ایّوب"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:16:10.548389568Z",
+  "model": "glm-5.2"
+}

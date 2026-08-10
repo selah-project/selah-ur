@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 107,
+  "translation": "اور سیدھے راستے میں انہیں چلایا، کہ جائیں بساؤ کے شہر کو۔",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "اور انہیں چلایا"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "راستے میں"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "سیدھے"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "کہ جائیں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کو"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "بساؤ"
+    }
+  ],
+  "timestamp": "2026-08-09T23:48:18.217647395Z",
+  "model": "glm-5.2"
+}

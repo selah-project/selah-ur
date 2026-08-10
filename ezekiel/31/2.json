@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 31:2",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 31,
+  "translation": "اِبنِ آدم! کہہ اے فرعون بادشاہِ مِتصرایم اور ⟨اس کی⟩ ہجوم کو: اپنی بڑائی میں تو کس کے تشبیہ ہوا؟",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "اِبن"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "کہہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اے"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہِ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "اور ⟨اس کی⟩ … کو"
+    },
+    {
+      "surface": "המונו",
+      "gloss": "ہجوم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کس"
+    },
+    {
+      "surface": "דמית",
+      "gloss": "تشبیہ ہوا"
+    },
+    {
+      "surface": "בגדלך",
+      "gloss": "اپنی بڑائی میں"
+    }
+  ],
+  "timestamp": "2026-08-10T08:55:51.110083576Z",
+  "model": "glm-5.2"
+}

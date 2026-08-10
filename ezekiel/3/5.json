@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 3:5",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "کیونکہ تو کسی ایسے قوم کی طرف نہیں بھیجا گیا جو گہری ہونٹ اور بھاری زبان والا ہو، بلکہ بَیت یِسرائیل کی طرف،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "گہرے"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ہونٹ"
+    },
+    {
+      "surface": "וכבדי",
+      "gloss": "اور بھرے"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "بھیجا گیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "بلکہ طرف"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بَیت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-10T06:13:39.257432541Z",
+  "model": "glm-5.2"
+}

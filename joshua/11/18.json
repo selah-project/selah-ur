@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "بہت دنوں تک یِہوشُع نے ⟨את⟩ ان سب بادشاہوں کے ساتھ جنگ کی۔",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "دنوں"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کئے"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یِہوشُع نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ان سب بادشاہوں کے ساتھ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "بادشاہوں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ان"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ"
+    }
+  ],
+  "timestamp": "2026-08-09T21:01:53.751368916Z",
+  "model": "glm-5.2"
+}

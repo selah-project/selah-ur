@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 6:5",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "لِگِرشُوم: لِبنی اُس کا بیٹا، یَخت اُس کا بیٹا، زِمّہ اُس کا بیٹا۔",
+  "tokens": [
+    {
+      "surface": "לגרשום",
+      "gloss": "لِگِرشُوم"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لِبنی"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اُس کا بیٹا"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "یَخت"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اُس کا بیٹا"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "زِمّہ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اُس کا بیٹا"
+    }
+  ],
+  "timestamp": "2026-08-10T01:01:04.227641934Z",
+  "model": "glm-5.2"
+}

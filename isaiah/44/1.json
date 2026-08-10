@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 44,
+  "translation": "اور اب سُن، یَعقُوب میرے بندے، اور اِسرائیل جِسے میں نے چُنا ہے۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "اور اب"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سُن"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یَعقُوب"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "میرے بندے"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "اور اِسرائیل"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "میں نے چُنا ہے"
+    },
+    {
+      "surface": "בו",
+      "gloss": "جِسے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:14:34.663140719Z",
+  "model": "glm-5.2"
+}

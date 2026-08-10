@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 32:44",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 32,
+  "translation": "اور موشے آیا اور ⟨את⟩ اس گیت کے سبقہ تمام باتیں لوگوں کے کانوں میں کہی، وہ خود اور ہوشِع بِن نُون۔",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "اور آیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "اور کہی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اس گیت کی تمام باتوں کو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "باتوں"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "اس گیت کی"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اس"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "کانوں میں"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوگوں کے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ خود"
+    },
+    {
+      "surface": "והושע",
+      "gloss": "اور ہوشِع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بِن"
+    },
+    {
+      "surface": "נון",
+      "gloss": "نُون"
+    }
+  ],
+  "timestamp": "2026-08-09T20:56:26.801799702Z",
+  "model": "glm-5.2"
+}

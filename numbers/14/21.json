@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 14:21",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "اور تاہم، میں زندہ ہوں، اور یاہویہ کا جلال ⟨את⟩ ساری زمین کو بھرے گا۔",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "اور تاہم"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زندہ ہوں"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "اور بھرے گا"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ساری زمین"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین کو"
+    }
+  ],
+  "timestamp": "2026-08-09T20:32:24.368793296Z",
+  "model": "glm-5.2"
+}

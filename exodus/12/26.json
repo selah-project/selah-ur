@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 12:26",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "اور ہوگا جب تمہارے بیٹے تم سے کہیں: تمہارے لیے یہ عبادت کیا ہے؟",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "اور ہوگا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جب"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "کہیں"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "تم سے"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "تمہارے بیٹے"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "عبادت"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تمہارے لیے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:39:47.275499563Z",
+  "model": "glm-5.2"
+}

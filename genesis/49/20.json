@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 49:20",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 49,
+  "translation": "آشَر سے — اس کا روٹی چرب ہوگی، اور وہ بادشاہ کی نعمتیں دے گا۔",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "آشَر سے"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "چرب"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "اس کی روٹی"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "اور وہ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دے گا"
+    },
+    {
+      "surface": "מעדני",
+      "gloss": "کے لذیذ نوالے"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    }
+  ],
+  "timestamp": "2026-08-10T05:18:21.184653585Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 18:23",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "اور اَوراہام قریب آیا اور کہا: کیا سچ مِٹا دے گا تو نیک کو برے کے ساتھ؟",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "اور قریب آیا"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "האף",
+      "gloss": "کیا سچ میں"
+    },
+    {
+      "surface": "תספה",
+      "gloss": "مِٹا دے گا تو"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نیک کو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "کے ساتھ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "برے"
+    }
+  ],
+  "timestamp": "2026-08-09T19:38:47.472644738Z",
+  "model": "glm-5.2"
+}

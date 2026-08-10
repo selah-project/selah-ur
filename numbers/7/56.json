@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "numbers 7:56",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "سونے کا ایک ہتھیلیں والا برتن، دس شیکل کا، خوشبو سے بھرا ہوا۔",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ہتھیلیں والا برتن"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دس"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونے"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "بھرا ہوا"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "خوشبو"
+    }
+  ],
+  "timestamp": "2026-08-10T05:28:46.374751274Z",
+  "model": "glm-5.2"
+}

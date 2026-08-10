@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 2:28",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور اس کی فوج اور ان کے گنے ہوئے باقی ہیں: اکتیس ہزار پانچ سو۔",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "اور اس کی فوج"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "اور ان کے گنے ہوئے"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "اور چالیس"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "اور پانچ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    }
+  ],
+  "timestamp": "2026-08-09T20:26:37.253468186Z",
+  "model": "glm-5.2"
+}

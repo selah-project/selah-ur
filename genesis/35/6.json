@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 35:6",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 35,
+  "translation": "اور یَعقوپ لُوز میں آیا جو کَناعن کی زمین میں ہے — وہ بَیت ایل ہے — وہ اور سارا لوگ جو اس کے ساتھ تھے۔",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "اور آیا"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یَعقوپ"
+    },
+    {
+      "surface": "לוזה",
+      "gloss": "لُوز میں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین میں"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کَناعن"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ ہے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بَیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "اور سارا"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوگ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اس کے ساتھ تھے"
+    }
+  ],
+  "timestamp": "2026-08-10T05:15:28.835684593Z",
+  "model": "glm-5.2"
+}

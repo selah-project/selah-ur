@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-kings 8:60",
+  "book": "1-kings",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "تاکہ زمین کے سب لوگ جان لیں کہ یاہویہ ⟨وہی⟩ الوہیم ہے، کوئی اور نہیں۔",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "تاکہ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "جان لیں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "لوگ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین کے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨وہی⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کوئی اور"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "نہیں"
+    }
+  ],
+  "timestamp": "2026-08-10T05:51:04.951190650Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 41,
+  "translation": "اس سے میں جانتا ہوں کہ تو مجھ میں خوش ہے، کہ میرا دشمن میرے اوپر چیخ نہیں اُٹھاتا۔",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "اس سے"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "میں جانتا ہوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "تو خوش ہے"
+    },
+    {
+      "surface": "בי",
+      "gloss": "مجھ میں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "چیخ اُٹھاتا"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "میرا دشمن"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میرے اوپر"
+    }
+  ],
+  "timestamp": "2026-08-09T23:31:40.137579374Z",
+  "model": "glm-5.2"
+}

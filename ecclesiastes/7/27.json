@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ecclesiastes 7:27",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "دیکھ! یہ میں نے پایا، قہیلت کہتی ہے، ایک کو ایک سے جوڑ کر، حساب تلاش کرنے کو۔",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "دیکھ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "میں نے پایا"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "کہتی ہے"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "قہیلت"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "ایک سے"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "تلاش کرنے کو"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "حساب"
+    }
+  ],
+  "timestamp": "2026-08-10T06:43:18.922007511Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "اور عِیسو نے کہا: دیکھ، میں مرنے ہی جا رہا ہوں، اور پسندانی مجھے کیا فائدہ دے گی؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عِیسو"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "دیکھ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "جا رہا ہوں"
+    },
+    {
+      "surface": "למות",
+      "gloss": "مرنے ہی"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "اور کیوں"
+    },
+    {
+      "surface": "זה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مجھے"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "پسندانی"
+    }
+  ],
+  "timestamp": "2026-08-09T19:42:26.985370241Z",
+  "model": "glm-5.2"
+}

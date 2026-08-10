@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 40:34",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 40,
+  "translation": "اور بادل نے ⟨את⟩ موعد کے خیمے کو ڈھانپ لیا، اور یاہویہ کا جلال ⟨את⟩ مسکن کو بھر دیا۔",
+  "tokens": [
+    {
+      "surface": "ויכס",
+      "gloss": "اور ڈھانپ لیا"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "بادل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خیمے"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمے"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "موعد"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "اور جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "بھر دیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مسکن"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن"
+    }
+  ],
+  "timestamp": "2026-08-09T20:13:36.340619407Z",
+  "model": "glm-5.2"
+}

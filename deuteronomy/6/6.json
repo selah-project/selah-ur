@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اور یہ باتیں جو میں آج تجھے حکم دیتا ہوں تیرے دل پر ہوں۔",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "اور وہ ہوں"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "یہ باتیں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "تجھے حکم دیتا ہوں"
+    },
+    {
+      "surface": "היום",
+      "gloss": "آج"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "تیرے دل"
+    }
+  ],
+  "timestamp": "2026-08-09T20:44:26.020170055Z",
+  "model": "glm-5.2"
+}

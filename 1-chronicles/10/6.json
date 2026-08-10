@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "پس شاؤل مر گیا اور اُس کے تین بیٹے اور اُس کا سارا گھرانہ ایک ساتھ مر گیا۔",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "پس مر گیا"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "اور تین"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "اُس کے بیٹے"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "اور سارا"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "اُس کا گھرانہ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ایک ساتھ"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "مر گیا"
+    }
+  ],
+  "timestamp": "2026-08-10T01:03:56.570787323Z",
+  "model": "glm-5.2"
+}

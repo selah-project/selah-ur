@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 36:16",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 36,
+  "translation": "سردار قورح، سردار گَعتم، سردار عَمالیک۔ یہ اِلیفاز کے سردار تھے ادوم کے ملک میں۔ یہ عادہ کے بیٹے ہیں۔",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "געתם",
+      "gloss": "گَعتم"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "عَمالیک"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "اِلیفاز"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ملک میں"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ادوم"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "عادہ"
+    }
+  ],
+  "timestamp": "2026-08-10T05:15:34.706727180Z",
+  "model": "glm-5.2"
+}

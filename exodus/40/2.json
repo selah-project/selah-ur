@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 40:2",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 40,
+  "translation": "پہلے مہینے کے دن، مہینے کے پہلے ⟨دن⟩، تو ⟨میشکن⟩ خیمۂ مقررہ کو کھڑا کرے گا۔",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "مہینے کے"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "پہلے"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "پہلے"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مہینے کے"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "تو کھڑا کرے گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میشکن"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "میشکن"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمۂ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "مقررہ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:13:17.071168245Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 3:21",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "یہ میں اپنے دل کی طرف لوٹاتا ہوں، اِسی لیے میں اُمید رکھتا ہوں۔",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "لوٹاتا ہوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "اپنے دل"
+    },
+    {
+      "surface": "על",
+      "gloss": "اِسی"
+    },
+    {
+      "surface": "כן",
+      "gloss": "لیے"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "اُمید رکھتا ہوں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:29:43.155549590Z",
+  "model": "glm-5.2"
+}

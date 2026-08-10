@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 29,
+  "translation": "کیونکہ تم نے کہا ہے، یاہویہ نے ہمارے لیے بابل میں نبیات اُٹھا دیے ہیں،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "تم نے کہا ہے"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "اُٹھا دیے ہیں"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ہمارے لیے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ نے"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "نبیات"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "بابل میں"
+    }
+  ],
+  "timestamp": "2026-08-09T22:34:29.445371387Z",
+  "model": "glm-5.2"
+}

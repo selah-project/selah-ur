@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 8:17",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اور تو ⟨اور⟩ اپنے دل میں کہہ گا: میری طاقت اور میرے ہاتھ کی برداشت نے ⟨את⟩ یہ دولت مجھے بنا دی ہے،",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "اور تو کہے گا"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "اپنے دل میں"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "میری طاقت"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "اور برداشتِ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "میرے ہاتھ کی"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بنائی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مجھے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یہ دولت"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "دولت"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "یہ"
+    }
+  ],
+  "timestamp": "2026-08-10T07:56:33.875122299Z",
+  "model": "glm-5.2"
+}

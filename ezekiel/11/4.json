@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 11:4",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اِسی لیے اُن کے خلاف نبوت کر، نبوت کر، اے آدمِ زاد!”",
+  "tokens": [
+    {
+      "surface": "لכן",
+      "gloss": "اِسی لیے"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "نبوت کر"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "اُن کے خلاف"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "نبوت کر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "اے بن"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    }
+  ],
+  "timestamp": "2026-08-09T22:49:17.846766931Z",
+  "model": "glm-5.2"
+}

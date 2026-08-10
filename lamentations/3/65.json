@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "lamentations 3:65",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "تو انہیں دلوں پر ڈھانپنا دے، تیری لعنت ان پر۔",
+  "tokens": [
+    {
+      "surface": "תִּתֵּ֤ן",
+      "gloss": "تو دے"
+    },
+    {
+      "surface": "לָהֶם֙",
+      "gloss": "انہیں"
+    },
+    {
+      "surface": "מְגִנַּת",
+      "gloss": "ڈھانپنا"
+    },
+    {
+      "surface": "לֵ֔ב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "תַּאֲלָֽתְךָ֖",
+      "gloss": "تیری لعنت"
+    },
+    {
+      "surface": "לָהֶֽם",
+      "gloss": "ان پر"
+    }
+  ],
+  "timestamp": "2026-08-10T00:29:34.656021680Z",
+  "model": "glm-5.2"
+}

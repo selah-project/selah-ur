@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 12:11",
+  "book": "zechariah",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "اُس دن بڑھ جائے گا سوگ یروشلایم میں، جیسا ہدَد رِمون کا سوگ مگِدّون کی وادی میں۔",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "اُس دن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "وہی"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "بڑھ جائے گا"
+    },
+    {
+      "surface": "המספד",
+      "gloss": "سوگ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یروشلایم میں"
+    },
+    {
+      "surface": "כמספד",
+      "gloss": "جیسا سوگ"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ہدَد"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "رِمون"
+    },
+    {
+      "surface": "בבקעת",
+      "gloss": "وادی میں"
+    },
+    {
+      "surface": "מגדון",
+      "gloss": "مگِدّون"
+    }
+  ],
+  "timestamp": "2026-08-09T23:20:20.156286009Z",
+  "model": "glm-5.2"
+}

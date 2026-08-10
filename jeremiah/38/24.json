@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 38:24",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 38,
+  "translation": "اور صِدقیاہو نے یِرمیاہو سے کہا: کوئی آدمی ان باتوں کو نہ جانے، اور تو نہ مرے گا۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "صِدقیاہو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمیاہو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "جانے"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "ان باتوں کو"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "مرے گا"
+    }
+  ],
+  "timestamp": "2026-08-10T07:48:05.594667176Z",
+  "model": "glm-5.2"
+}

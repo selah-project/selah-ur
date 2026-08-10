@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "یقیناً یاد کرتی ہے ⟨وہ⟩، اور جھکتی ہے میرا ⟨نفس⟩۔",
+  "tokens": [
+    {
+      "surface": "זָכוֹר",
+      "gloss": "یقیناً یاد"
+    },
+    {
+      "surface": "תִּזְכּוֹר",
+      "gloss": "کرتی ہے ⟨وہ⟩"
+    },
+    {
+      "surface": "וְתָשִׁיחַ",
+      "gloss": "اور جھکتی ہے"
+    },
+    {
+      "surface": "עָלַי",
+      "gloss": "میرا"
+    },
+    {
+      "surface": "נַפְשִׁי",
+      "gloss": "⟨نفس⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T00:30:05.934767264Z",
+  "model": "glm-5.2"
+}

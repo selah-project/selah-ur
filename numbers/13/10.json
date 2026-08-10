@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 13:10",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "زَبُولون کے قبیلے کے لیے گَدّی ایل بِن سودی۔",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "قبیلے کے لیے"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زَبُولون"
+    },
+    {
+      "surface": "גדיאל",
+      "gloss": "گَدّی ایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بِن"
+    },
+    {
+      "surface": "סודי",
+      "gloss": "سودی"
+    }
+  ],
+  "timestamp": "2026-08-10T05:27:26.389196992Z",
+  "model": "glm-5.2"
+}

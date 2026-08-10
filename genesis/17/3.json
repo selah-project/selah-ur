@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 17,
+  "translation": "اور اَبرام اپنے منہ کے بل گر پڑا، اور الوہیم نے اس سے ⟨את⟩ بات کی، یوں کہہ کر:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "اور گر پڑا"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "اَبرام"
+    },
+    {
+      "surface": "על",
+      "gloss": "اپنے"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "منہ کے بل"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "اور بات کی"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اس سے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "یوں کہہ کر"
+    }
+  ],
+  "timestamp": "2026-08-10T05:12:07.257670770Z",
+  "model": "glm-5.2"
+}

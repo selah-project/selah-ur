@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 34,
+  "translation": "تُو اپنے لیے ڈھَلی ہوئی مورتیںِ الوہیم نہ بنانا گا۔",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "الوہیم کی"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "ڈھَلی ہوئی مورتیں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تُو بنانا گا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اپنے لیے"
+    }
+  ],
+  "timestamp": "2026-08-10T05:22:44.706838362Z",
+  "model": "glm-5.2"
+}

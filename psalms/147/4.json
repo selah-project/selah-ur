@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 147,
+  "translation": "گنتی کرتا ہے تاروں کی تعداد، سب کو نام پکارتا ہے۔",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "گنتی کرتا ہے"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "تعداد"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "تاروں کی"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "سب کو"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "نام"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "پکارتا ہے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:57:11.461680627Z",
+  "model": "glm-5.2"
+}

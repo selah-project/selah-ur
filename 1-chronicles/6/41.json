@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اور ⟨את⟩ شہر کا کھیت اور ⟨את⟩ اس کے صحن کالَب بن یِفُنِّہ کو دے دیے۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "کھیت"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "کھیت"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر کا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "اس کے صحن"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "اس کے صحن"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "دے دیے"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "کالَب کو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "یِفُنِّہ"
+    }
+  ],
+  "timestamp": "2026-08-10T01:02:17.142770237Z",
+  "model": "glm-5.2"
+}

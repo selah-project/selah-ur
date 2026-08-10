@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 22:17",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "جو جادوگرنی ہو ⟨اسے⟩ زندہ نہ رہنے دینا۔",
+  "tokens": [
+    {
+      "surface": "מכשפה",
+      "gloss": "جادوگرنی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "زندہ رہنے دینا"
+    }
+  ],
+  "timestamp": "2026-08-09T20:05:14.145037759Z",
+  "model": "glm-5.2"
+}

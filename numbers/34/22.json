@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 34:22",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 34,
+  "translation": "اور قبطِ بنیے دان کے لیے ایک نسیٰ، بُکّی بَن یوگْلی۔",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "اور قبطِ کے لیے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنیے"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ایک نسیٰ"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "بُکّی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بَن"
+    },
+    {
+      "surface": "יגלי",
+      "gloss": "یوگْلی"
+    }
+  ],
+  "timestamp": "2026-08-10T07:12:49.336484814Z",
+  "model": "glm-5.2"
+}

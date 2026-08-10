@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 11:43",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "حانَن بَن مَعَخَہ، اور یوشَفات مِتنی۔",
+  "tokens": [
+    {
+      "surface": "חנן",
+      "gloss": "حانَن"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بَن"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "مَعَخَہ"
+    },
+    {
+      "surface": "ויושפט",
+      "gloss": "اور یوشَفات"
+    },
+    {
+      "surface": "המתני",
+      "gloss": "مِتنی"
+    }
+  ],
+  "timestamp": "2026-08-10T01:03:19.169836263Z",
+  "model": "glm-5.2"
+}

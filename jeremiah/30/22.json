@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 30:22",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 30,
+  "translation": "اور تم مجھے قوم بنو گے، اور میں تمہارے لیے الوہیم بنوں گا۔",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "اور تم بنو گے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے لیے"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "اور میں"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "بنوں گا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تمہارے لیے"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "الوہیم"
+    }
+  ],
+  "timestamp": "2026-08-09T22:34:40.256651717Z",
+  "model": "glm-5.2"
+}

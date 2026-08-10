@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 7:34",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اور شیمر کے بیٹے: اَخی اور روہگہ، یِخُبہ اور اَرام۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "اور بیٹے"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "شیمر"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "اَخی"
+    },
+    {
+      "surface": "ורוהגה",
+      "gloss": "اور روہگہ"
+    },
+    {
+      "surface": "יחבה",
+      "gloss": "یِخُبہ"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "اور اَرام"
+    }
+  ],
+  "timestamp": "2026-08-10T08:03:09.787795026Z",
+  "model": "glm-5.2"
+}

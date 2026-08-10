@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "تو اُس کے ہتھیار اٹھانے والے نے جب دیکھا کہ شاؤل مردہ ہے تو وہ بھی تلوار پر گر پڑا اور مر گیا۔",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "تو دیکھا"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "اُٹھانے والے نے"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "اُس کے ہتھیار"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "مردہ ہے"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "تو وہ گر پڑا"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بھی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "اور مر گیا"
+    }
+  ],
+  "timestamp": "2026-08-10T01:03:56.570484871Z",
+  "model": "glm-5.2"
+}

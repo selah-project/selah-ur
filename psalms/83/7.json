@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 83,
+  "translation": "اِدوم کے خیمے، اور یِشماعیلی، موآب، اور ہاگریمیں،",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "خیمے"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "اِدوم"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "اور یِشماعیلی"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "اور ہاگریمیں"
+    }
+  ],
+  "timestamp": "2026-08-09T23:41:16.385171520Z",
+  "model": "glm-5.2"
+}

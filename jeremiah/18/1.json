@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 18:1",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "وہ بات جو یِرمَیاهو کے پاس ہوئی ⟨את⟩ یاہویہ کی طرف سے، یوں فرماتے ہوئے:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "وہ بات"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہوئی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کے پاس"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمَیاهو"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "یاہویہ کی طرف سے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "یوں فرماتے ہوئے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:30:09.891895374Z",
+  "model": "glm-5.2"
+}

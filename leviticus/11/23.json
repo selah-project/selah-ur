@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 11:23",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور ہر گھونس پرندے کے جس کے چار پاؤں ہوں، وہ تمہارے لیے مکروہ ہے۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "اور ہر"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "گھونس"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "پرندے کے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جس کے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اس کے"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "پاؤں ہوں"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "مکروہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ہے"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تمہارے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:18:13.275216888Z",
+  "model": "glm-5.2"
+}

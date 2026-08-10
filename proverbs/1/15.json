@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "اے میرے بیٹے، ان کے ساتھ ⟨את⟩ ان کی راہ پر مت چل؛ اپنا قدم ان کے رستے سے روک لے۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "اے میرے بیٹے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مت"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "چل"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "راہ پر"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ان کے ساتھ"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "روک لے"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "اپنا قدم"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "ان کے رستے سے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:58:08.832703747Z",
+  "model": "glm-5.2"
+}

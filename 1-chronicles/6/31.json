@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 6:31",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "بَن اَمْصی کا، بَن بانی کا، بَن شِمِر کا۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "بَن"
+    },
+    {
+      "surface": "אמצי",
+      "gloss": "اَمْصی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بَن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بانی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بَن"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "شِمِر"
+    }
+  ],
+  "timestamp": "2026-08-10T01:01:33.670537961Z",
+  "model": "glm-5.2"
+}

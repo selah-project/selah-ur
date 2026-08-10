@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "nehemiah 7:49",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "بنیں حَنان، بنیں گِدّیل، بنیں گاحر کی،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بنیں"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "حَنان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنیں"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "گِدّیل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنیں"
+    },
+    {
+      "surface": "גחר",
+      "gloss": "گاحر"
+    }
+  ],
+  "timestamp": "2026-08-10T00:53:59.553463274Z",
+  "model": "glm-5.2"
+}

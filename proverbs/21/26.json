@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 21:26",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "سارا دن وہ تمنا کرتا رہتا ہے، مگر صدیق دیتا ہے اور روک نہیں سکتا۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "وہ تمنا کرتا رہتا ہے"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "تمنا"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "مگر صدیق"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دیتا ہے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہیں"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "روک سکتا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:04:50.518009055Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "lamentations 3:23",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "وہ نئی ⟨ہیں⟩ صبحوں کے لیے، بڑی ⟨ہے⟩ تیری امانت۔",
+  "tokens": [
+    {
+      "surface": "חדשים",
+      "gloss": "نئی"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "صبحوں کے لیے"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "بڑی"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "تیری امانت"
+    }
+  ],
+  "timestamp": "2026-08-10T00:29:43.156126779Z",
+  "model": "glm-5.2"
+}

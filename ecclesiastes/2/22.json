@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 2:22",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "کہہ آدم کو کیا بنتا ہے اپنے سارے محنت سے اور اپنے دل کے رنجش سے جسے وہ سورج کے نیچے محنت کرتا ہے؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کہہ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "بنتا ہے"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "آدم کو"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "اپنے محنت سے"
+    },
+    {
+      "surface": "וברעיון",
+      "gloss": "اور رنجش سے"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "اپنے دل کے"
+    },
+    {
+      "surface": "שהוא",
+      "gloss": "جسے وہ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "محنت کرتا ہے"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "نیچے"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سورج کے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:33:29.473214680Z",
+  "model": "glm-5.2"
+}

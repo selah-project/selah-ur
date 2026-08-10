@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 14:8",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "اور اُن کے خلاف زَرَح کُوشی ایک ہزار ہزار لشکر اور تین سو رتھوں کے ساتھ نکلا، اور وہ ماریشاہ تک آیا۔",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "اور نکلا"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "اُن کے خلاف"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زَرَح"
+    },
+    {
+      "surface": "הכושי",
+      "gloss": "کُوشی"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "لشکر میں"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ایک ہزار"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ומרכבות",
+      "gloss": "اور رتھیں"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "تین"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "اور آیا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "ماریشاہ"
+    }
+  ],
+  "timestamp": "2026-08-10T07:37:37.910779857Z",
+  "model": "glm-5.2"
+}

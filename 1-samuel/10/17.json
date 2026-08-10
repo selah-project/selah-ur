@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "اور شَمُوایل نے ⟨את⟩ قوم کو یاہویہ کی طرف مِتصرپہ میں پکارا۔",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "اور پکارا"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شَمُوایل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم کو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "مِتصرپہ"
+    }
+  ],
+  "timestamp": "2026-08-10T05:42:44.802035277Z",
+  "model": "glm-5.2"
+}

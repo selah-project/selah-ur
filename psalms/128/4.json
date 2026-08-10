@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 128,
+  "translation": "देख, ⟨यही कि⟩ इसी प्रकार धन्य होगा वह पुरुष जो यहोवा से डरता है।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "देख"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨यही कि⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "इसी प्रकार"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "धन्य होगा"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "वह पुरुष"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "जो डरता है"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहोवा से"
+    }
+  ],
+  "timestamp": "2026-08-09T23:54:24.042265251Z",
+  "model": "glm-5.2"
+}

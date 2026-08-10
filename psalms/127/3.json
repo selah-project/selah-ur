@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 127,
+  "translation": "دیکھو، بیٹے ⟨ہیں⟩ یاہویہ کی میراث، ⟨ہے⟩ بطن کا پھل اُس کا صلہ۔",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "دیکھو"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "میراث"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کی"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "صلہ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "پھل"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "بطن کا"
+    }
+  ],
+  "timestamp": "2026-08-10T07:31:42.648214148Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 16:11",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 16,
+  "translation": "اور یاہویہ نے موشہ سے کلام کیا، یہ کہہ کر:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "اور… کلام کیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "یہ کہہ کر:"
+    }
+  ],
+  "timestamp": "2026-08-10T05:20:46.940241346Z",
+  "model": "glm-5.2"
+}

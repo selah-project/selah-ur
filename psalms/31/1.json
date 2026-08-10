@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 31,
+  "translation": "کورس رہنما کے لیے۔ ایک مزمور داوِد کے لیے۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "کورس رہنما کے لیے"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ایک مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:28:47.539244091Z",
+  "model": "glm-5.2"
+}

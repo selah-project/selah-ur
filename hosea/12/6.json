@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 12:6",
+  "book": "hosea",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "اور یاہویہ، صَباؤت کا الوہیم — یاہویہ اُس کا ذِکر ہے۔",
+  "tokens": [
+    {
+      "surface": "והוי",
+      "gloss": "اور یاہویہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "صَباؤت کا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "اُس کا ذِکر"
+    }
+  ],
+  "timestamp": "2026-08-09T23:06:44.954883453Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 10:24",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "بدکار کا ڈر ⟨اسے⟩ آ پہنچتا ہے، اور صالحوں کی تمنا ⟨دی جاتی ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "מגורת",
+      "gloss": "ڈر"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "היא",
+      "gloss": "وہی"
+    },
+    {
+      "surface": "תבואנו",
+      "gloss": "اسے آ پہنچتی ہے"
+    },
+    {
+      "surface": "ותאות",
+      "gloss": "اور تمنا"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "صالحوں"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دی جاتی ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:02:24.032085599Z",
+  "model": "glm-5.2"
+}

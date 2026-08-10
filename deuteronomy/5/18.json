@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 5:18",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "اور تو زنا نہ کر۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "تو زنا کر"
+    }
+  ],
+  "timestamp": "2026-08-09T20:43:51.613378546Z",
+  "model": "glm-5.2"
+}

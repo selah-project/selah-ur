@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 7:35",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "حارِم کے بیٹے، تین سو ⟨اور⟩ بیس۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "حارِم"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "تین"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "اور بیس"
+    }
+  ],
+  "timestamp": "2026-08-10T00:54:16.952344986Z",
+  "model": "glm-5.2"
+}

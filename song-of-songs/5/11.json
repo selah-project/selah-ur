@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 5:11",
+  "book": "song-of-songs",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "اُس کا سر خالص سونا، اُس کے بال لہرادار، کالے ہیں کویں کی طرح۔",
+  "tokens": [
+    {
+      "surface": "ראשו",
+      "gloss": "اُس کا سر"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "خالص"
+    },
+    {
+      "surface": "פז",
+      "gloss": "سونا"
+    },
+    {
+      "surface": "קוצותיו",
+      "gloss": "اُس کے بال"
+    },
+    {
+      "surface": "תלתלים",
+      "gloss": "لہرادار"
+    },
+    {
+      "surface": "שחרות",
+      "gloss": "کالے ہیں"
+    },
+    {
+      "surface": "כעורב",
+      "gloss": "کویں کی طرح"
+    }
+  ],
+  "timestamp": "2026-08-10T06:42:13.081297196Z",
+  "model": "glm-5.2"
+}

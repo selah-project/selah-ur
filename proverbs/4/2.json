@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "کیونکہ میں نے تمہیں اچھی تعلیم دی ہے؛ میری تورات کو مت چھوڑو۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "تعلیم"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "اچھی"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "میں نے دی ہے"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تمہیں"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "میری تورات کو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مت"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "چھوڑو"
+    }
+  ],
+  "timestamp": "2026-08-10T06:37:36.018446789Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 22:3",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "اگر وہ چوری اس کے ہاتھ میں مل جائے — بیل سے گدھے تک بکری تک — زندہ، تو دوگنا چکائے گا۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "המצא",
+      "gloss": "بیشک مل جائے"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "مل جائے"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "اس کے ہاتھ میں"
+    },
+    {
+      "surface": "הגנבה",
+      "gloss": "وہ چوری"
+    },
+    {
+      "surface": "משור",
+      "gloss": "بیل سے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "گدھے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "שה",
+      "gloss": "بکری\/میش"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندہ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دوگنا"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "چکائے گا"
+    }
+  ],
+  "timestamp": "2026-08-09T20:04:45.385983726Z",
+  "model": "glm-5.2"
+}

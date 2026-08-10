@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "nehemiah 7:39",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "کاہن: بَنے یَدَعیاہ کے، بیت ییشوع کے، نو سو ستر اور تین۔",
+  "tokens": [
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَنے"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "یَدَعیاہ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "ییشوع"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نو"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ستر"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "اور تین"
+    }
+  ],
+  "timestamp": "2026-08-10T09:05:45.760163491Z",
+  "model": "glm-5.2"
+}

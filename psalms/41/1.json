@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 41,
+  "translation": "واجہِ کلام کے لیے۔ نغمہ، داوِد کے لیے۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "واجہِ کلام کے لیے"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "نغمہ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:31:59.514612683Z",
+  "model": "glm-5.2"
+}

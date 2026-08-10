@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 8:5",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "انسان کیا ہے کہ تو اسے یاد رکھتا ہے، اور آدم کے بیٹے کہ تو اسے یاد کرتا ہے؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תזכרנו",
+      "gloss": "تو اسے یاد رکھتا ہے"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "اور بیٹا"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תפקדנו",
+      "gloss": "تو اسے یاد کرتا ہے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:24:19.418844662Z",
+  "model": "glm-5.2"
+}

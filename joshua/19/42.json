@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 19:42",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "اور شَعلَبّین اور اَیّالون اور یِتلہ،",
+  "tokens": [
+    {
+      "surface": "ושעלבין",
+      "gloss": "اور شَعلَبّین"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "اور اَیّالون"
+    },
+    {
+      "surface": "ויתלה",
+      "gloss": "اور یِتلہ"
+    }
+  ],
+  "timestamp": "2026-08-09T21:04:05.978885703Z",
+  "model": "glm-5.2"
+}

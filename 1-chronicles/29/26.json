@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 29:26",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 29,
+  "translation": "اور داوِد بِن یِشای تمام یِسرائیل پر بادشاہی کرتا تھا۔",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "اور داوِد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بِن"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "یِشای"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہی کرتا تھا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-10T01:12:19.048103885Z",
+  "model": "glm-5.2"
+}

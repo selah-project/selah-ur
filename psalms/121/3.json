@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 121,
+  "translation": "وہ نہ دے گا تیری ٹنگ کو لڑکھڑانے کا، نہ سوئے گا وہ جو تیری نگہبانی کرتا ہے۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "وہ دے گا"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "لڑکھڑانے کو"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "تیری ٹنگ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "اونگھے گا"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "تیرا نگہبان"
+    }
+  ],
+  "timestamp": "2026-08-09T23:53:34.476415508Z",
+  "model": "glm-5.2"
+}

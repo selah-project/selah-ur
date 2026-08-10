@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 36:20",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 36,
+  "translation": "یہ سعیر حوری کے بیٹے ہیں، اس زمین کے رہنے والے — لوطن، شوبل، صبعون، اور عنہ۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سعیر"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "حوری"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "رہنے والے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "اس زمین"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "لوطن"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "اور شوبل"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "اور صبعون"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "اور عنہ"
+    }
+  ],
+  "timestamp": "2026-08-09T19:49:11.183169389Z",
+  "model": "glm-5.2"
+}

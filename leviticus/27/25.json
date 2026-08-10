@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 27:25",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "اور تیرا ہر ←تقویم→ مقدس شاقل کے مطابق ہوگا؛ بیس گِیرہ ←ہوگا→ شاقل۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "اور تیرا ہر"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "تقویم"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوگا"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "شاقل کے مطابق"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیس"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "گِیرہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوگا"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "شاقل"
+    }
+  ],
+  "timestamp": "2026-08-10T05:26:43.253927493Z",
+  "model": "glm-5.2"
+}

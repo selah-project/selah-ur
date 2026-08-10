@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 9:29",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "میں بدکار ٹھہروں — یہ کیوں کر؟ بے فائدہ اکتاتا ہوں۔",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "ארשע",
+      "gloss": "بدکار ٹھہروں"
+    },
+    {
+      "surface": "למה",
+      "gloss": "کیوں کر"
+    },
+    {
+      "surface": "זה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "بے فائدہ"
+    },
+    {
+      "surface": "איגע",
+      "gloss": "اکتاتا ہوں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:12:55.237572627Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 40:24",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 40,
+  "translation": "اور ⟨اس نے⟩ ⟨את⟩ مینار کو موعد کے خیمہ میں رکھا، میز کے سامنے، خیمہ کی جانبِ جنوب میں۔",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "اور رکھا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مینار"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "مینار"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "خیمہ میں"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "موعد"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "کے سامنے"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "میز"
+    },
+    {
+      "surface": "על",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "پہلو"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "خیمہ"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "جنوب"
+    }
+  ],
+  "timestamp": "2026-08-09T20:12:59.838131231Z",
+  "model": "glm-5.2"
+}

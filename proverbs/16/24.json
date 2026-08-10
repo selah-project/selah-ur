@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 16:24",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 16,
+  "translation": "خوشبودار باتیں شہد کی چھتہ ہیں، جان کے لیے میٹھی اور ہڈیوں کے لیے شفا۔",
+  "tokens": [
+    {
+      "surface": "צוף",
+      "gloss": "چھتہ"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "شہد کی"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "باتیں"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "خوشبودار"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "میٹھی"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "جان کے لیے"
+    },
+    {
+      "surface": "ומרפא",
+      "gloss": "اور شفا"
+    },
+    {
+      "surface": "לעצם",
+      "gloss": "ہڈیوں کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:03:29.772643485Z",
+  "model": "glm-5.2"
+}

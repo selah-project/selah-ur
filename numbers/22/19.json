@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 22:19",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "اب تم بھی اِس رات یہیں ٹھہرو، تاکہ میں جان سکوں کہ یاہویہ مجھ سے اور کیا بات کرے گا۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "اب"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "تم ٹھہرو"
+    },
+    {
+      "surface": "נא",
+      "gloss": "مہربانی"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "اِس میں"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بھی"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تم"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "اِس رات"
+    },
+    {
+      "surface": "ואדעה",
+      "gloss": "تاکہ میں جان سکوں"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کہ کیا"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "اور"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بات کرے گا"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "مجھ سے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:13:41.685330513Z",
+  "model": "glm-5.2"
+}

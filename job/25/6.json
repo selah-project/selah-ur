@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 25:6",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "تو پھر انسان، جو کیڑا ہے، کیسے — اور آدم کا بیٹا، جو ایک کیڑا ہے؟",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "تو پھر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیسے"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "کیڑا ہے"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "اور بیٹا"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم کا"
+    },
+    {
+      "surface": "תולעה",
+      "gloss": "ایک کیڑا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:19:11.039808352Z",
+  "model": "glm-5.2"
+}

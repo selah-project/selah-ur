@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 26:49",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 26,
+  "translation": "لِیَتصر خاندانِ یَتصری، لِشِلِّم خاندانِ شِلِّمی۔",
+  "tokens": [
+    {
+      "surface": "ליצר",
+      "gloss": "لِیَتصر"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندانِ"
+    },
+    {
+      "surface": "היצרי",
+      "gloss": "یَتصری"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "لِشِلِّم"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندانِ"
+    },
+    {
+      "surface": "השלמי",
+      "gloss": "شِلِّمی"
+    }
+  ],
+  "timestamp": "2026-08-10T05:29:53.982216412Z",
+  "model": "glm-5.2"
+}

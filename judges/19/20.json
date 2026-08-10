@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 19:20",
+  "book": "judges",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "اور بوڑھے آدمی نے کہا: تجھے سلامتی ہو؛ تیری ہر کمی میرے ذمے ہے، بس چوراہے میں ٹھہرنا مت۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور ⟨اس نے⟩ کہا"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "הזקן",
+      "gloss": "بوڑھے"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتی"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تجھے ہو"
+    },
+    {
+      "surface": "רק",
+      "gloss": "بس"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "מחסורך",
+      "gloss": "تیری کمی"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میرے ذمے ہے"
+    },
+    {
+      "surface": "רק",
+      "gloss": "بس"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "چوراہے میں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مت"
+    },
+    {
+      "surface": "תלן",
+      "gloss": "ٹھہرنا"
+    }
+  ],
+  "timestamp": "2026-08-09T21:15:43.891079097Z",
+  "model": "glm-5.2"
+}

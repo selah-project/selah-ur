@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 27:22",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "مَلعُون ⟨ہے⟩ وہ جو اپنی بہن کے ساتھ سوتا ہے، اپنے باپ کی بیٹی یا اپنی ماں کی بیٹی، اور سارے لوگ کہیں گے: آمِین۔",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "مَلعُون"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "سوتا ہے"
+    },
+    {
+      "surface": "עם",
+      "gloss": "کے ساتھ"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "اپنی بہن"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بیٹی"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "اپنے باپ کی"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بیٹی"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "اپنی ماں کی"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "اور کہیں گے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوگ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمِین"
+    }
+  ],
+  "timestamp": "2026-08-09T20:54:03.033530015Z",
+  "model": "glm-5.2"
+}

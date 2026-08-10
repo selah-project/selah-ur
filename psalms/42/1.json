@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 42,
+  "translation": "⟨برائے⟩ رہنما کے لیے۔ مَشکیل۔ قُورَح کے بیٹوں کے ۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "رہنما کے لیے"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "مَشکیل"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "⟨برائے⟩ بیٹوں کے"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قُورَح"
+    }
+  ],
+  "timestamp": "2026-08-09T23:32:03.885164640Z",
+  "model": "glm-5.2"
+}

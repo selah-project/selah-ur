@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 7:24",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "تیروں اور کمان سے آئے گا وہاں؛ کیونکہ شمیر اور شایت ہوگی ساری زمین۔",
+  "tokens": [
+    {
+      "surface": "בחצים",
+      "gloss": "تیروں"
+    },
+    {
+      "surface": "ובקשת",
+      "gloss": "اور کمان"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "آئے گا"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "وہاں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "شمیر"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "اور شایت"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ہوگی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-10T05:59:38.265985527Z",
+  "model": "glm-5.2"
+}

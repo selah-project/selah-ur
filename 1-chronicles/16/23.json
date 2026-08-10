@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 16:23",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 16,
+  "translation": "گاؤ یاہویہ کو، اے تمام زمین! روز سے روز اُس کی نجات کو خوشخبری دو۔",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "گاؤ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہویہ کو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "خوشخبری دو"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "روز سے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کو"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روز"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "اُس کی نجات کو"
+    }
+  ],
+  "timestamp": "2026-08-10T01:05:00.000277107Z",
+  "model": "glm-5.2"
+}

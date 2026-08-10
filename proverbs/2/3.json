@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "بیشک اگر تو بصارت کو پکارے اور سمجھ کے لیے اپنی آواز بلند کرے،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "بیشک"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "بصارت کو"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "تو پکارے"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "سمجھ کے لیے"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "بلند کرے"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "اپنی آواز"
+    }
+  ],
+  "timestamp": "2026-08-09T23:59:32.871285423Z",
+  "model": "glm-5.2"
+}

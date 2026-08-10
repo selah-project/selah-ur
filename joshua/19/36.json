@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 19:36",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "اور اَدَمہ اور رامہ اور خَصور۔",
+  "tokens": [
+    {
+      "surface": "ואדמה",
+      "gloss": "اور اَدَمہ"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "اور رامہ"
+    },
+    {
+      "surface": "וחצור",
+      "gloss": "اور خَصور"
+    }
+  ],
+  "timestamp": "2026-08-10T05:37:27.343602062Z",
+  "model": "glm-5.2"
+}

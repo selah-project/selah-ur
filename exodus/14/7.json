@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 14:7",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "اور اُس نے چھ سو چنے ہوئے رتھ اور مِتصرایم کے سارے رتھ لے لئے، اور اُن سب پر سوار دستے تھے۔",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "اور اُس نے لے لئے"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "رتھ"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "چنے ہوئے"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "اور سارے"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "رتھ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    },
+    {
+      "surface": "ושלשם",
+      "gloss": "اور سوار دستے"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "سب"
+    }
+  ],
+  "timestamp": "2026-08-10T05:20:04.915809467Z",
+  "model": "glm-5.2"
+}

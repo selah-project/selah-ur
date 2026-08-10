@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 41:29",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 41,
+  "translation": "دیکھو! سات سال آ رہے ہیں، بڑی فراوانی پوری مِتصرایم (مصر) کے زمین میں۔",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "دیکھو!"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سات"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "באות",
+      "gloss": "آ رہے ہیں"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "فراوانی"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "بڑی"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "پوری"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین میں"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم"
+    }
+  ],
+  "timestamp": "2026-08-09T19:50:13.074890359Z",
+  "model": "glm-5.2"
+}

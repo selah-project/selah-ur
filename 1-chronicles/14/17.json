@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 14:17",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "اور داوِد کا نام تمام مُلکوں میں نکل گیا، اور یاہویہ نے ⟨את⟩ اُس کا ڈر تمام قوموں پر ڈال دیا۔",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "اور نکل گیا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نام"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد کا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "مُلکوں میں"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "اور یاہویہ نے"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ڈال دیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اُس کا ڈر"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "اُس کا ڈر"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "قوموں"
+    }
+  ],
+  "timestamp": "2026-08-10T01:04:41.065430685Z",
+  "model": "glm-5.2"
+}

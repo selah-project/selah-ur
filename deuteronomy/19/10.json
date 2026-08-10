@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 19:10",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "تاکہ بےگناہ خون تیرے ملک کے اندر نہ بہایا جائے جو یاہویہ تیرا الوہیم تجھے ورثہ دیتا ہے، اور خون تیرے ذمہ ہو۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "تاکہ نہ"
+    },
+    {
+      "surface": "ישפך",
+      "gloss": "بہایا جائے"
+    },
+    {
+      "surface": "דם",
+      "gloss": "خون"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "بےگناہ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "کے اندر"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "تیرے ملک"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیرا الوہیم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دیتا ہے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تجھے"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ورثہ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "اور ⟨یہ⟩ ہوگا"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تیرے ذمہ"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "خون"
+    }
+  ],
+  "timestamp": "2026-08-10T05:33:50.747836632Z",
+  "model": "glm-5.2"
+}

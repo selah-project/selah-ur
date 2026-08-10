@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 24:8",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "اور موشے نے لیا ⟨את⟩ خون کو، اور چھڑکا لوگوں پر، اور کہا: 'یہ ہے خونِ عہد کا، جو یاہویہ نے تمہارے ساتھ کاٹا، ان سب باتوں پر۔'",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "اور لیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خون کو"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "خون"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "اور چھڑکا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوگ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "یہ ہے"
+    },
+    {
+      "surface": "דם",
+      "gloss": "خون"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "عہد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "کاٹا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "تمہارے ساتھ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "باتوں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ان"
+    }
+  ],
+  "timestamp": "2026-08-10T05:21:12.009898088Z",
+  "model": "glm-5.2"
+}

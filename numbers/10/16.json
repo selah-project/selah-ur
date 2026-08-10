@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 10:16",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "اور زبولن کے بیٹوں کے قبیلے کی فوج پر الیاب، حیلون کا بیٹا تھا۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "اور پر"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "فوج"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "قبیلے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹوں"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "زبولن"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "الیاب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "حیلون"
+    }
+  ],
+  "timestamp": "2026-08-09T20:28:46.835709084Z",
+  "model": "glm-5.2"
+}

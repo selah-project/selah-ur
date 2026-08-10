@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 24:10",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "ساتواں ہَکّوص، آٹھواں اَوی‌یاه۔",
+  "tokens": [
+    {
+      "surface": "להקוץ",
+      "gloss": "ہَکّوص کو"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ساتواں"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "اَوی‌یاه کو"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "آٹھواں"
+    }
+  ],
+  "timestamp": "2026-08-10T01:10:01.311745106Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "دیکھو، میں آج تمہارے سامنے ⟨برکت⟩ اور ⟨لعنت⟩ رکھتا ہوں۔",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "دیکھو"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "رکھتا ہوں"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "تمہارے سامنے"
+    },
+    {
+      "surface": "היום",
+      "gloss": "آج"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "برکت"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "اور لعنت"
+    }
+  ],
+  "timestamp": "2026-08-09T20:46:46.416347818Z",
+  "model": "glm-5.2"
+}

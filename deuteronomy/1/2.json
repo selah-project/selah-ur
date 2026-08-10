@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "گیارہ دن حورِیب سے، کوہ سعیر کے راستے، قادِیش بَرنِیع تک۔",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دس"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "حورِیب سے"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راستے"
+    },
+    {
+      "surface": "הר",
+      "gloss": "کوہ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سعیر"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قادِیش"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "بَرنِیع"
+    }
+  ],
+  "timestamp": "2026-08-09T20:41:55.164463462Z",
+  "model": "glm-5.2"
+}

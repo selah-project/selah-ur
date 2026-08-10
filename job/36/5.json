@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 36:5",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 36,
+  "translation": "دیکھو، ایل ⟨ہے⟩ کبیر، اور وہ نہیں جھٹکے، کبیر ⟨ہے⟩ دل کی طاقت میں۔",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "دیکھو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "کبیر"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہیں"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "وہ جھٹکے"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "کبیر"
+    },
+    {
+      "surface": "כח",
+      "gloss": "طاقت"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    }
+  ],
+  "timestamp": "2026-08-10T00:22:47.127258165Z",
+  "model": "glm-5.2"
+}

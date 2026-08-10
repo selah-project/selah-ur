@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 31,
+  "translation": "اور ہوا جب موشہ نے ⟨את⟩ اس تورات کے الفاظ کو ایک کتاب میں لکھنا پورا کیا، یہاں تک کہ وہ مکمل ہو گئے۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "جب پورا کیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ نے"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "لکھنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الفاظ کو"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "الفاظ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اس"
+    },
+    {
+      "surface": "על",
+      "gloss": "میں"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "کتاب"
+    },
+    {
+      "surface": "עד",
+      "gloss": "یہاں تک کہ"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "مکمل ہو گئے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:56:06.536059592Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 96,
+  "translation": "کیونکہ یاہویہ بڑا ہے اور بہت تعریف کیا گیا ہے، وہ دہشت‌ناک ہے تمام الوہیم پر۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "بڑا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "اور تعریف کیا گیا ہے"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "دہشت‌ناک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم"
+    }
+  ],
+  "timestamp": "2026-08-09T23:45:00.261665594Z",
+  "model": "glm-5.2"
+}

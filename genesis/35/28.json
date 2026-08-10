@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 35:28",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 35,
+  "translation": "اور یِتسحاق کے دن ایک سو برس اور اسی برس کے ہوئے۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "اور ہوئے"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "دن"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "یِتسحاق"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ایک سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "برس"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "اور اسی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "برس"
+    }
+  ],
+  "timestamp": "2026-08-10T05:15:26.885800086Z",
+  "model": "glm-5.2"
+}

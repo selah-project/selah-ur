@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "چناں داوِد وہاں سے چڑھا اور مَضادوتِ عِین گَدی میں بیٹھ گیا۔",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "چناں چڑھا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "משם",
+      "gloss": "وہاں سے"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "اور بیٹھ گیا"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "مَضادوت میں"
+    },
+    {
+      "surface": "עין",
+      "gloss": "عِین"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "گَدی"
+    }
+  ],
+  "timestamp": "2026-08-10T05:45:43.621165378Z",
+  "model": "glm-5.2"
+}

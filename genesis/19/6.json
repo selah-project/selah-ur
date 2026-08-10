@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "اور لُوط ان کے پاس دروازے پر نکلے، اور دروازہ اپنے پیچھے بند کیا۔",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "اور نکلے"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ان کے پاس"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لُوط"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "دروازے پر"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "اور دروازہ"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "بند کیا"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "اپنے پیچھے"
+    }
+  ],
+  "timestamp": "2026-08-09T19:39:11.063639387Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 7:22",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "بکروں میں سے ایک بالا، بطورِ گناہ کی قربانی کے؛",
+  "tokens": [
+    {
+      "surface": "שְׂעִיר",
+      "gloss": "بالا"
+    },
+    {
+      "surface": "עִזִּ֥ים",
+      "gloss": "بکروں"
+    },
+    {
+      "surface": "אֶחָ֖ד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "לְחַטָּֽאת",
+      "gloss": "بطورِ گناہ کی قربانی کے"
+    }
+  ],
+  "timestamp": "2026-08-10T08:38:46.858305332Z",
+  "model": "glm-5.2"
+}

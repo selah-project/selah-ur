@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 11:1",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "پھر صوفَر نَعَماتی نے جواب دیا اور کہا:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "پھر جواب دیا"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "صوفَر"
+    },
+    {
+      "surface": "הנעמתי",
+      "gloss": "نَعَماتی"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:13:46.451619914Z",
+  "model": "glm-5.2"
+}

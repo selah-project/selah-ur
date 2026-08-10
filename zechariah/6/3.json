@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 6:3",
+  "book": "zechariah",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اور تیسری رتھ میں سفید گھوڑے، اور چوتھی رتھ میں دھبے دار مضبوط گھوڑے۔",
+  "tokens": [
+    {
+      "surface": "ובמרכבה",
+      "gloss": "اور رتھ میں"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "تیسری"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "گھوڑے"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "سفید"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "اور رتھ میں"
+    },
+    {
+      "surface": "הרבעית",
+      "gloss": "چوتھی"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "گھوڑے"
+    },
+    {
+      "surface": "ברדים",
+      "gloss": "دھبے دار"
+    },
+    {
+      "surface": "אמצים",
+      "gloss": "مضبوط"
+    }
+  ],
+  "timestamp": "2026-08-09T23:18:46.060057810Z",
+  "model": "glm-5.2"
+}

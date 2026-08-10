@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-chronicles 6:42",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "یاہویہ الوہیم، اپنے مَشِیَح کا منہ مت پھیر، اپنے خادم داوِد کے خیسِد یاد کر۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مت"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "پھیر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "משיחיך",
+      "gloss": "اپنے مَشِیَح کا"
+    },
+    {
+      "surface": "זכרה",
+      "gloss": "یاد کر"
+    },
+    {
+      "surface": "לחסדי",
+      "gloss": "کے خیسِد"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "اپنے خادم"
+    }
+  ],
+  "timestamp": "2026-08-10T01:14:03.046303670Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "اور اَبِیمَلِک نے اَوراہام سے کہا، تو نے کیا دیکھا کہ تو نے ⟨את⟩ یہ بات کی؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "اَبِیمَلِک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "تو نے دیکھا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "تو نے کی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یہ بات"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "بات"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "یہ"
+    }
+  ],
+  "timestamp": "2026-08-09T19:41:03.355028040Z",
+  "model": "glm-5.2"
+}

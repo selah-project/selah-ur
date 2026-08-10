@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 29:2",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 29,
+  "translation": "وہ بڑی آزمائشیں جو تیری آنکھوں نے دیکھیں، وہ نشانیاں اور وہ بڑے معجزے،",
+  "tokens": [
+    {
+      "surface": "המסות",
+      "gloss": "وہ آزمائشیں"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "بڑی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "نے دیکھیں"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "تیری آنکھوں"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "وہ نشانیاں"
+    },
+    {
+      "surface": "והמפתים",
+      "gloss": "اور وہ معجزے"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "بڑے"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "وہ"
+    }
+  ],
+  "timestamp": "2026-08-10T05:35:31.465022071Z",
+  "model": "glm-5.2"
+}

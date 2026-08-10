@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "دن دن کو بولتا ⟨ہے⟩ بات، اور رات رات کو دکھاتی ⟨ہے⟩ جان۔",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "دن کو"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "بولتا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "بات"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "اور رات"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "رات کو"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "دکھاتی"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "جان"
+    }
+  ],
+  "timestamp": "2026-08-09T23:27:43.609113813Z",
+  "model": "glm-5.2"
+}

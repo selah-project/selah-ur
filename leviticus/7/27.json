@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 7:27",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "ہر نَفَش جو کوئی خون کھائے گی، ⟨وہ⟩ نَفَش وہی اپنی قوم سے کاٹ دی جائے گی۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفَش"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "کھائے گی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی"
+    },
+    {
+      "surface": "דם",
+      "gloss": "خون"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "اور کاٹ دی جائے گی"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "نَفَش"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "وہی"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "اپنی قوم سے"
+    }
+  ],
+  "timestamp": "2026-08-10T05:24:27.564394874Z",
+  "model": "glm-5.2"
+}

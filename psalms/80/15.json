@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 80,
+  "translation": "اَے الوہیمِ صباؤت، हمिं लौٹ آ! آسمان سے देख और देख! औور इस बेल कا ध्यान रख!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "اَے الوہیم"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صباؤت"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "لौٹ آ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ہم翼翼"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "देख"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "आस्मान से"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "और देख!"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "और ध्यान रख!"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "बेल"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "इस"
+    }
+  ],
+  "timestamp": "2026-08-10T08:59:44.037342684Z",
+  "model": "glm-5.2"
+}

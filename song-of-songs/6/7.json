@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 6:7",
+  "book": "song-of-songs",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "تیرا گال پردے کے پیچھے انار کی ایک لَچھی کی مانند ہے۔",
+  "tokens": [
+    {
+      "surface": "כפלח",
+      "gloss": "لَچھی کی مانند"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "انار کی"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "تیرا گال"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "پیچھے"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "تیرے پردے کے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:25:59.673161732Z",
+  "model": "glm-5.2"
+}

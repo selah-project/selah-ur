@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 2:12",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "کیونکہ یاہویہ صباؤت کا ایک دن ہے ہر متکبر اور بلند پر، اور ہر اُچھلے ہوئے پر اور پست پر —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہویہ کا"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صباؤت"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "גאה",
+      "gloss": "متکبر"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "اور بلند"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "اور پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "اُچھلے ہوئے"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "اور پست"
+    }
+  ],
+  "timestamp": "2026-08-10T05:58:00.506041464Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 48:3",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 48,
+  "translation": "اور آشِر کی سرحد کے ساتھ، مشرقی سمت سے مغربی سمت تک: نفتالی، ایک۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "اور … کے ساتھ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آشِر کی"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "سمت سے"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "مشرقی"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "اور … تک"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "سمت"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "مغربی"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نفتالی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    }
+  ],
+  "timestamp": "2026-08-09T23:03:16.794574883Z",
+  "model": "glm-5.2"
+}

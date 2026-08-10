@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 7:26",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "بَیتِ لَحِم اور نَطوفہ کے مرد ایک سو اٹھاسی۔",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بَیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لَحِم"
+    },
+    {
+      "surface": "ונטפה",
+      "gloss": "اور نَطوفہ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ایک سو"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "اسی"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "اور آٹھ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:53:58.690321286Z",
+  "model": "glm-5.2"
+}

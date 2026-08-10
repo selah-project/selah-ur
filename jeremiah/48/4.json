@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 48:4",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 48,
+  "translation": "مُوآب ٹوٹ گیا، اس کے چھوٹوں نے چِلّاٹ بلند کی ہے۔",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "ٹوٹ گیا"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُوآب"
+    },
+    {
+      "surface": "השמיעו",
+      "gloss": "بلند کی ہے"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "چِلّاٹ"
+    },
+    {
+      "surface": "צעוריה",
+      "gloss": "اس کے چھوٹوں نے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:41:34.323166409Z",
+  "model": "glm-5.2"
+}

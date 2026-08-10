@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اور نُوح نے یاہویہ کی آنکھوں میں خیسِد پایا۔",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "اور نُوح"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "پایا"
+    },
+    {
+      "surface": "חן",
+      "gloss": "خیسِد"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "آنکھوں میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    }
+  ],
+  "timestamp": "2026-08-10T08:32:01.124871458Z",
+  "model": "glm-5.2"
+}

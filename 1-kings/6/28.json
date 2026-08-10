@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اور اس نے ⟨את⟩ کروبوں کو سونے سے ملبوس کیا۔",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "اور اس نے ملبوس کیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کروبوں کو"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "کروب"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونے سے"
+    }
+  ],
+  "timestamp": "2026-08-09T21:42:14.468665316Z",
+  "model": "glm-5.2"
+}

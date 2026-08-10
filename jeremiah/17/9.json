@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 17:9",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 17,
+  "translation": "دھوکہ دینے والا ہے دل سب سے زیادہ، اور وہ لاعلاج ہے — کون اسے جانے؟",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "دھوکہ دینے والا"
+    },
+    {
+      "surface": "הלב",
+      "gloss": "⟨یہ⟩ دل"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "سب سے زیادہ"
+    },
+    {
+      "surface": "ואנש",
+      "gloss": "اور وہ لاعلاج ہے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "اسے جانے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:28:11.090946192Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "اور کَلُوب، شُوحہ کے بھائی نے، ⟨את⟩ مَحِیر کو جنم دیا — وہ اَشْتُون کا باپ تھا۔",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "اور کَلُوب"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "بھائی"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "شُوحہ کے"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "نے جنم دیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مَحِیر کو"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "مَحِیر"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باپ"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "اَشْتُون کا"
+    }
+  ],
+  "timestamp": "2026-08-10T06:49:06.298570876Z",
+  "model": "glm-5.2"
+}

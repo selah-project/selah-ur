@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 11:8",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور اُس کے بعد گَبّای، سَلّای، نو سو اٹھائیس۔",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "اور اُس کے بعد"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "گَبّای"
+    },
+    {
+      "surface": "סלי",
+      "gloss": "سَلّای"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نو"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیس"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "اور آٹھ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:56:13.753287958Z",
+  "model": "glm-5.2"
+}

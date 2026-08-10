@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 19:37",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "اور قادِش، اور ادرَعی، اور عین خاصور۔",
+  "tokens": [
+    {
+      "surface": "וקדש",
+      "gloss": "اور قادِش"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "اور ادرَعی"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "اور عین"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "خاصور"
+    }
+  ],
+  "timestamp": "2026-08-10T05:36:51.514013503Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "جھوٹا گواہ ⟨نہیں⟩ بخشا جائے گا، اور جھوٹ پھونکنے والا ہلاک ہوگا۔",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "گواہ"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "جھوٹے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨نہیں⟩"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "بخشا جائے گا"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "اور پھونکنے والا"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "جھوٹ"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "ہلاک ہوگا"
+    }
+  ],
+  "timestamp": "2026-08-10T06:38:47.431575285Z",
+  "model": "glm-5.2"
+}

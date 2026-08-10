@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 31:43",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 31,
+  "translation": "اَور جماعت کا نصف حصہ بھیڑوں میں سے تین لاکھ اور تیس ہزار اور سات ہزار اور پانچ سو تھا۔",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "اَور تھا"
+    },
+    {
+      "surface": "מחצת",
+      "gloss": "نصف حصہ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "جماعت کا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "میں سے"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "بھیڑوں"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "تین"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "لاکھ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "اَور تیس"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "سات"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "اَور پانچ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    }
+  ],
+  "timestamp": "2026-08-10T05:30:57.212133675Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 22:33",
+  "book": "2-samuel",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "ایل ⟨ہے⟩ میرا قلعہ، ⟨میری⟩ قوت، اور وہ میرے راستے کو کامل کرتا ہے۔",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "میرا قلعہ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "قوت"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "اور وہ کرتا ہے"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "کامل"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "اس کا راستہ"
+    }
+  ],
+  "timestamp": "2026-08-09T21:39:16.308075451Z",
+  "model": "glm-5.2"
+}

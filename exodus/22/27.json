@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "الوہیم کو برا نہ کہنا، اور اپنے لوگوں کے سردار کو نہ لعنت کرنا۔",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم کو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקלل",
+      "gloss": "برا کہنا"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "اور سردار کو"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "اپنے لوگوں کے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "لعنت کرنا"
+    }
+  ],
+  "timestamp": "2026-08-10T05:20:53.424684001Z",
+  "model": "glm-5.2"
+}

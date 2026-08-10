@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 107,
+  "translation": "کیونکہ اس نے پیاسانی جان کو سیر کیا، اور بھوکی جان کو بھلائی سے بھر دیا۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "سیر کیا"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان کو"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "پیاسانی"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "اور جان کو"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "بھوکی"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "بھر دیا"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "بھلائی سے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:48:45.553864442Z",
+  "model": "glm-5.2"
+}

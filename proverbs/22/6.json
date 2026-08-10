@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 22:6",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "نوجوان کو اس کے راستے کے مطابق تربیت دے؛ یہاں تک کہ جب وہ بوڑھا ہو ⟨بھی⟩، وہ اس سے نہیں ہٹے گا۔",
+  "tokens": [
+    {
+      "surface": "חנך",
+      "gloss": "تربیت دے"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "نوجوان کو"
+    },
+    {
+      "surface": "על",
+      "gloss": "کے مطابق"
+    },
+    {
+      "surface": "פי",
+      "gloss": "مناسب"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "اس کے راستے"
+    },
+    {
+      "surface": "גם",
+      "gloss": "یہاں تک کہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ جب"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "وہ بوڑھا ہو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "وہ ہٹے گا"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "اس سے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:05:14.070966520Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 44:21",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 44,
+  "translation": "اور شراب نہ پیئے کوئی کوهن، ان کے اندر آنے کے وقت ⟨إلى⟩ اندرونی دالان میں۔",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "اور شراب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "پیئے گا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی بھی"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "کوهن"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "ان کے آنے کے وقت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "دالان"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "اندرونی"
+    }
+  ],
+  "timestamp": "2026-08-10T07:27:39.589879230Z",
+  "model": "glm-5.2"
+}

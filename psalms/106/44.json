@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 106,
+  "translation": "پھر بھی اُن کی تنگی دیکھی، اپنے سننے پر ⟨את⟩ اُن کی پکار۔",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "اُس نے دیکھی"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "تنگی"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اُن کی"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "اپنے سننے پر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اُن کی پکار"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "اُن کی پکار"
+    }
+  ],
+  "timestamp": "2026-08-10T06:34:45.415850010Z",
+  "model": "glm-5.2"
+}

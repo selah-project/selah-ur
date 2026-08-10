@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "اور دس دن کے بعد ہوا، تو یاہویہ نے ⟨את⟩ نابال کو مارا، اور وہ مر گیا۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "جیسے~دس"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "دنوں"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "تو مارا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نابال کو"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "نابال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "اور وہ مر گیا"
+    }
+  ],
+  "timestamp": "2026-08-10T05:46:23.591080755Z",
+  "model": "glm-5.2"
+}

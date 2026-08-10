@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 35:26",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 35,
+  "translation": "اور زِلپا کے بیٹے — لایا کی لونڈی — گاد اور آشر۔ یہ ہیں یعقوب کے بیٹے جو اُسے پَدّان اَرام میں پیدا ہوئے۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "اور بیٹے"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "زِلپا"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "لونڈی"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لایا"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "اور آشر"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "پیدا ہوئے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُسے"
+    },
+    {
+      "surface": "בפדן",
+      "gloss": "پَدّان میں"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "اَرام"
+    }
+  ],
+  "timestamp": "2026-08-10T05:15:26.885501793Z",
+  "model": "glm-5.2"
+}

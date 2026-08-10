@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "lamentations 3:26",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "بھلا ہے ⟨کہ⟩ وہ آوس اور خاموشی سے یاہویہ کی نجات کے لیےرہے۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "بھلا ہے"
+    },
+    {
+      "surface": "ויחיל",
+      "gloss": "وہ آوس"
+    },
+    {
+      "surface": "ודומם",
+      "gloss": "اور خاموشی سے"
+    },
+    {
+      "surface": "לתשועת",
+      "gloss": "نجات کے لیے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:29:38.243729855Z",
+  "model": "glm-5.2"
+}

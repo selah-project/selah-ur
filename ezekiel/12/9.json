@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 12:9",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "اے ابنِ آدم، کیا بیت یِسرائیل، یعنی وہ سرکش گھرانے، نے آپ سے نہیں کہا: آپ کیا کر رہے ہیں؟",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "اے بیٹے"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم کے"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "کیا نہیں"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "کہا"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "آپ سے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھرانے نے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھرانے نے"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "سرکش"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "آپ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کر رہے ہیں"
+    }
+  ],
+  "timestamp": "2026-08-09T22:50:18.757566130Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 2:33",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور یوناتان کے بیٹے فَلِت اور زازا تھے۔ یہ یِرَحْمِئیل کے بیٹے تھے۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "اور بیٹے"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "یوناتان"
+    },
+    {
+      "surface": "פלת",
+      "gloss": "فَلِت"
+    },
+    {
+      "surface": "וזזא",
+      "gloss": "اور زازا"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "تھے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "یِرَحْمِئیل"
+    }
+  ],
+  "timestamp": "2026-08-10T00:58:07.828029151Z",
+  "model": "glm-5.2"
+}

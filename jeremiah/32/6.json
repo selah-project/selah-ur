@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 32:6",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 32,
+  "translation": "اور یِرمِیہو نے کہا: یاہویہ کا فرمان مجھے ہوا، یوں کہ:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمِیہو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہو چکا ہے"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "فرمان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مجھے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "یوں کہ"
+    }
+  ],
+  "timestamp": "2026-08-10T06:10:13.767908346Z",
+  "model": "glm-5.2"
+}

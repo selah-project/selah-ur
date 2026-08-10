@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "genesis 41:38",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 41,
+  "translation": "اور پَرعہ نے اپنے غلاموں سے کہا: کیا ہم ایسا آدمی پا سکتے ہیں جس میں الوہیم کی روح ہے؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پَرعہ نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "اپنے غلاموں"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "کیا پا سکتے ہیں"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "ایسا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جس"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم کی"
+    },
+    {
+      "surface": "בו",
+      "gloss": "میں ہے"
+    }
+  ],
+  "timestamp": "2026-08-09T19:51:13.995751963Z",
+  "model": "glm-5.2"
+}

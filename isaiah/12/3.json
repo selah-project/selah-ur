@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 12:3",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "اور تم خوشی سے پانی کھینچو گے نجات کے چشموں سے۔",
+  "tokens": [
+    {
+      "surface": "ושאבתם",
+      "gloss": "اور تم کھینچو گے"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "خوشی سے"
+    },
+    {
+      "surface": "ממעיני",
+      "gloss": "چشموں سے"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "نجات کے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:04:34.651046735Z",
+  "model": "glm-5.2"
+}

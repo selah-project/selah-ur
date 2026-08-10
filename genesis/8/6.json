@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اور ہوا، چالیس دن کے اختتام پر، نوشَح نے ⟨את⟩ کشتی کی کھڑکی کھولی جو اس نے بنائی تھی۔",
+  "tokens": [
+    {
+      "surface": "והי",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "اختتام پر"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چالیس"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "کھولی"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نوشَح"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کھڑکی"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "کھڑکی"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "کشتی کی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بنائی تھی"
+    }
+  ],
+  "timestamp": "2026-08-09T19:35:31.471630257Z",
+  "model": "glm-5.2"
+}

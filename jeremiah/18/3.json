@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 18:3",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "تو میں اُترا کُمھار کے گھر میں، اور دیکھو! وہ کام کر رہا تھا پتھروں پر۔",
+  "tokens": [
+    {
+      "surface": "וארד",
+      "gloss": "تو میں اُترا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر میں"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "کُمھار کے"
+    },
+    {
+      "surface": "והנהו",
+      "gloss": "اور دیکھو! وہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کر رہا تھا"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "کام"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "پتھروں"
+    }
+  ],
+  "timestamp": "2026-08-09T22:30:09.892366991Z",
+  "model": "glm-5.2"
+}

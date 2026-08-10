@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 18:22",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "جو بات نبی یاہویہ کے نام میں بولے اور وہ بات نہ ہو اور نہ آئے — وہ ⟨وہ⟩ بات ہے جسے یاہویہ نے نہیں کہی؛ گھمنڈ سے بولا ہے وہ نبی — اس سے نہ ڈر۔",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "بولے"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "کے نام میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "وہ ہو"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "وہ بات"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "آئے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨وہ⟩ بات"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جسے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "کہی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "گھمنڈ سے"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "بولا ہے"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "وہ نبی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגור",
+      "gloss": "ڈر"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اس سے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:13:38.145289957Z",
+  "model": "glm-5.2"
+}

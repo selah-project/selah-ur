@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 40,
+  "translation": "اور اس نے مسکان کے دہانے کا پردہ لگایا۔",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "اور اس نے لگایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پردہ"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "پردہ"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "دہانے کا"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "مسکان"
+    }
+  ],
+  "timestamp": "2026-08-09T20:12:59.677940913Z",
+  "model": "glm-5.2"
+}

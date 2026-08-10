@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اور پڑعہ نے اس مرتبہ بھی ⟨את⟩ اپنا دل سخت کیا، اور اس نے ⟨את⟩ قوم کو روانا نہ کیا۔",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "اور سخت کیا"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پڑعہ نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنا دل"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "اپنا دل"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بھی"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "مرتبہ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اس"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "روانا کیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قوم کو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم کو"
+    }
+  ],
+  "timestamp": "2026-08-10T08:34:35.610227118Z",
+  "model": "glm-5.2"
+}

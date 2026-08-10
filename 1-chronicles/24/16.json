@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 24:16",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "انیسواں لِفَتَخیَه کو، بیسواں لِیَحِزقِیَل کو۔",
+  "tokens": [
+    {
+      "surface": "לפתחיה",
+      "gloss": "لِفَتَخیَه کو"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "نو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دس"
+    },
+    {
+      "surface": "ליחזקאל",
+      "gloss": "لِیَحِزقِیَل کو"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "بیسواں"
+    }
+  ],
+  "timestamp": "2026-08-10T01:09:42.993323985Z",
+  "model": "glm-5.2"
+}

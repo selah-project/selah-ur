@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "پہلے دن تمہارے لیے مقدس اعلان ہوگا؛ کوئی بھی خدمت کا کام نہ کرو۔",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "پہلے دن"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "پہلے"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "اعلان"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوگا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تمہارے لیے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی بھی"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "کام"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "خدمت کا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "کرو"
+    }
+  ],
+  "timestamp": "2026-08-10T09:17:37.868610580Z",
+  "model": "glm-5.2"
+}

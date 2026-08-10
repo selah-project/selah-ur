@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "اور تم جو یاہویہ اپنے الوہیم سے چمٹے رہتے ہو، تم سب آج زندہ ہو۔",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "اور تم"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "جو چمٹے رہتے ہو"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "یاہویہ سے"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "اپنے الوہیم"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندہ"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "تم سب"
+    },
+    {
+      "surface": "היום",
+      "gloss": "آج"
+    }
+  ],
+  "timestamp": "2026-08-10T05:32:36.493180291Z",
+  "model": "glm-5.2"
+}

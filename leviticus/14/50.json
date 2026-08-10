@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "اور وہ ⟨את⟩ ایک پرندے کو مٹی کے برتن میں زندہ پانی کے اوپر ذبح کرے گا۔",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "اور وہ ذبح کرے گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایک پرندے کو"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "پرندے"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "برتن"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "مٹی کے"
+    },
+    {
+      "surface": "על",
+      "gloss": "کے اوپر"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندہ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:19:45.283143306Z",
+  "model": "glm-5.2"
+}

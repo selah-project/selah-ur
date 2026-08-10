@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 14:4",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "کون پاک دے سکتا ہے ناپاک سے؟ کوئی ایک نہیں۔",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دے سکتا ہے"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "מטמא",
+      "gloss": "ناپاک سے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    }
+  ],
+  "timestamp": "2026-08-10T00:14:16.088842765Z",
+  "model": "glm-5.2"
+}

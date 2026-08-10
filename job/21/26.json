@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 21:26",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "یکجا خاک پر لیٹتے ہیں اور کیڑا انہیں ڈھانپتا ہے۔",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "یکجا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "خاک"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "لیٹتے ہیں"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "اور کیڑا"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "ڈھانپتا ہے"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "انہیں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:17:46.963135206Z",
+  "model": "glm-5.2"
+}

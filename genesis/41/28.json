@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 41:28",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 41,
+  "translation": "یہ وہ بات ہے جو میں نے پَرعہ سے کہی ہے: جو الوہیم کر رہا ہے ⟨את⟩-وہ اُس نے پَرعہ کو دکھا دیا ہے۔",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "بات"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "میں نے کہی ہے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پَرعہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کر رہا ہے"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "دکھا دیا ہے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پَرعہ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پَرعہ"
+    }
+  ],
+  "timestamp": "2026-08-09T19:50:03.750475319Z",
+  "model": "glm-5.2"
+}

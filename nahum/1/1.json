@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 1:1",
+  "book": "nahum",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "نِینوِہ کا بار — نَحُوم ہا اَلقُوشی کا دیکھنے کی کتاب۔",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "بار"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "نِینوِہ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "کتاب"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "دیکھنے کی"
+    },
+    {
+      "surface": "נחום",
+      "gloss": "نَحُوم"
+    },
+    {
+      "surface": "האלקשי",
+      "gloss": "ہا اَلقُوشی"
+    }
+  ],
+  "timestamp": "2026-08-09T23:14:17.519280329Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "ان کے گوشت سے مت کھاؤ اور ان کی لاش کو مت چھوؤ — وہ تمہارے لیے ناپاک ہیں۔",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "ان کے گوشت سے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کھاؤ"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "اور ان کی لاش کو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "چھوؤ"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "ناپاک"
+    },
+    {
+      "surface": "הם",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تمہارے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:17:00.554493146Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور بوعَز نے ⟨את⟩ عوْبید کو پیدا کیا، اور عوْبید نے ⟨את⟩ یِشای کو پیدا کیا۔",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "اور بوعَز"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیدا کیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عوْبید"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "عوْبید"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "اور عوْبید"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیدا کیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِشای"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "یِشای"
+    }
+  ],
+  "timestamp": "2026-08-10T00:57:48.204371548Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 21:25",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "اور یہ ⟨ایک⟩ مرتا ہے تلخ نَفَش میں اور نہیں کھایا خوشی میں۔",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "اور یہ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مرتا ہے"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "نَفَش میں"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "تلخ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہیں"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "کھایا"
+    },
+    {
+      "surface": "בטובה",
+      "gloss": "خوشی میں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:17:46.962919123Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 13:3",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "اور یاہویہ کا کلام مجھے دوسری مرتبہ ہوا، یہ کہتے ہوئے:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوئی\/ہوا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مجھے"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "دوسری مرتبہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "یہ کہتے ہوئے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:27:11.563997330Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 10:14",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "دیکھ! تیرے الوہیم یہویہ کے لیے ہیں آسمان اور آسمانوں کے آسمان، زمین اور سب کچھ جو اُس میں ہے۔",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "دیکھ!"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یہویہ کے لیے"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیرے الوہیم"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمان"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "اور آسمانوں کے"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمان"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "اور سب کچھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اُس میں ہے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:46:33.947626823Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 19:15",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "کوئی ایک گواہ کسی آدمی کے خلاف نہ اٹھے — کسی بگاڑ کے لیے، کسی گناہ کے لیے، ہر اُس خطا کے لیے جسے وہ کرے؛ دو گواہوں کے منہ پر، یا تین گواہوں کے منہ پر، بات قائم ہو۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "اٹھے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "گواہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "کسی آدمی کے خلاف"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "کسی"
+    },
+    {
+      "surface": "עון",
+      "gloss": "بگاڑ"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "کسی"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "گناہ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "خطا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "وہ کرے"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פי",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "گواہوں کے"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פי",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "تین"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "گواہوں کے"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "قائم ہو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بات"
+    }
+  ],
+  "timestamp": "2026-08-10T05:33:48.093246433Z",
+  "model": "glm-5.2"
+}

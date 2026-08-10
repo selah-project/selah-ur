@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 18:9",
+  "book": "1-samuel",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "اور شاؤل نے اُس دن سے آگے کے لیے داؤد کے بارے میں (سوچنا) ⟨את⟩ شروع کیا۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "עון",
+      "gloss": "(سوچنا)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داؤد"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داؤد"
+    },
+    {
+      "surface": "מהיום",
+      "gloss": "اُس دن سے"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "آگے کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-10T05:45:05.251363898Z",
+  "model": "glm-5.2"
+}

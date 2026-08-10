@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 6:51",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اور بَنِی قِہات کے خاندانوں سے، اور ہوئے ان کی سرحد کے شہر قبیلے اِفرایم سے۔",
+  "tokens": [
+    {
+      "surface": "וממשפחות",
+      "gloss": "اور خاندانوں سے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَنِی"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قِہات"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوئے"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "ان کی سرحد کے"
+    },
+    {
+      "surface": "ממטה",
+      "gloss": "قبیلے سے"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اِفرایم"
+    }
+  ],
+  "timestamp": "2026-08-10T01:02:04.786468793Z",
+  "model": "glm-5.2"
+}

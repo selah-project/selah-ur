@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 41:26",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 41,
+  "translation": "⟨את⟩ ہر بلند کو وہ دیکھتا ہے؛ وہ ہر متکبرین کا بادشاہ ہے۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہر بلند کو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "بلند"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "وہ دیکھتا ہے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "کا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنیوں"
+    },
+    {
+      "surface": "שחץ",
+      "gloss": "متکبر"
+    }
+  ],
+  "timestamp": "2026-08-10T00:25:25.208892382Z",
+  "model": "glm-5.2"
+}

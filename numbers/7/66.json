@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "numbers 7:66",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "دسویں دن دان کے بیٹوں کا نسی اَخِیعزِر بِن عَمّیشَدّای تھا،",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "دسویں"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "نسی"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بیٹوں کا"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "اَخِیعزِر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بِن"
+    },
+    {
+      "surface": "עמישדי",
+      "gloss": "عَمّیشَدّای"
+    }
+  ],
+  "timestamp": "2026-08-10T07:40:14.988839804Z",
+  "model": "glm-5.2"
+}

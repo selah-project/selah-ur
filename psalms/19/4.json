@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "نہیں ہے بات اور نہیں ہیں الفاظ، بغیر سناۓ جاتے ان کی آواز۔",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "نہیں ہے"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "بات"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "اور نہیں ہیں"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "الفاظ"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بغیر"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "سناۓ جاتے"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ان کی آواز"
+    }
+  ],
+  "timestamp": "2026-08-09T23:27:43.609217686Z",
+  "model": "glm-5.2"
+}

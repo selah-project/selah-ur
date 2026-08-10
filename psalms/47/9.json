@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 47,
+  "translation": "الوہیم بادشاہی کرتا ہے گوئیم پر؛ الوہیم بیٹھا ہے اپنے مقدس تخت پر۔",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہی کرتا ہے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "گوئیم"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "بیٹھا ہے"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "اپنے مقدس"
+    }
+  ],
+  "timestamp": "2026-08-09T23:32:19.747541038Z",
+  "model": "glm-5.2"
+}

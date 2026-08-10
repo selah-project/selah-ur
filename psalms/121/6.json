@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 121,
+  "translation": "دن کو سورج تجھے نہ مارے گا، اور نہ چاند رات کو۔",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "دن کو"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سورج"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "مارے گا"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "اور چاند"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "رات کو"
+    }
+  ],
+  "timestamp": "2026-08-10T07:31:17.045626944Z",
+  "model": "glm-5.2"
+}

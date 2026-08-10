@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 30:2",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 30,
+  "translation": "اے آدم کے بیٹے، نبوت کر اور کہہ، یوں فرماتا ہے ادونای یاہویہ: چیخو، ہائے اس دن کو!",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "نبوت کر"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "اور کہہ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "یوں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فرماتا ہے"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "چیخو"
+    },
+    {
+      "surface": "הה",
+      "gloss": "ہائے"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "اس دن کو"
+    }
+  ],
+  "timestamp": "2026-08-09T22:57:27.599254409Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "اور اگر وہ کوئی غریب آدمی ہے، تو اس کی گروی کے ساتھ مت لیٹو۔",
+  "tokens": [
+    {
+      "surface": "וְאִם",
+      "gloss": "اور اگر"
+    },
+    {
+      "surface": "אִ֥ישׁ",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "עָנִ֖י",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "ה֑וּא",
+      "gloss": "وہ ہے"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "مت"
+    },
+    {
+      "surface": "תִשְׁכַּ֖ב",
+      "gloss": "لیٹو"
+    },
+    {
+      "surface": "בַּעֲבֹטֽוֹ",
+      "gloss": "اس کی گروی کے ساتھ"
+    }
+  ],
+  "timestamp": "2026-08-10T05:35:11.747215034Z",
+  "model": "glm-5.2"
+}

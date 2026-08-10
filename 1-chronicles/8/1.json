@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اور بِنیامین نے ⟨את⟩ بِلَع اپنے بیٹےِ بکر کو جنا، اَشبیل دوسرا، اور اَحراخ تیسرا۔",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "اور بِنیامین"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "جنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بِلَع"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "بِلَع"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "اپنے بیٹےِ بکر"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "اَشبیل"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دوسرا"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "اور اَحراخ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "تیسرا"
+    }
+  ],
+  "timestamp": "2026-08-10T01:02:18.850753162Z",
+  "model": "glm-5.2"
+}

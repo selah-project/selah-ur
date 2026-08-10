@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "ان کے شمار شدہ، گاد کے قبیلے کے لیے: پینتالیس ہزار اور چھ سو اور پچاس۔",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ان کے شمار شدہ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "قبیلے کے لیے"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پانچ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "اور چالیس"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "اور چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "اور پچاس"
+    }
+  ],
+  "timestamp": "2026-08-10T05:26:36.496656369Z",
+  "model": "glm-5.2"
+}

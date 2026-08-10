@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "numbers 7:58",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "بکروں کا ایک بالدار، گناہ کی قربانی کے لیے۔",
+  "tokens": [
+    {
+      "surface": "שְׂעִיר",
+      "gloss": "بالدار"
+    },
+    {
+      "surface": "עִזִּ֥ים",
+      "gloss": "بکروں کا"
+    },
+    {
+      "surface": "אֶחָ֖ד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "לְחַטָּֽאת",
+      "gloss": "گناہ کی قربانی کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-10T08:38:49.318484558Z",
+  "model": "glm-5.2"
+}

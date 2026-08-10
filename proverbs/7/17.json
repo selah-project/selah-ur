@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 7:17",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "میں نے اپنا بستر معطر کیا، مرّ، عود اور دارچینی سے۔",
+  "tokens": [
+    {
+      "surface": "נפתי",
+      "gloss": "میں نے معطر کیا"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "اپنا بستر"
+    },
+    {
+      "surface": "מר",
+      "gloss": "مرّ"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "عود"
+    },
+    {
+      "surface": "וקנמון",
+      "gloss": "اور دارچینی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:00:12.151053171Z",
+  "model": "glm-5.2"
+}

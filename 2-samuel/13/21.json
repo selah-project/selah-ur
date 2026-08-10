@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "اور بادشاہ داوِد نے ⟨את⟩ تمام ⟨ال⟩ باتیں ⟨ال⟩ سنیں، اور اسے بہت شدید غصہ ہوا۔",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "اور بادشاہ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سنے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تمام باتیں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "باتیں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "اور ⟨وہ⟩ بھڑکا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اسے"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت شدید"
+    }
+  ],
+  "timestamp": "2026-08-09T21:34:37.732567328Z",
+  "model": "glm-5.2"
+}

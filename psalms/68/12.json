@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 68,
+  "translation": "ادونای نے فرمان دیا؛ خوشخبری پھیلانے والیوں کا لشکر بڑا ہے۔",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "ادونای نے"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دیا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فرمان"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "خوشخبری پھیلانے والیوں کا"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لشکر"
+    },
+    {
+      "surface": "רב",
+      "gloss": "بڑا ہے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:37:18.656359630Z",
+  "model": "glm-5.2"
+}

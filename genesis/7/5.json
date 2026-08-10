@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اور نُوح نے وہ سب کچھ کیا جو یاہویہ نے اسے حکم دیا تھا۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "اور کیا"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُوح"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "جتنا کہ سب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "اسے حکم دیا تھا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    }
+  ],
+  "timestamp": "2026-08-10T05:12:42.393153383Z",
+  "model": "glm-5.2"
+}

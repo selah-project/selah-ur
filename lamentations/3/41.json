@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "lamentations 3:41",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "ہم اپنے دل کو ہاتھوں کی طرف ⟨بھی⟩ آسمان میں ایل کی طرف اٹھاتے ہیں۔",
+  "tokens": [
+    {
+      "surface": "נִשָּׂא",
+      "gloss": "ہم اٹھاتے ہیں"
+    },
+    {
+      "surface": "לְבָבֵנוּ",
+      "gloss": "اپنے دل کو"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "כַּפַּיִם",
+      "gloss": "ہاتھوں"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "אֵל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "בַּשָּׁמָיִם",
+      "gloss": "آسمان میں"
+    }
+  ],
+  "timestamp": "2026-08-10T06:42:40.255835693Z",
+  "model": "glm-5.2"
+}

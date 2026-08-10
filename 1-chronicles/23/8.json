@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 23:8",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "لَعْدان کے بیٹے: سردار یِحی ایل، اور زِتام، اور یُو ایل — تین۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "لَعْدان"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "یِحی ایل"
+    },
+    {
+      "surface": "וזתם",
+      "gloss": "اور زِتام"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "اور یُو ایل"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "تین"
+    }
+  ],
+  "timestamp": "2026-08-10T09:34:33.692125694Z",
+  "model": "glm-5.2"
+}

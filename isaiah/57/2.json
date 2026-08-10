@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 57:2",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 57,
+  "translation": "سلامتی آئے گا، وہ اپنے بستروں پر آرام کریں گے، سیدھا چلنے والا۔",
+  "tokens": [
+    {
+      "surface": "יבוא",
+      "gloss": "آئے گا"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتی"
+    },
+    {
+      "surface": "ינוחו",
+      "gloss": "وہ آرام کریں گے"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "ان کے بستروں"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "چلنے والا"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "سیدھا"
+    }
+  ],
+  "timestamp": "2026-08-09T22:18:23.493171243Z",
+  "model": "glm-5.2"
+}

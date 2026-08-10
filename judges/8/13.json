@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 8:13",
+  "book": "judges",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اور گِدعون بن یُوآش جنگ سے واپس آیا، چڑھائیِ ہیریس سے۔",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "اور واپس آیا"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "گِدعون"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "یُوآش"
+    },
+    {
+      "surface": "מן",
+      "gloss": "سے"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "چڑھائی سے"
+    },
+    {
+      "surface": "החרס",
+      "gloss": "ہیریس"
+    }
+  ],
+  "timestamp": "2026-08-10T05:40:31.288269588Z",
+  "model": "glm-5.2"
+}

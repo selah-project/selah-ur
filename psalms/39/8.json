@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 39,
+  "translation": "اور اب، میں نے کس چیز کی آس کی؟ ادونای، میری آس تیرے ہی لیے ہے۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "اور اب"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کس چیز کی"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "میں نے آس کی"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "میری آس"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے ہی لیے"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ہے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:31:55.891883025Z",
+  "model": "glm-5.2"
+}

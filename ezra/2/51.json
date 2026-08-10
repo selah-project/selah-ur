@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "ezra 2:51",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "بنِ بَقْبوق کے، بنِ خَقوفا کے، بنِ خَرخور کے،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بنِ"
+    },
+    {
+      "surface": "בקבוק",
+      "gloss": "بَقْبوق"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنِ"
+    },
+    {
+      "surface": "חקופא",
+      "gloss": "خَقوفا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنِ"
+    },
+    {
+      "surface": "חרחור",
+      "gloss": "خَرخور"
+    }
+  ],
+  "timestamp": "2026-08-10T00:48:36.287102843Z",
+  "model": "glm-5.2"
+}

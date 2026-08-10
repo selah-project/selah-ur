@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "اسی دن ⟨وہ⟩ کھایا جائے؛ اس سے کچھ صبح تک نہ بچاؤ؛ میں یاہویہ ہوں۔",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "اسی دن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھایا جائے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "بچاؤ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اس سے کچھ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:23:25.019884613Z",
+  "model": "glm-5.2"
+}

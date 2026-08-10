@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 119,
+  "translation": "میرے لیے بھلا ہوا ⟨کہ⟩ میں دبایا گیا، تاکہ میں تیرے حکم سیکھوں۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "بھلا ہوا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے لیے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨کہ⟩"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "میں دبایا گیا"
+    },
+    {
+      "surface": "למען",
+      "gloss": "تاکہ"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "میں سیکھوں"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "تیرے حکم"
+    }
+  ],
+  "timestamp": "2026-08-09T23:53:36.040530612Z",
+  "model": "glm-5.2"
+}

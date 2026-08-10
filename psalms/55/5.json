@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 55,
+  "translation": "میرا دل میرے اندر کھنچتا ہے، اور موت کے خوف مجھ پر گر پڑے ہیں۔",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "میرا دل"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "کھنچتا ہے"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "میرے اندر"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "اور خوفِ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "گر پڑے ہیں"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "مجھ پر"
+    }
+  ],
+  "timestamp": "2026-08-09T23:33:51.363711600Z",
+  "model": "glm-5.2"
+}

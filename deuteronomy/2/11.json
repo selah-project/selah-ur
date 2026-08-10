@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 2:11",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "رفائیم بھی ⟨وہ⟩ گنے جاتے ہیں، عناقیم کی طرح؛ اور موآبی انہیں ہیمیم کہتے ہیں۔",
+  "tokens": [
+    {
+      "surface": "רפאים",
+      "gloss": "رفائیم"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "گنے جاتے ہیں"
+    },
+    {
+      "surface": "אף",
+      "gloss": "بھی"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨وہ⟩"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "عناقیم کی طرح"
+    },
+    {
+      "surface": "והמאבים",
+      "gloss": "اور موآبی"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "کہتے ہیں"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انہیں"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "ہیمیم"
+    }
+  ],
+  "timestamp": "2026-08-09T20:43:20.717580714Z",
+  "model": "glm-5.2"
+}

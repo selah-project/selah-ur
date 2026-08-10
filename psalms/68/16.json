@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 68,
+  "translation": "الوہیم کا پہاڑ باشان کا پہاڑ ہے، چوٹیوں والا پہاڑ، باشان کا پہاڑ ہے۔",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم کا"
+    },
+    {
+      "surface": "הר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "باشان"
+    },
+    {
+      "surface": "הר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "چوٹیوں والا"
+    },
+    {
+      "surface": "הר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "باشان"
+    }
+  ],
+  "timestamp": "2026-08-10T06:31:46.965368450Z",
+  "model": "glm-5.2"
+}

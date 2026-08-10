@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 11:1",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "وہ بات جو یِرمِیاہو کی طرف ⟨את⟩ یاہویہ کی طرف سے ہوئی، فرماتے ہوئے:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "وہ بات"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہوئی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمِیاہو"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "یاہویہ کی طرف سے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "فرماتے ہوئے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:26:14.082847309Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 10:15",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "اور یساکر کے بیٹوں کے قبیلے کی فوج پر نتینال، ذوار کا بیٹا تھا۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "اور پر"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "فوج"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "قبیلے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹوں"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "یساکر"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "نتینال"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "ذوار"
+    }
+  ],
+  "timestamp": "2026-08-09T20:28:46.835602475Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 32,
+  "translation": "نابابلا کو نہ کہا جائے گا ندیب اور کنجوس کو نہ کہا جائے گا سخاوت والا۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "کہا جائے گا"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "آئندہ"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "نابابلا کو"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "سخی"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "اور کنجوس کو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "کہا جائے گا"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "سخاوت والا"
+    }
+  ],
+  "timestamp": "2026-08-09T22:09:54.449634387Z",
+  "model": "glm-5.2"
+}

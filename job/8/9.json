@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 8:9",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "کیونکہ کل ہم ⟨تھے⟩ اور نہیں جانتے، کیونکہ سایہ ⟨ہیں⟩ ہمارے دن زمین پر۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "کل"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہیں"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "جانتے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "צל",
+      "gloss": "سایہ"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ہمارے دن"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-10T06:40:00.623165296Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اور حِبِر نے پیدا کیا ⟨את⟩ یَفلِت اور ⟨את⟩ شومیر اور ⟨את⟩ حوتام اور ⟨את⟩ شُوعا، ان کی بہن۔",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "اور حِبِر"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیدا کیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یَفلِت"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "یَفلِت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "شومیر"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "شومیر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "حوتام"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "حوتام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "شُوعا"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "شُوعا"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "ان کی بہن"
+    }
+  ],
+  "timestamp": "2026-08-10T01:03:08.940214392Z",
+  "model": "glm-5.2"
+}

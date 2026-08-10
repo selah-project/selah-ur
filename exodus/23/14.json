@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 23:14",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "سال میں تین دفعہ تم میرے لیے عید مناؤ۔",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "تین"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "دفعہ"
+    },
+    {
+      "surface": "תחג",
+      "gloss": "تم عید مناؤ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے لیے"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "سال میں"
+    }
+  ],
+  "timestamp": "2026-08-09T20:05:37.097530864Z",
+  "model": "glm-5.2"
+}

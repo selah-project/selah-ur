@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 82,
+  "translation": "کمزور اور نادار کو بچا دو؛ بدکاروں کے ہاتھ سے انہیں چھڑاؤ۔",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "بچا دو"
+    },
+    {
+      "surface": "דל",
+      "gloss": "کمزور کو"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "اور نادار کو"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "سے"
+    },
+    {
+      "surface": "رשעים",
+      "gloss": "بدکاروں کے ہاتھ"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "چھڑاؤ"
+    }
+  ],
+  "timestamp": "2026-08-09T23:40:30.706622349Z",
+  "model": "glm-5.2"
+}

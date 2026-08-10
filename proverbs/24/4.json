@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 24:4",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "اور دانائی سے کمرے ہر قیمتی اور خوشگوار مال سے بھرے جاتے ہیں۔",
+  "tokens": [
+    {
+      "surface": "ובדעת",
+      "gloss": "اور دانائی سے"
+    },
+    {
+      "surface": "חדרים",
+      "gloss": "کمرے"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "بھرے جاتے ہیں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "הון",
+      "gloss": "مال"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "قیمتی"
+    },
+    {
+      "surface": "ונעים",
+      "gloss": "اور خوشگوار"
+    }
+  ],
+  "timestamp": "2026-08-10T00:06:15.595084344Z",
+  "model": "glm-5.2"
+}

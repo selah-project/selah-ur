@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 3:12",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "اَمَصْیاهو اس کا بیٹا، عَزَرْیہ اس کا بیٹا، یوتام اس کا بیٹا،",
+  "tokens": [
+    {
+      "surface": "אמציהו",
+      "gloss": "اَمَصْیاهو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اس کا بیٹا"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عَزَرْیہ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اس کا بیٹا"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "یوتام"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اس کا بیٹا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:59:59.308892679Z",
+  "model": "glm-5.2"
+}

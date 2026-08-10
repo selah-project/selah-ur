@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 8:23",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "ازل سے میں مسح ہوئی، ابتدا سے، زمین کے قدیم زمانوں سے۔",
+  "tokens": [
+    {
+      "surface": "מעולם",
+      "gloss": "ازل سے"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "میں مسح ہوئی"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "ابتدا سے"
+    },
+    {
+      "surface": "מקדמי",
+      "gloss": "قدیم زمانوں سے"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین کے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:37:28.703012493Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 19:3",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "آدمی کی حماقت اس کی راہ بگاڑ دیتی ہے، اور یاہویہ پر اس کا دل غصہ کرتا ہے۔",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "حماقت"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمی کی"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "بگاڑ دیتی ہے"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "اس کی راہ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "اور پر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "יזעף",
+      "gloss": "غصہ کرتا ہے"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "اس کا دل"
+    }
+  ],
+  "timestamp": "2026-08-10T00:05:13.576166954Z",
+  "model": "glm-5.2"
+}

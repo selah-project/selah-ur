@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 25:2",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "بنی یِسرائیل سے بول اور اُن سے کہہ: جب تم اُس زمین میں آؤ جو میں تمہیں دے رہا ہوں، تو زمین کو یاہویہ کے لیے شَبّت ⟨ہوگی⟩۔",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "بول"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "اور کہہ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ان سے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جب"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "تم آؤ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "میں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دے رہا ہوں"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تمہیں"
+    },
+    {
+      "surface": "ושבתה",
+      "gloss": "تو ⟨یہ⟩ شَبّت مناتی ہے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "شَبّت"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہویہ کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:24:07.337744186Z",
+  "model": "glm-5.2"
+}

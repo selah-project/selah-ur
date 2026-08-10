@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 9:37",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "اَور گِدور، اَور اَحیو، اَور زَخَریاہ، اَور مِقلوت۔",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "اَور گِدور"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "اَور اَحیو"
+    },
+    {
+      "surface": "וזכריה",
+      "gloss": "اَور زَخَریاہ"
+    },
+    {
+      "surface": "ומקלות",
+      "gloss": "اَور مِقلوت"
+    }
+  ],
+  "timestamp": "2026-08-10T01:03:24.509578049Z",
+  "model": "glm-5.2"
+}

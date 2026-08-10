@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezra 2:23",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "عَناتوت کے مرد، ایک سو بیس اور آٹھ۔",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "عَناتوت"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ایک سو"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیس"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "اور آٹھ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:46:17.538720042Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 28:8",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 28,
+  "translation": "کیونکہ تمام میزے اُگلی ہوئی بھرپور ہیں، گندگی، بے جگہ۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "میزے"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "بھرپور ہیں"
+    },
+    {
+      "surface": "קיא",
+      "gloss": "اُگلی ہوئی"
+    },
+    {
+      "surface": "צאה",
+      "gloss": "گندگی"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بے"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جگہ"
+    }
+  ],
+  "timestamp": "2026-08-09T22:08:28.153177919Z",
+  "model": "glm-5.2"
+}

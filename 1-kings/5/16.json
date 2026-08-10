@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 5:16",
+  "book": "1-kings",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "اور شِلوموہ نے حِیرام کے پاس بھیجا، یوں کہنے کو:",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "اور بھیجا"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شِلوموہ نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کے پاس"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "حِیرام"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "یوں کہنے کو"
+    }
+  ],
+  "timestamp": "2026-08-09T21:41:44.760915150Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 8:11",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "چونکہ ⟨کوئی⟩ فیصلہ بری حرکت پر جلد نہیں کیا جاتا، اِسی لیے انسان کے بیٹوں کا دل اُن میں بھر گیا ہے برائی کرنے کے لیے۔",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "چونکہ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "کیا جاتا"
+    },
+    {
+      "surface": "פתגם",
+      "gloss": "فیصلہ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "حرکت"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "بری"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "جلد"
+    },
+    {
+      "surface": "על",
+      "gloss": "اِسی پر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اِسی لیے"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "بھر گیا ہے"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹوں کا"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "اُن میں"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کرنے کے لیے"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برائی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:36:06.751158705Z",
+  "model": "glm-5.2"
+}

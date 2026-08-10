@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 27:1",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "اور یاہویہ کا بیان میرے پاس ہوا، ⟨یہ⟩ کہہ کر:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بیان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میرے پاس"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہہ کر"
+    }
+  ],
+  "timestamp": "2026-08-09T22:55:35.243263284Z",
+  "model": "glm-5.2"
+}

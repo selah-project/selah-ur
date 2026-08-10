@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 21:9",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "اور یاہویہ نے گاد سے، داوِد کے دریں بین کہہ کر، فرمایا —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "اور بولا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "دیکھنے والے"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد کے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہہ کر"
+    }
+  ],
+  "timestamp": "2026-08-10T06:51:26.704286955Z",
+  "model": "glm-5.2"
+}

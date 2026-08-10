@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 64:8",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 64,
+  "translation": "مگر الوہیم اچانک ان پر تیر چلائے گا؛ وہ اچانک زخمی ہوں گے۔",
+  "tokens": [
+    {
+      "surface": "וירם",
+      "gloss": "مگر … چلائے گا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "تیر"
+    },
+    {
+      "surface": "פתאום",
+      "gloss": "اچانک"
+    },
+    {
+      "surface": "היו",
+      "gloss": "وہ ہوں گے"
+    },
+    {
+      "surface": "מכותם",
+      "gloss": "زخمی"
+    }
+  ],
+  "timestamp": "2026-08-10T06:31:50.491451296Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 9:11",
+  "book": "esther",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "اس دن وہ گنتی مارے گئے لوگوں کی شوشَن قلعے میں بادشاہ کے سامنے آئی۔",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "اس دن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آئی"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "گنتی"
+    },
+    {
+      "surface": "ההרוגים",
+      "gloss": "مارے گئے لوگوں کی"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "شوشَن"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "قلعے میں"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "سامنے"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ کے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:44:43.762417768Z",
+  "model": "glm-5.2"
+}

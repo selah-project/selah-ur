@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "اور موشے نے کہا: میں ابھی ہٹ کر ⟨את⟩ اس بڑے نظارے کو دیکھوں گا — کیوں نہیں جھاڑی جل رہی؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور … نے کہا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "میں ہٹ کر"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ابھی"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "اور … دیکھوں گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اس بڑے نظارے کو"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "نظارے"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "بڑے"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اس"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "جل رہی"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "جھاڑی"
+    }
+  ],
+  "timestamp": "2026-08-09T19:55:32.797202073Z",
+  "model": "glm-5.2"
+}

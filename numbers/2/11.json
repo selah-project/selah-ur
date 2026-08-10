@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 2:11",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور اس کی فوج اور اس کی ڳنتی ہے چھیالیس ہزار اور پانچ سو۔",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "اور اس کی فوج"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "اور اس کی ڳنتی"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "الیس (اور چالیس)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "اور پانچ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    }
+  ],
+  "timestamp": "2026-08-10T05:26:02.571421522Z",
+  "model": "glm-5.2"
+}

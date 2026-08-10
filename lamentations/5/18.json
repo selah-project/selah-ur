@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 5:18",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "⟨اس لیے⟩ صہیون کے پہاڑ ⟨کے⟩ ویران ہونے ⟨کے باعث⟩ — گیدھ اس میں چلتے پھرتے ہیں۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "اس پر"
+    },
+    {
+      "surface": "הר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صہیون"
+    },
+    {
+      "surface": "ששמם",
+      "gloss": "ویران"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "گیدھ"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "چلتے ہیں"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اس میں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:32:49.638800271Z",
+  "model": "glm-5.2"
+}

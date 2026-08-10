@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور اس نے ⟨את⟩ بَیت لَحِم اور ⟨את⟩ عِیتام اور ⟨את⟩ تَقواع کو بنایا۔",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "اور اس نے بنایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بَیت لَحِم"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بَیت"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لَحِم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "عِیتام"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "عِیتام"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "تَقواع"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "تَقواع"
+    }
+  ],
+  "timestamp": "2026-08-10T09:07:58.367485152Z",
+  "model": "glm-5.2"
+}

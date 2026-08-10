@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 34:21",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 34,
+  "translation": "قبطِ بِنْیامِین کے لیے اِلِیداد بَن کِسْلون۔",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "قبطِ کے لیے"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بِنْیامِین"
+    },
+    {
+      "surface": "אלידד",
+      "gloss": "اِلِیداد"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بَن"
+    },
+    {
+      "surface": "כסלון",
+      "gloss": "کِسْلون"
+    }
+  ],
+  "timestamp": "2026-08-10T07:12:49.336235868Z",
+  "model": "glm-5.2"
+}

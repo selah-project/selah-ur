@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "پانی میں جس کسے نہ تیرنے کا پنکھ اور چھلکا ہے، وہ تمہارے لیے مکروہ ہے۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر وہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اسے"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "تیرنے کا پنکھ"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "اور چھلکا"
+    },
+    {
+      "surface": "במים",
+      "gloss": "پانی میں"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "مکروہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تمہارے لیے"
+    }
+  ],
+  "timestamp": "2026-08-10T05:23:49.207855122Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 18:16",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "اور صادوق بِن اَخیطوب اور اَویмекھ بِن اَبیاتر کاہن تھے، اور شَوشا صوفِیر تھا۔",
+  "tokens": [
+    {
+      "surface": "וצדוק",
+      "gloss": "اور صادوق"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بِن"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "اَخیطوب"
+    },
+    {
+      "surface": "ואבימלך",
+      "gloss": "اور اَویмекھ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بِن"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "اَبیاتر"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "ושושא",
+      "gloss": "اور شَوشا"
+    },
+    {
+      "surface": "סופר",
+      "gloss": "صوفِیر"
+    }
+  ],
+  "timestamp": "2026-08-10T01:07:46.811090175Z",
+  "model": "glm-5.2"
+}

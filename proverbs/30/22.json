@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 30:22",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 30,
+  "translation": "کے زیرِں ایک غلام جب بادشاہ بن بیٹھے، اور ایک نابلا جب روٹی سے آکندہ ہو جائے —",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "کے زیرِں"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جب"
+    },
+    {
+      "surface": "ימלוך",
+      "gloss": "بادشاہ بن بیٹھے"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "اور ایک نابلا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جب"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "آکندہ ہو جائے"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی سے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:10:22.318940540Z",
+  "model": "glm-5.2"
+}

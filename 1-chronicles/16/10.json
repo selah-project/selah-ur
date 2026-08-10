@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 16:10",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 16,
+  "translation": "اس کے مقدس نام میں فخر کرو، یاہویہ کو ڈھونڈنے والوں کا دل خوش ہو۔",
+  "tokens": [
+    {
+      "surface": "התהללו",
+      "gloss": "فخر کرو"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "نام میں"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "اس کے مقدس"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "خوش ہو"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "ڈھونڈنے والوں کا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کو"
+    }
+  ],
+  "timestamp": "2026-08-10T01:04:48.295781786Z",
+  "model": "glm-5.2"
+}

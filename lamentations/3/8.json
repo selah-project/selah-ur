@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "بلکہ جب میں چیختا اور پکارتا ہوں تو اُس نے میری دعا بند کر دی ہے۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جب"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "میں چیختا ہوں"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "اور پکارتا ہوں"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "اُس نے بند کر دی ہے"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "میری دعا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:30:15.321043610Z",
+  "model": "glm-5.2"
+}

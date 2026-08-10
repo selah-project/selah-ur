@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 105,
+  "translation": "⟨اس نے⟩ کہا اور مچھر آ گئے، جوں ان کے سارے سرحد میں۔",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "کہا"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "اور آ گئے"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "مچھر"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "جوں"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "ان کے سرحد میں"
+    }
+  ],
+  "timestamp": "2026-08-09T23:47:24.067730951Z",
+  "model": "glm-5.2"
+}

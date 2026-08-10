@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 137,
+  "translation": "اس کے بیچ کے سَفیدَوں پر ہم نے اپنے بربط لٹکا دیے۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "سَفیدَوں"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "اس کے بیچ"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "ہم نے لٹکا دیے"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "اپنے بربط"
+    }
+  ],
+  "timestamp": "2026-08-10T06:36:21.297666184Z",
+  "model": "glm-5.2"
+}

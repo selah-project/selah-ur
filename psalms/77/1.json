@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 77,
+  "translation": "کور کے لیے، یَدوتون پر، آساف کا، ایک مزمور۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "کور کے لیے"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "یَدوتون"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "آساف کا"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ایک مزمور"
+    }
+  ],
+  "timestamp": "2026-08-09T23:40:31.379090221Z",
+  "model": "glm-5.2"
+}

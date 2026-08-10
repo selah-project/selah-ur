@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 4:21",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "یہ تیری آنکھوں سے بھٹکیں نہیں؛ انہیں اپنے دل کے اندر محفوظ رکھو۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "יליזו",
+      "gloss": "بھٹکیں"
+    },
+    {
+      "surface": "מעיניך",
+      "gloss": "تیری آنکھوں سے"
+    },
+    {
+      "surface": "שמרם",
+      "gloss": "انہیں محفوظ رکھو"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "کے اندر"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "تیرے دل"
+    }
+  ],
+  "timestamp": "2026-08-09T23:59:03.711059199Z",
+  "model": "glm-5.2"
+}

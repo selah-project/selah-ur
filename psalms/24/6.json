@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "یہ ہے وہ نسل جو تلاش کرتے ہیں ⟨اسے⟩، تیرے چہرے کے متلاشی، یعقوب! سِلاہ۔",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "جو تلاش کرتے ہیں"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "متلاشی"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تیرے چہرے کے"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب!"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاہ"
+    }
+  ],
+  "timestamp": "2026-08-09T23:28:14.206766112Z",
+  "model": "glm-5.2"
+}

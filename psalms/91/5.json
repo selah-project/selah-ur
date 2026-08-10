@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 91,
+  "translation": "تو رات کے ڈر سے نہ ڈرے گا، نہ دن میں اڑنے والے تیر سے،",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "تو ڈرے گا"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "کے ڈر سے"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "رات"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "سے تیر"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "اڑنے والے"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "دن میں"
+    }
+  ],
+  "timestamp": "2026-08-09T23:43:59.508458650Z",
+  "model": "glm-5.2"
+}

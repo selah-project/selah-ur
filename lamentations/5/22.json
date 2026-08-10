@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 5:22",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "کیونکہ اگر تو نے ہمیں بالکل رد کر دیا ہے، تو ہم پر بہت غضبناک ہے،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "بالکل"
+    },
+    {
+      "surface": "מאסתנו",
+      "gloss": "تو نے ہمیں رد کر دیا ہے"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "تو غضبناک ہے"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ہم پر"
+    },
+    {
+      "surface": "עד",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زیادہ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:32:44.016089872Z",
+  "model": "glm-5.2"
+}

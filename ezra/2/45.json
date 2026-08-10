@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "ezra 2:45",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "لَوَنہ کے بیٹے، حَگَبہ کے بیٹے، عَقّوب کے بیٹے۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "لَوَنہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "חגבה",
+      "gloss": "حَگَبہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "עקוב",
+      "gloss": "عَقّوب"
+    }
+  ],
+  "timestamp": "2026-08-10T00:49:17.937765558Z",
+  "model": "glm-5.2"
+}

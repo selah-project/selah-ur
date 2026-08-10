@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 39,
+  "translation": "اور بَیت یِسرائیل انہیں دفنائے گا، تاکہ ⟨وہ⟩ ⟨את⟩ زمین کو پاک کرے، سات مہینے۔",
+  "tokens": [
+    {
+      "surface": "וקברום",
+      "gloss": "اور انہیں دفنائے گا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "למען",
+      "gloss": "تاکہ"
+    },
+    {
+      "surface": "טהר",
+      "gloss": "پاک کرے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زمین"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "سات"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "مہینے"
+    }
+  ],
+  "timestamp": "2026-08-10T08:01:18.694839044Z",
+  "model": "glm-5.2"
+}

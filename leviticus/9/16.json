@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "اور اس نے ⟨את⟩ہولہ پیش کیا اور اسے حکم کے مطابق انجام دیا۔",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "اور اس نے پیش کیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہولہ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "ہولہ"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "اور اس نے انجام دیا"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "حکم کے مطابق"
+    }
+  ],
+  "timestamp": "2026-08-09T20:16:57.793190558Z",
+  "model": "glm-5.2"
+}

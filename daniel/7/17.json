@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "daniel 7:17",
+  "book": "daniel",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "یہ بڑی بڑی جانور جو چار ہیں، وہ چار بادشاہ ہیں جو زمین سے اُٹھیں گے۔",
+  "tokens": [
+    {
+      "surface": "אלין",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "חיותא",
+      "gloss": "جانور"
+    },
+    {
+      "surface": "רברבתא",
+      "gloss": "بڑی بڑی"
+    },
+    {
+      "surface": "די",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אנין",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "مלכין",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "اُٹھیں گے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "سے"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-10T06:45:28.524576547Z",
+  "model": "glm-5.2"
+}

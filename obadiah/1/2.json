@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "obadiah 1:2",
+  "book": "obadiah",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "دیکھ! چھوٹا میں نے تجھے قوموں میں کر دیا ہے؛ تو بہت حقیر ہے۔",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "دیکھ!"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "چھوٹا"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "میں نے تجھے کر دیا ہے"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "قوموں میں"
+    },
+    {
+      "surface": "בזוי",
+      "gloss": "حقیر"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    }
+  ],
+  "timestamp": "2026-08-09T23:09:43.510710271Z",
+  "model": "glm-5.2"
+}

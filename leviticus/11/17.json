@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور ⟨את⟩ النُھر، اور ⟨את⟩ الشّلخ، اور ⟨את⟩ الیَنشودُف،",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "النُھر"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "النُھر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "الشّلخ"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "الشّلخ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "الیَنشودُف"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "الیَنشودُف"
+    }
+  ],
+  "timestamp": "2026-08-10T08:36:29.395901722Z",
+  "model": "glm-5.2"
+}

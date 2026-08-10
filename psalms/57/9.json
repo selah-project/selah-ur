@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 57,
+  "translation": "جاگ، میرے جلال! جاگ، ہے نابِل اور کِنّور! میں سحر کو جگاؤں گا۔",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "جاگ"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "میرے جلال"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "جاگ"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "ہے نابِل"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "اور کِنّور"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "میں جگاؤں گا"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "سحر کو"
+    }
+  ],
+  "timestamp": "2026-08-09T23:33:49.811818738Z",
+  "model": "glm-5.2"
+}

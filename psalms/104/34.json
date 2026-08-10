@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 104:34",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 104,
+  "translation": "میرا دیدار اُسے خوشگوار ہو، میں یاہویہ میں خوش ہوؤں گا۔",
+  "tokens": [
+    {
+      "surface": "יערב",
+      "gloss": "خوشگوار ہو"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اُسے"
+    },
+    {
+      "surface": "שיחי",
+      "gloss": "میرا دیدار"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "אשמח",
+      "gloss": "خوش ہوؤں گا"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "یاہویہ میں"
+    }
+  ],
+  "timestamp": "2026-08-09T23:47:40.522804837Z",
+  "model": "glm-5.2"
+}

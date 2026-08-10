@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 8:16",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اور مِیخائیل، اور یِشپہ، اور یوخا — بَرِیَعہ کے بیٹے۔",
+  "tokens": [
+    {
+      "surface": "ומיכאל",
+      "gloss": "اور مِیخائیل"
+    },
+    {
+      "surface": "וישפה",
+      "gloss": "اور یِشپہ"
+    },
+    {
+      "surface": "ויוחא",
+      "gloss": "اور یوخا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "بَرِیَعہ کے"
+    }
+  ],
+  "timestamp": "2026-08-10T01:02:37.215423896Z",
+  "model": "glm-5.2"
+}

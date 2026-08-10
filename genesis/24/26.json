@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 24:26",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "اور ⟨وہ⟩ آدمی جھکا اور یاہویہ کو سجدہ کیا۔",
+  "tokens": [
+    {
+      "surface": "ויקד",
+      "gloss": "اور جھکا"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "⟨وہ⟩ آدمی"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "اور سجدہ کیا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہویہ کو"
+    }
+  ],
+  "timestamp": "2026-08-09T19:42:36.074760277Z",
+  "model": "glm-5.2"
+}

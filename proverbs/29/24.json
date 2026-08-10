@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 29:24",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 29,
+  "translation": "چور کا ساتھی اپنی جان سے بغض رکھتا ہے — وہ لعنت سنتا ہے اور نہیں بتاتا۔",
+  "tokens": [
+    {
+      "surface": "חולק",
+      "gloss": "ساتھی"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ساتھ"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "چور کا"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "بغض رکھتا ہے"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "اپنی جان سے"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "لعنت"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "سنتا ہے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہیں"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "بتاتا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:09:14.666343301Z",
+  "model": "glm-5.2"
+}

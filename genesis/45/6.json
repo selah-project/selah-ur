@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 45:6",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 45,
+  "translation": "کیونکہ یہ دو سال قحط ⟨ہے⟩ زمین کے بیچ میں، اور ابھی پانچ سال باقی ہیں جن میں نہ کھیتی ہوگی اور نہ فصل۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "دو سال"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "قحط"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "کے بیچ میں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "اور ابھی"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پانچ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن میں"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نہ ہوگی"
+    },
+    {
+      "surface": "חריש",
+      "gloss": "کھیتی"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "اور نہ فصل"
+    }
+  ],
+  "timestamp": "2026-08-09T19:53:22.381431835Z",
+  "model": "glm-5.2"
+}

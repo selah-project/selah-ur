@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 5:10",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "کہ نہ اجنبی تیرے زور سے سیر ہوں اور تیری محنتیں ایک اجنبی کے گھر میں ہوں،",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "کہ نہ"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "سیر ہوں"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "اجنبی"
+    },
+    {
+      "surface": "כחך",
+      "gloss": "تیرے زور سے"
+    },
+    {
+      "surface": "ועצביך",
+      "gloss": "اور تیری محنتیں"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "گھر میں"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "ایک اجنبی کے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:36:59.503988047Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 7:10",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "مت کہو کہ کیا ہوا کہ پہلے کے دن یہ سے بہتر تھے، کیونکہ حکمت سے نہیں تم نے اس پر سوال کیا۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مت"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "کہو"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہوا"
+    },
+    {
+      "surface": "שהימים",
+      "gloss": "کہ دن"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "پہلے کے"
+    },
+    {
+      "surface": "היו",
+      "gloss": "تھے"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "بہتر"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "یہ سے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "حکمت سے"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "تم نے سوال کیا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اس"
+    }
+  ],
+  "timestamp": "2026-08-10T06:43:14.385326542Z",
+  "model": "glm-5.2"
+}

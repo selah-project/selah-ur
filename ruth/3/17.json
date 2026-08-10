@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 3:17",
+  "book": "ruth",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "تو اُس نے کہا: یہ چھ جَو ⟨اُس نے⟩ مجھے دیے، کیونکہ اُس نے کہا: خالی نہ جاؤ اپنی ساس کے پاس۔",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "تو اُس نے کہا"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "جو"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "اُس نے دیے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مجھے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "اُس نے کہا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבואי",
+      "gloss": "جاؤ"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "خالی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کے پاس"
+    },
+    {
+      "surface": "חמותך",
+      "gloss": "اپنی ساس"
+    }
+  ],
+  "timestamp": "2026-08-10T00:27:33.728419053Z",
+  "model": "glm-5.2"
+}

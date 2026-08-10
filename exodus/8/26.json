@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "پس موشہ پڑعہ کے پاس سے نکلا، اور اس نے یاہویہ سے استغاثہ کیا۔",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "پس نکلا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "کے پاس سے"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پڑعہ"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "اور اس نے استغاثہ کیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    }
+  ],
+  "timestamp": "2026-08-10T08:34:35.609844729Z",
+  "model": "glm-5.2"
+}

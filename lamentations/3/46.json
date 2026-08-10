@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "lamentations 3:46",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "ہمارے تمام دشمنوں نے اپنا منہ ہمارے против کھول دیا ہے۔",
+  "tokens": [
+    {
+      "surface": "פָּצוּ",
+      "gloss": "کھول دیا"
+    },
+    {
+      "surface": "עָלֵינוּ",
+      "gloss": "ہمارے خلاف"
+    },
+    {
+      "surface": "פִּיהֶם",
+      "gloss": "اپنا منہ"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "אֹיְבֵינוּ",
+      "gloss": "ہمارے دشمنوں نے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:29:44.445000462Z",
+  "model": "glm-5.2"
+}

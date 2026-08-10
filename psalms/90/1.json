@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 90:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 90,
+  "translation": "دعا موشےؓ کی، اس انسانِ الوہیم کی۔ ادونای، تو ہمارا مسکن ہے نسل در نسل۔",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "دعا"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "موشےؓ کی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "انسانِ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "مسکن"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "היית",
+      "gloss": "⟨ہے⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ہمارا"
+    },
+    {
+      "surface": "בדר",
+      "gloss": "نسل در"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "نسل"
+    }
+  ],
+  "timestamp": "2026-08-10T07:31:10.771474924Z",
+  "model": "glm-5.2"
+}

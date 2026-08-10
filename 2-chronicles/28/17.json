@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 28:17",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 28,
+  "translation": "اور مزید اَدومی آئے، اور یہوداہ میں مارا، اور قیدیوں کو پکڑ لے گئے۔",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "اور مزید"
+    },
+    {
+      "surface": "אדומים",
+      "gloss": "اَدومی"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آئے"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "اور مارا"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "یہوداہ میں"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "اور پکڑ لے گئے"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "قیدیوں کو"
+    }
+  ],
+  "timestamp": "2026-08-10T01:24:18.316118978Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور عِبیر چالیس ⟨आैدा ہوا — یعنی⟩ چار اور تیس سال جیتا، اور اُس نے ⟨את⟩ پَلَگ کو جَنا۔",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "اور جیتا"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عِبیر"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "اور تیس"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "اور جَنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پَلَگ کو"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "پَلَگ"
+    }
+  ],
+  "timestamp": "2026-08-09T19:37:09.488179644Z",
+  "model": "glm-5.2"
+}

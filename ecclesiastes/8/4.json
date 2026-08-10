@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "جہاں بادشاہ کا کلام ہے وہاں اقتدارِ مطلق ہے، اور اس سے کون کہہ سکتا ہے، ”تو کیا کر رہا ہے؟“",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "جہاں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ کا"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "اقتدارِ مطلق ہے"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "اور کون"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "کہہ سکتا ہے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اس سے"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "کر رہا ہے تو"
+    }
+  ],
+  "timestamp": "2026-08-10T00:35:30.119126307Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 104:9",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 104,
+  "translation": "ایک حد تو نے مقرر کی جسے وہ نہ پار کریں، نہ وہ لوٹیں کہ زمین کو ڈھانپ لیں۔",
+  "tokens": [
+    {
+      "surface": "גבול",
+      "gloss": "ایک حد"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "تو نے مقرر کی"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יעברון",
+      "gloss": "پار کریں"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "وہ لوٹیں"
+    },
+    {
+      "surface": "לכסות",
+      "gloss": "کہ ڈھانپ لیں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین کو"
+    }
+  ],
+  "timestamp": "2026-08-09T23:45:45.752222063Z",
+  "model": "glm-5.2"
+}

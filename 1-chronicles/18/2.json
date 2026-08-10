@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "اور اُس نے ⟨את⟩ مُوآب کو مارا، اور مُوآب داوِد کے غلام ہو گئے، تحفے لانے والے۔",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "اور مارا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مُوآب کو"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُوآب"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "اور ہو گئے"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُوآب"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "داوِد کے"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "لانے والے"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "تحفہ"
+    }
+  ],
+  "timestamp": "2026-08-10T01:07:44.263844408Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 35:27",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 35,
+  "translation": "اور پا لے اسے گوایل خون ⟨אתہ⟩ سرحدِ شہرِ پناہ کے باہر، اور مار ڈالے گوایل خون ⟨את⟩ قاتل کو، ⟨اس پر⟩ اس کا کوئی خون نہیں۔",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "اور پا لے"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨אתہ⟩",
+      "marks": "اسے"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "گوایل"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "خون"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "باہر"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "پناہ"
+    },
+    {
+      "surface": "ורצח",
+      "gloss": "اور مار ڈالے"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "گوایل"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "خون"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قاتل کو"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "قاتل"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اس کا"
+    },
+    {
+      "surface": "דם",
+      "gloss": "خون"
+    }
+  ],
+  "timestamp": "2026-08-09T20:41:53.223302710Z",
+  "model": "glm-5.2"
+}

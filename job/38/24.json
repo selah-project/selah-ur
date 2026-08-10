@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 38:24",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 38,
+  "translation": "کہاں ہے وہ راستہ جہاں روشنی تقسیم ہوتی ہے؟ مشقی ہوا زمین پر بکھرتی ہے۔",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "کہاں"
+    },
+    {
+      "surface": "זה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "وہ راستہ"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "تقسیم ہوتی ہے"
+    },
+    {
+      "surface": "אור",
+      "gloss": "روشنی"
+    },
+    {
+      "surface": "יפץ",
+      "gloss": "بکھرتی ہے"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "مشقی ہوا"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-10T00:23:32.311797609Z",
+  "model": "glm-5.2"
+}

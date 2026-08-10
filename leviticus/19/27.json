@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "سر کے کناروں کو گول نہ کرو، اور نہ ⟨את⟩ داڑھی کے کنارے کو خراب کرو۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "تم گول کرو"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "کنارے کو"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "تمہارے سر کے"
+    },
+    {
+      "surface": "وלא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "تم خراب کرو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داڑھی کے کنارے کو"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "کنارے کو"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "تیری داڑھی کے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:22:31.167794965Z",
+  "model": "glm-5.2"
+}

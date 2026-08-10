@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 46:7",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 46,
+  "translation": "یہ کون ⟨ہے⟩ جو نہر کی طرح بڑھتا ہے، ⟨کہ⟩ اس کے پنياں دریاؤں کی طرح ہللتے ہیں؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "זה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "نہر کی طرح"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "بڑھتا ہے"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "دریاؤں کی طرح"
+    },
+    {
+      "surface": "יתגעשו",
+      "gloss": "ہللتے ہیں"
+    },
+    {
+      "surface": "מימיו",
+      "gloss": "اس کے پانی"
+    }
+  ],
+  "timestamp": "2026-08-10T08:53:16.448212897Z",
+  "model": "glm-5.2"
+}

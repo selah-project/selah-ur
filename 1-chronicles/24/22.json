@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 24:22",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "یِتصہاریوں کے لیے — شِلوموت؛ شِلوموت کے بیٹوں کے لیے — یاخت۔",
+  "tokens": [
+    {
+      "surface": "ליצהרי",
+      "gloss": "یِتصہاریوں کے لیے"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "شِلوموت"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بیٹوں کے لیے"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "شِلوموت"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "یاخت"
+    }
+  ],
+  "timestamp": "2026-08-10T01:09:32.330142646Z",
+  "model": "glm-5.2"
+}

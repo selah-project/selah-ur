@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "تب پَرعوہ کی بیٹی نے اس سے کہا: \"جا۔\" تو لڑکی گئی اور اس نے بلا لیا ⟨את⟩ بچے کی ماں کو۔",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "تب کہا"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اس سے"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بیٹی"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پَرعوہ"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "جا"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "تو گئی"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "لڑکی"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "اور بلا لیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بچے کی ماں کو"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ماں"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "بچے"
+    }
+  ],
+  "timestamp": "2026-08-09T19:54:22.935200358Z",
+  "model": "glm-5.2"
+}

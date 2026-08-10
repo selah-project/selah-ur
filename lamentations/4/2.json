@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 4:2",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "ضیوں کے قیمتی بیٹے، خالص سونے میں ڈھلے ہوئے، کیسے مٹی کے برتن، کُمہار کے ہاتھوں کا کام، گِنے گئے!",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ضیوں کے"
+    },
+    {
+      "surface": "היקרים",
+      "gloss": "قیمتی"
+    },
+    {
+      "surface": "המסולאים",
+      "gloss": "ڈھلے ہوئے"
+    },
+    {
+      "surface": "בפז",
+      "gloss": "خالص سونے میں"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "کیسے"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "گِنے گئے"
+    },
+    {
+      "surface": "לנבלי",
+      "gloss": "برتن"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "مٹی کے"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کام"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ہاتھوں کا"
+    },
+    {
+      "surface": "יוצר",
+      "gloss": "کُمہار"
+    }
+  ],
+  "timestamp": "2026-08-10T00:30:57.530040490Z",
+  "model": "glm-5.2"
+}

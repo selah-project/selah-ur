@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 38:1",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 38,
+  "translation": "اور یاہویہ کا فرمان مجھے آیا، یوں ⟨کہ⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "فرمان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مجھے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "یوں"
+    }
+  ],
+  "timestamp": "2026-08-09T23:00:30.274376639Z",
+  "model": "glm-5.2"
+}

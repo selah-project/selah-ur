@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "اور حیرام نے بادشاہ کو بھیجا: سو اور بیس (120) طلن سونا۔",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "اور بھیجا"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "حیرام"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "بادشاہ کو"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "اور بیس"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "طلن"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونا"
+    }
+  ],
+  "timestamp": "2026-08-09T21:45:53.120695411Z",
+  "model": "glm-5.2"
+}

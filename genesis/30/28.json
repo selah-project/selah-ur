@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 30:28",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 30,
+  "translation": "اور ⟨اس نے⟩ کہا: مجھے اپنی اجر مقرر کر دو مجھ پر، اور میں ⟨اسے⟩ دوں گا۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "مقرر کر دو"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "تیری اجر"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "مجھ پر"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "اور میں دوں گا"
+    }
+  ],
+  "timestamp": "2026-08-09T19:44:27.995335922Z",
+  "model": "glm-5.2"
+}

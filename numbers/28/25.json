@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 28:25",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 28,
+  "translation": "اور ساتویں دن تمھارے لیے مقدس اِجتماع ہوگا؛ کوئی بھی خدمتِ کار نہ کرو۔",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "اور دن"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ساتویں"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "اجتماع"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوگا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تمھارے لیے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "کام"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "خدمت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "کرو"
+    }
+  ],
+  "timestamp": "2026-08-09T20:37:27.688856968Z",
+  "model": "glm-5.2"
+}

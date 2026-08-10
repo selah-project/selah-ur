@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 98,
+  "translation": "بجاؤ یاہویہ کے لیے بربط سے، بربط اور نغمے کی آواز کے ساتھ۔",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "بجاؤ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہویہ کے لیے"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "بربط سے"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "بربط"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "اور آواز"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "نغمے کی"
+    }
+  ],
+  "timestamp": "2026-08-09T23:45:22.248344275Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 33:22",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 33,
+  "translation": "وچلے برِیساہ سے، اور ٹھہرے بِقِہلاتاہ میں۔",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "وچلے"
+    },
+    {
+      "surface": "מרסה",
+      "gloss": "برِیساہ سے"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "اور ٹھہرے"
+    },
+    {
+      "surface": "בקהלתה",
+      "gloss": "بِقِہلاتاہ میں"
+    }
+  ],
+  "timestamp": "2026-08-09T20:40:26.469794405Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 10:15",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "لوگوں کے سردار: پَرْعُوش، پَخَتْ-مُوآب، عِیلام، زَتّو، بانی،",
+  "tokens": [
+    {
+      "surface": "ראשי",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوگوں کے"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "پَرْعُوش"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "پَخَتْ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "-مُوآب"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عِیلام"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "زَتّو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بانی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:55:22.695895215Z",
+  "model": "glm-5.2"
+}

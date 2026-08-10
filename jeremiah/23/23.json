@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 23:23",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "کیا نزدیک کا الوہیم میں ہوں، یاہویہ کا فیصلہ، اور دور کا الوہیم نہیں؟",
+  "tokens": [
+    {
+      "surface": "האלהי",
+      "gloss": "کیا الوہیم"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "نزدیک کا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں ہوں"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "فیصلہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہیں"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "دور کا"
+    }
+  ],
+  "timestamp": "2026-08-10T08:52:23.578202756Z",
+  "model": "glm-5.2"
+}

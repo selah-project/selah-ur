@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 97:5",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 97,
+  "translation": "پہاڑ موم کی طرح پگھل گئے یاہویہ کے سامنے سے، ساری زمین کے آقا کے سامنے سے۔",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "כדונג",
+      "gloss": "موم کی طرح"
+    },
+    {
+      "surface": "נמסו",
+      "gloss": "پگھل گئے"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "کے سامنے سے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "کے سامنے سے"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "آقا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-09T23:44:31.226420591Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 19:14",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "یہ ہے توریت: آدمی جب خیمے میں مرے — ہر کوئی جو خیمے میں آتا ہے اور ہر وہ جو خیمے میں ہے، سات دن تک ناپاک ہو جائے گا۔",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "توریت ہے"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جب"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مرے"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "خیمے میں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر کوئی"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "جو آتا ہے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کو"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "خیمے"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "اور ہر وہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "خیمے میں ہے"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ناپاک ہو جائے گا"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "سات"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دن تک"
+    }
+  ],
+  "timestamp": "2026-08-09T20:34:32.754735836Z",
+  "model": "glm-5.2"
+}

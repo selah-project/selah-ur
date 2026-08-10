@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 16:22",
+  "book": "judges",
+  "lang": "ur",
+  "chapter": 16,
+  "translation": "اور اس کے سر کے بال اگنے لگے، جیسا کہ منڈا گیا تھا۔",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "اور ⟨اس نے⟩ شروع کیا"
+    },
+    {
+      "surface": "שער",
+      "gloss": "بال"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "اس کے سر کے"
+    },
+    {
+      "surface": "לצמח",
+      "gloss": "اگنے کو"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیسا کہ"
+    },
+    {
+      "surface": "גלח",
+      "gloss": "منڈا گیا"
+    }
+  ],
+  "timestamp": "2026-08-10T05:40:12.131537484Z",
+  "model": "glm-5.2"
+}

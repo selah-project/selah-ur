@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 7:8",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اِفْضَل اَدونای! میں کیا کہوں، جب کہ یِسرائیل اپنے دشمنوں کے سامنے پیٹھ موڑ گیا?",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "اِفْضَل"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "کہوں"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "کے بعد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ جو"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "موڑ دیا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل نے"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "پیٹھ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "کے سامنے"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "اپنے دشمنوں"
+    }
+  ],
+  "timestamp": "2026-08-10T05:36:23.723532440Z",
+  "model": "glm-5.2"
+}

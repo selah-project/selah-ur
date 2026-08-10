@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 44:3",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 44,
+  "translation": "صبح روشن ہوئی، اور وہ آدمی روانہ کیے گئے، وہ اور ان کے گدھے۔",
+  "tokens": [
+    {
+      "surface": "הבקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "אור",
+      "gloss": "روشن ہوئی"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "اور وہ آدمی"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "روانہ کیے گئے"
+    },
+    {
+      "surface": "המה",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "וחמריהם",
+      "gloss": "اور ان کے گدھے"
+    }
+  ],
+  "timestamp": "2026-08-09T19:52:02.548170798Z",
+  "model": "glm-5.2"
+}

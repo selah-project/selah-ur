@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 23:15",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "موشے کے بیٹے گِیرشوم اور اِلیعزر تھے۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "گِیرشوم"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "اور اِلیعزر"
+    }
+  ],
+  "timestamp": "2026-08-10T01:09:54.446299552Z",
+  "model": "glm-5.2"
+}

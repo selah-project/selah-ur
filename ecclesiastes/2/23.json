@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 2:23",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "کہہ اُس کے سارے دن دکھ ہیں اور اُس کا مشغلہ غصہ؛ رات کو بھی اُس کا دل نہیں لیٹتا؛ یہ بھی ہِبَل ہے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کہہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "اُس کے دن"
+    },
+    {
+      "surface": "מכאבים",
+      "gloss": "دکھ ہیں"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "اور غصہ"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "اُس کا مشغلہ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بھی"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "رات کو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "لیٹتا"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "اُس کا دل"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بھی"
+    },
+    {
+      "surface": "זה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ہِبَل"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:33:29.473386155Z",
+  "model": "glm-5.2"
+}

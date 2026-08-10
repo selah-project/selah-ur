@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "nehemiah 7:31",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "مِخمَس کے مرد، ایک سو بائیس۔",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "مِخمَس"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ایک سو"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "اور بیس"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "اور دو"
+    }
+  ],
+  "timestamp": "2026-08-10T00:54:25.124716447Z",
+  "model": "glm-5.2"
+}

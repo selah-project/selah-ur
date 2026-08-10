@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 28:11",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 28,
+  "translation": "کیونکہ ٹھٹھول زبانوں اور دوسری زبان کے ساتھ وہ اس قوم سے بولے گا،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "בלעגי",
+      "gloss": "ٹھٹھول"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "زبانوں"
+    },
+    {
+      "surface": "ובלשון",
+      "gloss": "اور زبان کے ساتھ"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "دوسری"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "وہ بولے گا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "اس قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اس"
+    }
+  ],
+  "timestamp": "2026-08-09T22:09:10.045294203Z",
+  "model": "glm-5.2"
+}

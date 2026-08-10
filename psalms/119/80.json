@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "psalms 119:80",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 119,
+  "translation": "میرا دل تیرے فرائض میں کامل ہو، تاکہ میں شرمندہ نہ ہوں۔",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ہو"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "میرا دل"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "کامل"
+    },
+    {
+      "surface": "בחקיך",
+      "gloss": "تیرے فرائض میں"
+    },
+    {
+      "surface": "למען",
+      "gloss": "تاکہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "میں شرمندہ ہوں"
+    }
+  ],
+  "timestamp": "2026-08-09T23:53:40.974895396Z",
+  "model": "glm-5.2"
+}

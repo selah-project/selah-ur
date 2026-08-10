@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور داوِد آگے بڑھتا چلا، بڑھتا ہی گیا، اور یاہویہ صَباؤت اس کے ساتھ تھا۔",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "اور چلا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "آگے بڑھتا"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "اور بڑھتا ہی گیا"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "اور یاہویہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صَباؤت"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اس کے ساتھ"
+    }
+  ],
+  "timestamp": "2026-08-10T07:35:13.611255850Z",
+  "model": "glm-5.2"
+}

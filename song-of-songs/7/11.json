@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "میں اپنے دود کی ہوں، اور اُس کی تڑپ میرے ⟨لیے⟩ ہے۔",
+  "tokens": [
+    {
+      "surface": "אֲנִ֣י",
+      "gloss": "میں"
+    },
+    {
+      "surface": "לְדוֹדִ֔י",
+      "gloss": "اپنے دود کی"
+    },
+    {
+      "surface": "וְעָלַ֖י",
+      "gloss": "میرے ⟨لیے⟩"
+    },
+    {
+      "surface": "תְּשׁוּקָתֽוֹ",
+      "gloss": "اُس کی تڑپ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:27:47.258708505Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 12:28",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "اور یِہویاداع، اہرون کا سردار، اور اُس کے ساتھ تین ہزار اور سات سو۔",
+  "tokens": [
+    {
+      "surface": "ויהוידע",
+      "gloss": "اور یِہویاداع"
+    },
+    {
+      "surface": "הנגיד",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "اہرون کا"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "اور اُس کے ساتھ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "تین"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "اور سات"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    }
+  ],
+  "timestamp": "2026-08-10T06:50:07.217331389Z",
+  "model": "glm-5.2"
+}

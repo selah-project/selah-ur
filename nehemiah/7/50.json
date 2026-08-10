@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "nehemiah 7:50",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "بنیں رِعایا، بنیں رِتْسین، بنیں نِقودا کی،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بنیں"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "رِعایا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنیں"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "رِتْسین"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنیں"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "نِقودا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:53:59.553738342Z",
+  "model": "glm-5.2"
+}

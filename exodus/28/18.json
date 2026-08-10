@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 28:18",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 28,
+  "translation": "اور وہ قطارِ دوُم — نُفَخ، سَپیر اور یَہلُوم۔",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "اور وہ قطار"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دوُم"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "نُفَخ"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "سَپیر"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "اور یَہلُوم"
+    }
+  ],
+  "timestamp": "2026-08-09T20:07:22.600690321Z",
+  "model": "glm-5.2"
+}

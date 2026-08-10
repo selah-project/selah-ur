@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور زمین سے ایک بھاپ چڑھتی تھی اور ⟨یہ⟩ ⟨את⟩ تمام زمین کے منہ کو سیراب کرتی تھی۔",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "اور بھاپ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "چڑھتی تھی"
+    },
+    {
+      "surface": "מן",
+      "gloss": "سے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "اور سیراب کرتی تھی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تمام منہ کو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منہ کو"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمین کے"
+    }
+  ],
+  "timestamp": "2026-08-09T19:33:47.438551778Z",
+  "model": "glm-5.2"
+}

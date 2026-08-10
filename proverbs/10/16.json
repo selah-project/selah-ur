@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "نیک کا عمل زندگی کے لیے ہے، بدکا پھل گناہ کے لیے ہے۔",
+  "tokens": [
+    {
+      "surface": "פעלת",
+      "gloss": "عمل"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نیک کا"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "زندگی کے لیے"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "پھل"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکا"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "گناہ کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:01:19.987657992Z",
+  "model": "glm-5.2"
+}

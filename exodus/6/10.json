@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 6:10",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اور یاہویہ نے موشے سے کہا، یوں کہ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "اور بولا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "یوں کہ"
+    }
+  ],
+  "timestamp": "2026-08-10T05:18:29.434312503Z",
+  "model": "glm-5.2"
+}

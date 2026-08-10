@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "کورس رہنما کے لیے، ہشتم پر، داوِد کا مزمور۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "کورس رہنما کے لیے"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "ہشتم"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد کا"
+    }
+  ],
+  "timestamp": "2026-08-10T06:28:50.125582308Z",
+  "model": "glm-5.2"
+}

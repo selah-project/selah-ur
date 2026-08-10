@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "ezra 2:53",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "بَرقوس کے بیٹے، سِسرا کے بیٹے، تَماخ کے بیٹے۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کے بیٹے"
+    },
+    {
+      "surface": "ברקוס",
+      "gloss": "بَرقوس"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کے بیٹے"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "سِسرا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کے بیٹے"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "تَماخ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:48:47.762211058Z",
+  "model": "glm-5.2"
+}

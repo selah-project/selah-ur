@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 6:33",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "⟨ایک⟩ زخم اور ذلت وہ پائے گا، اور اس کی بے عزتی مٹائی نہ جائے گی۔",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "زخم"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "اور ذلت"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "وہ پائے گا"
+    },
+    {
+      "surface": "וחרפתו",
+      "gloss": "اور اس کی بے عزتی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תמחה",
+      "gloss": "مٹائی جائے گی"
+    }
+  ],
+  "timestamp": "2026-08-10T06:37:11.864351258Z",
+  "model": "glm-5.2"
+}

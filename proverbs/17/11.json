@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 17:11",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 17,
+  "translation": "بغاوت کا آدمی ہی برائی ڈھونڈتا ہے، اور اس کے خلاف ایک ظالم فرشتہ بھیجا جائگا۔",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ہی"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "بغاوت کا"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "ڈھونڈتا ہے"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "اور ایک فرشتہ"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "ظالم"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "بھیجا جائگا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اس کے خلاف"
+    }
+  ],
+  "timestamp": "2026-08-10T00:03:52.493502772Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 89,
+  "translation": "وہ مجھے پکارے گا: تو میرا باپ ہے، میرا ایل اور میری نجات کی چٹان۔",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "مجھے پکارے گا"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "میرا باپ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو ہے"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میرا ایل"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "اور چٹان"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "میری نجات"
+    }
+  ],
+  "timestamp": "2026-08-09T23:43:39.238338761Z",
+  "model": "glm-5.2"
+}

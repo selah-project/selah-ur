@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 6:26",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "یاہویہ اپنا چہرہ تجھ کی طرف اٹھائے اور تجھے سلامتی عطا کرے۔",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "اٹھائے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "اپنا چہرہ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تجھ کی طرف"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "اور عطا کرے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تجھے"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "سلامتی"
+    }
+  ],
+  "timestamp": "2026-08-09T20:27:16.669620331Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 3:15",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "وہ مونے سے قیمتی ہے، اور تیری تمام خواہشیں اس کے برابر نہیں ہو سکتیں۔",
+  "tokens": [
+    {
+      "surface": "יקרה",
+      "gloss": "قیمتی ہے"
+    },
+    {
+      "surface": "היא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "מפניים",
+      "gloss": "مونے سے"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "اور تمام"
+    },
+    {
+      "surface": "חפציך",
+      "gloss": "تیری خواہشیں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "ישוו",
+      "gloss": "برابر ہو سکتیں"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اس کے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:37:26.492347641Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "اپنی جان سے ہم اپنی روٹی لاۓ، صحرا کی تلوار کے سامنے سے۔",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "اپنی جان سے"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "ہم لاتے ہیں"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "اپنی روٹی"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "کے سامنے سے"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "صحرا کی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:32:47.390068324Z",
+  "model": "glm-5.2"
+}

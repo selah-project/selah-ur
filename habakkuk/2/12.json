@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 2:12",
+  "book": "habakkuk",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "ہائے ⟨اسے⟩ جو خونریزی سے شہر بناتا ہے، اور ظلم سے بستی قائم کرتا ہے!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ہائے"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "بناتا ہے"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "خونریزی سے"
+    },
+    {
+      "surface": "וכונן",
+      "gloss": "اور قائم کرتا ہے"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "بستی"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "ظلم سے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:14:35.878224545Z",
+  "model": "glm-5.2"
+}

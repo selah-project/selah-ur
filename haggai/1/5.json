@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 1:5",
+  "book": "haggai",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "اور اب یوں فرماتا ہے یاہویہ صباؤت: اپنے دلوں کو اپنے راستوں پر رکھو۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "اور اب"
+    },
+    {
+      "surface": "כה",
+      "gloss": "یوں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فرماتا ہے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صباؤت"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "رکھو"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "اپنے دلوں کو"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "اپنے راستوں"
+    }
+  ],
+  "timestamp": "2026-08-09T23:17:42.330331006Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "deuteronomy 4:49",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "اور ساری عرابہ، یَردَن کے پار، مشرق کی طرف، اور تک عرابہ کے سمندر کو، تلے پِسگہ کی ڈھلانوں کے۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "اور ساری"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "عرابہ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "پار"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یَردَن"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "مشرق کی طرف"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "اور تک"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "عرابہ کے"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تلے"
+    },
+    {
+      "surface": "אשדת",
+      "gloss": "ڈھلانوں"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "پِسگہ کی"
+    }
+  ],
+  "timestamp": "2026-08-09T20:44:05.820325328Z",
+  "model": "glm-5.2"
+}

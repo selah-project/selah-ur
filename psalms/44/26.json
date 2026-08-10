@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 44:26",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 44,
+  "translation": "کیونکہ ہماری نفش مٹی میں دھنسی ہے، ہمارا پیٹ زمین سے چمٹا ہے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "دھنسی ہے"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "مٹی میں"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ہماری نفش"
+    },
+    {
+      "surface": "דבקה",
+      "gloss": "چمٹا ہے"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "زمین سے"
+    },
+    {
+      "surface": "בטננו",
+      "gloss": "ہمارا پیٹ"
+    }
+  ],
+  "timestamp": "2026-08-09T23:32:11.713755200Z",
+  "model": "glm-5.2"
+}

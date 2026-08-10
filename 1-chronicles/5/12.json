@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 5:12",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "یوایل سردار اور شافم دوسرا، اور یعنای اور شافط باشان میں۔",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "یوایل"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "ושפם",
+      "gloss": "اور شافم"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "دوسرا"
+    },
+    {
+      "surface": "ויעני",
+      "gloss": "اور یعنای"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "اور شافط"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "باشان میں"
+    }
+  ],
+  "timestamp": "2026-08-10T06:48:10.466294218Z",
+  "model": "glm-5.2"
+}

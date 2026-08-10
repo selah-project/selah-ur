@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 27:31",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "اور ريوڑ پر یازیز ہَهاگری تھا؛ یہ سب اہلکار تھے اس جائیداد کے جو بادشاہ داوِد کی تھی۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "اور … پر"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ريوڑ"
+    },
+    {
+      "surface": "יזיז",
+      "gloss": "یازیز"
+    },
+    {
+      "surface": "ההגרי",
+      "gloss": "ہَهاگری"
+    },
+    {
+      "surface": "כל",
+      "gloss": "یہ سب"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "اہلکار تھے"
+    },
+    {
+      "surface": "הרכוש",
+      "gloss": "اس جائیداد کے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    }
+  ],
+  "timestamp": "2026-08-10T01:11:44.957038118Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 7:18",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "آ، ہم محبت میں سیراب ہوئیں صبح تک؛ ہم محبتوں سے مسرور ہوں۔",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "آ"
+    },
+    {
+      "surface": "נרוה",
+      "gloss": "ہم سیراب ہوئیں"
+    },
+    {
+      "surface": "דדים",
+      "gloss": "محبت میں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "נתעלסה",
+      "gloss": "ہم مسرور ہوں"
+    },
+    {
+      "surface": "באהבים",
+      "gloss": "محبتوں سے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:00:12.151342096Z",
+  "model": "glm-5.2"
+}

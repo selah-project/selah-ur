@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 34:8",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 34,
+  "translation": "تو موشے نے جلدی کی اور زمین کی طرف جھکا اور سجدہ کیا۔",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "تو جلدی کی"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "اور جھکا"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "زمین کی طرف"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "اور سجدہ کیا"
+    }
+  ],
+  "timestamp": "2026-08-09T20:09:46.118336027Z",
+  "model": "glm-5.2"
+}

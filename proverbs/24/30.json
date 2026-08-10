@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 24:30",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "کاہل آدمی کے کھیت کے پاس سے میں گزرا، اور عقل سے خالی آدمی کے انگور کے باغ کے پاس سے،",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "کے پاس سے"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "کھیت"
+    },
+    {
+      "surface": "איש",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "کاہل"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "میں گزرا"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "اور کے پاس سے"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "انگور کے باغ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "خالی"
+    },
+    {
+      "surface": "לב",
+      "gloss": "عقل"
+    }
+  ],
+  "timestamp": "2026-08-10T00:06:39.678280553Z",
+  "model": "glm-5.2"
+}

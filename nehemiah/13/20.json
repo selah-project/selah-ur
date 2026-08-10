@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 13:20",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "تو تاجر اور ہر چیز کے بیچنے والے یروشلایم کے باہر ٹھہر گئے، ایک یا دو بار۔",
+  "tokens": [
+    {
+      "surface": "וילינו",
+      "gloss": "تو ٹھہر گئے"
+    },
+    {
+      "surface": "הרכלים",
+      "gloss": "تاجر"
+    },
+    {
+      "surface": "ומכרי",
+      "gloss": "اور بیچنے والے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "ממכר",
+      "gloss": "چیز کے"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "باہر"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "یروشلایم کے"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "یا دو بار"
+    }
+  ],
+  "timestamp": "2026-08-10T00:59:37.799191748Z",
+  "model": "glm-5.2"
+}

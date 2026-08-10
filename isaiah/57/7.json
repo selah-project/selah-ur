@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 57:7",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 57,
+  "translation": "اونچے اور بلند پہاڑ پر تو نے اپنا بستر رکھا؛ وہیں تو نے چڑھ کر قربانی ذبح کی۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "اونچے"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "اور بلند"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "تو نے رکھا"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "تیرا بستر"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بھی"
+    },
+    {
+      "surface": "שם",
+      "gloss": "وہیں"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "تو نے چڑھ کر"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "ذبح کی"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "قربانی"
+    }
+  ],
+  "timestamp": "2026-08-09T22:17:07.604769932Z",
+  "model": "glm-5.2"
+}

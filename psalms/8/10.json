@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "یاہویہ اَدونایِ ہم، کیا ہی شاندار ہے تیرا نام تمام زمین میں!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "اَدونایِ ہم"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا ہی"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "شاندار"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تیرا نام"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "تمام میں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-09T23:24:13.761413893Z",
+  "model": "glm-5.2"
+}

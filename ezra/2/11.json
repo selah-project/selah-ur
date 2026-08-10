@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 2:11",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "بِبای کے بیٹے، چھ سو تیئیے۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "بِبای"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیس"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "اور تین"
+    }
+  ],
+  "timestamp": "2026-08-10T00:46:19.171376785Z",
+  "model": "glm-5.2"
+}

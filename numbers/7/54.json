@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "numbers 7:54",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "آٹھویں دن مْنَشّہ کے بیٹوں کا نسیع تھا — گَمْلی ایل بن پْدَہصُور۔",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "آٹھویں"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "نسیع"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "کے بیٹوں کا"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مْنَشّہ"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "گَمْلی ایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "پْدَہ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "صُور"
+    }
+  ],
+  "timestamp": "2026-08-10T05:28:46.374414843Z",
+  "model": "glm-5.2"
+}

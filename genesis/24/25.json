@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 24:25",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "اور اُس نے اُس سے کہا: ہمارے پاس گھاس بھی ہے، چارہ بھی، بھرپور، اور ٹھہرنے کی جگہ بھی۔",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "اور اُس نے کہا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اُس سے"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بھی"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "گھاس"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بھی"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "چارہ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "بھرپور"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ہمارے پاس"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بھی"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جگہ"
+    },
+    {
+      "surface": "ללון",
+      "gloss": "ٹھہرنے کی"
+    }
+  ],
+  "timestamp": "2026-08-09T19:42:36.074521989Z",
+  "model": "glm-5.2"
+}

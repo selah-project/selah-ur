@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 13:14",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "قبیلے نَفتالی کی طرف سے نَحبی، وَفسی کا بیٹا۔",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "قبیلے کی طرف سے"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نَفتالی"
+    },
+    {
+      "surface": "נחבי",
+      "gloss": "نَحبی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "ופסי",
+      "gloss": "وَفسی"
+    }
+  ],
+  "timestamp": "2026-08-10T05:27:53.146395009Z",
+  "model": "glm-5.2"
+}

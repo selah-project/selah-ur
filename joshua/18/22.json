@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 18:22",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "اور بَیِت هَعَرَبہ، اور صَمَرَیِم، اور بَیِت ایل۔",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "اور بَیِت"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "هَعَرَبہ"
+    },
+    {
+      "surface": "וצמרים",
+      "gloss": "اور صَمَرَیِم"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "اور بَیِت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    }
+  ],
+  "timestamp": "2026-08-09T21:02:21.757578261Z",
+  "model": "glm-5.2"
+}

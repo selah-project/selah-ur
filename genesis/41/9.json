@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 41:9",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 41,
+  "translation": "تو ساقیوں کے سردار نے فرعون سے کہا، کہہ کر: آج میں اپنے قصود ⟨את⟩ یاد دلاتا ہوں۔",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "تو بولا"
+    },
+    {
+      "surface": "שר",
+      "gloss": "سردارِ"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "ساقیوں کے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "فرعون"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہہ کر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میرے قصود"
+    },
+    {
+      "surface": "חטאי",
+      "gloss": "میرے قصود"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "یاد دلاتا ہوں"
+    },
+    {
+      "surface": "היום",
+      "gloss": "آج"
+    }
+  ],
+  "timestamp": "2026-08-10T05:17:44.652690178Z",
+  "model": "glm-5.2"
+}

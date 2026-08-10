@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "وہ مجھے اپنے منہ کے بوسوں سے چومے، کیونکہ تیرے دودِیدہ شراب سے بہتر ہیں۔",
+  "tokens": [
+    {
+      "surface": "ישקני",
+      "gloss": "وہ چومے مجھے"
+    },
+    {
+      "surface": "מנשיקות",
+      "gloss": "بوسوں سے"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "اپنے منہ کے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "بہتر ہیں"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "تیرے دودِیدہ"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "شراب سے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:25:42.872790104Z",
+  "model": "glm-5.2"
+}

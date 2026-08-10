@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 7:18",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "دوسرے دن نَتانآیل بن صُعار، یِسّاکر کا نسیب، ⟨قدم لایا⟩۔",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دوسرے"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "⟨قدم لایا⟩"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "نَتانآئِل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "صُعار"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "نسیب"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "یِسّاکر"
+    }
+  ],
+  "timestamp": "2026-08-09T20:28:29.044223907Z",
+  "model": "glm-5.2"
+}

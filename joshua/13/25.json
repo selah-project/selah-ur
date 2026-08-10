@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 13:25",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "اور ان کا ⟨ہوا⟩ سرحد یعزیر اور تمام شہر گِلعاد کے اور آدھی زمین بنی-عمون کی، عروعر تک جو ربہ کے سامنے ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ⟨ہوا⟩"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ان کا"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "یعزیر"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "اور تمام"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "گِلعاد کے"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "اور آدھی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمون کی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "ערוער",
+      "gloss": "عروعر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "על",
+      "gloss": "کے سامنے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "سامنے"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ربہ"
+    }
+  ],
+  "timestamp": "2026-08-09T21:01:09.277198161Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 4:8",
+  "book": "1-kings",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "اور یہ ان کے نام ہیں: بِن خور، ہَرِ اپھرییم میں۔",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "اور یہ"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "ان کے نام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بِن"
+    },
+    {
+      "surface": "חור",
+      "gloss": "خور"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ہَرِ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اپھرییم"
+    }
+  ],
+  "timestamp": "2026-08-09T21:41:17.111714330Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "کورس کے لیے، داوِد کا مزمور۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "کورس کے لیے"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد کا"
+    }
+  ],
+  "timestamp": "2026-08-09T23:26:53.712394357Z",
+  "model": "glm-5.2"
+}

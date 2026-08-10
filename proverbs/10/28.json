@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 10:28",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "راست بازﻭں کی امید خوشی ہے، اور شریرﻭں کی توقع ہلاک ہوتی ہے۔",
+  "tokens": [
+    {
+      "surface": "תוחלת",
+      "gloss": "امید"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "راست بازﻭں کی"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "خوشی"
+    },
+    {
+      "surface": "ותקות",
+      "gloss": "اور توقع"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "شریرﻭں کی"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "ہلاک ہوتی ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:01:59.880499902Z",
+  "model": "glm-5.2"
+}

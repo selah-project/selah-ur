@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 23:6",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "عبور کرو تَرشِیش کو — نوحہ کرو، اے ساحل کے باشندو!",
+  "tokens": [
+    {
+      "surface": "עברו",
+      "gloss": "عبور کرو"
+    },
+    {
+      "surface": "תרשישה",
+      "gloss": "تَرشِیش کو"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "نوحہ کرو"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "اے باشندو"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ساحل کے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:07:50.467933612Z",
+  "model": "glm-5.2"
+}

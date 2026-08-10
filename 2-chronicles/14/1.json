@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 14:1",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "اور اَسا نے وہ کیا جو یاہویہ اُس کے الوہیم کی نگاہ میں اچھا اور سیدھا تھا۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "اور کیا"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "اَسا نے"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "جو اچھا"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "اور سیدھا"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "نگاہ میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "اُس کے الوہیم کی"
+    }
+  ],
+  "timestamp": "2026-08-10T06:53:16.737956424Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 148:3",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 148,
+  "translation": "اُسے ستاؤں، اے سورج اور اے چاند؛ اُسے ستاؤں، تم سب روشن ستارے!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "اُسے ستاؤں"
+    },
+    {
+      "surface": "شیمش",
+      "gloss": "سورج"
+    },
+    {
+      "surface": "ویارِح",
+      "gloss": "اور چاند"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "اُسے ستاؤں"
+    },
+    {
+      "surface": "کُل",
+      "gloss": "سب"
+    },
+    {
+      "surface": "کوکبی",
+      "gloss": "ستارے"
+    },
+    {
+      "surface": "اور",
+      "gloss": "روشن"
+    }
+  ],
+  "timestamp": "2026-08-09T23:57:27.371372885Z",
+  "model": "glm-5.2"
+}

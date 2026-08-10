@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 18:13",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "تُو کمال کے ساتھ ہو ⟨تُو⟩ یاہویہ اپنے الوہیم کے ساتھ۔",
+  "tokens": [
+    {
+      "surface": "תמים",
+      "gloss": "کمال کے ساتھ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "تُو ہو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "کے ساتھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "اپنے الوہیم"
+    }
+  ],
+  "timestamp": "2026-08-09T20:50:44.706012176Z",
+  "model": "glm-5.2"
+}

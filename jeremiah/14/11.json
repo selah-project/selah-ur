@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 14:11",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "اور یاہویہ نے میرے پاس ⟨کہا⟩: اس قوم ⟨کے⟩ ⟨لئے⟩ بھلائی ⟨کے⟩ ⟨لئے⟩ دعا مت کر۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور ⟨کہا⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میرے پاس"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مت"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "دعا کر"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "⟨کے⟩ ⟨لئے⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "اس قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اس"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "بھلائی ⟨کے⟩ ⟨لئے⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T08:00:18.720187182Z",
+  "model": "glm-5.2"
+}

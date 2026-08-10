@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 12:23",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "ہوشیار آدمی علم چھپاتا ہے، اور نادانوں کا دل بیوقوفی پکارا کرتا ہے۔",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "ہوشیار"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "چھپاتا ہے"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "علم"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "اور دل"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "نادانوں کا"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "پکارا کرتا ہے"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "بیوقوفی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:02:24.243264520Z",
+  "model": "glm-5.2"
+}

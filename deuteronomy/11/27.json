@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 11:27",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "⟨⟩ برکت جب تم یاہویہ تمہارے الوہیم کی مزمات کی طرف سنو گے، جو میں آج ⟨את⟩ تمہیں حکم دیتا ہوں۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "برکت"
+    },
+    {
+      "surface": "הברכה",
+      "gloss": "برکت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "تم سنو گے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "مزمات"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "تمہارے الوہیم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنہیں"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "حکم دیتا ہوں"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ تمہیں"
+    },
+    {
+      "surface": "היום",
+      "gloss": "آج"
+    }
+  ],
+  "timestamp": "2026-08-09T20:46:46.416586455Z",
+  "model": "glm-5.2"
+}

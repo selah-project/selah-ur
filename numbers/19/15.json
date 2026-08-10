@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 19:15",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "اور ہر کھلا برتن جس پر کوئی بندھا ہوا ڈھکنا نہیں، وہ ناپاک ہے۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "اور ہر"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "برتن"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "کھلا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جس"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نہیں ہے"
+    },
+    {
+      "surface": "צמיד",
+      "gloss": "بندھا ہوا ڈھکنا"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "دھاگے سے"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اُس پر"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ناپاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ہے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:34:32.754871001Z",
+  "model": "glm-5.2"
+}

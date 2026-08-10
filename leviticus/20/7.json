@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "تو تم مقدس بنو اور تم مقدس ہو جاؤ، کیونکہ میں یاہویہ تمہارا الوہیم ہوں۔",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "تو تم مقدس بنو"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "اور تم ہو جاؤ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "تمہارا الوہیم"
+    }
+  ],
+  "timestamp": "2026-08-09T20:22:32.183119196Z",
+  "model": "glm-5.2"
+}

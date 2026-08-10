@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "کیونکہ وہ ہبل میں آتا ہے اور اندھیرے میں جاتا ہے، اور اندھیرے میں اس کا نام ڈھانپا جاتا ہے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "ہبل میں"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آتا ہے"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "اور اندھیرے میں"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "جاتا ہے"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "اور اندھیرے میں"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اس کا نام"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "ڈھانپا جاتا ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:35:48.677634493Z",
+  "model": "glm-5.2"
+}

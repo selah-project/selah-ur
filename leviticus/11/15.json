@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "⟨את⟩ ہر کوے کو، اس کی نوع کے مطابق۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہر کوے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "کوے"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "اس کی نوع کے مطابق"
+    }
+  ],
+  "timestamp": "2026-08-09T20:17:18.998977877Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 6:9",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "صرف تو گھر نہیں بنائے گا، بلکہ تیرا بیٹا جو تیری کمر سے نکلے گا، وہی میرے نام کے لیے گھر بنائے گا۔",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "بنائے گا"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "تیرا بیٹا"
+    },
+    {
+      "surface": "היוצא",
+      "gloss": "جو نکلے گا"
+    },
+    {
+      "surface": "מחלציך",
+      "gloss": "تیری کمر سے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہی"
+    },
+    {
+      "surface": "יִבְנֶה",
+      "gloss": "بنائے گا"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "میرے نام کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-10T01:15:07.816819614Z",
+  "model": "glm-5.2"
+}

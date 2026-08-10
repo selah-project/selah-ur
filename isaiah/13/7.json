@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 13:7",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "اسی لیے تمام ہاتھ ڈھیلے پڑیں گے، اور ہر انسانی دل پگھل جائے گا۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "اس پر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اسی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ہاتھ"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "ڈھیلے پڑیں گے"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "اور ہر"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "انسانی"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "پگھل جائے گا"
+    }
+  ],
+  "timestamp": "2026-08-09T22:05:45.503048674Z",
+  "model": "glm-5.2"
+}

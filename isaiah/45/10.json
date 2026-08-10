@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 45,
+  "translation": "ہائے ⟨اسے⟩ جو باپ سے کہتا ہے ”تو کیا جنشتا؟“ اور عورت سے ”تو کیا جنت ہے؟“",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ہائے"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "جو کہتا ہے"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "باپ سے"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "تو جنشتا"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "اور عورت سے"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "تو جنت ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:58:51.820356688Z",
+  "model": "glm-5.2"
+}

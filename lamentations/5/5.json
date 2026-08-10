@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 5:5",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "ہمارے گلوں پر ہم پیچھے گرے گئے؛ ہم تھک گئے — ہمیں آرام نہیں ملیا۔",
+  "tokens": [
+    {
+      "surface": "עַל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "צַוָּארֵנוּ",
+      "gloss": "ہماری گردنوں"
+    },
+    {
+      "surface": "נִרְדַּפְנוּ",
+      "gloss": "ہم پیچھے گرے گئے"
+    },
+    {
+      "surface": "יָגַעְנוּ",
+      "gloss": "ہم تھک گئے"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "הוּנַח",
+      "gloss": "ارام دیا گیا"
+    },
+    {
+      "surface": "לָנוּ",
+      "gloss": "ہمیں"
+    }
+  ],
+  "timestamp": "2026-08-10T07:33:49.850634035Z",
+  "model": "glm-5.2"
+}

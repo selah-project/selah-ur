@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 5:15",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "اپنے حوض سے پانی پی، اور اپنے کنویں کے بیچ سے بہتے ہوئے ⟨پانی⟩۔",
+  "tokens": [
+    {
+      "surface": "שתה",
+      "gloss": "پی"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "מבורך",
+      "gloss": "اپنے حوض سے"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "اور بہتے ہوئے"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "کے بیچ سے"
+    },
+    {
+      "surface": "בארך",
+      "gloss": "اپنے کنویں"
+    }
+  ],
+  "timestamp": "2026-08-10T06:37:01.600674756Z",
+  "model": "glm-5.2"
+}

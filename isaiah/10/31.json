@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 10:31",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "مَدمِینہ بھاگ گیا؛ گِبِیم کے باشندے پناہ لے گئے۔",
+  "tokens": [
+    {
+      "surface": "נדדה",
+      "gloss": "بھاگ گیا"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "مَدمِینہ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "کے باشندے"
+    },
+    {
+      "surface": "הגבים",
+      "gloss": "گِبِیم"
+    },
+    {
+      "surface": "העיזו",
+      "gloss": "پناہ لے گئے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:21:38.807789182Z",
+  "model": "glm-5.2"
+}

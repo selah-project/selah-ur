@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "nehemiah 7:37",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "بَنے لود، خَدید اور اونو کے، سات سو بیس اور ایک۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بَنے"
+    },
+    {
+      "surface": "לד",
+      "gloss": "لود"
+    },
+    {
+      "surface": "חדיד",
+      "gloss": "خَدید"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "اور اونو"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سات"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "بیس"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "اور ایک"
+    }
+  ],
+  "timestamp": "2026-08-10T09:05:45.759752878Z",
+  "model": "glm-5.2"
+}

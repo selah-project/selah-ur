@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "ہر بیوہ اور یتیم کو تم دباؤ نہیں۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "بیوہ"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "اور یتیم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "تم دباؤ"
+    }
+  ],
+  "timestamp": "2026-08-10T05:20:59.071913661Z",
+  "model": "glm-5.2"
+}

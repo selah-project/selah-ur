@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 32:11",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 32,
+  "translation": "کیونکہ ادونای یاہویہ یوں فرماتا ہے: بابِل کے بادشاہ کی تلوار تجھ پر آئے گی۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "یوں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فرماتا ہے"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ کی"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابِل"
+    },
+    {
+      "surface": "תבואך",
+      "gloss": "تجھ پر آئے گی"
+    }
+  ],
+  "timestamp": "2026-08-09T22:57:53.901611552Z",
+  "model": "glm-5.2"
+}

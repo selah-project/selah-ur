@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 6:7",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اور مقتول تمہارے بیچ گریں گے، اور تم جان لو گے کِیہ میں ہوں یاہویہ۔",
+  "tokens": [
+    {
+      "surface": "ונפל",
+      "gloss": "اور گریں گے"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "مقتول"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "تمہارے بیچ"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "اور تم جان لو گے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کِیہ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں ہوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    }
+  ],
+  "timestamp": "2026-08-10T06:14:02.159984132Z",
+  "model": "glm-5.2"
+}

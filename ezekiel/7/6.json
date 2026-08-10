@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 7:6",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "انتہا آئی، آئی ⟨ہے⟩ انتہا؛ ⟨یہ⟩ تیرے لیے بیدار ہوئی ہے؛ دیکھو ⟨وہ⟩ آ رہی ہے۔",
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "انتہا"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آئی"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آئی"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "انتہا"
+    },
+    {
+      "surface": "הקיץ",
+      "gloss": "بیدار ہوئی ہے"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیرے لیے"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "دیکھو"
+    },
+    {
+      "surface": "באה",
+      "gloss": "آ رہی ہے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:48:03.204393335Z",
+  "model": "glm-5.2"
+}

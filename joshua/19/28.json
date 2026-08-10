@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 19:28",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "اور عِبْرون اور رَخوب اور خَمّون اور قانہ، بڑے صَیدون تک۔",
+  "tokens": [
+    {
+      "surface": "ועברן",
+      "gloss": "اور عِبْرون"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "اور رَخوب"
+    },
+    {
+      "surface": "וחמון",
+      "gloss": "اور خَمّون"
+    },
+    {
+      "surface": "וקנה",
+      "gloss": "اور قانہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "صَیدون"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "بڑے"
+    }
+  ],
+  "timestamp": "2026-08-10T05:37:12.640057413Z",
+  "model": "glm-5.2"
+}

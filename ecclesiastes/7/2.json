@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 7:2",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "بہتر ہے سوگ کے گھر میں جانا، بہ نسبت جشن کے گھر میں جانے کے، اس لیے کہ وہ سب آدمیوں کا انجام ہے؛ اور زندہ ⟨انسان⟩ اپنے دل میں غور کرتا ہے۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "بہتر ہے"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "جانا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "میں"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "سوگ"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "جانے کے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "میں"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "جشن"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "اس لیے کہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "انجام"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدمیوں کا"
+    },
+    {
+      "surface": "وהחי",
+      "gloss": "اور زندہ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "کرتا ہے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "میں"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "اپنے دل"
+    }
+  ],
+  "timestamp": "2026-08-10T06:43:16.343529075Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 24:22",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "اور تو یاد کرے کہ تو مِتصرایم کے ملک میں غلام تھا؛ اِسی لیے میں تجھے ⟨את⟩ یہ بات کرنے کا حکم دیتا ہوں۔",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "اور تو یاد کرے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "היית",
+      "gloss": "تو تھا"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ملک میں"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "مِتصرایم کے"
+    },
+    {
+      "surface": "על",
+      "gloss": "اِسی"
+    },
+    {
+      "surface": "כן",
+      "gloss": "لیے"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "تجھے حکم دیتا ہوں"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کرنے کا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یہ بات"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "بات"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "یہ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:51:57.493174131Z",
+  "model": "glm-5.2"
+}

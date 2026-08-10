@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 3:6",
+  "book": "zechariah",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "اور یاہویہ کے فرشتے نے یہوشُع کو تاکید کی، کہہ کر:",
+  "tokens": [
+    {
+      "surface": "ויעד",
+      "gloss": "اور اس نے تاکید کی"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فرشتے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "ביהושע",
+      "gloss": "یہوشُع کو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہہ کر"
+    }
+  ],
+  "timestamp": "2026-08-10T06:27:12.552903699Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "ezra 2:52",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "بنِ بَصْلوت کے، بنِ مَخیدا کے، بنِ خَرشا کے،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بنِ"
+    },
+    {
+      "surface": "בצלות",
+      "gloss": "بَصْلوت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنِ"
+    },
+    {
+      "surface": "מחידא",
+      "gloss": "مَخیدا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنِ"
+    },
+    {
+      "surface": "חרשא",
+      "gloss": "خَرشا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:48:36.287244991Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 26:9",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 26,
+  "translation": "اور مِشلِمیاہو کے لیے بیٹے اور بھائی ⟨تھے⟩، زور آور بیٹے، اٹھارہ۔",
+  "tokens": [
+    {
+      "surface": "ולמשלמיהו",
+      "gloss": "اور مِشلِمیاہو کے لیے"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "ואחים",
+      "gloss": "اور بھائی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "زور آور"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "اٹھ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دس"
+    }
+  ],
+  "timestamp": "2026-08-10T01:10:20.205902739Z",
+  "model": "glm-5.2"
+}

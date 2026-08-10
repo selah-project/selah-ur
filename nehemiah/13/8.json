@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 13:8",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "اور مجھے بہت برا لگا، تو میں نے ⟨את⟩ طوبیاہ کے گھر کے تمام برتن باہر لَشکَہ سے پھینک دیے۔",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "اور برا لگا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مجھے"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "ואשליכה",
+      "gloss": "تو میں نے پھینک دیے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تمام برتن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "برتن"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "طوبیاہ"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "باہر"
+    },
+    {
+      "surface": "מן",
+      "gloss": "سے"
+    },
+    {
+      "surface": "הלשכה",
+      "gloss": "لَشکَہ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:56:14.734484280Z",
+  "model": "glm-5.2"
+}

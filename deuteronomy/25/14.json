@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "تیرے پاس نہ ہو تیرے گھر میں ایفہ اور ایفہ، بڑی اور چھوٹی۔",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יִהְיֶ֥ה",
+      "gloss": "ہو"
+    },
+    {
+      "surface": "לְךָ֛",
+      "gloss": "تیرے پاس"
+    },
+    {
+      "surface": "בְּבֵיתְךָ֖",
+      "gloss": "تیرے گھر میں"
+    },
+    {
+      "surface": "אֵיפָ֣ה",
+      "gloss": "ایفہ"
+    },
+    {
+      "surface": "וְאֵיפָ֑ה",
+      "gloss": "اور ایفہ"
+    },
+    {
+      "surface": "גְּדוֹלָ֖ה",
+      "gloss": "بڑی"
+    },
+    {
+      "surface": "וּקְטַנָּֽה",
+      "gloss": "اور چھوٹی"
+    }
+  ],
+  "timestamp": "2026-08-09T20:52:50.892726700Z",
+  "model": "glm-5.2"
+}

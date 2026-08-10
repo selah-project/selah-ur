@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 26,
+  "translation": "روندیں گے اسے پاؤں، غریب کے پاؤں، دکھوں کے قدم۔",
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "روندیں گے"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "پاؤں"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "پاؤں"
+    },
+    {
+      "surface": "עני",
+      "gloss": "غریب کے"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "قدم"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "دکھوں کے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:08:03.766073424Z",
+  "model": "glm-5.2"
+}

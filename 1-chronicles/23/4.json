@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 23:4",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "اِن میں سے یاہویہ کے گھر کے کام پر总监 بننے کے لیے چوبیس ہزار تھے، اور حاکم اور منصف چھ ہزار تھے۔",
+  "tokens": [
+    {
+      "surface": "מאלה",
+      "gloss": "اِن میں سے"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "总监 بننے کے لیے"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "کام"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کے"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیس"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "اور چار"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושטרים",
+      "gloss": "اور حاکم"
+    },
+    {
+      "surface": "ושפטים",
+      "gloss": "اور منصف"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    }
+  ],
+  "timestamp": "2026-08-10T06:50:58.124661864Z",
+  "model": "glm-5.2"
+}

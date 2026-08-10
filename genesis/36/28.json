@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 36:28",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 36,
+  "translation": "یہ ہیں دِیشان کے بیٹے: عُوص اور اَران۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "یہ ہیں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "دِیشان"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "عُوص"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "اور اَران"
+    }
+  ],
+  "timestamp": "2026-08-09T19:47:30.239932629Z",
+  "model": "glm-5.2"
+}

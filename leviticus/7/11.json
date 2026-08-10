@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 7:11",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اور یہ ہے شریعت قربانی سلامتی کی، جو کوئی یاہویہ کے پاس پیش کرے۔",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "اور یہ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "شریفتِ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "قربانی"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "سلامتی کی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "پیش کرے"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہویہ کے پاس"
+    }
+  ],
+  "timestamp": "2026-08-10T07:39:42.536853009Z",
+  "model": "glm-5.2"
+}

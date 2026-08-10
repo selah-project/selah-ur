@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 71:8",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 71,
+  "translation": "بھر جائے میرا منہ تیری تعریف سے، سارا دن تیری شانِ جلال۔",
+  "tokens": [
+    {
+      "surface": "ימלא",
+      "gloss": "بھر جائے"
+    },
+    {
+      "surface": "פי",
+      "gloss": "میرا منہ"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "تیری تعریف"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "תפארתך",
+      "gloss": "تیری شانِ جلال"
+    }
+  ],
+  "timestamp": "2026-08-09T23:38:20.773116224Z",
+  "model": "glm-5.2"
+}

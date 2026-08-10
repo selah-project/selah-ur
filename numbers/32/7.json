@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 32:7",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 32,
+  "translation": "اور کیوں آپ اِسرائیل کے بیٹوں کے دل کو ⟨את⟩ روکیں گے، اس زمین میں گزرنے سے جو یاہویہ نے اُنہیں دی ہے؟",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "اور کیوں"
+    },
+    {
+      "surface": "תנואון",
+      "gloss": "آپ روکیں گے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دل کو"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کے بیٹوں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "گزرنے سے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اس میں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دی ہے"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اُنہیں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:39:42.477853399Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 1:13",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "ہر قیمتی دولت مل جائے گی، ہم اپنے گھر مالِ غنیمت سے بھر دیں گے۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "הון",
+      "gloss": "دولت"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "قیمتی"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "مل جائے گی"
+    },
+    {
+      "surface": "נמלא",
+      "gloss": "ہم بھر دیں گے"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "اپنے گھر"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "مالِ غنیمت"
+    }
+  ],
+  "timestamp": "2026-08-09T23:58:08.832263867Z",
+  "model": "glm-5.2"
+}

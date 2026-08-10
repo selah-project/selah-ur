@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 6:16",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "یہ چھ ⟨ہیں⟩ جن سے یاہویہ کا بغض ہے، اور سات ⟨ہیں⟩ جو اس کی نفْس کے لیے مکروہ ہیں:",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "یہ ⟨ہیں⟩"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "بغض ہے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کا"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "سات ⟨ہیں⟩"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "مکروہ جو"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "اس کی نفْس کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:00:40.430611705Z",
+  "model": "glm-5.2"
+}

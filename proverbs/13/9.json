@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 13:9",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "صالحوں کا روشنی خوش ہوگا، اور بدکاروں کا چراغ بجھے گا۔",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "روشنی"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "صالحوں کا"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "خوش ہوگا"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "اور چراغ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکاروں کا"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "بجھے گا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:01:18.641941981Z",
+  "model": "glm-5.2"
+}

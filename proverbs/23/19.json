@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 23:19",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "سُن، اَے میرے بیٹے، اور دانا بن، اور اپنے دل کو راستے میں سیدھا کر۔",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "سُن"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "میرے بیٹے"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "اور دانا بن"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "اور سیدھا کر"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "راستے میں"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "اپنے دل کو"
+    }
+  ],
+  "timestamp": "2026-08-10T07:52:09.190582420Z",
+  "model": "glm-5.2"
+}

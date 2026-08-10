@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 31:34",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 31,
+  "translation": "اور گدھے یکّا اور ساٹھ ہزار،",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "اور گدھے"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "یکّا"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "اور ساٹھ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    }
+  ],
+  "timestamp": "2026-08-09T20:38:40.235205209Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 19:27",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "بند کر دے، اے بیٹے، سننا ان为核心的 تادیب کو، جو ←اقوالِ علم سے بھٹکانے کی وجہ بنے→۔",
+  "tokens": [
+    {
+      "surface": "חדל",
+      "gloss": "بند کر دے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "اے بیٹے"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "سننا"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تادیب کو"
+    },
+    {
+      "surface": "לשגות",
+      "gloss": "جو بھٹکاتا ہے"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "اقوال سے"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "علم"
+    }
+  ],
+  "timestamp": "2026-08-10T00:05:04.736324308Z",
+  "model": "glm-5.2"
+}

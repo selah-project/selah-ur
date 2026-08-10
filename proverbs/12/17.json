@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 12:17",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "جو امانت پھونکتا ہے وہ انصاف بیان کرتا ہے، اور جھوٹے گواہ کا ⟨ہے⟩ دھوکہ۔",
+  "tokens": [
+    {
+      "surface": "יפיח",
+      "gloss": "پھونکتا ہے"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "امانت"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "بیان کرتا ہے"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "اور گواہ"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "جھوٹے"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "دھوکہ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:02:06.194589923Z",
+  "model": "glm-5.2"
+}

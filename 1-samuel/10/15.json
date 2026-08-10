@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "اور شاؤل کے چچا نے کہا: مجھے بتا دے، مَیں التجا کرتا ہوں، شموایل نے تم سے کیا کہا؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "چچا"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "بتا دے"
+    },
+    {
+      "surface": "נא",
+      "gloss": "مَیں التجا کرتا ہوں"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مجھے"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "کہا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تم سے"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموایل"
+    }
+  ],
+  "timestamp": "2026-08-10T09:28:08.996604571Z",
+  "model": "glm-5.2"
+}

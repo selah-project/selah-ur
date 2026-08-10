@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 4:6",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "اور جب ان کے پاس رہنے والے یہودی آئے تو انہوں نے ہم سے دس بار ہر جگہ سے کہا: تم ہم پر لوٹ آؤ گے۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جب"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آئے"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "یہودی"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "رہنے والے"
+    },
+    {
+      "surface": "אצלם",
+      "gloss": "ان کے پاس"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "تو انہوں نے کہا"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ہم سے"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دس"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "بار"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "המקמות",
+      "gloss": "جگہ سے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תשובו",
+      "gloss": "تم لوٹ آؤ گے"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ہم پر"
+    }
+  ],
+  "timestamp": "2026-08-10T00:52:30.935227645Z",
+  "model": "glm-5.2"
+}

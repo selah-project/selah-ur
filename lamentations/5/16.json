@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "گر پڑی ہے ہمارے سر کا تاج — ہائے ہم پر، کیونکہ ہم نے گناہ کیا ہے!",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "گر پڑی ہے"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "تاج"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "ہمارے سر کا"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ہائے"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨ہم پر⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ہمارے لیے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "ہم نے گناہ کیا ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:33:21.603964320Z",
+  "model": "glm-5.2"
+}

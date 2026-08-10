@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "اِلعازار نے ⟨את⟩ پِینخس کو پیدا کیا، پِینخس نے ⟨את⟩ اَویشوع کو پیدا کیا۔",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "اِلعازار"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیدا کیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پِینخس"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "پِینخس"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "پِینخس"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "پیدا کیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اَویشوع"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "اَویشوع"
+    }
+  ],
+  "timestamp": "2026-08-10T01:01:08.807086425Z",
+  "model": "glm-5.2"
+}

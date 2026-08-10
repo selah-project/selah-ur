@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 26:16",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 26,
+  "translation": "لِعَزْنی، خاندانِ عَزْنی؛ لِعِیری، خاندانِ عِیری۔",
+  "tokens": [
+    {
+      "surface": "לאזני",
+      "gloss": "لِعَزْنی"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندانِ"
+    },
+    {
+      "surface": "האזני",
+      "gloss": "عَزْنی"
+    },
+    {
+      "surface": "לערי",
+      "gloss": "لِعِیری"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندانِ"
+    },
+    {
+      "surface": "הערי",
+      "gloss": "عِیری"
+    }
+  ],
+  "timestamp": "2026-08-09T20:36:50.381112124Z",
+  "model": "glm-5.2"
+}

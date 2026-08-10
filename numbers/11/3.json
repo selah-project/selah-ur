@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور ⟨اس نے⟩ اس مقام کا نام تَبْعِیراہ رکھا، کیونکہ یاہویہ کی آگ ان میں بھڑک اٹھی تھی۔",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "اور رکھا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نام"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "مقام کا"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اس"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "تَبْعِیراہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "بھڑک اٹھی تھی"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ان میں"
+    },
+    {
+      "surface": "אש",
+      "gloss": "آگ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:30:42.771805047Z",
+  "model": "glm-5.2"
+}

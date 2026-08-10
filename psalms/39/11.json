@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 39,
+  "translation": "مجھ سے اپنی مار ہٹا، تیرے ہاتھ کی مار سے میں ختم ہو رہا ہوں۔",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "ہٹا"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "مجھ سے"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "اپنی مار"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "کی مار سے"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "تیرے ہاتھ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "ختم ہو رہا ہوں"
+    }
+  ],
+  "timestamp": "2026-08-10T06:29:42.127652975Z",
+  "model": "glm-5.2"
+}

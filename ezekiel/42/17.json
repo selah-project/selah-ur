@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 42:17",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 42,
+  "translation": "اس نے شمال کی سمت ناپی، پانچ سو قَنِیم، ناپ کے قَنَہ سے، چاروں طرف۔",
+  "tokens": [
+    {
+      "surface": "מדד",
+      "gloss": "اس نے ناپی"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "سمت"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "شمال کی"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پانچ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "قَنِیم"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "قَنَہ سے"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "ناپ کے"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چاروں طرف"
+    }
+  ],
+  "timestamp": "2026-08-09T23:02:32.032426238Z",
+  "model": "glm-5.2"
+}

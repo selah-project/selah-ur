@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 12:26",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "اور یاہویہ کا کلام مجھے ⟨پہنچا⟩، یوں کہہ کر:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مجھے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "یوں کہہ کر"
+    }
+  ],
+  "timestamp": "2026-08-09T22:50:13.214944778Z",
+  "model": "glm-5.2"
+}

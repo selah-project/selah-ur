@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "ezra 2:66",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "ان کے گھوڑے سات سو چھتیس تھے، ان کے خچر دو سو پینتالیس تھے۔",
+  "tokens": [
+    {
+      "surface": "סוסיהם",
+      "gloss": "ان کے گھوڑے"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سات"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "تیس"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "اور چھ"
+    },
+    {
+      "surface": "פרדיהם",
+      "gloss": "ان کے خچر"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دو سو"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چالیس"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "اور پانچ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:49:08.693759570Z",
+  "model": "glm-5.2"
+}

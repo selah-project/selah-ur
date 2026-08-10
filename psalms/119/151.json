@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 151,
+  "ref": "psalms 119:151",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 119,
+  "translation": "تو قریب ہے، اے یاہویہ، اور تیرے سارے حکم سچ ہیں۔",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "قریب ہے"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہویہ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "اور سارے"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "تیرے حکم"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچ ہیں"
+    }
+  ],
+  "timestamp": "2026-08-10T06:35:26.445677431Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 13:15",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "اور کاہن دیکھے گا ⟨את⟩ زندہ گوشت کو اور اُسے ناپاک کرے گا؛ زندہ گوشت ناپاک ہے — وہ صُرَع ہے۔",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "اور دیکھے گا"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "زندہ گوشت کو"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گوشت کو"
+    },
+    {
+      "surface": "החי",
+      "gloss": "زندہ"
+    },
+    {
+      "surface": "וטמאו",
+      "gloss": "اور اُسے ناپاک کرے گا"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "החי",
+      "gloss": "زندہ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ناپاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ہے"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "صُرَع"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ ہے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:19:52.035335560Z",
+  "model": "glm-5.2"
+}

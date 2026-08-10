@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 14:8",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "اگر یاہویہ ہم سے خوش ہو تو وہ ہمیں ⟨את⟩ اس زمین میں لائے گا اور ہمیں یہ دے گا — ⟨ה⟩ زمین جو دودھ اور شہد سے بہہ رہی ہے۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "خوش ہو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ہم سے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "تو وہ لائے گا"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ہمیں",
+      "marks": "اس زمین میں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "میں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اس"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "اور دے گا"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ہمیں"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "بہہ رہی ہے"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "دودھ"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "اور شہد"
+    }
+  ],
+  "timestamp": "2026-08-10T05:29:39.225893823Z",
+  "model": "glm-5.2"
+}

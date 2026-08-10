@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 29:7",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 29,
+  "translation": "جب میں شہر کے پھاٹک کی طرف نکلتا، چوک میں اپنی نشست گاڑتا۔",
+  "tokens": [
+    {
+      "surface": "בצאתי",
+      "gloss": "جب میں نکلتا"
+    },
+    {
+      "surface": "שער",
+      "gloss": "پھاٹک"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "کے"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "ברחוב",
+      "gloss": "چوک میں"
+    },
+    {
+      "surface": "אכין",
+      "gloss": "گاڑتا"
+    },
+    {
+      "surface": "מושבי",
+      "gloss": "اپنی نشست"
+    }
+  ],
+  "timestamp": "2026-08-10T00:20:08.222152634Z",
+  "model": "glm-5.2"
+}

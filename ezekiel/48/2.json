@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 48:2",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 48,
+  "translation": "اور دان کی سرحد کے ساتھ، مشرقی سمت سے مغربی سمت تک: آشِر، ایک۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "اور … کے ساتھ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان کی"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "سمت سے"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "مشرقی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "سمت"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "مغربی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آشِر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    }
+  ],
+  "timestamp": "2026-08-09T23:03:16.794451812Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 6:22",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "بچهٔ تَحَت، بچهٔ اَسّیر، بچهٔ اَوْیاسَف، بچهٔ قُورَح۔",
+  "tokens": [
+    {
+      "surface": "בֶּן",
+      "gloss": "بچهٔ"
+    },
+    {
+      "surface": "תַּ֨חַת֙",
+      "gloss": "تَحَت"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "بچهٔ"
+    },
+    {
+      "surface": "אַסִּ֔יר",
+      "gloss": "اَسّیر"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "بچهٔ"
+    },
+    {
+      "surface": "אֶבְיָסָ֖ף",
+      "gloss": "اَوْیاسَف"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "بچهٔ"
+    },
+    {
+      "surface": "קֹֽרַח",
+      "gloss": "قُورَح"
+    }
+  ],
+  "timestamp": "2026-08-10T01:02:23.462394533Z",
+  "model": "glm-5.2"
+}

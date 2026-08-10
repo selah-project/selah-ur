@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "اور اَوراہام نے کہا: میں قسم کھاؤں گا۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام نے"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "قسم کھاؤں گا"
+    }
+  ],
+  "timestamp": "2026-08-09T19:41:13.893063284Z",
+  "model": "glm-5.2"
+}

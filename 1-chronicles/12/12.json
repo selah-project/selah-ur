@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 12:12",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "عَتّے چھٹا، اِلی‌اِیل ساتواں۔",
+  "tokens": [
+    {
+      "surface": "עתי",
+      "gloss": "عَتّے"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "چھٹا"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "اِلی‌اِیل"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ساتواں"
+    }
+  ],
+  "timestamp": "2026-08-10T01:03:42.934856638Z",
+  "model": "glm-5.2"
+}

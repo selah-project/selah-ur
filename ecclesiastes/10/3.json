@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "اور یہ بھی، جب نادان راستے پر چلتا ہے، تو اس کا دل قاصر ⟨ہے⟩، اور وہ سب کو بتاتا ہے کہ وہ نادان ہے۔",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "اور بھی"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "راستے پر"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "جب نادان"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "چلتا ہے"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "اس کا دل"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "قاصر"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "اور وہ کہتا ہے"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سب کو"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:35:19.592462742Z",
+  "model": "glm-5.2"
+}

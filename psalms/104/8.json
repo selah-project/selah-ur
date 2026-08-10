@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 104,
+  "translation": "پہاڑ بلند ہوئے، وادیاں نیچے اتریں، اس جگہ کی طرف جو تو نے ان کے لیے مقرر کی۔",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "بلند ہوئے"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "اتریں"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "وادیاں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جگہ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اس"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "تو نے مقرر کی"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ان کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:46:17.152342286Z",
+  "model": "glm-5.2"
+}

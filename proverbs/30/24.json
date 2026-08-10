@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 30:24",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 30,
+  "translation": "چار ہیں جو زمین کے چھوٹے ⟨جاندار⟩ ہیں، مگر وہ حکمت میں بہت مُتَحَکِّم ہیں:",
+  "tokens": [
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ہیں"
+    },
+    {
+      "surface": "קטני",
+      "gloss": "چھوٹے"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین کے"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "مگر وہ"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "حکمت میں"
+    },
+    {
+      "surface": "מחכמים",
+      "gloss": "بہت مُتَحَکِّم ہیں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:10:22.319194026Z",
+  "model": "glm-5.2"
+}

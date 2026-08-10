@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 17:1",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 17,
+  "translation": "مَشا دَمشق۔ دیکھو دَمشق ⟨ہے⟩ مُعطل شہر سے، اور وہ ہوگی کھنڈر کا ڈھیر۔",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "مَشا"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "دَمشق"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "دیکھو"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "دَمشق"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "مُعطل ہے"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "شہر سے"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "اور وہ ہوگی"
+    },
+    {
+      "surface": "מעי",
+      "gloss": "کھنڈر"
+    },
+    {
+      "surface": "מפלה",
+      "gloss": "گرنے کا ڈھیر"
+    }
+  ],
+  "timestamp": "2026-08-09T22:06:14.655572208Z",
+  "model": "glm-5.2"
+}

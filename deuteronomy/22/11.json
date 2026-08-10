@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 22:11",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "شَعَتنز نہ پہنو — اون اور سُن ایک ساتھ۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "پہنو"
+    },
+    {
+      "surface": "שעטנז",
+      "gloss": "شَعَتنز"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "اون"
+    },
+    {
+      "surface": "ופשתים",
+      "gloss": "اور سُن"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ایک ساتھ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:51:31.459185814Z",
+  "model": "glm-5.2"
+}

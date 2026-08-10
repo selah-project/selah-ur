@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 12:8",
+  "book": "daniel",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "اور میں نے سنا مگر نہ سمجھا؛ تو میں نے کہا: «اے میرے آقا! ان کی انجام کیا ہوگی؟»",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "اور میں"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "نے سنا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "مگر نہ"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "سمجھا"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "اور میں نے کہا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اے میرے آقا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "انجام"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ان"
+    }
+  ],
+  "timestamp": "2026-08-10T07:35:28.240400509Z",
+  "model": "glm-5.2"
+}

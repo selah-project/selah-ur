@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 132,
+  "translation": "اگر میرے گھر کے خیمے میں آؤں، اگر میرے بچھونے پر چڑھوں —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "آؤں"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "خیمے میں"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "میرے گھر کے"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "چڑھوں"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "بچھونے"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "میرے بچھونے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:54:40.684972004Z",
+  "model": "glm-5.2"
+}

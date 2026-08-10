@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 4:19",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "اور لامِک نے اپنے لیے دو بیویاں لیں — پہلی کا نام عادہ اور دوسری کا نام تْزیلہ۔",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "اور اس نے لیا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اپنے لیے"
+    },
+    {
+      "surface": "למך",
+      "gloss": "لامِک"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "بیویاں"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نام"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "پہلی کا"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "عادہ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "اور نام"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "دوسری کا"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "تْزیلہ"
+    }
+  ],
+  "timestamp": "2026-08-09T19:34:07.072094786Z",
+  "model": "glm-5.2"
+}

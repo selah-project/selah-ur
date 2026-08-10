@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 1:25",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "عِبیر، فَلِگ، رَعُو۔",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "عِبیر"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "فَلِگ"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "رَعُو"
+    }
+  ],
+  "timestamp": "2026-08-10T00:57:37.086101354Z",
+  "model": "glm-5.2"
+}

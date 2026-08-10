@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 7:5",
+  "book": "2-samuel",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "جا اور میرے خادم داوِد سے کہہ: یوں کہتا ہے یاہویہ — کیا تو مجھے بیٹنانے کے لیے ایک گھر بنائے گا؟",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "جا"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "اور کہہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "میرے خادم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "כה",
+      "gloss": "یوں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "کہتا ہے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "کییا تو"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "بنائے گا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مجھے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ایک گھر"
+    },
+    {
+      "surface": "לשבתי",
+      "gloss": "بیٹنانے کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-10T08:09:17.492556015Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 28,
+  "translation": "اور کہ یَعْقوپ نے اپنے باپ اور اپنی ماں کی بات مانی، اور پَدان اَرام چلا گیا۔",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "اور مانا"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یَعْقوپ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "اپنے باپ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "اور کی طرف"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "اپنی ماں"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "اور چلا گیا"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "پَدان"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "اَرام"
+    }
+  ],
+  "timestamp": "2026-08-10T05:13:42.448422728Z",
+  "model": "glm-5.2"
+}

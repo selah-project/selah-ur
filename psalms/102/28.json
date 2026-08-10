@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 102,
+  "translation": "اور تو وہی ⟨ہے⟩، اور تیرے سال ختم نہ ہوں گے۔",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "اور تو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہی"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "اور تیرے سال"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "ختم ہوں گے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:46:12.873846664Z",
+  "model": "glm-5.2"
+}

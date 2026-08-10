@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 11:6",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "فِرَص کے تمام بیٹے جو یروشلایم میں رہتے ⟨ہیں⟩، چار سو اڑسٹھ بہادر آدمی ⟨تھے⟩۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "فِرَص"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "جو رہتے ہیں"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یروشلایم میں"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ساٹھ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "اور آٹھ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "بہادر"
+    }
+  ],
+  "timestamp": "2026-08-10T00:56:13.752997610Z",
+  "model": "glm-5.2"
+}

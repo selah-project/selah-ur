@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 5:23",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "تو سب دن خَنوک کے ہوئے پچاس اور ساٹھ سال اور تین سو سال۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تو ہوئے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "دن"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "خَنوک کے"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پچاس"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "اور ساٹھ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "اور تین"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-08-10T07:08:16.711622309Z",
+  "model": "glm-5.2"
+}

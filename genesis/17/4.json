@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 17,
+  "translation": "میں — دیکھ، میرا عہد ⟨את⟩ تجھ کے ساتھ ہے، اور تو بہت سی قوموں کا باپ بنے گا۔",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "دیکھ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "میرا عہد"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "تجھ"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "اور تو بنے گا"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "باپ"
+    },
+    {
+      "surface": "המון",
+      "gloss": "بہت سی"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قوموں کا"
+    }
+  ],
+  "timestamp": "2026-08-10T05:12:07.257812487Z",
+  "model": "glm-5.2"
+}

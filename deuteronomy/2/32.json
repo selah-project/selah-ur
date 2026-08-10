@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 2:32",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "پھر سِیحون ہم سے مقابلے کو نکلا، وہ اور اُس کی ساری قوم، جہازہ کی طرف جنگ کے لیے۔",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "پھر نکلا"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "سِیحون"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "ہم سے مقابلے کو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "اور ساری"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اُس کی قوم"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "جنگ کے لیے"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "جہازہ کی طرف"
+    }
+  ],
+  "timestamp": "2026-08-09T20:42:47.204401408Z",
+  "model": "glm-5.2"
+}

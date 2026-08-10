@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "اور وہ ⟪فقط⟫ ایک کو کرے گا ⟨את⟩ — ⟨ایک⟩ کو فاختوں میں سے یا کبوتر کے بچوں میں سے، جو اس کا ہاتھ پہنچ سکے۔",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "اور وہ کرے گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ایک"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "מן",
+      "gloss": "سے"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "فاختوں"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "سے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بچوں"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "کبوتر"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "پہنچ سکے"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اس کا ہاتھ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:19:29.877770078Z",
+  "model": "glm-5.2"
+}

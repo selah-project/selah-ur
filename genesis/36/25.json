@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 36:25",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 36,
+  "translation": "اور یہ ہیں عَنہ کے بیٹے: دِشون اور عَہولیبامہ، عَنہ کی بیٹی۔",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "اور یہ ہیں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "عَنہ"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "دِشون"
+    },
+    {
+      "surface": "ואהליבמה",
+      "gloss": "اور عَہولیبامہ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بیٹی"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "عَنہ"
+    }
+  ],
+  "timestamp": "2026-08-09T19:47:30.239398741Z",
+  "model": "glm-5.2"
+}

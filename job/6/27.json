@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 6:27",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "بلکہ، تم یتیم پر پیندے ہو، اور اپنے ساتھی پر سودے کرتے ہو۔",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "یتیم"
+    },
+    {
+      "surface": "תפילו",
+      "gloss": "تم پیندے ہو"
+    },
+    {
+      "surface": "ותכרו",
+      "gloss": "اور سودے کرتے ہو"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ריעכם",
+      "gloss": "اپنے ساتھی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:11:34.602858567Z",
+  "model": "glm-5.2"
+}

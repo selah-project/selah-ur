@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 10:4",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "اور یاوان کے بیٹے — اِلیشَہ اور تَرشِیش، کِتّیم اور دودانیم۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "اور بیٹے"
+    },
+    {
+      "surface": "יון",
+      "gloss": "یاوان کے"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "اِلیشَہ"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "اور تَرشِیش"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "کِتّیم"
+    },
+    {
+      "surface": "ודדנים",
+      "gloss": "اور دودانیم"
+    }
+  ],
+  "timestamp": "2026-08-09T19:36:00.163953753Z",
+  "model": "glm-5.2"
+}

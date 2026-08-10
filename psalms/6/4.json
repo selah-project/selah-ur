@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اور میری نَفَش بہت کانپ اٹھی ہے، اور ⟨את⟩ تو، یاہویہ، کب تک؟",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "اور میری نَفَش"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "کانپ اٹھی ہے"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ",
+      "marks": "یاہویہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "مתי",
+      "gloss": "کب"
+    }
+  ],
+  "timestamp": "2026-08-09T23:24:10.842224464Z",
+  "model": "glm-5.2"
+}

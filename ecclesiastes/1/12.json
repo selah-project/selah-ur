@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "میں قاہِلِت یِسرایل کے بادشاہ رہا، بیرُوشلایم میں۔",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "قاہِلِت"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "میں رہا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "کے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "بیرُوشلایم میں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:33:09.812882404Z",
+  "model": "glm-5.2"
+}

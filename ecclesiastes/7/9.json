@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اپنی روح میں جلدی مت کرو غصے ہونے کو، کیونکہ غصہ احمقوں کی گود میں ٹھہرتا ہے۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مت"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "جلدی کرو"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "اپنی روح میں"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "غصے ہونے کو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "غصہ"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "گود میں"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "احمقوں کی"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "ٹھہرتا ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:43:14.385058547Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 6:24",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اور اُس کا بھائی آسَف، جو اُس کے دائیں ہاتھ پر کھڑا تھا — آسَف بچهٔ بَرِکیاہو، بچهٔ شِمع۔",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "اور اُس کا بھائی"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "آسَف"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "کھڑا تھا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "اُس کے دائیں ہاتھ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "آسَف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بچهٔ"
+    },
+    {
+      "surface": "ברכיהו",
+      "gloss": "بَرِکیاہو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بچهٔ"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "شِمع"
+    }
+  ],
+  "timestamp": "2026-08-10T01:02:23.462701944Z",
+  "model": "glm-5.2"
+}

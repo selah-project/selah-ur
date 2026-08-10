@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "اور نُوح — زمین کا آدمی — نے آغاز کیا اور اس نے ایک انگور کا باغ لگایا۔",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "اور اس نے آغاز کیا"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُوح"
+    },
+    {
+      "surface": "איש",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمین کا"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "اور اس نے لگایا"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "انگور کا باغ"
+    }
+  ],
+  "timestamp": "2026-08-09T19:35:43.380364045Z",
+  "model": "glm-5.2"
+}

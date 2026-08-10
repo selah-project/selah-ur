@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 23:4",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "امیر ہونے کے لیے مت تھک، اپنی سمجھ سے دستبردار ہو جا۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مت"
+    },
+    {
+      "surface": "תיגע",
+      "gloss": "تو تھک"
+    },
+    {
+      "surface": "لהעשיר",
+      "gloss": "امیر ہونے کے لیے"
+    },
+    {
+      "surface": "מבינתך",
+      "gloss": "اپنی سمجھ سے"
+    },
+    {
+      "surface": "חדل",
+      "gloss": "دستبردار ہو جا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:06:15.522464125Z",
+  "model": "glm-5.2"
+}

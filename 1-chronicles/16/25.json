@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 16:25",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 16,
+  "translation": "کیونکہ یاہویہ بڑا ہے اور بہت ستائیدہ ہے، اور وہ تمام الوہیم پر ہیبت ناک ہے۔",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "גָדוֹל",
+      "gloss": "بڑا"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "וּמְהֻלָּל",
+      "gloss": "اور ستائیدہ"
+    },
+    {
+      "surface": "מְאֹד",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "וְנוֹרָא",
+      "gloss": "اور ہیبت ناک"
+    },
+    {
+      "surface": "ה֖וּא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "אֱלֹהִֽים",
+      "gloss": "الوہیم"
+    }
+  ],
+  "timestamp": "2026-08-10T06:50:48.139322762Z",
+  "model": "glm-5.2"
+}

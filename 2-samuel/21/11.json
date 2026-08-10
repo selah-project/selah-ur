@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 21:11",
+  "book": "2-samuel",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "اور داوِد کو بتایا گیا ⟨את⟩ جو کچھ رِصپہ بنت اَیّاہ، شاؤل کی باندی نے کیا تھا۔",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "اور بتایا گیا"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد کو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جو کچھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو کچھ"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "کیا تھا"
+    },
+    {
+      "surface": "רצפה",
+      "gloss": "رِصپہ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "איה",
+      "gloss": "اَیّاہ"
+    },
+    {
+      "surface": "פלגש",
+      "gloss": "باندی"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    }
+  ],
+  "timestamp": "2026-08-10T05:50:05.812536646Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 32:15",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 32,
+  "translation": "وہ حیران ہیں، اب جواب نہیں دیتے، ان سے باتیں ہٹ گئیں۔",
+  "tokens": [
+    {
+      "surface": "חתו",
+      "gloss": "وہ حیران ہیں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "جواب دیتے"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "اب"
+    },
+    {
+      "surface": "העתיקו",
+      "gloss": "ہٹ گئیں"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ان سے"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "باتیں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:21:18.931452502Z",
+  "model": "glm-5.2"
+}

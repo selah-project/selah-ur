@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اور ⟨את⟩ ایک سمندر، اور ⟨את⟩ بارہ بیل اس کے نیچے —",
+  "tokens": [
+    {
+      "surface": "وאת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "سمندر کو"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "بارہ بیلوں کو"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "بیل"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دس"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "نیچے"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر کے"
+    }
+  ],
+  "timestamp": "2026-08-09T21:41:42.666507011Z",
+  "model": "glm-5.2"
+}

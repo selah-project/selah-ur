@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 32:37",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 32,
+  "translation": "اور ⟨وہ⟩ کہے گا: کہاں ہیں ان کے معبود، وہ چٹان جس پر وہ بھروسہ رکھتے تھے،",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "اور ⟨وہ⟩ کہے گا"
+    },
+    {
+      "surface": "אי",
+      "gloss": "کہاں ہیں"
+    },
+    {
+      "surface": "אלהימו",
+      "gloss": "ان کے معبود"
+    },
+    {
+      "surface": "צור",
+      "gloss": "وہ چٹان"
+    },
+    {
+      "surface": "חסיו",
+      "gloss": "جس پر وہ بھروسہ رکھتے تھے"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اس میں"
+    }
+  ],
+  "timestamp": "2026-08-09T20:55:17.192330170Z",
+  "model": "glm-5.2"
+}

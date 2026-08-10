@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 5:14",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "تھوڑا سا رہا کہ میں ہر برائی میں پڑ جاتا، جماعت اور مجلس کے بیچ میں۔",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "تھوڑا سا رہا"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "میں تھا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برائی میں"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "کے بیچ میں"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "جماعت"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "اور مجلس"
+    }
+  ],
+  "timestamp": "2026-08-10T06:37:01.600537106Z",
+  "model": "glm-5.2"
+}

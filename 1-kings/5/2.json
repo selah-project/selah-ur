@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 5:2",
+  "book": "1-kings",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "اور شِلوموہ کا کھانا ایک دن کے لیے تھا: تیس کُر باریک آٹا اور ساٹھ کُر آٹا،",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور تھا"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "کھانا"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شِلوموہ کا"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ایک دن کے لیے"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "تیس"
+    },
+    {
+      "surface": "כר",
+      "gloss": "کُر"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "باریک آٹا"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "اور ساٹھ"
+    },
+    {
+      "surface": "כר",
+      "gloss": "کُر"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "آٹا"
+    }
+  ],
+  "timestamp": "2026-08-10T05:50:58.132576969Z",
+  "model": "glm-5.2"
+}

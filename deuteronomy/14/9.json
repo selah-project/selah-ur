@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 14:9",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "⟨את⟩ یہ تم کھاؤ گی پانیوں میں جو کچھ ہے اس میں سے — سب ⟨کو⟩ جس کے پاس پر اور خول ہے تم کھاؤ گے۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یہ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "تم کھاؤ گے"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "اس میں سے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو کچھ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "پانیوں میں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جس کے پاس"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اس کے لیے"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "پر"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "اور خول"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "تم کھاؤ گے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:47:28.088492897Z",
+  "model": "glm-5.2"
+}

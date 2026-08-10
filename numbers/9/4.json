@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "اور موشے نے یِسرائیل کے بیٹوں سے بات کی، ⟨את⟩ فِصح کو کرنے کے لیے۔",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "اور بات کی"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹوں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل کے"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "کرنے کے لیے"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "⟨את⟩ فِصح"
+    }
+  ],
+  "timestamp": "2026-08-10T05:28:49.957044491Z",
+  "model": "glm-5.2"
+}

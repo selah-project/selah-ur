@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 9:14",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "اور لیویوں میں سے: شِم‌ع‌یہ، بَن خَشّوب، بَن عَزرِیقام، بَن خَشَب‌یہ، مِراری کے بیٹوں میں سے۔",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "اور میں سے"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لیویوں"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "شِم‌ع‌یہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بَن"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "خَشّوب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بَن"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "عَزرِیقام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بَن"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "خَشَب‌یہ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "میں سے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹوں"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مِراری"
+    }
+  ],
+  "timestamp": "2026-08-10T01:03:32.478862686Z",
+  "model": "glm-5.2"
+}

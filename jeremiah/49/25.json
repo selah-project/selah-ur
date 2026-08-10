@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 49:25",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 49,
+  "translation": "کیسے نہیں چھوڑی گئی، ⟨وہ⟩ شہرِ تعریف، میرے مگن کا شہر!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "کیسے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "چھوڑی گئی"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "تعریف"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "משושי",
+      "gloss": "میرے مگن"
+    }
+  ],
+  "timestamp": "2026-08-09T22:43:49.189361060Z",
+  "model": "glm-5.2"
+}

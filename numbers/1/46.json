@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 1:46",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "تو گنے ہوئے سب چھ لاکھ اور تین ہزار اور پانچ سو اور پچاس ہوئے۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "تو ہوئے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "گنے ہوئے"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "اور تین"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "اور پانچ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "اور پچاس"
+    }
+  ],
+  "timestamp": "2026-08-09T20:25:38.626062535Z",
+  "model": "glm-5.2"
+}

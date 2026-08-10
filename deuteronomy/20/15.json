@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 20:15",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "اسی طرح تو تمام ان شہروں کے ساتھ کر جو تجھ سے بہت دور ہیں، جو ان قوموں کے شہروں سے نہیں ہیں جو یہ ⟨یہاں⟩ ہیں۔",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "اسی طرح"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "تو کر"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ان شہروں"
+    },
+    {
+      "surface": "הרחקת",
+      "gloss": "جو دور ہیں"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "تجھ سے"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "شہروں سے"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ان قوموں کے"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨یہاں⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T08:41:45.487085296Z",
+  "model": "glm-5.2"
+}

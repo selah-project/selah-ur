@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 24:12",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "گیارہواں اِل‌یاشیو، بارہواں یاکیم۔",
+  "tokens": [
+    {
+      "surface": "לאלישיב",
+      "gloss": "اِل‌یاشیو کو"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "گیارہ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "−واں"
+    },
+    {
+      "surface": "ליקים",
+      "gloss": "یاکیم کو"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "بارہ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "−واں"
+    }
+  ],
+  "timestamp": "2026-08-10T01:10:01.312009554Z",
+  "model": "glm-5.2"
+}

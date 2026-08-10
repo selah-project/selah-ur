@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 10:23",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "پِلاتْیَہ، خَنان، عَنَیَہ،",
+  "tokens": [
+    {
+      "surface": "פְּלַטְיָ֥ה",
+      "gloss": "پِلاتْیَہ"
+    },
+    {
+      "surface": "חָנָ֖ן",
+      "gloss": "خَنان"
+    },
+    {
+      "surface": "עֲנָיָֽה",
+      "gloss": "عَنَیَہ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:55:08.235057363Z",
+  "model": "glm-5.2"
+}

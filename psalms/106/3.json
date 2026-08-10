@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 106,
+  "translation": "خوش اُن لوگوں کو جو انصاف کی رکھوالی کرتے ہیں، نیکی کرنے والا ہر وقت۔",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "خوش"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "رکھوالی کرنے والوں کو"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف کی"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کرنے والا"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "نیکی"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    }
+  ],
+  "timestamp": "2026-08-10T06:35:09.795185998Z",
+  "model": "glm-5.2"
+}

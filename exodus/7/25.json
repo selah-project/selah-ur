@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اور سات دن پورے ہوئے، یاہویہ کے ⟨את⟩ نہر کو مارنے کے بعد۔",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "اور پورے ہوئے"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "سات"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دن"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "کے بعد"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "مارنے کے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نہر کو"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "نہر"
+    }
+  ],
+  "timestamp": "2026-08-09T19:57:23.145071785Z",
+  "model": "glm-5.2"
+}

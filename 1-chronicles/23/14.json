@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 23:14",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "اور موشے، الوہیم کا آدمی، اُس کے بیٹے لاوی کے قبیلے میں گِنے گئے۔",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "اور موشے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوہیم کا"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "اُس کے بیٹے"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "گِنے گئے"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "قبیلے"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "لاوی"
+    }
+  ],
+  "timestamp": "2026-08-10T01:09:54.446158095Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "تو موشے کے داماد نے اس سے کہا: جو کام تو کر رہا ہے وہ بات اچھی نہیں ہے۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تو کہا"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "دامادِ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اس سے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "اچھی ہے"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "وہ بات"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کر رہا ہے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:02:36.363372622Z",
+  "model": "glm-5.2"
+}

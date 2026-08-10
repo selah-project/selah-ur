@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 9:19",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "یہ تین نُوح کے بیٹے تھے؛ اور انہی سے ⟨ہ⟩ پوری زمین بستی ہے۔",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "تین"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُوح"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "اور انہی سے"
+    },
+    {
+      "surface": "נפצה",
+      "gloss": "بستی ہے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-09T19:35:43.380258949Z",
+  "model": "glm-5.2"
+}

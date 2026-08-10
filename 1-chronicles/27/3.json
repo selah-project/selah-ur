@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 27:3",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "وہ پَرِص کے بیٹوں میں سے تھا، تمام لشکروں کے سرداروں کا سربراہ پہلے مہینے کے لیے۔",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "سے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹوں"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پرص"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سربراہ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سرداروں کا"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "لشکروں کے"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مہینے کے لیے"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "پہلے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:52:01.495579836Z",
+  "model": "glm-5.2"
+}

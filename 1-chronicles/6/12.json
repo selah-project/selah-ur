@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 6:12",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اِلیآب اُس کا بیٹا، یَروحام اُس کا بیٹا، اَلقَنہ اُس کا بیٹا۔",
+  "tokens": [
+    {
+      "surface": "אליאב",
+      "gloss": "اِلیآب"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اُس کا بیٹا"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "یَروحام"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اُس کا بیٹا"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "اَلقَنہ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اُس کا بیٹا"
+    }
+  ],
+  "timestamp": "2026-08-10T01:01:09.639165816Z",
+  "model": "glm-5.2"
+}

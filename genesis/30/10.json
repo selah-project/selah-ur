@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 30:10",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 30,
+  "translation": "اور زِلپہ، لیاہ کی لونڈی، نے یَعقوب کو بیٹا جنم دیا۔",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "اور جنم دیا"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "زِلپہ"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "لونڈی"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لیاہ کی"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "یَعقوب کو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    }
+  ],
+  "timestamp": "2026-08-09T19:43:56.175260337Z",
+  "model": "glm-5.2"
+}

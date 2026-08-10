@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 17:7",
+  "book": "2-samuel",
+  "lang": "ur",
+  "chapter": 17,
+  "translation": "اور خوشای نے اَوشلوم سے کہا: اِس مرتبہ جو مشورہ اَخیتوفَل نے دیا ہے وہ اچھا نہیں ہے۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "خوشای"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "اَوشلوم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "اچھا"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "مشورہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "دیا ہے"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "اَخیتوفَل"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "مرتبہ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اسی"
+    }
+  ],
+  "timestamp": "2026-08-09T21:36:56.238147056Z",
+  "model": "glm-5.2"
+}

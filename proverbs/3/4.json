@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "تو تجھے بخشش اور اچھی سمجھ ملے گی — الوہیم اور آدم کی نظروں میں۔",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "اور ملے گی"
+    },
+    {
+      "surface": "חן",
+      "gloss": "بخشش"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "اور سمجھ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "اچھی"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "نظروں میں"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "اور آدم"
+    }
+  ],
+  "timestamp": "2026-08-09T23:59:10.185152847Z",
+  "model": "glm-5.2"
+}

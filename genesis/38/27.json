@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 38:27",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 38,
+  "translation": "اور ہوا، اُس کے جننے کے وقت، اور دیکھو — جواڑے اُس کے پیٹ میں تھے۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "کے وقت"
+    },
+    {
+      "surface": "לדתה",
+      "gloss": "اُس کے جننے"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "اور دیکھو"
+    },
+    {
+      "surface": "תאומים",
+      "gloss": "جواڑے"
+    },
+    {
+      "surface": "בבטנה",
+      "gloss": "اُس کے پیٹ میں"
+    }
+  ],
+  "timestamp": "2026-08-10T05:17:59.425809054Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "اور یاہویہ نے موشہ سے کوہ سِینای پر فرمایا، کہتے ہوئے:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "اور فرمایا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "کوہ پر"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "سِینای"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہتے ہوئے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:24:07.337492113Z",
+  "model": "glm-5.2"
+}

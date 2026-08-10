@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 30:18",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 30,
+  "translation": "تین ⟨ہیں⟩ وہ جو مجھ سے دنگ کرنے والے ہیں، اور چار جنہیں میں نہیں جانتا۔",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "تین"
+    },
+    {
+      "surface": "המה",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "נפלאו",
+      "gloss": "دنگ کرنے والے ہیں"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "مجھ سے"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "اور چار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "ידעתים",
+      "gloss": "جانتا"
+    }
+  ],
+  "timestamp": "2026-08-10T07:32:50.808184094Z",
+  "model": "glm-5.2"
+}

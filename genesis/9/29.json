@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 9:29",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "تو نُوح کے سارے دن نو سو سال اور پچاس سال ہوئے، اور وہ فوت ہوا۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "تو ہوئے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "دن"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُوح کے"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نو"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "اور پچاس"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "اور وہ فوت ہوا"
+    }
+  ],
+  "timestamp": "2026-08-09T19:34:45.654528354Z",
+  "model": "glm-5.2"
+}

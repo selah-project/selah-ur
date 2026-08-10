@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 26:13",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 26,
+  "translation": "لِزَرَح، خاندانِ زَرْحی؛ لِشاؤُل، خاندانِ شاؤُلی۔",
+  "tokens": [
+    {
+      "surface": "לזרח",
+      "gloss": "لِزَرَح"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندانِ"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "زَرْحی"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "لِشاؤُل"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندانِ"
+    },
+    {
+      "surface": "השאולי",
+      "gloss": "شاؤُلی"
+    }
+  ],
+  "timestamp": "2026-08-09T20:36:50.380573249Z",
+  "model": "glm-5.2"
+}

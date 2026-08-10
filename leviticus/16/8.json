@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 16,
+  "translation": "اور اہرون ڈالے گا دونوں بکروں پر قرعے — ایک قرعہ یاہویہ کے لیے، اور ایک قرعہ عزازیلؑ کے لیے۔",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "اور ڈالے گا"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دونوں"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "بکروں"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "قرعے"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "قرعہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہویہ کے لیے"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "اور قرعہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "عزازیلؑ کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-10T05:25:20.015678138Z",
+  "model": "glm-5.2"
+}

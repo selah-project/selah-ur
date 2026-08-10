@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 39,
+  "translation": "میں خاموش ہو گیا، اپنا منہ نہیں کھولا، کیونکہ تو ⟨ہی⟩ نے یہ کیا۔",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "میں خاموش ہو گیا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "کھولا"
+    },
+    {
+      "surface": "פי",
+      "gloss": "اپنا منہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو ⟨ہی⟩"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "نے یہ کیا"
+    }
+  ],
+  "timestamp": "2026-08-10T06:29:42.127498161Z",
+  "model": "glm-5.2"
+}

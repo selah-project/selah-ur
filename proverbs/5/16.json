@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 5:16",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "کیا تیرے چشمے باہر بہہ نکلے، گلیوں میں پانی کی نہریں؟",
+  "tokens": [
+    {
+      "surface": "יפוצו",
+      "gloss": "کیا بہہ نکلے"
+    },
+    {
+      "surface": "מעינתיך",
+      "gloss": "تیرے چشمے"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "باہر"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "گلیوں میں"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "نہریں"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانی کی"
+    }
+  ],
+  "timestamp": "2026-08-10T06:37:01.600803759Z",
+  "model": "glm-5.2"
+}

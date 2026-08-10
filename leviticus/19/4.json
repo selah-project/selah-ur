@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "بتوں کی طرف مت پھرو، اور ڈھٹے ہوئے الوہیم اپنے لیے مت بناؤ؛ میں یاہویہ تمہارا الوہیم ہوں۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مت"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "پھرو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "بتوں"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "اور ... الوہیم"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "ڈھٹے ہوئے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "مت"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "بناؤ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "اپنے لیے"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "تمہارا الوہیم"
+    }
+  ],
+  "timestamp": "2026-08-09T20:21:13.220927844Z",
+  "model": "glm-5.2"
+}

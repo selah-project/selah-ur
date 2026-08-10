@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 109:13",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 109,
+  "translation": "اس کا بعد ⟨ہو⟩ کاٹنے کے لیے، دوسری نسل میں ان کا نام مٹا دیا جائے۔",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ہو"
+    },
+    {
+      "surface": "אחריתו",
+      "gloss": "اس کا بعد"
+    },
+    {
+      "surface": "להכרית",
+      "gloss": "کاٹنے کے لیے"
+    },
+    {
+      "surface": "בדור",
+      "gloss": "نسل میں"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "دوسری"
+    },
+    {
+      "surface": "ימח",
+      "gloss": "مٹا دیا جائے"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "ان کا نام"
+    }
+  ],
+  "timestamp": "2026-08-09T23:50:37.960042709Z",
+  "model": "glm-5.2"
+}

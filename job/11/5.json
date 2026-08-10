@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 11:5",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور لیکن کاش الوہ بولتا اور اپنے ہونٹ آپ کے ساتھ کھولتا۔",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "اور لیکن"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کاش"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دے (کاش)"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "الوہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بولتا"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "اور کھولتا"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "اپنے ہونٹ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "آپ کے ساتھ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:13:58.977337876Z",
+  "model": "glm-5.2"
+}

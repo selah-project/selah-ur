@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "اور قاؤت اور ⟨את⟩ رَخامہ اور ⟨את⟩ شَلاک،",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "اور قاؤت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "رَخامہ"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "رَخامہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "شَلاک"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "شَلاک"
+    }
+  ],
+  "timestamp": "2026-08-09T20:48:09.571566791Z",
+  "model": "glm-5.2"
+}

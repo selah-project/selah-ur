@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 2:4",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور اُس کی فوج اور اُن کے شمار شدہ — چوہتر ہزار اور چھ سو۔",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "اور اُس کی فوج"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "اور اُن کے شمار شدہ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "اور ستر"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "اور چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    }
+  ],
+  "timestamp": "2026-08-10T05:26:19.238208110Z",
+  "model": "glm-5.2"
+}

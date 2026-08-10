@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 93,
+  "translation": "تیرا تخت ازلو سے قائم ہے، ازل سے تو ہی ہے۔",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "قائم ہے"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "تیرا تخت"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "ازلو سے"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "ازل سے"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو ہی ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:33:07.701507965Z",
+  "model": "glm-5.2"
+}

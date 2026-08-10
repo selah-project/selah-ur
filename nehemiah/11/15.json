@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 11:15",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور لَوییم میں سے: شَمَعیاہ، بن حَشّوب، بن عَزریقام، بن حَشَبْیاہ، بن بُنّی۔",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "اور … میں سے"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لَوییم"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "شَمَعیاہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "حَشّوب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "عَزریقام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "حَشَبْیاہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "בוני",
+      "gloss": "بُنّی"
+    }
+  ],
+  "timestamp": "2026-08-10T09:05:46.279850523Z",
+  "model": "glm-5.2"
+}

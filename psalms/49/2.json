@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 49,
+  "translation": "سنّو یہ، اے سب قومیں؛ کان لگاؤ، اے دنیا کے سب رہنے والے۔",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "سنّو"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "قومیں"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "کان لگاؤ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "رہنے والے"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "دنیا"
+    }
+  ],
+  "timestamp": "2026-08-10T06:30:00.254605636Z",
+  "model": "glm-5.2"
+}

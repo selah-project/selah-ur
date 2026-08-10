@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "بہادر اور جنگجو، جج اور نبی، فال گردان اور بزرگ۔",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "بہادر"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "اور"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگجو"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "جج"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "اور نبی"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "اور فال گردان"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "اور بزرگ"
+    }
+  ],
+  "timestamp": "2026-08-09T22:02:04.847263440Z",
+  "model": "glm-5.2"
+}

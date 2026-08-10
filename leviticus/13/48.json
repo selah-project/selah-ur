@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "leviticus 13:48",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "یا تانے میں یا بُنے میں، سن کے لیے یا اون کے لیے؛ یا کسی چمڑے میں یا کسی چمڑے کی بنی ہر چیز میں —",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "تانے میں"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "بُنے میں"
+    },
+    {
+      "surface": "לפשתים",
+      "gloss": "سن کے لیے"
+    },
+    {
+      "surface": "ולצמר",
+      "gloss": "یا اون کے لیے"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "کسی چمڑے میں"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "کسی میں"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "بنی ہر چیز"
+    },
+    {
+      "surface": "עור",
+      "gloss": "چمڑے کی"
+    }
+  ],
+  "timestamp": "2026-08-10T05:24:08.856077215Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 9:14",
+  "book": "judges",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "تو کہا تمام درختوں نے کانٹے سے: جا تو، بادشاہ بن ہم پر۔",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "تو کہا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "درختوں نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "האטד",
+      "gloss": "کانٹے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "جا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ بن"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ہم پر"
+    }
+  ],
+  "timestamp": "2026-08-09T21:12:16.604415581Z",
+  "model": "glm-5.2"
+}

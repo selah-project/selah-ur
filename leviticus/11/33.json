@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 11:33",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور ہر برتنِ مٹی کا، جس میں ان میں سے کوئی گِرے، جو کچھ اس کے اندر ہو وہ ناپاک ہوگا، اور ⟨את⟩ اسے توڑ ڈالو۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "اور ہر"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "برتن"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "مٹی کا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "گرے"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ان میں سے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اس میں"
+    },
+    {
+      "surface": "תוכו",
+      "gloss": "اس کے اندر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جو کچھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בתוכו",
+      "gloss": "اس کے اندر"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ناپاک ہوگا"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩",
+      "marks": "اسے"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "توڑ ڈالو"
+    }
+  ],
+  "timestamp": "2026-08-10T07:40:13.584631096Z",
+  "model": "glm-5.2"
+}

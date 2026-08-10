@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "بحیثیتِ دریا، اپنی سرزمین سے گزر، بتھ ترشیش؛ اب کوئی پٹکا نہیں۔",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "گزر"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "اپنی سرزمین سے"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "بحیثیتِ دریا"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بنتِ"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "ترشیش"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نہیں ہے"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "پٹکا"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "اب"
+    }
+  ],
+  "timestamp": "2026-08-09T22:08:54.859451352Z",
+  "model": "glm-5.2"
+}

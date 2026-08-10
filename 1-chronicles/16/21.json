@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 16:21",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 16,
+  "translation": "کسی آدمی کو انہیں دبانے نہ دیا، اور بادشاہوں کو ان کے بارے میں باز رکھا۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "دیا"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "کسی آدمی کو"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "انہیں دبانے"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "اور باز رکھا"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ان کے بارے میں"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "بادشاہوں کو"
+    }
+  ],
+  "timestamp": "2026-08-10T01:04:59.999880852Z",
+  "model": "glm-5.2"
+}

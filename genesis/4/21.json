@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "اور اُس کے بھائی کا نام یووبال تھا — وہ ہر اُس ⟨ؑ⟩ کا باپ تھا جو کنور اور عوگاب کو تھامتا ہے۔",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "اور نام"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "اُس کے بھائی کا"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "یووبال"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "تھا"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باپِ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "تھامنے والا"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "کنور"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "اور عوگاب"
+    }
+  ],
+  "timestamp": "2026-08-09T19:35:36.580233050Z",
+  "model": "glm-5.2"
+}

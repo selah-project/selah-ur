@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 24:23",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "یہ بھی حکیموں کے ہیں: مقدمے میں منہ لگنا اچھا نہیں۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "بھی"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "حکیموں کے ہیں"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "پہچاننا"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "مقدمے میں"
+    },
+    {
+      "surface": "בל",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "اچھا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:06:54.955866184Z",
+  "model": "glm-5.2"
+}

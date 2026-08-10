@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 77:10",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 77,
+  "translation": "کیا ایل نے بخشش بھول دی؟ کیا اس نے اپنے رحمت کو غصے میں بند کر دیا؟ سلاہ۔",
+  "tokens": [
+    {
+      "surface": "השכח",
+      "gloss": "کیا … بھول دی"
+    },
+    {
+      "surface": "חנות",
+      "gloss": "بخشش"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "אם",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "קפץ",
+      "gloss": "بند کر دیا"
+    },
+    {
+      "surface": "באף",
+      "gloss": "غصے میں"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "اپنے رحمت کو"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلاہ"
+    }
+  ],
+  "timestamp": "2026-08-10T06:33:19.589117661Z",
+  "model": "glm-5.2"
+}

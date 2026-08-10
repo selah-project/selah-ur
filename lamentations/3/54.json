@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "lamentations 3:54",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "پانی میرے سر پر بہہ گئے، میں نے کہا: میں کٹ گیا۔",
+  "tokens": [
+    {
+      "surface": "צָֽפוּ",
+      "gloss": "بہہ گئے"
+    },
+    {
+      "surface": "מַ֥יִם",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "רֹאשִׁ֖י",
+      "gloss": "میرے سر"
+    },
+    {
+      "surface": "אָמַ֥רְתִּי",
+      "gloss": "میں نے کہا"
+    },
+    {
+      "surface": "נִגְזָֽרְתִּי",
+      "gloss": "میں کٹ گیا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:30:09.102499393Z",
+  "model": "glm-5.2"
+}

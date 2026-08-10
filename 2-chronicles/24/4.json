@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 24:4",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "اور اِس کے بعد ہوا، یُوآشُ کے دل پر تھا کہ وہ ⟨את⟩ یاہویہ کے گھر کی تجدید کرے۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اِس کے"
+    },
+    {
+      "surface": "היה",
+      "gloss": "تھا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "پر"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "یُوآشُ کے"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "کہ تجدید کرے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہویہ کے گھر کو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کے"
+    }
+  ],
+  "timestamp": "2026-08-10T01:22:29.341647266Z",
+  "model": "glm-5.2"
+}

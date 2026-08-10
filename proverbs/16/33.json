@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 16,
+  "translation": "گود میں ڈالا جاتا ہے ⟨את⟩ قرعہ، اور یاہویہ سے ⟨ہے⟩ اس کا ہر فیصلہ۔",
+  "tokens": [
+    {
+      "surface": "בחיק",
+      "gloss": "گود میں"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "ڈالا جاتا ہے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قرعہ"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "قرعہ"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "اور یاہویہ سے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "اس کا فیصلہ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:03:05.551609846Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 12:19",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "سچائی کا ہونٹ ہمیشہ کے لیے قائم ⟨ہے⟩، اور جھوٹ کی زبان صرف ایک لمحے کے لیے۔",
+  "tokens": [
+    {
+      "surface": "שפת",
+      "gloss": "ہونٹ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچائی کا"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "قائم"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ہمیشہ کے لیے"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "اور ⟨صرف⟩"
+    },
+    {
+      "surface": "ארגיעה",
+      "gloss": "ایک لمحے کے لیے"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "جھوٹ کی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:02:06.194940990Z",
+  "model": "glm-5.2"
+}

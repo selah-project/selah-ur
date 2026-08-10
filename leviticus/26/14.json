@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 26,
+  "translation": "اور اگر تم میری نہ سنیں گے اور یہ سب حکم نہ کرو گے،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "اور اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "سنیں گے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میری"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "کرو گے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سب کو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "یہ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:24:39.674842236Z",
+  "model": "glm-5.2"
+}

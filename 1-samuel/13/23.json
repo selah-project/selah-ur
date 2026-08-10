@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 13:23",
+  "book": "1-samuel",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "اور چوکی نکلی فِلِشتِیم کی، مِخمَس کے گزرگاہ کی طرف۔",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "اور نکلی"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "چوکی"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "فِلِشتِیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "گزرگاہ"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "مِخمَس"
+    }
+  ],
+  "timestamp": "2026-08-09T21:21:18.018713011Z",
+  "model": "glm-5.2"
+}

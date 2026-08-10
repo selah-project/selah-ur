@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "تو حوالے نہ کرے ایک غلام کو اس کے آقا کے پاس جو بھاگ کر اس کے آقا سے تیری پناہ میں آئے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "تو حوالے کرے"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ایک غلام کو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کے پاس"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "اس کے آقا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "بھاگ کر پہنچے"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیری پناہ میں"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "کے پاس سے"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "اس کے آقا"
+    }
+  ],
+  "timestamp": "2026-08-10T05:34:51.379501674Z",
+  "model": "glm-5.2"
+}

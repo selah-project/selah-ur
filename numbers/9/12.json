@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 9:12",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "وہ اس میں سے صبح تک کچھ نہ چھوڑیں، اور نہ اس کی کوئی ہڈی توڑیں؛ فِسح کی سبھی حکمتیوں کے مطابق وہ ⟨את⟩ اسے کریں۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "چھوڑیں"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اس میں سے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "اور ہڈی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "توڑیں"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اس کی"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "سبھی کے مطابق"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "حکمتیوں"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "فِسح کی"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "وہ کریں"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اسے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:29:31.591510092Z",
+  "model": "glm-5.2"
+}

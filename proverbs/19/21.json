@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 19:21",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "بہت سے ارادے ⟨ہیں⟩ آدمی کے دل میں، مگر یاہویہ کی صلاح ⟨ہی⟩ قائم رہے گی۔",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "بہت سے"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "ارادے"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "دل میں"
+    },
+    {
+      "surface": "איש",
+      "gloss": "آدمی کے"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "مگر صلاح"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کی"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ہی⟩"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "قائم رہے گی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:05:01.381850280Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 3:3",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "خیسِد اور سچائی تجھے نہ چھوڑیں؛ اُنہیں اپنے گلو پر باندھ، اُنہیں اپنے دل کی تختی پر لکھ۔",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "خیسِد"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "اور سچائی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "تجھے چھوڑیں"
+    },
+    {
+      "surface": "קשרם",
+      "gloss": "اُنہیں باندھ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "גרגרותיך",
+      "gloss": "اپنے گلو"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "اُنہیں لکھ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "تختی"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "اپنے دل کی"
+    }
+  ],
+  "timestamp": "2026-08-09T23:59:10.184989547Z",
+  "model": "glm-5.2"
+}

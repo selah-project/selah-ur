@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 21:19",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "بہتر ہے بیابان کی زمین میں بسنا، ⟨بجاے⟩ جھگڑالو اور غصے والی عورت کے ساتھ۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "بہتر ہے"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "بسنا"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین میں"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "بیابان"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "عورت کے ساتھ سے"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "جھگڑالو"
+    },
+    {
+      "surface": "وכעס",
+      "gloss": "اور غصے والی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:06:33.301952Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 24:8",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "تیسرا حارِم کو، چوتھا شِعورِیم کو۔",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "حارِم کو"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "تیسرا"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "شِعورِیم کو"
+    },
+    {
+      "surface": "הרבעי",
+      "gloss": "چوتھا"
+    }
+  ],
+  "timestamp": "2026-08-10T09:07:04.809253013Z",
+  "model": "glm-5.2"
+}

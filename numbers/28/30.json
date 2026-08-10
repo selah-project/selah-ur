@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 28:30",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 28,
+  "translation": "بکرا ایک، ہاؤ ⟨تمہارے⟩ لیے کفارہ کرنے کو۔",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "بکرا"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "بکریوں کا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "کفارہ کرنے کو"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ہاؤ ⟨تمہارے⟩ لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:38:37.033574798Z",
+  "model": "glm-5.2"
+}

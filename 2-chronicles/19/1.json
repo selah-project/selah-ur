@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 19:1",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "اور یہوشفط یہوداہ کے بادشاہ نے سلامتی کے ساتھ اپنے گھر یروشلایم کو لوٹ آیا۔",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "اور لوٹ آیا"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "یہوشفط"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کو"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "اپنے گھر"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "سلامتی کے ساتھ"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "یروشلایم"
+    }
+  ],
+  "timestamp": "2026-08-10T01:20:56.037491987Z",
+  "model": "glm-5.2"
+}

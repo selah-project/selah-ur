@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اے مردو! میں تمہیں پکارتا ہوں، اور میری آواز آدم کے بیٹوں کی طرف ہے۔",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "تمہیں"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "اے مردو"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "میں پکارتا ہوں"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "اور میری آواز"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹوں"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    }
+  ],
+  "timestamp": "2026-08-10T00:01:12.916692589Z",
+  "model": "glm-5.2"
+}

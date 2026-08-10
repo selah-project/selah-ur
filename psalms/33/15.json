@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 33,
+  "translation": "⟨הוּא⟩ جو دھرا ہے ان کے دل، یکجا، ⟨הוּא⟩ جو سمجھتا ہے سب ان کے کاموں کو۔",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "دھرا ہے"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "یکجا"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ان کے دل"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "سمجھتا ہے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "ان کے کاموں کو"
+    }
+  ],
+  "timestamp": "2026-08-09T23:30:16.428681985Z",
+  "model": "glm-5.2"
+}

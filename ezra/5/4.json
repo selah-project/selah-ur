@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 5:4",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "تب ہم نے بھی اُن سے یوں کہا: ’اُن آدمیوں کے نام کیا ہیں جو اس عمارت کو بنا رہے ہیں؟‘",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "تب"
+    },
+    {
+      "surface": "כנמא",
+      "gloss": "یوں"
+    },
+    {
+      "surface": "אמרנא",
+      "gloss": "ہم نے کہا"
+    },
+    {
+      "surface": "להם",
+      "gloss": "اُن سے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "אנון",
+      "gloss": "ہیں"
+    },
+    {
+      "surface": "שמהת",
+      "gloss": "نام"
+    },
+    {
+      "surface": "גבריא",
+      "gloss": "آدمیوں کے"
+    },
+    {
+      "surface": "די",
+      "gloss": "جو"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "اس"
+    },
+    {
+      "surface": "בנינא",
+      "gloss": "عمارت"
+    },
+    {
+      "surface": "בנין",
+      "gloss": "بنا رہے ہیں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:50:02.523389136Z",
+  "model": "glm-5.2"
+}

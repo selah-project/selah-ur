@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 12:26",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "بَنیٔے شِمعون میں سے، لشکر کے لیے بہادر جوان، سات ہزار اور ایک سو۔",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "میں سے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَنیٔے"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شِمعون"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "بہادر جوان"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "بہادر"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "لشکر کے لیے"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "سات"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "اور ایک سو"
+    }
+  ],
+  "timestamp": "2026-08-10T06:50:07.217020059Z",
+  "model": "glm-5.2"
+}

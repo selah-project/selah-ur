@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 11:12",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور اس کے بعد ⟨تھا⟩ اِلعازَر بن دودو ہااَحوحی، وہ تین جنگجوؤں میں سے ⟨تھا⟩۔",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "اور اس کے بعد"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "اِلعازَر"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "دودو"
+    },
+    {
+      "surface": "האחוחי",
+      "gloss": "ہااَحوحی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "تین میں سے"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "جنگجوؤں"
+    }
+  ],
+  "timestamp": "2026-08-10T07:35:13.611865512Z",
+  "model": "glm-5.2"
+}

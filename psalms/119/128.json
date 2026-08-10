@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 119,
+  "translation": "اسی لیے میں نے تیرے سب حکموں کو بققہ درست مانا ہے؛ ہر جھوٹے راستے سے نفرت کی ہے۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "اس پر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اس لیے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "تیرے حکم"
+    },
+    {
+      "surface": "כל",
+      "gloss": "بققہ"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "درست مانا ہے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "راستے"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "جھوٹے"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "نفرت کی ہے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:52:39.774877979Z",
+  "model": "glm-5.2"
+}

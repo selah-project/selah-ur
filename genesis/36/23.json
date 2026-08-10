@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 36:23",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 36,
+  "translation": "اور یہ شوبل کے بیٹے ہیں: عَلوان اور مَناحت اور عِیبال، شِفو اور اونام۔",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "اور یہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "شوبل"
+    },
+    {
+      "surface": "עלון",
+      "gloss": "عَلوان"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "اور مَناحت"
+    },
+    {
+      "surface": "ועיבל",
+      "gloss": "اور عِیبال"
+    },
+    {
+      "surface": "שפו",
+      "gloss": "شِفو"
+    },
+    {
+      "surface": "ואונם",
+      "gloss": "اور اونام"
+    }
+  ],
+  "timestamp": "2026-08-09T19:47:52.855530139Z",
+  "model": "glm-5.2"
+}

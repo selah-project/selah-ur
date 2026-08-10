@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 26:15",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 26,
+  "translation": "کاہل نے اپنا ہاتھ طشتری میں چھپایا، ⟩اسے⟨ اپنے منہ تک لوٹانا اُسے بھاری ہے۔",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "چھپایا"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "کاہل نے"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اپنا ہاتھ"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "طشتری میں"
+    },
+    {
+      "surface": "נלאה",
+      "gloss": "بھاری ہے"
+    },
+    {
+      "surface": "להשיבה",
+      "gloss": "لوٹانا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تک"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "اپنے منہ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:07:27.842358936Z",
+  "model": "glm-5.2"
+}

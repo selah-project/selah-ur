@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 24:29",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "لقِیش، بیٹے قِیش کے: یِرَحْمِایل۔",
+  "tokens": [
+    {
+      "surface": "לקיש",
+      "gloss": "لقِیش"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "قِیش"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "یِرَحْمِائل"
+    }
+  ],
+  "timestamp": "2026-08-10T07:36:34.435654433Z",
+  "model": "glm-5.2"
+}

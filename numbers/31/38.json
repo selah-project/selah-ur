@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 31:38",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 31,
+  "translation": "اور مویشی چھتیس ہزار تھے، اور ان کا یاہویہ کے لیے محصول دو ہ بہتر تھا۔",
+  "tokens": [
+    {
+      "surface": "והבקר",
+      "gloss": "اور مویشی"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "اور تیس"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ומכסם",
+      "gloss": "اور ان کا محصول"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہویہ کے لیے"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "اور ستر"
+    }
+  ],
+  "timestamp": "2026-08-09T20:38:40.213158308Z",
+  "model": "glm-5.2"
+}

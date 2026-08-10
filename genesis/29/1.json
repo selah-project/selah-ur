@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 29,
+  "translation": "پھر یَعقَب نے اپنے قدم اُٹھائے اور چل پڑا، کی़ طرفِ زمینِ بنیْ قِدِم۔",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "پھر اُٹھائے"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یَعقَب"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "اپنے قدم"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "اور چل پڑا"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "کیْ طرفِ زمین"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنیْ"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "قِدِم"
+    }
+  ],
+  "timestamp": "2026-08-09T19:44:27.095578013Z",
+  "model": "glm-5.2"
+}

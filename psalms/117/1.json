@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 117:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 117,
+  "translation": "ستائی ⟨آپ⟩ ⟨את⟩ یاہویہ، اے تمام قومیں؛ اس کی ستائش کرو، اے تمام امتیں!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ستائی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہویہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قومیں"
+    },
+    {
+      "surface": "שבחוהו",
+      "gloss": "اس کی ستائش کرو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "האמים",
+      "gloss": "امتیں"
+    }
+  ],
+  "timestamp": "2026-08-09T23:51:21.942170170Z",
+  "model": "glm-5.2"
+}

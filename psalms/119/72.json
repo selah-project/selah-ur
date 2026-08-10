@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 119,
+  "translation": "تیرے منہ کی تورات مجھے ہزاروں سونے اور چاندی سے بہتر ہے۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "بہتر"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مجھے"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "تیرے منہ کی"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "ہزاروں"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونے"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "اور چاندی"
+    }
+  ],
+  "timestamp": "2026-08-09T23:53:36.040707397Z",
+  "model": "glm-5.2"
+}

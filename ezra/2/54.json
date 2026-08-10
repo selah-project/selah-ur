@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "ezra 2:54",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "نَتسیاخ کے بیٹے، خَتیفا کے بیٹے۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کے بیٹے"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "نَتسیاخ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کے بیٹے"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "خَتیفا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:48:47.762437630Z",
+  "model": "glm-5.2"
+}

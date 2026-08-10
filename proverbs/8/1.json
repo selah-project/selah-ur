@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "کیا حکمت پکارتی نہیں، اور سمجھ ⟨اپنی⟩ آواز دیتی ہے؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "کیا نہیں"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "پکارتی"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "اور سمجھ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دیتی"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "اپنی آواز"
+    }
+  ],
+  "timestamp": "2026-08-10T00:01:12.916120079Z",
+  "model": "glm-5.2"
+}

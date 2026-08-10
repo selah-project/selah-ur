@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 13:41",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "اور اگر اُس کے ماتھے کی طرف سے اُس کا سر گرجائے، تو وہ ماتھے کا گنجا ہے، وہ پاک ہے۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "اور اگر"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "طرف سے"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "اُس کے چہرے کی"
+    },
+    {
+      "surface": "ימרט",
+      "gloss": "گرجائے"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "اُس کا سر"
+    },
+    {
+      "surface": "גבח",
+      "gloss": "ماتھے کا گنجا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ ہے"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ ہے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:19:03.792224775Z",
+  "model": "glm-5.2"
+}

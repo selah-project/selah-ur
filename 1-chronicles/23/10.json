@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 23:10",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "اور شِمعی کے بیٹے — یاخَت، زینا، یَعوش، اور بَریعا۔ یہ شِمعی کے بیٹے چار تھے۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "اور کے بیٹے"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شِمعی"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "یاخَت"
+    },
+    {
+      "surface": "זינא",
+      "gloss": "زینا"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "اور یَعوش"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "اور بَریعا"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کے بیٹے"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شِمعی"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    }
+  ],
+  "timestamp": "2026-08-10T01:09:18.929372814Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "کیونکہ تمہاری آنکھیں ⟨وہ⟩ دیکھ رہی ہیں ⟨את⟩ ہر کامِ یاہویہِ عظیم کو جو اس نے کیا۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "تمہاری آنکھیں"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "دیکھ رہی ہیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہر کامِ یاہویہِ عظیم کو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "عظیم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "اس نے کیا"
+    }
+  ],
+  "timestamp": "2026-08-09T20:47:10.241845435Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 12:19",
+  "book": "1-kings",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "تو اسرائیل نے بیت داوِد کے خلاف بغاوت کر دی، آج کے دن تک۔",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "بغاوت کر دی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل نے"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داودِ کے خلاف"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "היום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "آج کے"
+    }
+  ],
+  "timestamp": "2026-08-10T05:52:50.341051968Z",
+  "model": "glm-5.2"
+}

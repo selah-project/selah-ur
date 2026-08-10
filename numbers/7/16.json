@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 7:16",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "بکرووں میں سے ایک،器具 کے لیے۔",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "بکرووں میں سے ایک"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "بکریوں کے"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "گناہ کی قربانی کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-10T09:11:24.140072196Z",
+  "model": "glm-5.2"
+}

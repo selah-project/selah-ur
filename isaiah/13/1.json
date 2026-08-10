@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "بابل کا بار، جو یِشَعْیاهو بن اموص نے دیکھا۔",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "بار"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "دیکھا"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "یِشَعْیاهو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "اموص"
+    }
+  ],
+  "timestamp": "2026-08-09T22:05:37.832109430Z",
+  "model": "glm-5.2"
+}

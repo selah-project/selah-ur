@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 34,
+  "translation": "پھر موشے، یاہویہ کا بندہ، وہاں مِتصرایم کی زمین میں، یاہویہ کے حکم سے وفات پا گیا۔",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "پھر وفات پا گیا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "وہاں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "بندہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کا"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین میں"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مِتصرایم کی"
+    },
+    {
+      "surface": "על",
+      "gloss": "کے مطابق"
+    },
+    {
+      "surface": "פי",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:56:26.311913651Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 142,
+  "translation": "داؤد کا تعلیمی ⟨نظم⟩، ⟨جب⟩ وہ غار میں تھا — ایک دعا۔",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "تعلیمی"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داؤد کا"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "⟨جب⟩ وہ تھا"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "غار میں"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ایک دعا"
+    }
+  ],
+  "timestamp": "2026-08-09T23:55:36.451255115Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 29:17",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 29,
+  "translation": "اور لێٰہ کی آنکھیں نرم تھیں، اور راخێل ⟨وهی⟩ خوبروتِ اندام اور خوبروتِ صورت تھی۔",
+  "tokens": [
+    {
+      "surface": "ועיני",
+      "gloss": "اور آنکھیں"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "لێٰہ"
+    },
+    {
+      "surface": "רכות",
+      "gloss": "نرم"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "اور راخێل"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "وهی"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "خوبروتِ"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "اندام"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "اور خوبروتِ"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "صورت"
+    }
+  ],
+  "timestamp": "2026-08-10T05:15:03.963607880Z",
+  "model": "glm-5.2"
+}

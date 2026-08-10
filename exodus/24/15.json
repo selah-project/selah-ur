@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "اور موشے (موسیٰ) پہاڑ پر چڑھا، اور بادل نے ⟨את⟩ پہاڑ کو ڈھانپ لیا۔",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "اور چڑھا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے (موسیٰ)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کو"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "وہ پہاڑ"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "اور ڈھانپ لیا"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "بادل نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پہاڑ کو"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "وہ پہاڑ"
+    }
+  ],
+  "timestamp": "2026-08-10T05:20:47.765441245Z",
+  "model": "glm-5.2"
+}

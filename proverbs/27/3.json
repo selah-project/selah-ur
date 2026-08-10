@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 27:3",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "پتھر کا بوجھ اور ریت کا وزن، اور نادان کا غصہ دونوں سے بھاری ہے۔",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "بوجھ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "پتھر کا"
+    },
+    {
+      "surface": "ונטל",
+      "gloss": "اور وزن"
+    },
+    {
+      "surface": "החול",
+      "gloss": "ریت کا"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "اور غصہ"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "نادان کا"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "بھاری ہے"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "دونوں سے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:08:54.030439509Z",
+  "model": "glm-5.2"
+}

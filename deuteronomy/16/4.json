@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 16:4",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 16,
+  "translation": "اور تجھے اپنی تمام سرحد میں سات دن تک کوئی خمیر نظر نہ آئے، اور وہ گوشت جسے تو شام کو ذبح کرے، پہلے دن، وہ صبح تک نہ رہے۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "نظر آئے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تجھے"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "خمیر"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "تمام میں"
+    },
+    {
+      "surface": "גבלך",
+      "gloss": "تیری سرحد"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "سات"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "رہے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "سے"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "تو ذبح کرے"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "شام کو"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دن میں"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "پہلے"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "صبح تک"
+    }
+  ],
+  "timestamp": "2026-08-10T05:33:56.281047845Z",
+  "model": "glm-5.2"
+}

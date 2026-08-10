@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 47:7",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 47,
+  "translation": "الوہیم کے لیے گاؤ، گاؤ؛ ہمارے بادشاہ کے لیے گاؤ، گاؤ!",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "گاؤ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "گاؤ"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "گاؤ"
+    },
+    {
+      "surface": "למלכנו",
+      "gloss": "ہمارے بادشاہ کے لیے"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "گاؤ"
+    }
+  ],
+  "timestamp": "2026-08-09T23:32:44.067434775Z",
+  "model": "glm-5.2"
+}

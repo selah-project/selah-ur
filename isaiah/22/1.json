@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "بوجھ، گھاٹیِ دید کا: تمہیں کیا ہوا ہے کہ تم سب کے سب چھتوں پر چڑھ گئے ہو؟",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "بوجھ"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "گھاٹی"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "دید"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تمہیں"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "اب"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "چڑھ گئے ہو"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "تم سب کے سب"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "چھتوں پر"
+    }
+  ],
+  "timestamp": "2026-08-09T22:06:47.708964251Z",
+  "model": "glm-5.2"
+}

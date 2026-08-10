@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "بیل اور گدھے کو ساتھ مل کر ہل نہ جوتو۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ہل جوتے"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "بیل"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "اور گدھے"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ساتھ مل کر"
+    }
+  ],
+  "timestamp": "2026-08-09T20:51:31.459056139Z",
+  "model": "glm-5.2"
+}

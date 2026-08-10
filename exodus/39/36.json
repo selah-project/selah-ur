@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 39,
+  "translation": "⟨את⟩ میز، ⟨את⟩ اس کے سبھی برتن، اور ⟨את⟩ حضور کی روٹی۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میز"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "میز"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اس کے سبھی برتن"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھی"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "اس کے برتن"
+    },
+    {
+      "surface": "وאת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "حضور کی روٹی"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "حضور کی"
+    }
+  ],
+  "timestamp": "2026-08-09T20:13:00.407493498Z",
+  "model": "glm-5.2"
+}

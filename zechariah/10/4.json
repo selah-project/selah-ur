@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 10:4",
+  "book": "zechariah",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "اُس سے کونہ، اُس سے کھونٹی، اُس سے جنگ کی کمان، اُس سے ہر ظالم ایک ساتھ نکلے گا۔",
+  "tokens": [
+    {
+      "surface": "ממנו",
+      "gloss": "اُس سے"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "کونہ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اُس سے"
+    },
+    {
+      "surface": "יתד",
+      "gloss": "کھونٹی"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اُس سے"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "کمان"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ کی"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اُس سے"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "نکلے گا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "נוגש",
+      "gloss": "ظالم"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ایک ساتھ"
+    }
+  ],
+  "timestamp": "2026-08-09T23:21:21.812598486Z",
+  "model": "glm-5.2"
+}

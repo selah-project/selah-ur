@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 44,
+  "translation": "تو ہمارے باپ نے کہا: واپس لوٹو، ہمارے لیے تھوڑی خوراک خریدو۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ہمارے باپ نے"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "لوٹو"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "خریدو"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ہمارے لیے"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "تھوڑی"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "خوراک"
+    }
+  ],
+  "timestamp": "2026-08-09T19:52:23.153208829Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 4:7",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "حکمت کا آغاز ⟨ہے⟩ — حکمت حاصل کر، اور اپنی سب اقلت کے ساتھ سمجھ حاصل کر۔",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "آغاز"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت کا"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "حاصل کر"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "اور اپنی سب"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "اقلت کے ساتھ"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "حاصل کر"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "سمجھ"
+    }
+  ],
+  "timestamp": "2026-08-09T23:58:33.077503097Z",
+  "model": "glm-5.2"
+}

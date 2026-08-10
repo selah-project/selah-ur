@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 2:2",
+  "book": "song-of-songs",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "جیسے خاروں کے بیچ ⟨ایک⟩ سوشنا، اَیسا ہی میری محبوبہ بیٹیوں کے بیچ ہے۔",
+  "tokens": [
+    {
+      "surface": "כשושנה",
+      "gloss": "جیسے سوشنا"
+    },
+    {
+      "surface": "בין",
+      "gloss": "بیچ"
+    },
+    {
+      "surface": "החוחים",
+      "gloss": "خاروں کے"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اَیسا ہی"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "میری محبوبہ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "بیچ"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "بیٹیوں کے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:25:39.542721285Z",
+  "model": "glm-5.2"
+}

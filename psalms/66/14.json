@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 66,
+  "translation": "جو میرے ہونٹوں نے کھول کر ادا کیں اور میرے منہ نے میری تنگی میں بولا۔",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "کھول کر ادا کیں"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "میرے ہونٹوں نے"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "اور بولا"
+    },
+    {
+      "surface": "פי",
+      "gloss": "میرے منہ نے"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "تنگی میں"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میری"
+    }
+  ],
+  "timestamp": "2026-08-09T23:35:49.688095868Z",
+  "model": "glm-5.2"
+}

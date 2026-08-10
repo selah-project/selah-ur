@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 42:8",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 42,
+  "translation": "کیونکہ کمرات کی لمبائی جو باہری صحن کی طرف تھی پچاس ہاتھ تھی، اور دیکھو، ہیکل کے سامنے سو ہاتھ تھے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "لمبائی"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "کمرات کی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "صحن"
+    },
+    {
+      "surface": "החצונה",
+      "gloss": "باہری"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پچاس"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ہاتھ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "اور دیکھو"
+    },
+    {
+      "surface": "על",
+      "gloss": "کے"
+    },
+    {
+      "surface": "פני",
+      "gloss": "سامنے"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "ہیکل"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سو"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ہاتھ"
+    }
+  ],
+  "timestamp": "2026-08-10T06:20:03.567327632Z",
+  "model": "glm-5.2"
+}

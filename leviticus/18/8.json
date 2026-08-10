@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 18:8",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "اپنے باپ کی بیوی کی عریانی کو بے نقاب نہ کرنا — وہ ⟨تیرے⟩ باپ کی عریانی ہے۔",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "عریانی کو"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "بیوی"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "اپنے باپ کی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "بے نقاب کرنا"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "عریانی"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "تیرے باپ کی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ہے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:20:30.287492890Z",
+  "model": "glm-5.2"
+}

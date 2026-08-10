@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اور میں نے وہاں ⟨את⟩ تابوت رکھا ہے، جس میں یاہویہ کا عہد ہے، جو اُس نے اِسرائیل کے بیٹوں کے ساتھ کاٹا تھا۔",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "اور میں نے رکھا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "وہاں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تابوت"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "تابوت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جس"
+    },
+    {
+      "surface": "שם",
+      "gloss": "میں"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عہد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "اُس نے کاٹا"
+    },
+    {
+      "surface": "עם",
+      "gloss": "کے ساتھ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹوں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-10T01:15:07.817284654Z",
+  "model": "glm-5.2"
+}

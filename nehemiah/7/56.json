@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "nehemiah 7:56",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "بَنِی نَتْسِیَح کے، بَنِی حَطِیفَا کے۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بَنِی"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "نَتْسِیَح"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَنِی"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "حَطِیفَا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:54:11.679221758Z",
+  "model": "glm-5.2"
+}

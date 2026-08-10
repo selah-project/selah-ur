@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 18:3",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "میں زندہ ہوں — نئم ادونای یاہویہ — اگر تمہارے لیے اب بھی یہ کہاوت یِسرائیل میں ⟨ہو⟩، تو ⟨یہ نہ ہوگا⟩۔",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "زندہ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "نئم"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوگا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تمہارے لیے"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "اب بھی"
+    },
+    {
+      "surface": "משל",
+      "gloss": "کہاوت"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "یہ کہاوت"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "یِسرائیل میں"
+    }
+  ],
+  "timestamp": "2026-08-10T08:54:26.539282774Z",
+  "model": "glm-5.2"
+}

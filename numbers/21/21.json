@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 21:21",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "اور یِسرائیل نے سِحون، اموری بادشاہ کے پاس فرستادہ بھیجے، کہنا ⟨کہ⟩:",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "اور بھیجا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "فرستادہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "سِحون"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "اموری"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہنا"
+    }
+  ],
+  "timestamp": "2026-08-09T20:35:10.623401355Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 140:9",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 140,
+  "translation": "یاہویہ، بدک کی خواہشیں نہ دے، اس کی تدبیر کو آگے نہ بڑھا، کہ ⟨وہ⟩ بلند ہوں۔ سلاہ۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "מאויי",
+      "gloss": "خواہشیں"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدک کی"
+    },
+    {
+      "surface": "זממו",
+      "gloss": "اس کی تدبیر کو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תפק",
+      "gloss": "آگے بڑھا"
+    },
+    {
+      "surface": "ירומו",
+      "gloss": "بلند ہوں"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلاہ"
+    }
+  ],
+  "timestamp": "2026-08-10T06:36:09.063040720Z",
+  "model": "glm-5.2"
+}

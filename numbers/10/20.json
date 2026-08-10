@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 10:20",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "اور گاد کے بیٹوں کے قبیلے کے لشکر پر اِلیاساف بِن دِعُوایل تھا۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "اور پر"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لشکر"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "قبیلے کے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹوں کے"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "اِلیاساف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بِن"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "دِعُوایل"
+    }
+  ],
+  "timestamp": "2026-08-10T05:27:57.694039073Z",
+  "model": "glm-5.2"
+}

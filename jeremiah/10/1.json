@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "سُنو ⟨את⟩ ⟨ال⟩ کلام جو یاہویہ نے تم پر بولا، اَے بیتِ یِسراإیل۔",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "سُنو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ال⟩ کلام"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨ال⟩ کلام"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بولا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "تم پر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "اَے خاندان"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسراإیل"
+    }
+  ],
+  "timestamp": "2026-08-10T08:52:02.924599487Z",
+  "model": "glm-5.2"
+}

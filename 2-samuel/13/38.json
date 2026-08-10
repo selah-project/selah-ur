@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 13:38",
+  "book": "2-samuel",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "اور اَوشالوم بھا گیا اور گَشور چلا گیا اور وہ وہاں تین برس رہا۔",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "اور اَوشالوم"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "بھا گیا"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "اور چلا گیا"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "گَشور"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "اور وہ رہا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "وہاں"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "تین"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "برس"
+    }
+  ],
+  "timestamp": "2026-08-09T21:34:26.070478959Z",
+  "model": "glm-5.2"
+}

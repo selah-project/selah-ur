@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 3:5",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "یہ سب شہر محصور تھے — اونچی فصیل، دروازے اورڈَلے ہوئے کڑے — بے دیوار بستیوں کے علاوہ جو بہت زیادہ تھیں۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "محصور"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "فصیل"
+    },
+    {
+      "surface": "גבהה",
+      "gloss": "اونچی"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "دروازے"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "اور کڑے"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "علاوہ"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "بستیوں کے"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "بے دیوار"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زیادہ"
+    }
+  ],
+  "timestamp": "2026-08-10T05:32:00.452267512Z",
+  "model": "glm-5.2"
+}

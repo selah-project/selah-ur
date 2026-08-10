@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 19:22",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "آدمی کی تڑپ ⟨اس کی⟩ خیسِد ہے، اور ⟨یہ⟩ بہتر ہے فقیر مردوں سے جو جھوٹے ہیں۔",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "تڑپ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمی کی"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "خیسِد ⟨اس کی⟩"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "اور بہتر ہے"
+    },
+    {
+      "surface": "רש",
+      "gloss": "فقیر"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "مردوں سے"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "جو جھوٹے ہیں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:05:01.382102654Z",
+  "model": "glm-5.2"
+}

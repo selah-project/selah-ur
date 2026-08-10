@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "تو عورت نے سانپ سے کہا، باغ کے درختوں کے پھل سے ہم کھاتے ہیں،",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "تو ⟨اس نے⟩ کہا"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "عورت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "سانپ"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "پھل سے"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "درختوں"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "باغ"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "ہم کھاتے ہیں"
+    }
+  ],
+  "timestamp": "2026-08-10T05:11:25.169349417Z",
+  "model": "glm-5.2"
+}

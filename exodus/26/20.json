@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 26,
+  "translation": "اور مسکن کے دوسری طرف کے لیے، شمال کی طرف، بیس تختے،",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "اور طرف کے لیے"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن کے"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "دوسری"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "طرف کے لیے"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "شمال"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیس"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "تختے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:10:02.143526556Z",
+  "model": "glm-5.2"
+}

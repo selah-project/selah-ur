@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 20:8",
+  "book": "1-kings",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "اور تمام بزرگوں اور تمام لوگوں نے اُسے کہا: مت سن اور نہ رضا مند ہو۔",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اُسے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "הזקנים",
+      "gloss": "بزرگوں نے"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "اور تمام"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوگوں نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مت"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "سن"
+    },
+    {
+      "surface": "ולוא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "رضا مند ہو"
+    }
+  ],
+  "timestamp": "2026-08-10T07:19:52.609394999Z",
+  "model": "glm-5.2"
+}

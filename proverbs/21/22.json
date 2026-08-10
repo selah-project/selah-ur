@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 21:22",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "بہادروں کا شہر ⟨کو⟩ ایک حکیم چڑھ گیا، اور اس کے بھروسے کی طاقت کو گرا دیا۔",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "بہادروں"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "چڑھ گیا"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حکیم"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "اور گرا دیا"
+    },
+    {
+      "surface": "עז",
+      "gloss": "طاقت"
+    },
+    {
+      "surface": "מבטחה",
+      "gloss": "اس کے بھروسے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:05:07.119362284Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور اناکہ اور کواح اور لتعہ اور حمط اور تنشیمت۔",
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "اور اناکہ"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "اور کواح"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "اور لتعہ"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "اور حمط"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "اور تنشیمت"
+    }
+  ],
+  "timestamp": "2026-08-10T05:23:58.563282378Z",
+  "model": "glm-5.2"
+}

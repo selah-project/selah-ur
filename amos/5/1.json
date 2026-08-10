@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "سُنو ⟨את⟩ ⟨یہ⟩ کلام جو میں تم پر اٹھاتا ہوں — ایک بینال، اے بیتِ یِسراإیل!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "سُنو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کلام"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "اٹھاتا ہوں"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "تم پر"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "بینال"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیتِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسراإیل"
+    }
+  ],
+  "timestamp": "2026-08-10T06:22:47.398777074Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "بہتر ہے نام، اچھے تیل سے؛ اور موت کا دن، پیدا ہونے کے دن سے۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "بہتر ہے"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نام"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "تیل سے"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "اچھے"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "اور دن"
+    },
+    {
+      "surface": "המות",
+      "gloss": "موت کا"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "دن سے"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "پیدا ہونے کے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:43:16.343296941Z",
+  "model": "glm-5.2"
+}

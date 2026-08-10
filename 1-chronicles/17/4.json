@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 17:4",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 17,
+  "translation": "جا اور میرے غلام داوِد سے کہ: یوں کہہے یاہویہ — تو مجھے رہنے کے لیے گھر نہیں بنائے گا۔",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "جا"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "اور کہہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "میرے غلام"
+    },
+    {
+      "surface": "כה",
+      "gloss": "یوں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "کہہے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "بنائے گا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مجھے"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "رہنے کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-10T01:08:32.148051568Z",
+  "model": "glm-5.2"
+}

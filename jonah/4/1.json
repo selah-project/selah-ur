@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "تو یونہ کو بُرائی بڑی بُرائی معلوم ہوئی، اور اسے غصہ بھڑکا۔",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "تو... معلوم ہوئی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کو"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "یونہ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بُرائی"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "بڑی بُرائی"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "اور بھڑکا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اسے غصہ"
+    }
+  ],
+  "timestamp": "2026-08-09T23:12:47.473164050Z",
+  "model": "glm-5.2"
+}

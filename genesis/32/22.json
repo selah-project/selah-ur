@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 32:22",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 32,
+  "translation": "تو تحفہ اُس کے سامنے سے گزر گیا، اور وہ اُسی رات کو ڈیرے میں ٹھہرا۔",
+  "tokens": [
+    {
+      "surface": "ותעבר",
+      "gloss": "تو گزر گیا"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "تحفہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "کے سامنے سے"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "اُس کے"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "اور وہ"
+    },
+    {
+      "surface": "לן",
+      "gloss": "ٹھہرا"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "رات کو"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُسی"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "ڈیرے میں"
+    }
+  ],
+  "timestamp": "2026-08-10T07:08:52.274034076Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 23:27",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "کیونکہ زناکارنی ایک گہری کھائی ہے، اور اجنبی عورت ایک تنگ کنواں۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "کھائی"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "گہری"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "زناکارنی"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "اور کنواں"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "تنگ"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "اجنبی عورت"
+    }
+  ],
+  "timestamp": "2026-08-10T07:32:21.717549929Z",
+  "model": "glm-5.2"
+}

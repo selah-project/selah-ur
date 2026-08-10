@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "تو تو ⟨את⟩ اُس کا ہاتھ کاٹ دے، تیری آنکھ رحم نہ کھائے۔",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "تو تو کاٹ دے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اُس کا ہاتھ کو"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "اُس کا ہاتھ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "رحم کھائے"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "تیری آنکھ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:54:19.805895995Z",
+  "model": "glm-5.2"
+}

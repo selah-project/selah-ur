@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "اور یاہویہ کے فرشتہ نے اَوراہام کو آسمان سے دوسری بار پکارا۔",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "اور پکارا"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "فرشتہ نے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کو"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "دوسری بار"
+    },
+    {
+      "surface": "מן",
+      "gloss": "سے"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمان"
+    }
+  ],
+  "timestamp": "2026-08-10T07:08:26.371675084Z",
+  "model": "glm-5.2"
+}

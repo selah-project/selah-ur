@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 38,
+  "translation": "مجھے مت چھوڑ، اے یاہویہ؛ میرے الوہیم، مجھ سے دور مت ہو۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مت"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "چھوڑ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہویہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "میرے الوہیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مت"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "دور ہو"
+    },
+    {
+      "surface": "مמני",
+      "gloss": "مجھ سے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:31:30.543992317Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 19:12",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "گیز تیرا بندہ ان سے متنبہ ⟨ہوتا ہے⟩، ان کی حفاظت میں بہت بڑا اجر ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "گیز"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "تیرا بندہ"
+    },
+    {
+      "surface": "נזהר",
+      "gloss": "متنبہ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ان سے"
+    },
+    {
+      "surface": "בשמרם",
+      "gloss": "ان کی حفاظت میں"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "اجر"
+    },
+    {
+      "surface": "רב",
+      "gloss": "بہت بڑا"
+    }
+  ],
+  "timestamp": "2026-08-09T23:27:19.849228054Z",
+  "model": "glm-5.2"
+}

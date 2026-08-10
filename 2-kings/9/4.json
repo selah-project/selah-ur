@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 9:4",
+  "book": "2-kings",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "تو نوجوان روانہ ہوا — وہ نوجوان، وہ نبی — راموت گِلعاد کی طرف۔",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "تو روانہ ہوا"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "نوجوان"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "وہ نوجوان"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "وہ نبی"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "راموت"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "گِلعاد"
+    }
+  ],
+  "timestamp": "2026-08-10T08:48:12.712488102Z",
+  "model": "glm-5.2"
+}

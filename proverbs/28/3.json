@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 28:3",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 28,
+  "translation": "ایک غریب آدمی جو کمزوروں پر ظلم کرتا ہے — ایک تیز بارش ہے جس میں روٹی نہیں۔",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "ایک آدمی"
+    },
+    {
+      "surface": "רש",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "ועשק",
+      "gloss": "جو ... ظلم کرتا ہے"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "کمزوروں پر"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "ایک بارش"
+    },
+    {
+      "surface": "סחף",
+      "gloss": "تیز"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "جس میں نہیں"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:08:52.217137957Z",
+  "model": "glm-5.2"
+}

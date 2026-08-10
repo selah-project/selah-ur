@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 77,
+  "translation": "اے الوہیم، قداست میں ہے تیری راہ۔ کوئی ⟨ے⟩ ایل الوہیم جیسا بڑا ہے؟",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "اے الوہیم"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "قداست میں"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "تیری راہ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کوئی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "بڑا"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "الوہیم جیسا"
+    }
+  ],
+  "timestamp": "2026-08-09T23:39:29.491771406Z",
+  "model": "glm-5.2"
+}

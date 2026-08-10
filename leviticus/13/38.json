@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 13:38",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "اور ⟨جب⟩ کوئی مرد یا عورت ہو، کہ ان کے چمڑے کے گوشت میں دھبے ہوں — دھبے، سفید،",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "اور کوئی مرد"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "عورت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہو"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "چمڑے میں"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "ان کے گوشت کے"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "دھبے"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "دھبے"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "سفید"
+    }
+  ],
+  "timestamp": "2026-08-10T05:23:48.829170289Z",
+  "model": "glm-5.2"
+}

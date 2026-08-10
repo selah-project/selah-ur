@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 22:3",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "اور مُوآب اس قوم سے بہت ڈر گیا، کیونکہ وہ بڑا تھا؛ اور مُوآب کو بنی یِسرائیل کے سبب سے تنگی ہو گئی۔",
+  "tokens": [
+    {
+      "surface": "ויגר",
+      "gloss": "اور ڈر گیا"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُوآب"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "سے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "اس قوم"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "بڑا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "ויקץ",
+      "gloss": "اور تنگی ہو گئی"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُوآب کو"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "کے سبب سے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-09T20:35:07.759588577Z",
+  "model": "glm-5.2"
+}

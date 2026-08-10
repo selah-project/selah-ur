@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 46:7",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 46,
+  "translation": "امریں ہلے، مملکتیں ڈگمیں؛ اُس نے اپنی آواز دی — زمین رل گئی۔",
+  "tokens": [
+    {
+      "surface": "המו",
+      "gloss": "ہلے"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "امریں"
+    },
+    {
+      "surface": "מטו",
+      "gloss": "ڈگمیں"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "مملکتیں"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "اُس نے دی"
+    },
+    {
+      "surface": "בקולו",
+      "gloss": "اپنی آواز"
+    },
+    {
+      "surface": "תמוג",
+      "gloss": "رل گئی"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-09T23:33:19.808765633Z",
+  "model": "glm-5.2"
+}

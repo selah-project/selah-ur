@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 6:7",
+  "book": "esther",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اور هَمَن نے بادشاہ سے کہا: ⟨اس⟩ آدمی ⟨کے لیے⟩ جسے بادشاہ اپنی عزت میں چاہتا ہے،",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "המן",
+      "gloss": "هَمَن نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جسے"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "چاہتا ہے"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "اپنی عزت میں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:37:20.414486350Z",
+  "model": "glm-5.2"
+}

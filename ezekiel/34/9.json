@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 34:9",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 34,
+  "translation": "اِس لِیے، اے چرواہو، یاہویہ کا کلام سُنو،",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "اِس لِیے"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "اے چرواہو"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سُنو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    }
+  ],
+  "timestamp": "2026-08-10T06:18:07.969165962Z",
+  "model": "glm-5.2"
+}

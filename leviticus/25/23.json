@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 25:23",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "اور زمین ہمیشہ کے لیے نہ بیچی جائے، کیونکہ زمین میری ہے، کیونکہ تم میرے ساتھ مسافر اور مقیم ہو۔",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "اور زمین"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "بیچی جائے"
+    },
+    {
+      "surface": "לצמתת",
+      "gloss": "ہمیشہ کے لیے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "مسافر"
+    },
+    {
+      "surface": "ותושבים",
+      "gloss": "اور مقیم"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تم"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "میرے ساتھ"
+    }
+  ],
+  "timestamp": "2026-08-10T05:25:44.158192204Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 3:6",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "اندھیروں میں میرے رہنے کا کام کیا ہے، ہمیشہ کے مُردوں کی طرح۔",
+  "tokens": [
+    {
+      "surface": "במחשכים",
+      "gloss": "اندھیروں میں"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "اُس نے میرے بیٹھنے کا کام کیا ہے"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "مُردوں کی طرح"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ کے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:30:15.320732091Z",
+  "model": "glm-5.2"
+}

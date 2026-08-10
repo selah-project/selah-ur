@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 1:14",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "لِگاد، اِلیاساف بَن دِعوایل۔",
+  "tokens": [
+    {
+      "surface": "לגד",
+      "gloss": "لِگاد"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "اِلیاساف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بَن"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "دِعوایل"
+    }
+  ],
+  "timestamp": "2026-08-09T20:25:30.222013327Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "اور عادہ نے ⟨את⟩ یابال کو جنم دیا — وہ خیمہ باشوں اور مال چروانے والوں کا باپ تھا۔",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "اور اس نے جنم دیا"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "عادہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یابال کو"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "یابال"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "تھا"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باپ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "باشی"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمہ"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "اور مال"
+    }
+  ],
+  "timestamp": "2026-08-09T19:34:07.072251593Z",
+  "model": "glm-5.2"
+}

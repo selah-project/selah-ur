@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 2:10",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "کیونکہ حکمت تیرے دل میں آئے گی، اور معرفت تیری جان کو بھا جائے گی۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "آئے گی"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "בלבך",
+      "gloss": "تیرے دل میں"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "اور معرفت"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "تیری جان کو"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "بھا جائے گی"
+    }
+  ],
+  "timestamp": "2026-08-10T07:51:39.215315680Z",
+  "model": "glm-5.2"
+}

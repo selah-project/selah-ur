@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 4:25",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "شَلّوم اس کا بیٹا، مِبسام اس کا بیٹا، مِشمع اس کا بیٹا۔",
+  "tokens": [
+    {
+      "surface": "שַׁלֻּ֥ם",
+      "gloss": "شَلّوم"
+    },
+    {
+      "surface": "בְּנ֛וֹ",
+      "gloss": "اس کا بیٹا"
+    },
+    {
+      "surface": "מִבְשָׂ֥ם",
+      "gloss": "مِبسام"
+    },
+    {
+      "surface": "בְּנ֖וֹ",
+      "gloss": "اس کا بیٹا"
+    },
+    {
+      "surface": "מִשְׁמָ֥ע",
+      "gloss": "مِشمع"
+    },
+    {
+      "surface": "בְּנֽוֹ",
+      "gloss": "اس کا بیٹا"
+    }
+  ],
+  "timestamp": "2026-08-10T01:00:03.564957616Z",
+  "model": "glm-5.2"
+}

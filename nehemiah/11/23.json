@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 11:23",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "کیونکہ بادشاہ کا حکم ان پر تھا، اور گویوں کے لیے ایک امانت تھی، روز کا کام اُس کے دن میں۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ کا"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ان پر"
+    },
+    {
+      "surface": "ואמנה",
+      "gloss": "اور امانت"
+    },
+    {
+      "surface": "על",
+      "gloss": "کے لیے"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "گویوں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کام"
+    },
+    {
+      "surface": "יום",
+      "gloss": "روز کا"
+    },
+    {
+      "surface": "ביומו",
+      "gloss": "اُس کے دن میں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:56:48.554666354Z",
+  "model": "glm-5.2"
+}

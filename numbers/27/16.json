@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 27:16",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "یاہویہ، ہر ایک گوشت کی روحوں کا الوہیم، جماعت کے سر پر ایک آدمی مقرر کرے۔",
+  "tokens": [
+    {
+      "surface": "יפקד",
+      "gloss": "مقرر کرے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "کا الوہیم"
+    },
+    {
+      "surface": "הרוחת",
+      "gloss": "روحوں"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ہر ایک"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت کی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ایک آدمی"
+    },
+    {
+      "surface": "על",
+      "gloss": "کے سر پر"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "جماعت"
+    }
+  ],
+  "timestamp": "2026-08-10T05:30:29.694956749Z",
+  "model": "glm-5.2"
+}

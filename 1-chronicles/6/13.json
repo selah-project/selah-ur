@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 6:13",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اور شموایل کے بیٹے ⟨تھے⟩ پہلوٹھا وَشنی اور اَویَیاہ۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "اور بیٹے"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "شموایل"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "پہلوٹھا"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "وَشنی"
+    },
+    {
+      "surface": "ואביה",
+      "gloss": "اور اَویَیاہ"
+    }
+  ],
+  "timestamp": "2026-08-10T09:05:12.341190522Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 25:1",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "اور یاہویہ کا فرمان میرے پاس آیا، یوں ⟨کہنا⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "فرمان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میرے پاس"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "یوں ⟨کہنا⟩"
+    }
+  ],
+  "timestamp": "2026-08-09T22:55:38.957829406Z",
+  "model": "glm-5.2"
+}

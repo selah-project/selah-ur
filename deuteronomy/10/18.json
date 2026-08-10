@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 10:18",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "ی \/*#__تیم اور بیوہ کا حق دیتا ہے، اور غیر قوم کو محبت رکھتا ہے، اسے کھانے اور پہننے کے لیے دیتا ہے۔",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "کرتا ہے"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "حق"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "یتیم"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "اور بیوہ"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "اور محبت رکھتا ہے"
+    },
+    {
+      "surface": "גר",
+      "gloss": "غیر قوم کو"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "دینے کے لیے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اسے"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "کھانا"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "اور پہننا"
+    }
+  ],
+  "timestamp": "2026-08-09T20:46:20.445380824Z",
+  "model": "glm-5.2"
+}

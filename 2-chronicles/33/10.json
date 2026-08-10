@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 33:10",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 33,
+  "translation": "اور یاہویہ نے مْنَشَّہ اور اس کی قوم سے بات کی، مگر انہوں نے دھیان نہ دیا۔",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "اور بات کی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مْنَشَّہ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "اور"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اس کی قوم"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "مگر نہ"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "دھیان دیا"
+    }
+  ],
+  "timestamp": "2026-08-10T01:26:22.280043332Z",
+  "model": "glm-5.2"
+}

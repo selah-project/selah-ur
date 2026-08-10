@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 69,
+  "translation": "کورس کے رہنما کے لیے، „سوسانیم“ پر، داوِد کے لیے۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "کورس کے رہنما کے لیے"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "„سوسانیم“"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:37:50.435415510Z",
+  "model": "glm-5.2"
+}

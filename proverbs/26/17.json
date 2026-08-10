@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 26:17",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 26,
+  "translation": "کُتّے کے کان پکڑنے والا ⟨ہے⟩ وہ گزرنے والا جو کسی ایسے جھگڑے میں غصہ کھاتا ہے جو اس کا نہیں۔",
+  "tokens": [
+    {
+      "surface": "מחזיק",
+      "gloss": "پکڑنے والا"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "کان"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کُتّے"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "گزرنے والا"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "غصہ کھاتا ہے"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "جھگڑے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اس کا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:08:06.375019713Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 40:18",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 40,
+  "translation": "اور یوسِف نے جواب دیا اور کہا: یہ ہے اس کی تعبیر — تین ٹوکریاں، تین دن ہیں۔",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "اور جواب دیا"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسِف"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "تعبیر"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "تین"
+    },
+    {
+      "surface": "הסלים",
+      "gloss": "ٹوکریاں"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "تین"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دن"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ہیں"
+    }
+  ],
+  "timestamp": "2026-08-10T05:17:10.410501769Z",
+  "model": "glm-5.2"
+}

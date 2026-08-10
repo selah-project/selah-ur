@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 32,
+  "translation": "اور ⟨את⟩ عَطاروت-شوفان اور ⟨את⟩ یَعزیر، اور یُگبہہ کو۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "عَطاروت-شوفان"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "عَطاروت"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "شوفان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "یَعزیر"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "یَعزیر"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "اور یُگبہہ"
+    }
+  ],
+  "timestamp": "2026-08-10T08:39:47.037319150Z",
+  "model": "glm-5.2"
+}

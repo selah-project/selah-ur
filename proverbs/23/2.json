@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "اور تو اپنے گلے میں چھری رکھے، اگر تو نَفَش کا مالک ہے۔",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "اور تو رکھے"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "چھری"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "تیرے گلے میں"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "مالک"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفَش"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:06:15.522218244Z",
+  "model": "glm-5.2"
+}

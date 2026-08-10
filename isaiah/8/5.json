@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 8:5",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اور یاہویہ نے مجھ سے اور بات کرنا جاری رکھی، فرماتے ہوئے:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "اور اضافہ کیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بات کرنا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مجھ سے"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "اور"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "فرماتے ہوئے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:03:38.404540588Z",
+  "model": "glm-5.2"
+}

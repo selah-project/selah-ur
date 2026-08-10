@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "اُس وقت میں اَویّاہ، یارَوءام کا بیٹا، بیمار ہو گیا۔",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "اُس وقت میں"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "وہی"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "بیمار ہو گیا"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "اَویّاہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "یارَوءام کا"
+    }
+  ],
+  "timestamp": "2026-08-10T05:52:56.030136497Z",
+  "model": "glm-5.2"
+}

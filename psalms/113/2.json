@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 113,
+  "translation": "ہو نامِ یاہویہ کا مبارک، اب سے لے کر ہمیشہ تک۔",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ہو"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کا"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "مبارک"
+    },
+    {
+      "surface": "مעתה",
+      "gloss": "اب سے"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "لے کر"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ تک"
+    }
+  ],
+  "timestamp": "2026-08-09T23:49:33.448438556Z",
+  "model": "glm-5.2"
+}

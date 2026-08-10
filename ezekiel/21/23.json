@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 21:23",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "اور یاہویہ کا ↔مجھے← ↔کلام آیا←، یوں کہہ کر:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مجھے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "یوں کہہ کر"
+    }
+  ],
+  "timestamp": "2026-08-10T06:16:37.479767065Z",
+  "model": "glm-5.2"
+}

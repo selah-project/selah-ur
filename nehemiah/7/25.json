@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 7:25",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "گِبعون کے بیٹے ننانوے۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "گِبعون"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "نانوے"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "اور پانچ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:53:58.690113390Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 7:26",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اور کوئی خون نہ کھاؤ گے، اپنی تمام بستیوں میں، نہ پرندے کا اور نہ جانور کا۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "اور کوئی"
+    },
+    {
+      "surface": "דם",
+      "gloss": "خون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کھاؤ گے"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "اپنی بستیوں میں"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "پرندے کا"
+    },
+    {
+      "surface": "ולבהמה",
+      "gloss": "اور نہ جانور کا"
+    }
+  ],
+  "timestamp": "2026-08-10T05:24:27.564264227Z",
+  "model": "glm-5.2"
+}

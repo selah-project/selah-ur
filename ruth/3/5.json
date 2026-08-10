@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 3:5",
+  "book": "ruth",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "تو اُس نے اُس سے کہا: جو کچھ تو کہے گی سب میں کروں گی۔",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "تو اُس نے کہا"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "اُس سے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو کچھ"
+    },
+    {
+      "surface": "תאמרי",
+      "gloss": "تو کہے گی"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "میں کروں گی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:27:41.125421599Z",
+  "model": "glm-5.2"
+}

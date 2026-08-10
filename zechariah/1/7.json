@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 1:7",
+  "book": "zechariah",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "گیارہویں مہینے کے چوبیسویں دن — وہ مہینہ ہے — کے دوسرے سال میں، یاہویہ کا زکریاہ برکِیاہ کے بیٹے عدو نبی کی طرف ہوا، یوں:",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیس"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "اور چار"
+    },
+    {
+      "surface": "לעשתי",
+      "gloss": "گیارہویں"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "گیارہ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "مہینے کے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "مہینہ"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ہے"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "سال میں"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دوسرے"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "کے"
+    },
+    {
+      "surface": "היה",
+      "gloss": "تھا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "زکریاہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "ברכיהו",
+      "gloss": "برکِیاہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "עדוא",
+      "gloss": "عدو"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "یوں"
+    }
+  ],
+  "timestamp": "2026-08-10T06:26:02.741723780Z",
+  "model": "glm-5.2"
+}

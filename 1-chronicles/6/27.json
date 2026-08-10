@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 6:27",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "ایٹان کا بیٹا، زِمّہ کا بیٹا، شِمعی کا بیٹا۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "ایٹان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "زِمّہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شِمعی"
+    }
+  ],
+  "timestamp": "2026-08-10T01:02:03.943176339Z",
+  "model": "glm-5.2"
+}

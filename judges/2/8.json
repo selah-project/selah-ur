@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور یہوشُع بن نون، یاہویہ کا خادم، وفات پا گیا، ایک سو دس سال کی عمر کا۔",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "اور وفات پا گیا"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشُع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "נון",
+      "gloss": "نون"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "خادم"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "کا بیٹا"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ایک سو"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "اور دس"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-08-09T21:06:15.948804323Z",
+  "model": "glm-5.2"
+}

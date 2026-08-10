@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 43:16",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 43,
+  "translation": "اور ارائیل بارہ ہاتھ لمبا، بارہ ہاتہ چوڑا، چوکور اپنے چاروں کونوں کی طرف سے ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "והאראיל",
+      "gloss": "اور ارائیل"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دس"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "لمبا"
+    },
+    {
+      "surface": "בשתים",
+      "gloss": "بارہ میں سے"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دس"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "چوڑا"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "چوکور"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف سے"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "چاروں"
+    },
+    {
+      "surface": "רבעיו",
+      "gloss": "اس کے کونوں"
+    }
+  ],
+  "timestamp": "2026-08-09T23:02:59.556521569Z",
+  "model": "glm-5.2"
+}

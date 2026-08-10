@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "عزت ہے آدمی کے لیے جھگڑے سے رکنا، اور ہر نادان جھگڑلتا پھرتا ہے۔",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "عزت"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "آدمی کے لیے"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "رکنا"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "جھگڑے سے"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "اور ہر"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "جھگڑلتا پھرتا ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:05:29.779985750Z",
+  "model": "glm-5.2"
+}

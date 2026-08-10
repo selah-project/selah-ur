@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 4:48",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "अरोएर से जो अर्नोन नदी के किनारे पर है، और सियोन पर्वत तक — वह है हेरमोन —",
+  "tokens": [
+    {
+      "surface": "מערער",
+      "gloss": "अरोएर से"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "על",
+      "gloss": "पर"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "किनारे"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "नदी के"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "अर्नोन"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "और तक"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पर्वत"
+    },
+    {
+      "surface": "שיאן",
+      "gloss": "सियोन"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "वह है"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "हेरमोन"
+    }
+  ],
+  "timestamp": "2026-08-09T20:44:52.496733601Z",
+  "model": "glm-5.2"
+}

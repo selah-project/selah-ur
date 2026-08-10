@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 42,
+  "translation": "تو اُس نے اُن سے کہا: نہیں، بلکہ ⟨את⟩ زمین کے ننگے پن کو دیکھنے تم آئے ہو۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تو اُس نے کہا"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "اُن سے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ننگے پن"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین کے"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "تم آئے ہو"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "دیکھنے"
+    }
+  ],
+  "timestamp": "2026-08-09T19:51:10.471082031Z",
+  "model": "glm-5.2"
+}

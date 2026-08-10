@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "lamentations 3:40",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "ہم اپنے راستے تلاش کریں اور چھان بین کریں، اور ہم یاہویہ کی طرف لوٹ آئیں۔",
+  "tokens": [
+    {
+      "surface": "נחפשה",
+      "gloss": "ہم تلاش کریں"
+    },
+    {
+      "surface": "דרכינו",
+      "gloss": "اپنے راستے"
+    },
+    {
+      "surface": "ונחקרה",
+      "gloss": "اور چھان بین کریں"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "اور ہم لوٹ آئیں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:29:43.378347422Z",
+  "model": "glm-5.2"
+}

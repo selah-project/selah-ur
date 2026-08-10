@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "genesis 24:62",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "اور یِتسحاق بِیر لَحَی رُؤی کے راستے سے آیا تھا، اور وہ نَگَب کے ملک میں رہتا تھا۔",
+  "tokens": [
+    {
+      "surface": "ויצחק",
+      "gloss": "اور یِتسحاق"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آیا تھا"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "راستے سے"
+    },
+    {
+      "surface": "באר",
+      "gloss": "بِیر"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "لَحَی"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "رُؤی"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "اور وہ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "رہتا تھا"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ملک میں"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "نَگَب"
+    }
+  ],
+  "timestamp": "2026-08-09T19:42:58.442649089Z",
+  "model": "glm-5.2"
+}

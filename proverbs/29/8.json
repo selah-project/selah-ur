@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 29:8",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 29,
+  "translation": "مضحک لوگ شہر کو بھڑکا دیتے ہیں، اور دانا غصہ پھیر دیتے ہیں۔",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "لوگ"
+    },
+    {
+      "surface": "לצון",
+      "gloss": "مضحک"
+    },
+    {
+      "surface": "יפיחו",
+      "gloss": "بھڑکا دیتے ہیں"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "شہر کو"
+    },
+    {
+      "surface": "וחכמים",
+      "gloss": "اور دانا"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "پھیر دیتے ہیں"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غصہ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:09:16.736713899Z",
+  "model": "glm-5.2"
+}

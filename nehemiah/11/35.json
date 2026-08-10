@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 11:35",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "لود، اونو، ⟨وادی⟩ ہَراشیم،",
+  "tokens": [
+    {
+      "surface": "לֹ֥ד",
+      "gloss": "لود"
+    },
+    {
+      "surface": "וְאוֹנ֖וֹ",
+      "gloss": "اور اونو"
+    },
+    {
+      "surface": "גֵּ֥י",
+      "gloss": "⟨وادی⟩"
+    },
+    {
+      "surface": "הַחֲרָשִֽׁים",
+      "gloss": "ہَراشیم"
+    }
+  ],
+  "timestamp": "2026-08-10T00:55:44.418352149Z",
+  "model": "glm-5.2"
+}

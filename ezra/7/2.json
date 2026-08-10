@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "شَلّوم کا بیٹا، صادوق کا بیٹا، اَخِیطوب کا بیٹا۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "شَلّوم"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "صادوق"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "اَخِیطوب"
+    }
+  ],
+  "timestamp": "2026-08-10T00:49:29.857510338Z",
+  "model": "glm-5.2"
+}

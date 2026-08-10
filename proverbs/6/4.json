@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اپنی آنکھوں کو نیند نہ دے، اور اپنی پلکوں کو اونگھ۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "دے"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "نیند"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "اپنی آنکھوں کو"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "اور اونگھ"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "اپنی پلکوں کو"
+    }
+  ],
+  "timestamp": "2026-08-09T23:59:53.061461322Z",
+  "model": "glm-5.2"
+}

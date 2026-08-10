@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 22:13",
+  "book": "2-samuel",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "چمک سے، ⟨جو⟩ اس کے سامنے ⟨ہے⟩، آگ کے انگارے بھڑک اٹھے۔",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "چمک سے"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "اس کے سامنے"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "بھڑک اٹھے"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "انگارے"
+    },
+    {
+      "surface": "אש",
+      "gloss": "آگ کے"
+    }
+  ],
+  "timestamp": "2026-08-09T21:38:35.150840817Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "ur",
+  "chapter": 17,
+  "translation": "اور کچھ دنوں کے بعد وہ ہوا، کہ نہل سوکھ گیا، کیونکہ زمین پر مینہ نہیں تھا۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور وہ ہوا"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "کے بعد"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "کچھ دنوں"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "سوکھ گیا"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "نہل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "היה",
+      "gloss": "تھا"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "مینہ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین پر"
+    }
+  ],
+  "timestamp": "2026-08-09T21:47:38.569360021Z",
+  "model": "glm-5.2"
+}

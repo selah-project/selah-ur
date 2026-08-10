@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 52:5",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 52,
+  "translation": "تو شہر محاصرے میں آ گیا، بادشاہ صِدقیاہو کے گیارہویں سال تک۔",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "تو ⟨آ⟩ گیا"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "محاصرے میں"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "گیارہ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "—"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "صِدقیاہو"
+    }
+  ],
+  "timestamp": "2026-08-10T07:25:09.349704501Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "ہمارا پانی چاندی کے بدلے پیا، ہماری لکڑیاں قیمت پر آتی ہیں۔",
+  "tokens": [
+    {
+      "surface": "מימינו",
+      "gloss": "ہمارا پانی"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "چاندی کے بدلے"
+    },
+    {
+      "surface": "שתינו",
+      "gloss": "ہم نے پیا"
+    },
+    {
+      "surface": "עצינו",
+      "gloss": "ہماری لکڑیاں"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "قیمت پر"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "آتی ہیں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:32:59.878768223Z",
+  "model": "glm-5.2"
+}

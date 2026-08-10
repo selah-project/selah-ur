@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 52,
+  "translation": "اور نیک لوگ دیکھیں گے اور ڈریں گے، اور اس پر ہنسیں گے۔",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "اور دیکھیں گے"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "نیک لوگ"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "اور ڈریں گے"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "اور اس پر"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "ہنسیں گے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:34:43.753055900Z",
+  "model": "glm-5.2"
+}

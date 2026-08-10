@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 19:4",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "دولت بہت سے دوست بڑھاتی ہے، اور دکھارا اپنے دوست سے جدا ہو جاتا ہے۔",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "دولت"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "بڑھاتی ہے"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "دوست"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "بہت سے"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "اور دکھارا"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "اپنے دوست سے"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "جدا ہو جاتا ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:05:13.576304152Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "اور ⟨彼⟩ نے فرمایا: تو نے کیا کیا؟ تیرے بھائی کے خون کی آواز زمین سے میری طرف چیخ رہی ہے۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور اُس نے کہا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "تو نے کیا"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "خونوں"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "تیرے بھائی"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "چیخ رہی ہے"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میری طرف"
+    },
+    {
+      "surface": "מן",
+      "gloss": "سے"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-09T19:33:56.161342427Z",
+  "model": "glm-5.2"
+}

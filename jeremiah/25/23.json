@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 25:23",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "اور ⟨את⟩ دِدان اور ⟨את⟩ تِیما اور ⟨את⟩ بوز اور ⟨את⟩ تمام پہلوؤں کے کٹوٹوں کو،",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "دِدان"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "دِدان"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "تِیما"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "تِیما"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "بوز"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "بوز"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "تمام پہلوؤں کے کٹوٹوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "קצוצי",
+      "gloss": "کے کٹوٹوں"
+    },
+    {
+      "surface": "פאה",
+      "gloss": "پہلوؤں"
+    }
+  ],
+  "timestamp": "2026-08-10T06:08:23.595182951Z",
+  "model": "glm-5.2"
+}

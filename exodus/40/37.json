@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 40:37",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 40,
+  "translation": "اور اگر بادل نہ اُٹھے، تو وہ روانہ نہ ہوتے، اُس دن تک جب تک کہ وہ اُٹھ ⟨نہ⟩ جاتا۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "اور اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "اُٹھے"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "بادل"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "روانہ ہوتے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "העלתו",
+      "gloss": "اس کے اُٹھنے کے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:12:59.710606117Z",
+  "model": "glm-5.2"
+}

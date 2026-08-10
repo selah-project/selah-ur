@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 111:6",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 111,
+  "translation": "اپنے کاموں کی قوت اپنی قوم کو بتائی، تاکہ انہیں دے ⟨وہ⟩ قوموں کی میراث۔",
+  "tokens": [
+    {
+      "surface": "כח",
+      "gloss": "قوت"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "اپنے کاموں کی"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "بتائی"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "اپنی قوم کو"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "تاکہ دے"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انہیں"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "میراث"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قوموں کی"
+    }
+  ],
+  "timestamp": "2026-08-09T23:49:47.171565735Z",
+  "model": "glm-5.2"
+}

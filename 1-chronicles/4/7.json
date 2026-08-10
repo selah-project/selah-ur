@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 4:7",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "اور خِلا کے بیٹے صِیرِت، یِتصہار، اور اِتنان تھے۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "اور بیٹے"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "خِلا کے"
+    },
+    {
+      "surface": "צרת",
+      "gloss": "صِیرِت"
+    },
+    {
+      "surface": "יצחר",
+      "gloss": "یِتصہار"
+    },
+    {
+      "surface": "ואתנן",
+      "gloss": "اور اِتنان"
+    }
+  ],
+  "timestamp": "2026-08-10T01:00:41.807310772Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "isaiah 37:34",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 37,
+  "translation": "جس راستے سے وہ آیا، اسی پر وہ لوٹ جائے گا، اور وہ اس شہر میں داخل نہیں ہوگا — یہ یاہویہ کا بیان ہے۔",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "راستے سے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اس میں"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "لوٹ جائے گا"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "اور کو"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨یہ⟩ شہر"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "داخل ہوگا"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "بیان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    }
+  ],
+  "timestamp": "2026-08-10T06:01:40.551111692Z",
+  "model": "glm-5.2"
+}

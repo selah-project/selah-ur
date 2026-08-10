@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "joshua 19:44",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "اور اَلتِقہ اور گِبّتون اور بَعَلَت،",
+  "tokens": [
+    {
+      "surface": "ואלתקה",
+      "gloss": "اور اَلتِقہ"
+    },
+    {
+      "surface": "וגבתון",
+      "gloss": "اور گِبّتون"
+    },
+    {
+      "surface": "ובעלת",
+      "gloss": "اور بَعَلَت"
+    }
+  ],
+  "timestamp": "2026-08-09T21:04:05.979119340Z",
+  "model": "glm-5.2"
+}

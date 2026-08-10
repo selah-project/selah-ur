@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 22:19",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "تاکہ تیرا بھروسہ یاہویہ پر ہو، میں نے تجھے آج بتایا ہے، بلکہ تو بھی۔",
+  "tokens": [
+    {
+      "surface": "להיות",
+      "gloss": "تاکہ ہو"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "یاہویہ پر"
+    },
+    {
+      "surface": "מבטחך",
+      "gloss": "تیرا بھروسہ"
+    },
+    {
+      "surface": "הודעתיך",
+      "gloss": "میں نے تجھے بتایا ہے"
+    },
+    {
+      "surface": "היום",
+      "gloss": "آج"
+    },
+    {
+      "surface": "אף",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو بھی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:05:28.472967571Z",
+  "model": "glm-5.2"
+}

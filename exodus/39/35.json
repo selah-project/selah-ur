@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 39:35",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 39,
+  "translation": "⟨את⟩ گواہی کا صندوق اور ⟨את⟩ اس کے ڈنڈے اور ⟨את⟩ کفارہ۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صندوق"
+    },
+    {
+      "surface": "ארן",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "گواہی کا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "اس کے ڈنڈے"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "اس کے ڈنڈے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "کفارہ"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "کفارہ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:13:00.407365247Z",
+  "model": "glm-5.2"
+}

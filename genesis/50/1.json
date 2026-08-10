@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 50:1",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 50,
+  "translation": "تو یوسف اپنے باپ کے چہرے پر گر گیا، اور اُس پر رویا، اور اُس کو چوما۔",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "تو گر گیا"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "چہرے"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "اپنے باپ کے"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "اور رویا"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اُس پر"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "اور چوما"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُس کو"
+    }
+  ],
+  "timestamp": "2026-08-09T19:55:21.726645019Z",
+  "model": "glm-5.2"
+}

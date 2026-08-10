@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 7:19",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "بنیں بِگْوای کی، دو ہزار سڑسٹھ۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بنیں"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "بِگْوای"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "دو ہزار"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ساٹھ"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "اور سات"
+    }
+  ],
+  "timestamp": "2026-08-10T00:53:58.931531881Z",
+  "model": "glm-5.2"
+}

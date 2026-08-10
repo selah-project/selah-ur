@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 39,
+  "translation": "اور اس نے ⟨את⟩ ایفود کا چولا بنایا — بناؤ کا، تنا ہوا — سبھی نیلا۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "اور اس نے بنایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چولے کو"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "چولا"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ایفود کا"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "بناؤ کا"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "تنا ہوا"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "سبھی"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "نیلا"
+    }
+  ],
+  "timestamp": "2026-08-10T05:22:18.809529335Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 33,
+  "translation": "اور ⟨اس نے⟩ اُس سے کہا: اگر تیرا حضور ساتھ نہیں چلتا تو ہمیں یہاں سے نہ اُٹھا۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور ⟨اس نے⟩ کہا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اُس سے"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تیرا حضور"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "چلتے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "ہمیں اُٹھا"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "یہاں سے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:10:50.055162873Z",
+  "model": "glm-5.2"
+}

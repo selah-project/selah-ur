@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 26:36",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 26,
+  "translation": "اور یہ شُوتِلَح کے بیٹے ہیں: عِیران کے لیے عِیرانِی خاندان۔",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "اور یہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "שותלח",
+      "gloss": "شُوتِلَح کے"
+    },
+    {
+      "surface": "לערן",
+      "gloss": "عِیران کے لیے"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "خاندان"
+    },
+    {
+      "surface": "הערני",
+      "gloss": "عِیرانِی"
+    }
+  ],
+  "timestamp": "2026-08-10T05:30:16.962888377Z",
+  "model": "glm-5.2"
+}

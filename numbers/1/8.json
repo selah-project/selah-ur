@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 1:8",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "یسّاکر کے لیے، نَتانائیل، صُواعر کا بیٹا۔",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "یسّاکر کے لیے"
+    },
+    {
+      "surface": "نתנאל",
+      "gloss": "نَتانائیل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "صُواعر کا"
+    }
+  ],
+  "timestamp": "2026-08-10T08:38:35.117229868Z",
+  "model": "glm-5.2"
+}

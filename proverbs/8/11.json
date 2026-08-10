@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 8:11",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "کیونکہ حکمت موتیوں سے بہتر ہے، اور سب کامنگی چیزیں اس کے برابر نہیں ہو سکتیں۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "بہتر"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "موتیوں سے"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "اور سب"
+    },
+    {
+      "surface": "חפצים",
+      "gloss": "کامنگی چیزیں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "ישוו",
+      "gloss": "برابر ہو سکتیں"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اس کے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:37:39.496880514Z",
+  "model": "glm-5.2"
+}

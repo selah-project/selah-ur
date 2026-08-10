@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "nehemiah 7:55",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "بَنِی بَرقُوس کے، بَنِی سِیسْرَا کے، بَنِی تَمَح کے۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بَنِی"
+    },
+    {
+      "surface": "ברקוס",
+      "gloss": "بَرقُوس"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَنِی"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "سِیسْرَا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَنِی"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "تَمَح"
+    }
+  ],
+  "timestamp": "2026-08-10T00:54:11.679110169Z",
+  "model": "glm-5.2"
+}

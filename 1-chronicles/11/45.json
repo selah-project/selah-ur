@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 11:45",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "یِدِیعائِل بَن شِمرِی، و یوحا اَخِیو ہَتِّی۔",
+  "tokens": [
+    {
+      "surface": "ידיעאל",
+      "gloss": "یِدِیعائِل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بَن"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "شِمرِی"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "و اَخِیو"
+    },
+    {
+      "surface": "התיצי",
+      "gloss": "ہَتِّی"
+    }
+  ],
+  "timestamp": "2026-08-10T01:03:01.799401353Z",
+  "model": "glm-5.2"
+}

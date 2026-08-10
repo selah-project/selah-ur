@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 20:1",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "اور یاہویہ نے موشے سے کلام کیا، یوں فرماتے ہوئے:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "اور کلام کیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "یوں فرماتے ہوئے"
+    }
+  ],
+  "timestamp": "2026-08-10T05:25:31.975982657Z",
+  "model": "glm-5.2"
+}

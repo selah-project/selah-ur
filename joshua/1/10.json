@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 1:10",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "اور یہوشع (یہوشع) نے ⟨את⟩ لوگ کے افسروں کو حکم دیا، کہنا:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "اور حکم دیا"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشع"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لوگ کے افسروں کو"
+    },
+    {
+      "surface": "שטרי",
+      "gloss": "افسروں کو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوگ کے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہنا"
+    }
+  ],
+  "timestamp": "2026-08-09T20:57:39.156145002Z",
+  "model": "glm-5.2"
+}

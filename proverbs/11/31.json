@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 11:31",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "دیکھو، صدیق بھی زمین میں بدلہ پاتا ہے، تو پھر شریر اور گنہگار کس قدر زیادہ!",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "دیکھو"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صدیق"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین میں"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "بدلہ پاتا ہے"
+    },
+    {
+      "surface": "אף",
+      "gloss": "تو پھر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کس قدر زیادہ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "شریر"
+    },
+    {
+      "surface": "وחוטא",
+      "gloss": "اور گنہگار"
+    }
+  ],
+  "timestamp": "2026-08-10T00:01:42.160442429Z",
+  "model": "glm-5.2"
+}

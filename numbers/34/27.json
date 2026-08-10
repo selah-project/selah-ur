@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 34:27",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 34,
+  "translation": "اور آشیر کے بیٹوں کے قبیلے کے لیے ⟨ایک⟩ نسی، اَخیہود، شِلومی کا بیٹا۔",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "اور قبیلے کے لیے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹوں کے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "آشیر"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "نسی"
+    },
+    {
+      "surface": "אחיהוד",
+      "gloss": "اَخیہود"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "شِلومی"
+    }
+  ],
+  "timestamp": "2026-08-09T20:40:29.307216134Z",
+  "model": "glm-5.2"
+}

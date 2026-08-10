@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 8:29",
+  "book": "judges",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اور یِروبعل بن یوآش چلا گیا اور اپنے گھر میں رہنے لگا۔",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "اور چلا گیا"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "یِروبعل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "یوآش"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "اور رہنے لگا"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "اپنے گھر میں"
+    }
+  ],
+  "timestamp": "2026-08-10T05:39:56.468910355Z",
+  "model": "glm-5.2"
+}

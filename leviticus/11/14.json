@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور ⟨את⟩ دآہ، اور ⟨את⟩ آیہ کو، اپنی نوع کے مطابق۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "دآہ"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "دآہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "آیہ"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "آیہ"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "اپنی نوع کے مطابق"
+    }
+  ],
+  "timestamp": "2026-08-09T20:17:18.998775822Z",
+  "model": "glm-5.2"
+}

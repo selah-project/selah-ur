@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 32,
+  "translation": "اور یاہویہ نے موشہ سے کہا: میں نے ⟨את⟩ اس قوم کو دیکھا ہے، اور دیکھو، یہ ⟨ہے⟩ سخت گردن کی قوم،",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "میں نے دیکھا ہے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اس قوم کو"
+    },
+    {
+      "surface": "העם",
+      "gloss": "اس قوم کو"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اس"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "اور دیکھو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "سخت"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "گردن کی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "یہ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:09:32.241340856Z",
+  "model": "glm-5.2"
+}

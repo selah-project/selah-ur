@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "numbers 1:47",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "مگر لویی، ان کے باپوں کے قبیلے کے لحاظ سے، ان میں گنے نہیں گئے۔",
+  "tokens": [
+    {
+      "surface": "והלוים",
+      "gloss": "مگر لویی"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "قبیلے کے لحاظ سے"
+    },
+    {
+      "surface": "אבתם",
+      "gloss": "ان کے باپوں کے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "התפקדו",
+      "gloss": "گنے گئے"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "ان میں"
+    }
+  ],
+  "timestamp": "2026-08-09T20:25:38.626184754Z",
+  "model": "glm-5.2"
+}

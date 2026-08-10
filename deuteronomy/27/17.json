@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 27:17",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "ملعون ⟨ہے⟩ وہ جو اپنے ہمسر کی حد کو ہٹاتا ہے، اور تمام لوگ کہیں گے: آمین۔",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ملعون"
+    },
+    {
+      "surface": "מסיג",
+      "gloss": "ہٹاتا ہے"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "حد کو"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "اپنے ہمسر کی"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "اور کہیں گے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوگ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمین"
+    }
+  ],
+  "timestamp": "2026-08-10T07:41:15.599058901Z",
+  "model": "glm-5.2"
+}

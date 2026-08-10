@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "daniel 4:26",
+  "book": "daniel",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "بارہ مہینوں کے اختتام پر وہ بابِل کے سلطنت کے محل میں چل پھر رہا تھا۔",
+  "tokens": [
+    {
+      "surface": "לקצת",
+      "gloss": "کے اختتام پر"
+    },
+    {
+      "surface": "ירחין",
+      "gloss": "مہینوں"
+    },
+    {
+      "surface": "תרי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دس"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "محل"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "سلطنت"
+    },
+    {
+      "surface": "די",
+      "gloss": "کے"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابِل"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "چل پھر رہا تھا"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "⟨تھا⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T00:41:25.693828407Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 5:23",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "وہ بے کسی تربیت کے مرے گا، اور اپنی بیوقوفی کی کثرت میں بھٹک جائے گا۔",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "مرے گا"
+    },
+    {
+      "surface": "באין",
+      "gloss": "بے کسی"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تربیت کے"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "اور کثرت میں"
+    },
+    {
+      "surface": "אולתו",
+      "gloss": "اپنی بیوقوفی کی"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "بھٹک جائے گا"
+    }
+  ],
+  "timestamp": "2026-08-10T09:00:26.099181127Z",
+  "model": "glm-5.2"
+}

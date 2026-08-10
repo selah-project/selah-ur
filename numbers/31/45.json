@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 31:45",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 31,
+  "translation": "اور گدھے تیس ہزار پانچ سو،",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "اور گدھے"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "تیس"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "پانچ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    }
+  ],
+  "timestamp": "2026-08-09T20:39:34.262161580Z",
+  "model": "glm-5.2"
+}

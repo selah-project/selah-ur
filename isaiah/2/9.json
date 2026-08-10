@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور ⟨آدمی⟩ جھکا اور ⟨آدمی⟩ پست ہوا — اور تو انہیں نہ اٹھا۔",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "اور جھکا"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "⟨آدمی⟩"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "اور پست ہوا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨آدمی⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "تو اٹھا"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انہیں"
+    }
+  ],
+  "timestamp": "2026-08-10T05:58:00.505416132Z",
+  "model": "glm-5.2"
+}

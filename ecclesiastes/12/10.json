@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "قوہِلِت نے چاہا کہ خوشنما باتیں ڈھونڈے؛ اور لکھا گیا سیدھا، سچائی کی باتیں۔",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "چاہا کہ ڈھونڈے"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "قوہِلِت"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "کہ ڈھونڈے"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "باتیں"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "خوشنما"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "اور لکھا گیا"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "سیدھا"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "باتیں"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچائی"
+    }
+  ],
+  "timestamp": "2026-08-10T06:43:39.747754264Z",
+  "model": "glm-5.2"
+}

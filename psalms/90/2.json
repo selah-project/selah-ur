@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 90,
+  "translation": "پہاڑ جنے ہونے سے پہلے اور تو نے ⟨את⟩ زمین اور ⟨את⟩ دنیا کو پیدا کیا، ازل تا ابد تو ایل ہے۔",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "سے پہلے"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "جنے ہونے"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "اور تو نے پیدا کیا"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "اور دنیا"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "ازل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تا"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ابد"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    }
+  ],
+  "timestamp": "2026-08-10T07:31:10.771778758Z",
+  "model": "glm-5.2"
+}

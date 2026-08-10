@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 1:7",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "اسی رات کو الوہیم شُلومو کو دکھائی دیے، اور اُس سے کہا: مانگ، کیا دوں تجھے؟",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "رارت میں"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "وہی"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "دکھائی دیے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "شُلومو کو"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُس سے"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "مانگ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "دوں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تجھے"
+    }
+  ],
+  "timestamp": "2026-08-10T01:12:51.506184898Z",
+  "model": "glm-5.2"
+}

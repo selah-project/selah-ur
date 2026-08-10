@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 13:5",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "قبیلۂ شِمعون کے لیے — شافاط بن حوری۔",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "قبیلۂ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "شِمعون"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "شافاط"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "حوری"
+    }
+  ],
+  "timestamp": "2026-08-09T20:30:09.206293590Z",
+  "model": "glm-5.2"
+}

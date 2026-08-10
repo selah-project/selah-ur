@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 7:4",
+  "book": "2-samuel",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اور اسی رات کو یہ ہوا کہ یاہویہ کا کلام ناتَن کی طرف آیا، یوں کہنے کو:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "رات کو"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اسی"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "کہ ہوا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتَن"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "یوں کہنے کو"
+    }
+  ],
+  "timestamp": "2026-08-09T21:33:38.040786123Z",
+  "model": "glm-5.2"
+}

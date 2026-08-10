@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 22:4",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "عاجزی کا بدلہ — یاہویہ کا خوف؛ دھن اور جلال اور زندگی۔",
+  "tokens": [
+    {
+      "surface": "עֵ֣קֶב",
+      "gloss": "بدلہ"
+    },
+    {
+      "surface": "עֲ֭נָוָה",
+      "gloss": "عاجزی کا"
+    },
+    {
+      "surface": "יִרְאַ֣ת",
+      "gloss": "خوف"
+    },
+    {
+      "surface": "יְהוָ֑ה",
+      "gloss": "یاہویہ کا"
+    },
+    {
+      "surface": "עֹ֖שֶׁר",
+      "gloss": "دھن"
+    },
+    {
+      "surface": "וְכָב֣וֹד",
+      "gloss": "اور جلال"
+    },
+    {
+      "surface": "וְחַיִּֽים",
+      "gloss": "اور زندگی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:05:29.396074419Z",
+  "model": "glm-5.2"
+}

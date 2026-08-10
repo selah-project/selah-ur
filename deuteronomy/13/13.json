@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 13:13",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "کہ جب تو اپنے ان شہروں میں سے کسی ایک میں سنیں — جنہیں یاہویہ تیرا الوہیم تجھے بسنا دیتا ہے — یہ کہتے ہوئے:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "تو سنے"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "ایک میں"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "تیرے شہروں کے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنہیں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیرا الوہیم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دیتا ہے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تجھے"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "بسنا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "وہاں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "یہ کہتے ہوئے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:48:54.198768813Z",
+  "model": "glm-5.2"
+}

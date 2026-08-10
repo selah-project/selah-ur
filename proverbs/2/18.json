@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 2:18",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "کیونکہ اس کا گھر موت کی طرف دھنستا ہے، اور اس کے راستے شیول کے رفایم کی طرف ہیں۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "دھنستا ہے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "اس کا گھر"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "اور کی طرف"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "رفایم"
+    },
+    {
+      "surface": "מעגלתיה",
+      "gloss": "اس کے راستے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:57:52.373411080Z",
+  "model": "glm-5.2"
+}

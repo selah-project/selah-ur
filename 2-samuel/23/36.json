@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-samuel 23:36",
+  "book": "2-samuel",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "یِگعال بَن ناتان مِتْصوبہ، بانِی ہَگادی۔",
+  "tokens": [
+    {
+      "surface": "יגאל",
+      "gloss": "یِگعال"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بَن"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتان"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "مِتْصوبہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بانِی"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "ہَگادی"
+    }
+  ],
+  "timestamp": "2026-08-10T05:49:20.621214617Z",
+  "model": "glm-5.2"
+}

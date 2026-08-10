@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "میں جانتا ہوں کہ اُن میں کوئی بھلائی نہیں، مگر یہ کہ خوش ہونا اور اپنی زندگی میں بھلائی کرنا۔",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "میں جانتا ہوں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نہیں ہے"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "بھلائی"
+    },
+    {
+      "surface": "בם",
+      "gloss": "اُن میں کوئی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "مگر"
+    },
+    {
+      "surface": "אם",
+      "gloss": "یہ کہ"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "خوش ہونا"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "اور کرنا"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "بھلائی"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "اپنی زندگی میں"
+    }
+  ],
+  "timestamp": "2026-08-10T09:03:41.368827398Z",
+  "model": "glm-5.2"
+}

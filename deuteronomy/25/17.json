@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "یاد رکھو ⟨את⟩ جو عَمالِیک نے تمھارے ساتھ راستے میں کیا، جب تم مِتصرایم (مصر) سے نکلے۔",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "یاد رکھو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تمھارے ساتھ"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "عَمالِیک"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "راستے میں"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "جب تم نکلے"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "مِتصرایم سے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:52:34.755334031Z",
+  "model": "glm-5.2"
+}

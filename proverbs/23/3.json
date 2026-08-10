@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "اُس کی لذیذ چیزیں مت چاہ، وہ جھوٹا کھانا ہے۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مت"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "تو چاہے"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "اُس کی لذیذ چیزوں کو"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "کھانا"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "جھوٹا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:06:15.522357205Z",
+  "model": "glm-5.2"
+}

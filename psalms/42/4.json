@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 42,
+  "translation": "میرے آنسو مجھے کھانا بنے رہے دن رات، جب وہ مجھ سے کہتے ہیں سارا دن: تیرا الوہیم کہاں ہے؟",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "بنے رہیں"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مجھے"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "میرے آنسو"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "کھانا"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "دن"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "اور رات"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "کہتے ہیں"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مجھ سے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "איה",
+      "gloss": "کہاں"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیرا الوہیم"
+    }
+  ],
+  "timestamp": "2026-08-09T23:32:03.885656553Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 26:7",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 26,
+  "translation": "راستہ ⟨ہے⟩ صالح کے لیے سیدھا؛ سیدھا راہِ صالح، تو ہموار کرے گا۔",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "راستہ"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "صالح کے لیے"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "سیدھا"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "سیدھا"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "راستہ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صالح"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "تو ہموار کرے گا"
+    }
+  ],
+  "timestamp": "2026-08-09T22:08:03.766205774Z",
+  "model": "glm-5.2"
+}

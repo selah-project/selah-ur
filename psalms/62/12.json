@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 62,
+  "translation": "ایک بار الوہیم نے بات کہی؛ دو (باتیں) میں نے یہ سنی ہے، کہ طاقت الوہیم کا ہے۔",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "ایک بار"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بات کہی"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم نے"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "זו",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "میں نے سنی ہے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "طاقت"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "الوہیم کا ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:31:54.832881227Z",
+  "model": "glm-5.2"
+}

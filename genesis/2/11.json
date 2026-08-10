@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "پہلے کا نام پِشون ہے — وہ ⟨وہ⟩ ہے جو ⟨את⟩ پوری زمین حَویلہ کا گھیراؤ کرتا ہے، جہاں سونا ہے۔",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "نام"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "پہلے کا"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "پِشون"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ ہے"
+    },
+    {
+      "surface": "הסבב",
+      "gloss": "گھیراؤ کرتا ہے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پوری زمین حَویلہ کو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوری"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "حَویلہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جہاں"
+    },
+    {
+      "surface": "שם",
+      "gloss": "وہاں"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "سونا"
+    }
+  ],
+  "timestamp": "2026-08-09T19:33:31.012795656Z",
+  "model": "glm-5.2"
+}

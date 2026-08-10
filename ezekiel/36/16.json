@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 36:16",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 36,
+  "translation": "اور یاہویہ کا ⟨مجھ سے⟩ کلام ہوا، کہنے کے لیے:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨مجھ سے⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہنے کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:59:43.041725409Z",
+  "model": "glm-5.2"
+}

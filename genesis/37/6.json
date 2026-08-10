@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 37:6",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 37,
+  "translation": "تو ⟨یوسف نے⟩ ان سے کہا: سنو اب، یہ خواب جو میں نے دیکھا ہے —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تو کہا"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ان سے"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سنو"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اب"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "یہ خواب"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "میں نے دیکھا ہے"
+    }
+  ],
+  "timestamp": "2026-08-09T19:49:18.363710439Z",
+  "model": "glm-5.2"
+}

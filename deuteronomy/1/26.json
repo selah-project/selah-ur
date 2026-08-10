@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 1:26",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "اور تم نہیں چاہے چڑھنے کو، اور تم نے بغاوت کی ⟨את⟩ منہ کی یاہویہ تمہارے الوہیم کی۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "اور نہیں"
+    },
+    {
+      "surface": "אביתם",
+      "gloss": "تم نے چاہا"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "چڑھنے کو"
+    },
+    {
+      "surface": "ותמרו",
+      "gloss": "اور تم نے بغاوت کی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "منہ کی"
+    },
+    {
+      "surface": "פי",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "تمہارے الوہیم"
+    }
+  ],
+  "timestamp": "2026-08-09T20:42:08.026235910Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور ہوا ساری ⟨دِ⟩ زمین کے لیے ایک ہونٹھ اور باتیں ایک ہیں۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨دِ⟩ زمین"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ہونٹھ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "اور باتیں"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "ایک ہیں"
+    }
+  ],
+  "timestamp": "2026-08-09T19:37:36.878670877Z",
+  "model": "glm-5.2"
+}

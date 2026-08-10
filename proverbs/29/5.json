@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 29:5",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 29,
+  "translation": "ایک آدمی جو اپنے ہمدم کو خوشامد کرتا ہے، اُس کے قدموں کے لیے جال بچھاتا ہے۔",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "ایک آدمی"
+    },
+    {
+      "surface": "מחליק",
+      "gloss": "خوشامد کرتا ہے"
+    },
+    {
+      "surface": "על",
+      "gloss": "کو"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "اپنے ہمدم"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "جال"
+    },
+    {
+      "surface": "פורש",
+      "gloss": "بچھاتا ہے"
+    },
+    {
+      "surface": "על",
+      "gloss": "کے لیے"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "اُس کے قدموں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:09:16.736164033Z",
+  "model": "glm-5.2"
+}

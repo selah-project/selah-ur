@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "سرکش تم یاہویہ کے ساتھ تھے، اُس دن سے جس دن میں نے تمہیں جانا۔",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "سرکش"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "تم تھے"
+    },
+    {
+      "surface": "עם",
+      "gloss": "کے ساتھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "اُس دن سے"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "میں نے جانا"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ تمہیں",
+      "marks": "تمہیں"
+    }
+  ],
+  "timestamp": "2026-08-10T05:32:45.931299369Z",
+  "model": "glm-5.2"
+}

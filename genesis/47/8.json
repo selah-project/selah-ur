@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 47:8",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 47,
+  "translation": "اور پَرعہ نے یعقوب سے کہا: تیری زندگی کے سالوں کے دن کتنے ہیں؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پَرعہ نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "کتنے"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "دن"
+    },
+    {
+      "surface": "שני",
+      "gloss": "سالوں کے"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "تیری زندگی کے"
+    }
+  ],
+  "timestamp": "2026-08-09T19:53:33.592026514Z",
+  "model": "glm-5.2"
+}

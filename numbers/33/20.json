@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 33:20",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 33,
+  "translation": "اور وہ روانہ ہوئے رِمّون-پَرَص سے، اور ٹھہرے لِبْنہ میں۔",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "اور وہ روانہ ہوئے"
+    },
+    {
+      "surface": "מרמן",
+      "gloss": "رِمّون سے"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پَرَص"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "اور ٹھہرے"
+    },
+    {
+      "surface": "בלבנה",
+      "gloss": "لِبْنہ میں"
+    }
+  ],
+  "timestamp": "2026-08-09T20:40:25.553150864Z",
+  "model": "glm-5.2"
+}

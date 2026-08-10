@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 16:31",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 16,
+  "translation": "بزرگی کا تاج ایک زینت ہے؛ راہِ راستمی میں وہ پایا جاتا ہے۔",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "تاج"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "زینت"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "بزرگی"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "راہ میں"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "راستمی"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "پایا جاتا ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:05:00.451556303Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "genesis 31:45",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 31,
+  "translation": "تو یَعقُوب نے ایک پتھر لیا اور اسے ستون کے طور پر کھڑا کیا۔",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "تو … لیا"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یَعقُوب"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ایک پتھر"
+    },
+    {
+      "surface": "וירימה",
+      "gloss": "اور اسے کھڑا کیا"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "ستون"
+    }
+  ],
+  "timestamp": "2026-08-09T19:45:56.155708919Z",
+  "model": "glm-5.2"
+}

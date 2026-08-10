@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 9:22",
+  "book": "judges",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "اور اَوی مَلِک نے یِسرائیل پر حکومت کی تین برس۔",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "اور حکومت کی"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "اَوی مَلِک"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "تین"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "برس"
+    }
+  ],
+  "timestamp": "2026-08-09T21:11:13.485498382Z",
+  "model": "glm-5.2"
+}

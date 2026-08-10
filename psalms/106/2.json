@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 106:2",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 106,
+  "translation": "کون بیان کرے گا یاہویہ کی جبروّتیں؟ کون سنائے گا سب اس کی تعریف؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "ימלל",
+      "gloss": "بیان کرے گا"
+    },
+    {
+      "surface": "גבורות",
+      "gloss": "جبروّتیں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کی"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "سنائے گا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "اس کی تعریف"
+    }
+  ],
+  "timestamp": "2026-08-10T06:35:09.795065201Z",
+  "model": "glm-5.2"
+}

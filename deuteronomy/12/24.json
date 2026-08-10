@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "تم اسے نہ کھاؤ — زمین پر اسے پانی کی طرح بہا دو۔",
+  "tokens": [
+    {
+      "surface": "לֹ֖א",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תֹּאכְלֶ֑נּוּ",
+      "gloss": "تم اسے کھاؤ"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הָאָ֥רֶץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "תִּשְׁפְּכֶ֖נּוּ",
+      "gloss": "اسے بہا دو"
+    },
+    {
+      "surface": "כַּמָּֽיִם",
+      "gloss": "پانی کی طرح"
+    }
+  ],
+  "timestamp": "2026-08-10T07:14:42.363280531Z",
+  "model": "glm-5.2"
+}

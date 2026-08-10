@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 7:19",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "کیونکہ ⟨وہ⟩ مرد ⟨اپنے⟩ گھر میں نہیں ہے؛ وہ دور کے راستے پر گیا ہے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نہیں ہے"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "⟨وہ⟩ مرد"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "⟨اپنے⟩ گھر میں"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "گیا ہے"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "راستے پر"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "دور کے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:00:12.151503642Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 19:24",
+  "book": "2-samuel",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "تو بادشاہ نے شِمعی سے کہا: تو نہ مرگا، اور بادشاہ نے اس کے لیے قسم کھائی۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تو کہا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شِمعی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "مرگا"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "اور قسم کھائی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اس کے لیے"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ نے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:57:45.759704897Z",
+  "model": "glm-5.2"
+}

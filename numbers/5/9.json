@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 5:9",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "اور بنی یِسراإل کی ہر پیشکش جو وہ کاہن کو پیش کرتے ہیں، اس کی ہوگی۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "اور ہر"
+    },
+    {
+      "surface": "תרומה",
+      "gloss": "پیشکش"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "کے تمام"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "مقدس چیزوں میں سے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسراإل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "وہ پیش کرتے ہیں"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "کاہن کو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اس کی"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوگی"
+    }
+  ],
+  "timestamp": "2026-08-10T07:12:32.274370507Z",
+  "model": "glm-5.2"
+}

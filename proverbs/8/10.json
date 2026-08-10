@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 8:10",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "لو میری تربیت اور چاندی نہیں، اور علم خالص سونے سے بہتر۔",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "لو"
+    },
+    {
+      "surface": "מוסרי",
+      "gloss": "میری تربیت"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "اور نہیں"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "اور علم"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "خالص سونے سے"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "بہتر"
+    }
+  ],
+  "timestamp": "2026-08-10T06:37:39.496743565Z",
+  "model": "glm-5.2"
+}

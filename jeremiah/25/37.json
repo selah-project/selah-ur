@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 25:37",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "اور امن کی چراگاہیں خاموش ہوگئیں ⟨ہیں⟩ یاہویہ کے غصے کے بودول کے سبب سے۔",
+  "tokens": [
+    {
+      "surface": "ונדמו",
+      "gloss": "اور خاموش ہوگئیں"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "چراگاہیں"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "امن کی"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "کے سبب سے"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "بودول"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غصے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    }
+  ],
+  "timestamp": "2026-08-09T22:31:09.979415357Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 10:3",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "اور ان میں بجائیں تو ساری جماعت تیرے پاس جمع ہو، خیمہ اجتماع کے دہانے کی طرف۔",
+  "tokens": [
+    {
+      "surface": "ותקעו",
+      "gloss": "اور بجائیں"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "ان میں"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "اور جمع ہو"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیرے پاس"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "جماعت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دہانے"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمہ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "اجتماع کے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:30:12.016322256Z",
+  "model": "glm-5.2"
+}

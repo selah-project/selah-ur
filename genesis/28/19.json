@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 28:19",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 28,
+  "translation": "اور اُس نے ⟨את⟩ اُس مقام کا نام بَیت ایل رکھا، مگر لُوز اُس شہر کا نام پہلے تھا۔",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "اور اُس نے پکارا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نام"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نام"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "اُس مقام کا"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُس"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بَیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "مگر"
+    },
+    {
+      "surface": "לוז",
+      "gloss": "لُوز"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نام"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "اُس شہر کا"
+    },
+    {
+      "surface": "לראשנה",
+      "gloss": "پہلے تھا"
+    }
+  ],
+  "timestamp": "2026-08-09T19:44:44.886868885Z",
+  "model": "glm-5.2"
+}

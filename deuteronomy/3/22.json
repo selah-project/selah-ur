@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 3:22",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "ان سے نہ ڈرو، کیونکہ یاہویہ تمہارا الوہیم وہ ہے جو تمہارے لیے لڑتا ہے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תיראום",
+      "gloss": "ان سے ڈرو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "تمہارا الوہیم"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ ہے"
+    },
+    {
+      "surface": "הנלחם",
+      "gloss": "لڑنے والا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تمہارے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:42:09.411469112Z",
+  "model": "glm-5.2"
+}

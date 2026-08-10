@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 14:11",
+  "book": "zechariah",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "اور وہ اُس میں بسےں گے، اور ⟨חרם⟩ مزید نہ ہوگا؛ اور یروشلایم安全保障 سے بسے گی۔",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "اور وہ بسےں گے"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اُس میں"
+    },
+    {
+      "surface": "וחרם",
+      "gloss": "اور خرب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوگا"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "مزید"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "اور وہ بسے گی"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "محفوظی سے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:22:11.047989780Z",
+  "model": "glm-5.2"
+}

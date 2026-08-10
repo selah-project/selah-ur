@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 16:1",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 16,
+  "translation": "اور یاہویہ کا کلام میرے پاس آیا، یوں کہ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ⟨وہ⟩ ہوا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میرے پاس آیا"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "یوں کہ"
+    }
+  ],
+  "timestamp": "2026-08-09T22:27:38.931599428Z",
+  "model": "glm-5.2"
+}

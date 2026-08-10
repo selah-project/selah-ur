@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 17:18",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 17,
+  "translation": "اور اہرون کا نام لیوی کے عصے پر لکھوگا، کیونکہ ان کے باپ کے گھروں کے سرکردہ کے لیے ایک ہی عصا ہوگا۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نام"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون کا"
+    },
+    {
+      "surface": "תכתב",
+      "gloss": "تم لکھوگا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "عصے"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لیوی کے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "عصا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک ہی"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "سرکردہ کے لیے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر کے"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "ان کے باپ کے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:12:11.977200381Z",
+  "model": "glm-5.2"
+}

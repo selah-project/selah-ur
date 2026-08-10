@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 3:1",
+  "book": "nahum",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "ہائے خون کا شہر، سارا ہی دھوکے اور پھاڑ مار سے بھرا، لقمہ ⟨نہیں⟩ ہٹتا۔",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ہائے"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "خون"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "سارا ہی"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "دھوکے"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "پھاڑ مار"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "بھرا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "ہٹتا"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "لقمہ"
+    }
+  ],
+  "timestamp": "2026-08-09T23:14:43.305261534Z",
+  "model": "glm-5.2"
+}

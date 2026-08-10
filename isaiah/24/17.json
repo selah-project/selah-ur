@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 24:17",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "دہشت، اور گڑھا، اور پھاند ⟨ہے⟩ تجھ پر، اے زمین کے بسینے والے۔",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "دہشت"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "اور گڑھا"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "اور پھاند"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تجھ پر"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "بسینے والے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین کے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:22:08.226215653Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 46:22",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 46,
+  "translation": "یہ راحیل کے بیٹے ہیں جو یَعقوف کو پیدا ہوئے؛ کل جاناں چودہ ⟨تھیں⟩۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "راحیل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "پیدا ہوئے"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "یَعقوف کو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کل"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جاناں"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چودہ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "‹دس›"
+    }
+  ],
+  "timestamp": "2026-08-10T05:16:35.256402245Z",
+  "model": "glm-5.2"
+}

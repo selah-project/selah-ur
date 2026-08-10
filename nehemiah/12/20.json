@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 12:20",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "سَلّای کے لیے قَلّای؛ عاموق کے لیے عِبیر۔",
+  "tokens": [
+    {
+      "surface": "לסלי",
+      "gloss": "سَلّای کے لیے"
+    },
+    {
+      "surface": "קלי",
+      "gloss": "قَلّای"
+    },
+    {
+      "surface": "לעמוק",
+      "gloss": "عاموق کے لیے"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عِبیر"
+    }
+  ],
+  "timestamp": "2026-08-10T00:55:52.016061768Z",
+  "model": "glm-5.2"
+}

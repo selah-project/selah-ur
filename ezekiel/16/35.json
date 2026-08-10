@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 16:35",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 16,
+  "translation": "اس لیے اے زناکارِ عورت، سن ⟨את⟩ ⟨کلام⟩ یاہویہ کا!",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "اس لیے"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "اے زناکارِ عورت"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "سن"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨کلام⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کا"
+    }
+  ],
+  "timestamp": "2026-08-09T22:52:05.787743038Z",
+  "model": "glm-5.2"
+}

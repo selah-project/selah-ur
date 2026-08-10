@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "lamentations 3:35",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "کہ ایک انسان کا حق الٹ پلٹ کرنا ⟨ائے⟩ علیون کے سامنے —",
+  "tokens": [
+    {
+      "surface": "לְהַטּוֹת֙",
+      "gloss": "الٹ پلٹ کرنا"
+    },
+    {
+      "surface": "מִשְׁפַּט",
+      "gloss": "حق"
+    },
+    {
+      "surface": "גָּ֔בֶר",
+      "gloss": "ایک انسان کا"
+    },
+    {
+      "surface": "נֶ֖גֶד",
+      "gloss": "سامنے"
+    },
+    {
+      "surface": "פְּנֵ֥י",
+      "gloss": "کے"
+    },
+    {
+      "surface": "עֶלְיֽוֹן",
+      "gloss": "علیون"
+    }
+  ],
+  "timestamp": "2026-08-10T00:29:49.761981766Z",
+  "model": "glm-5.2"
+}

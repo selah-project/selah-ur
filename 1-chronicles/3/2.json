@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 3:2",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "تیسرا اَوشَلوم، مَعاخہ بنت تَلْمَی بادشاہِ گَشور کا بیٹا؛ چوتھا اَدونی‌یہ، حَگّیت کا بیٹا۔",
+  "tokens": [
+    {
+      "surface": "השלשי",
+      "gloss": "تیسرا"
+    },
+    {
+      "surface": "לאבשלום",
+      "gloss": "اَوشَلوم کا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "مَعاخہ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بنت"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "تَلْمَی"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہِ"
+    },
+    {
+      "surface": "گשור",
+      "gloss": "گَشور"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "چوتھا"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "اَدونی‌یہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "حَگّیت"
+    }
+  ],
+  "timestamp": "2026-08-10T06:48:57.366017804Z",
+  "model": "glm-5.2"
+}

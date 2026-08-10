@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 22:9",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "اور الوہیم بِلعام کے پاس آئے، اور ⟨اس نے⟩ کہا: یہ کون سے آدمی تیرے ساتھ ہیں؟",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "اور آئے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کے پاس"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بِلعام"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "اور ⟨اس نے⟩ کہا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تیرے ساتھ"
+    }
+  ],
+  "timestamp": "2026-08-10T07:12:41.850222906Z",
+  "model": "glm-5.2"
+}

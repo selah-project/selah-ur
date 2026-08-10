@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "اور موشے نے سنا، اور وہ بات اس کی نظر میں بھلی لگی۔",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "اور اس نے سنا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "اور بھلی لگی"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "اس کی نظر میں"
+    }
+  ],
+  "timestamp": "2026-08-10T05:24:26.350696373Z",
+  "model": "glm-5.2"
+}

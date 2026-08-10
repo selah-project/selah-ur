@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور میں اِس وجہ سے داوِد کے بیجوں کو دباؤں گا، البتہ تمام دنوں تک نہیں۔",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "اور میں دباؤں گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بیجوں کو"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "بیجوں"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد کے"
+    },
+    {
+      "surface": "למען",
+      "gloss": "وجہ سے"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "اِس"
+    },
+    {
+      "surface": "אך",
+      "gloss": "البتہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "دنوں تک"
+    }
+  ],
+  "timestamp": "2026-08-10T07:19:23.372698787Z",
+  "model": "glm-5.2"
+}

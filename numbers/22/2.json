@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "اور بَلَق بن صِفّور نے دیکھا ⟨את⟩ سب کچھ جو یِسرائیل نے اَموری کو کیا تھا۔",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "اور دیکھا"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بَلَق"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "صِفّور"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سب کچھ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیا تھا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "اَموری کو"
+    }
+  ],
+  "timestamp": "2026-08-09T20:35:07.759424045Z",
+  "model": "glm-5.2"
+}

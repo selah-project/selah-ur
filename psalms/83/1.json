@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 83,
+  "translation": "ایک گیت، اَساف کے لیے ایک مزمور۔",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ایک گیت"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ایک مزمور"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "اَساف کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:40:56.698106256Z",
+  "model": "glm-5.2"
+}

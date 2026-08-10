@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 8:24",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اور حَنَنیاہ اور عِیلام اور عَنتُتیاہ۔",
+  "tokens": [
+    {
+      "surface": "וחנניה",
+      "gloss": "اور حَنَنیاہ"
+    },
+    {
+      "surface": "ועילם",
+      "gloss": "اور عِیلام"
+    },
+    {
+      "surface": "וענתתיה",
+      "gloss": "اور عَنتُتیاہ"
+    }
+  ],
+  "timestamp": "2026-08-10T01:01:30.007107270Z",
+  "model": "glm-5.2"
+}

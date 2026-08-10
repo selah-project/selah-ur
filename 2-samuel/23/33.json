@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 23:33",
+  "book": "2-samuel",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "شَمّاہ ہَہَراری، اَخِیام بَن شَرَر ہَاراری۔",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "شَمّاہ"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "ہَہَراری"
+    },
+    {
+      "surface": "אחיאם",
+      "gloss": "اَخِیام"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بَن"
+    },
+    {
+      "surface": "שרר",
+      "gloss": "شَرَر"
+    },
+    {
+      "surface": "האררי",
+      "gloss": "ہَاراری"
+    }
+  ],
+  "timestamp": "2026-08-10T05:49:20.620749185Z",
+  "model": "glm-5.2"
+}

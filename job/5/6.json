@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 5:6",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "کیونکہ باطل مٹی سے نہیں نکلتی، اور زمین سے تکلیف نہیں اُگتے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "نکلتی"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "مٹی سے"
+    },
+    {
+      "surface": "און",
+      "gloss": "باطل"
+    },
+    {
+      "surface": "ומאדמה",
+      "gloss": "اور زمین سے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "اُگتے"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "تکلیف"
+    }
+  ],
+  "timestamp": "2026-08-10T07:32:18.948396032Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "جس میں بھی کوئی عیب ہو وہ پیش نہ کرو، کیونکہ وہ تمہارے لیے قابلِ قبول نہ ہوگا۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "جو بھی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جس"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اُس میں"
+    },
+    {
+      "surface": "מום",
+      "gloss": "کوئی عیب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "تم پیش کرو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "قابلِ قبول"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "وہ ہوگا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تمہارے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:22:42.357123244Z",
+  "model": "glm-5.2"
+}

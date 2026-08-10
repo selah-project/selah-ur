@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 90:4",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 90,
+  "translation": "کہ ہزار سال تیری نظر میں گزرا ہوا کل کی طرح ہیں، اور رات کی ایک پہری۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "تیری نظر میں"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "کی طرح ہیں"
+    },
+    {
+      "surface": "אתמול",
+      "gloss": "گزرا ہوا کل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "گزر گیا"
+    },
+    {
+      "surface": "ואשמורה",
+      "gloss": "اور ایک پہری"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "رات کی"
+    }
+  ],
+  "timestamp": "2026-08-10T07:31:10.772184511Z",
+  "model": "glm-5.2"
+}

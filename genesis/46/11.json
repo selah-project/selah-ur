@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 46:11",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 46,
+  "translation": "اور لےوی کے بیٹے: گِرشُون، قِہات اور مِراری۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "اور بیٹے"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لےوی"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "گِرشُون"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قِہات"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "اور مِراری"
+    }
+  ],
+  "timestamp": "2026-08-09T19:52:51.126001262Z",
+  "model": "glm-5.2"
+}

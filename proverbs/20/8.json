@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 20:8",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "بادشاہ انصاف کے تخت پر بیٹھا ہوا اپنی آنکھوں سے ہر برائی بکھیرتا ہے۔",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "بیٹھا ہوا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "דין",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "بکھیرتا ہے"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "اپنی آنکھوں سے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برائی"
+    }
+  ],
+  "timestamp": "2026-08-10T07:32:28.515217740Z",
+  "model": "glm-5.2"
+}

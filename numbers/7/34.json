@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 7:34",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "بکروں میں سے ایک بال⟨دار⟩ بکرا، گناہ کی قربانی کے لیے۔",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "بالدار بکرا"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "بکروں"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "گناہ کی قربانی کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:28:02.251394238Z",
+  "model": "glm-5.2"
+}

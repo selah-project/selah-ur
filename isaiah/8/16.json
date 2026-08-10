@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 8:16",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "باندھو گواہی، مہر کرو تورات بلمدایِ میں۔",
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "باندھو"
+    },
+    {
+      "surface": "תעודה",
+      "gloss": "گواہی"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "مہر کرو"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "تورات"
+    },
+    {
+      "surface": "בלמדי",
+      "gloss": "بلمدایِ میں"
+    }
+  ],
+  "timestamp": "2026-08-09T22:03:26.266711359Z",
+  "model": "glm-5.2"
+}

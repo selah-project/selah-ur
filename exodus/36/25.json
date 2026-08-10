@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 36:25",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 36,
+  "translation": "اور مسکن کے دوسری پہلو کے لیے، شمال کی جانب، ⟨اس نے⟩ بیس تختے بنائے۔",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "اور پہلو کے لیے"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "مسکن کے"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "دوسری"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "جانب کے لیے"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "شمال"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بنائے"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیس"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "تختے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:10:53.687859425Z",
+  "model": "glm-5.2"
+}

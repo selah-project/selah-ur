@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 10:30",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "اور ان کا بسیرا مِشا سے، جاتے ہوئے صَفَرہ، مشرق کے پہاڑ تک تھا۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ⟨وہ⟩ تھا"
+    },
+    {
+      "surface": "מושבם",
+      "gloss": "ان کا بسیرا"
+    },
+    {
+      "surface": "ממשא",
+      "gloss": "مِشا سے"
+    },
+    {
+      "surface": "באכה",
+      "gloss": "جاتے ہوئے"
+    },
+    {
+      "surface": "ספרה",
+      "gloss": "صَفَرہ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "הקדם",
+      "gloss": "مشرق کے"
+    }
+  ],
+  "timestamp": "2026-08-09T19:36:50.008302247Z",
+  "model": "glm-5.2"
+}

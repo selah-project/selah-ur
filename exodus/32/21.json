@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 32:21",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 32,
+  "translation": "اور موشہ نے اہرون سے کیا: اس قوم نے تیرے ساتھ کیا کیا کہ تو نے اس پر ایک بڑی گناہ گاری لے آیا؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے ساتھ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "اس قوم"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "تو نے لے آیا"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اس پر"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "گناہ گاری"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "ایک بڑی"
+    }
+  ],
+  "timestamp": "2026-08-10T05:22:25.760330609Z",
+  "model": "glm-5.2"
+}

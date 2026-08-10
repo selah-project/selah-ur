@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 12:14",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "مَلُوخی کے لِے یُوناتان، شِبَنیاہ کے لِے یُوسِف۔",
+  "tokens": [
+    {
+      "surface": "למלוכי",
+      "gloss": "مَلُوخی کے لِے"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "یُوناتان"
+    },
+    {
+      "surface": "לשבניה",
+      "gloss": "شِبَنیاہ کے لِے"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یُوسِف"
+    }
+  ],
+  "timestamp": "2026-08-10T00:55:46.883441571Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 14:19",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "اور ہر رینگنے والا پرندہ وہ تمہارے لیے ناپاک ہے، نہ کھایا جائے گا۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "اور ہر"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "رینگنے والا"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "پرندہ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ناپاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تمہارے لیے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "کھایا جائے گا"
+    }
+  ],
+  "timestamp": "2026-08-09T20:48:09.571935024Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 55,
+  "translation": "دیکھو! میں دور بھاگ جاؤں، بیابان میں ٹھہروں۔ سِلا۔",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "دیکھو!"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "دور بھاگ جاؤں"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "اَو"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "ٹھہروں"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "بیابان میں"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلا۔"
+    }
+  ],
+  "timestamp": "2026-08-09T23:33:51.364193904Z",
+  "model": "glm-5.2"
+}

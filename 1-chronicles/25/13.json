@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 25:13",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "چھٹا بُقّیاهو ⟨کے لیے⟩، ⟨اس کے⟩ بیٹے اور ⟨اس کے⟩ بھائی، بارہ،",
+  "tokens": [
+    {
+      "surface": "הששי",
+      "gloss": "چھٹا"
+    },
+    {
+      "surface": "בקיהו",
+      "gloss": "بُقّیاهو"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "⟨اس کے⟩ بیٹے"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "اور ⟨اس کے⟩ بھائی"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "بارہ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-10T01:09:27.092365465Z",
+  "model": "glm-5.2"
+}

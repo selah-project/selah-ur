@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 16:26",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 16,
+  "translation": "چھ دن تک تم اسے اکٹھا کرو، اور ساتویں دن شَبَت ہے — اس میں ⟨کچھ⟩ نہ ہوگا۔",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دن"
+    },
+    {
+      "surface": "תלקטהו",
+      "gloss": "تم اسے اکٹھا کرو"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "اور کے دن میں"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ساتویں"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "شَبَت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوگا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اس میں"
+    }
+  ],
+  "timestamp": "2026-08-09T20:01:45.707164381Z",
+  "model": "glm-5.2"
+}

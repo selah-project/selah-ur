@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 6:25",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "میدان میں نہ نکلنا اور راستے پر نہ چلنا، کیونکہ دشمن کی تلوار ہے، گھیراؤ میں دہشت ہے۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תצאי",
+      "gloss": "نکلنا"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "میدان میں"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "اور راستے پر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "چلنا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "تلوار"
+    },
+    {
+      "surface": "לאיב",
+      "gloss": "دشمن کی"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "دہشت"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "گھیراؤ میں"
+    }
+  ],
+  "timestamp": "2026-08-09T22:23:07.924394389Z",
+  "model": "glm-5.2"
+}

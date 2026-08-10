@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "ہر رینگنے والی چیز جو ⟨وہ⟩ زندہ ہے تمہارے لیے کھانا ہوگی؛ جیسے سبز گھاس میں نے تمہیں ⟨את⟩ سب کچھ دیا ہے۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "رینگنے والی چیز"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زندہ ہے"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تمہارے لیے"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوگی"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "کھانا"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "جیسے سبز"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "گھاس"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "میں نے دیا ہے"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تمہیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سب کچھ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب کچھ"
+    }
+  ],
+  "timestamp": "2026-08-09T19:35:49.665522049Z",
+  "model": "glm-5.2"
+}

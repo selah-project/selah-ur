@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 13:9",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "تو اس کی رضا نہ کرنا اور نہ اس کی بات سننا اور تیری آنکھ اس پر ترس نہ کھائے اور نہ تو بخش اور نہ اسے چھپا",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "تو رضا کرنا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اس کی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "تو سننا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اس کی طرف"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "تو ترس کھانا"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "تیری آنکھ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اس پر"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "تو بخشنا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "تو چھپانا"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اس پر"
+    }
+  ],
+  "timestamp": "2026-08-09T20:47:43.422754642Z",
+  "model": "glm-5.2"
+}

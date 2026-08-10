@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 118:2",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 118,
+  "translation": "کہے یِسرائیل اب، کیونکہ ہمیشہ تک ⟨ہے⟩ اُس کا خیسِد۔",
+  "tokens": [
+    {
+      "surface": "יאמר",
+      "gloss": "کہے"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اب"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ تک"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "اُس کا خیسِد"
+    }
+  ],
+  "timestamp": "2026-08-10T06:34:50.153078609Z",
+  "model": "glm-5.2"
+}

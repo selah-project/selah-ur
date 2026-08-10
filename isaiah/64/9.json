@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 64:9",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 64,
+  "translation": "تیرے مقدس شہر ویران ہوگئے، صیّون ویرانی بن گیا، یروشلایم تباہی ہے۔",
+  "tokens": [
+    {
+      "surface": "ערי",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "קדשך",
+      "gloss": "تیرے مقدس"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ہوگئے"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ویران"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صیّون"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ویرانی"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "بن گیا"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "تباہی"
+    }
+  ],
+  "timestamp": "2026-08-09T22:20:41.346501455Z",
+  "model": "glm-5.2"
+}

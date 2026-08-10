@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 23:12",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "قِهات کے بیٹے — عَمرام، یِصهار، خِبرون، اور عُزی ایل، چار۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کے بیٹے"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قِهات"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "عَمرام"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "یِصهار"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "خِبرون"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "اور عُزی ایل"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    }
+  ],
+  "timestamp": "2026-08-10T01:09:18.929725905Z",
+  "model": "glm-5.2"
+}

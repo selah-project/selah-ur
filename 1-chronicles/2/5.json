@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 2:5",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "فَرِص کے بیٹے حَصرون اور حامول ⟨تھے⟩۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "فَرِص"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "حَصرون"
+    },
+    {
+      "surface": "וחמול",
+      "gloss": "اور حامول"
+    }
+  ],
+  "timestamp": "2026-08-10T09:05:21.326215648Z",
+  "model": "glm-5.2"
+}

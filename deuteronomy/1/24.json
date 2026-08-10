@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "اور وہ رُخ پھیر کر پہاڑ کی طرف چڑھے اور نَخَل اِشکول تک آئے اور اس کی خبر لی۔",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "اور وہ رُخ پھیر کر"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "چڑھے"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "پہاڑ کی طرف"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "اور آئے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "نَخَل"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "اِشکول"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "اور خبر لی"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "اس کی"
+    }
+  ],
+  "timestamp": "2026-08-09T20:41:38.755526374Z",
+  "model": "glm-5.2"
+}

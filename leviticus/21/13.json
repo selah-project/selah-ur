@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 21:13",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "اور وہ ⟨ایک⟩ عورت کو اس کی کنواری حالت میں لے۔",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "اور وہ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "عورت کو"
+    },
+    {
+      "surface": "בבתוליה",
+      "gloss": "اس کی کنواری حالت میں"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "لے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:22:29.203331578Z",
+  "model": "glm-5.2"
+}

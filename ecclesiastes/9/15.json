@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 9:15",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "اور اس میں ایک غریب دانا آدمی ملا، اور اس نے اپنی دانائی سے ⟨את⟩ شہر کو بچا لیا، اور کوئی آدمی اس غریب آدمی کو نہ یاد رکھے۔",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "اور ملا"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اس میں"
+    },
+    {
+      "surface": "איש",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "ומלט",
+      "gloss": "اور بچا لیا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "اس نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شہر کو"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "בחכמתו",
+      "gloss": "اپنی دانائی سے"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "اور آدمی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "یاد رکھے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اس غریب آدمی کو"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "آدمی کو"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اس"
+    }
+  ],
+  "timestamp": "2026-08-10T00:35:55.010291429Z",
+  "model": "glm-5.2"
+}

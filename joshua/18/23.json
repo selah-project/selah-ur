@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 18:23",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "اور هَعَوّیِم، اور هَپّارَہ، اور عَفْرَہ۔",
+  "tokens": [
+    {
+      "surface": "והעוים",
+      "gloss": "اور هَعَوّیِم"
+    },
+    {
+      "surface": "והפרה",
+      "gloss": "اور هَپّارَہ"
+    },
+    {
+      "surface": "ועפרה",
+      "gloss": "اور عَفْرَہ"
+    }
+  ],
+  "timestamp": "2026-08-09T21:02:21.757715329Z",
+  "model": "glm-5.2"
+}

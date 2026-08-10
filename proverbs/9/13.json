@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 9:13",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "کسیلُوت نامی عورت ہلچل مچاتی ہے، وہ پتیوت ہے، اور وہ جانتی ہی نہیں کہ ⟨کیا⟩ ہے۔",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "عورت"
+    },
+    {
+      "surface": "כסילות",
+      "gloss": "کسیلُوت"
+    },
+    {
+      "surface": "המיה",
+      "gloss": "ہلچل مچاتی ہے"
+    },
+    {
+      "surface": "פתיות",
+      "gloss": "پتیوت ہے"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "اور نہیں"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "جانتی"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    }
+  ],
+  "timestamp": "2026-08-10T07:31:50.495009296Z",
+  "model": "glm-5.2"
+}

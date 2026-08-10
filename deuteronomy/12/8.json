@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 12:8",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "تم نہیں کرو گے جیسا کہ ہم یہاں آج کرتے ہیں، ہر شخص کے لیے جو بھی اُس کی اپنی آنکھوں میں صحیح ہو۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "تم کرو گے"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "جیسا کہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "کرتے ہیں"
+    },
+    {
+      "surface": "פה",
+      "gloss": "یہاں"
+    },
+    {
+      "surface": "היום",
+      "gloss": "آج"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر شخص"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جو بھی"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "صحیح"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "اُس کی آنکھوں میں"
+    }
+  ],
+  "timestamp": "2026-08-10T05:32:51.745197799Z",
+  "model": "glm-5.2"
+}

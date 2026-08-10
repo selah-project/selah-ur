@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 162,
+  "ref": "psalms 119:162",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 119,
+  "translation": "میں تیرے قول پر خوش ہوں، جیسے کوئی بہت مالِ غنیمت پانے والا۔",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "خوش ہوں"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "تیرے قول"
+    },
+    {
+      "surface": "כמוצא",
+      "gloss": "جیسے پانے والا"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "مالِ غنیمت"
+    },
+    {
+      "surface": "רב",
+      "gloss": "بہت"
+    }
+  ],
+  "timestamp": "2026-08-10T07:31:37.471768366Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "اور ⟨את⟩ گلِد، اور ⟨את⟩ شاہین، اور گدھا — اپنی نوع کے مطابق۔",
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "اور گلِد"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "شاہین"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "شاہین"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "اور گدھا"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "اپنی نوع کے مطابق"
+    }
+  ],
+  "timestamp": "2026-08-09T20:47:26.812958371Z",
+  "model": "glm-5.2"
+}

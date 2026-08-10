@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اور ہر کوہن کا تحفہ مکمل ہوگا — ⟨وہ⟩ کھایا نہ جائے۔",
+  "tokens": [
+    {
+      "surface": "וְכָל",
+      "gloss": "اور ہر"
+    },
+    {
+      "surface": "מִנְחַ֥ת",
+      "gloss": "تحفہ"
+    },
+    {
+      "surface": "כֹּהֵ֛ן",
+      "gloss": "کوہن کا"
+    },
+    {
+      "surface": "כָּלִ֥יל",
+      "gloss": "مکمل"
+    },
+    {
+      "surface": "תִּהְיֶ֖ה",
+      "gloss": "ہوگا"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תֵאָכֵֽל",
+      "gloss": "کھایا جائے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:16:36.745825225Z",
+  "model": "glm-5.2"
+}

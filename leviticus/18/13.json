@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 18:13",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "اپنی ماں کی بہن کی عورَت کو نہ کھولھو، کیونکہ وہ ⟨ہے⟩ اپنی ماں کا شَیر۔",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "کی عورَت"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "بہن"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "اپنی ماں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "کھولھو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "کا شَیر"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "اپنی ماں"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    }
+  ],
+  "timestamp": "2026-08-10T07:56:34.466696395Z",
+  "model": "glm-5.2"
+}

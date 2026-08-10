@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 13:47",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "اور وہ کپڑا — اگر اس میں ہو کوئی نَگَعِ صراعت، اون کے کپڑے میں یا سن کے کپڑے میں،",
+  "tokens": [
+    {
+      "surface": "והבגד",
+      "gloss": "اور وہ کپڑا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہو"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اس میں"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "کوئی نَگَع"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "صراعت کا"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "کپڑے میں"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "اون کے"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "کپڑے میں"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "سن کے"
+    }
+  ],
+  "timestamp": "2026-08-10T05:24:08.855940064Z",
+  "model": "glm-5.2"
+}

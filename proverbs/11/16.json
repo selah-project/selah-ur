@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 11:16",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "خوش مزاج عورت کو جلال حاصل ہوتا ہے، اور ظالموں کو مال حاصل ہوتا ہے۔",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "عورت کو"
+    },
+    {
+      "surface": "חן",
+      "gloss": "خوش مزاج"
+    },
+    {
+      "surface": "תתמך",
+      "gloss": "حاصل ہوتا ہے"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "اور ظالموں کو"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "حاصل ہوتا ہے"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "مال"
+    }
+  ],
+  "timestamp": "2026-08-10T00:02:05.718080886Z",
+  "model": "glm-5.2"
+}

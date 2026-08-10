@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "اور موشے نے ⟨את⟩ ان کا فیصلہ یاہویہ کے سامنے پیش کیا۔",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "اور پیش کیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ان کا فیصلہ"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "ان کا فیصلہ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "کے سامنے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:38:13.443425720Z",
+  "model": "glm-5.2"
+}

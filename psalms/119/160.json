@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 160,
+  "ref": "psalms 119:160",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 119,
+  "translation": "تیرے قول کا سر ہے سچائی، اور ہمیشہ تیرے عدل کا ہر فیصلہ۔",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "سر ہے"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "تیرے قول کا"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچائی"
+    },
+    {
+      "surface": "ולעולם",
+      "gloss": "اور ہمیشہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "فیصلہ"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "تیرے عدل کا"
+    }
+  ],
+  "timestamp": "2026-08-09T23:53:29.634466281Z",
+  "model": "glm-5.2"
+}

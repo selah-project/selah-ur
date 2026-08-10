@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 6:23",
+  "book": "2-samuel",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اور مِیخَل، شاؤل کی بیٹی کے، کوئی اولاد نہ ہوئی، اس کی موت کے دن تک۔",
+  "tokens": [
+    {
+      "surface": "ולמיכל",
+      "gloss": "اور مِیخَل کے"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بیٹی"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہوئی"
+    },
+    {
+      "surface": "לה",
+      "gloss": "کو"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "کوئی اولاد"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "מותה",
+      "gloss": "اس کی موت کے"
+    }
+  ],
+  "timestamp": "2026-08-10T05:47:39.633987247Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 47:7",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 47,
+  "translation": "میرے لوٹنے پر — اور دیکھو! نہر کے کنارے کی طرف بہت زیادہ درخت، اس طرف اور اس طرف۔",
+  "tokens": [
+    {
+      "surface": "בשובני",
+      "gloss": "میرے لوٹنے پر"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "اور دیکھو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "کنارے"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "نہر"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "درخت"
+    },
+    {
+      "surface": "רב",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "زیادہ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "اس طرف"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "اور اس طرف"
+    }
+  ],
+  "timestamp": "2026-08-09T23:03:12.897382129Z",
+  "model": "glm-5.2"
+}

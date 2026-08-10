@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "یوں کہتا ہے اَدونای یاہویہ: نہ وہ قائم ہوگا اور نہ وہ ہوگا۔",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "یوں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "کہتا ہے"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اَدونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "وہ قائم ہوگا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "وہ ہوگا"
+    }
+  ],
+  "timestamp": "2026-08-10T05:59:35.910781549Z",
+  "model": "glm-5.2"
+}

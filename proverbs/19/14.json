@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 19:14",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "گھر اور دولت ⟨ہیں⟩ باپ دادا کی میراث، اور یاہویہ سے عورت فہیم۔",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "והון",
+      "gloss": "اور دولت"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "میراث"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "باپ دادا"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "اور یاہویہ سے"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "عورت"
+    },
+    {
+      "surface": "משכלת",
+      "gloss": "فہیم"
+    }
+  ],
+  "timestamp": "2026-08-10T00:05:53.922001452Z",
+  "model": "glm-5.2"
+}

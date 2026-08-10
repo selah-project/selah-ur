@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 1:20",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "اور میں نے تم سے کہا: تم اموری کے پہاڑ تک پہنچ ⟨گئے ہو⟩، جو یاہویہ ہمارا الوہیم ہمیں دے ⟨رہا ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "اور میں نے کہا"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "تم سے"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "تم پہنچ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "הר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "اموری کے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ہمارا الوہیم"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دے رہا ہے"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ہمیں"
+    }
+  ],
+  "timestamp": "2026-08-09T20:43:41.710727317Z",
+  "model": "glm-5.2"
+}

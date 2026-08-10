@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "اور ⟨האדם⟩ آدم نے اپنی بیوی کا نام خَوّہ رکھا، کیونکہ وہ ہر جیتے جاگتے ⟨جی⟩ کی ماں تھی۔",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "اور۔۔۔رکھا"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨האדם⟩ آدم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نام"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "اپنی بیوی کا"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "خَوّہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "تھی"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ماں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "חי",
+      "gloss": "جیتے جاگتے ⟨جی⟩ کا"
+    }
+  ],
+  "timestamp": "2026-08-10T08:32:02.140372385Z",
+  "model": "glm-5.2"
+}

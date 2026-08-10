@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 17:26",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 17,
+  "translation": "نیک شخص کو سزا دینا بھی اچھا نہیں، سرداروں کو سیدھے پر مارنا بھی۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "بھی"
+    },
+    {
+      "surface": "ענוש",
+      "gloss": "سزا دینا"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "نیک شخص کو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "اچھا"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "مارنا"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "سرداروں کو"
+    },
+    {
+      "surface": "על",
+      "gloss": "کی وجہ سے"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "سیدھے پر"
+    }
+  ],
+  "timestamp": "2026-08-10T00:04:15.446393193Z",
+  "model": "glm-5.2"
+}

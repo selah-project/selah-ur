@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "بہر حال، شیول میں اتارا جائے گا، گڑھے کے کناروں تک۔",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "بہر حال"
+    },
+    {
+      "surface": "אל",
+      "gloss": "میں"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شیول"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "اتارا جائے گا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تک"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "کناروں"
+    },
+    {
+      "surface": "בור",
+      "gloss": "گڑھے کے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:05:15.755237226Z",
+  "model": "glm-5.2"
+}

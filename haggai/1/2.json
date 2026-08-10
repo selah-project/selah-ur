@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "haggai 1:2",
+  "book": "haggai",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "یوں فرماتا ہے یاہویہ صَباؤت: یہ لوگ کہتے ہیں، اب وقت نہیں، یاہویہ کے گھر کے بننے کا وقت نہیں آیا۔",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "یوں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فرماتا ہے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صَباؤت"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "یوں کہنا"
+    },
+    {
+      "surface": "העם",
+      "gloss": "یہ لوگ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "کہتے ہیں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر کا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کے"
+    },
+    {
+      "surface": "להבנות",
+      "gloss": "بننے کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:17:08.735071050Z",
+  "model": "glm-5.2"
+}

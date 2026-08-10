@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 1:2",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "قِینان، مَهَلَل‌اِیل، یَرِد۔",
+  "tokens": [
+    {
+      "surface": "קינן",
+      "gloss": "قِینان"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "مَهَلَل‌اِیل"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "یَرِد"
+    }
+  ],
+  "timestamp": "2026-08-10T00:57:16.583931203Z",
+  "model": "glm-5.2"
+}

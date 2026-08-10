@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 38:8",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 38,
+  "translation": "تو عَبد مَلِک، بادشاہ کے گھر سے باہر نکلا اور بادشاہ سے بات کی، یہ کہتے ہوئے:",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "تو نکلا"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "عَبد"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "مَلِک"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "گھر سے"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ کے"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "اور بات کی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "یہ کہتے ہوئے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:39:03.510178725Z",
+  "model": "glm-5.2"
+}

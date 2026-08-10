@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "اور وہ تلخ نَفَش تھی، تو اس نے یاہویہ سے دعا کی اور روتی رہی، بہت روئی۔",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "اور وہ"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "تلخ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفَش"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "اس نے دعا کی"
+    },
+    {
+      "surface": "על",
+      "gloss": "سے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "اور روتی رہی"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "بہت روئی"
+    }
+  ],
+  "timestamp": "2026-08-09T21:17:01.814219415Z",
+  "model": "glm-5.2"
+}

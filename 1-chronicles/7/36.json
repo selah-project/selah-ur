@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 7:36",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "بَنیں صوفَخ کے: سُوَح، اور حَرنیپَر، اور شُوعال، اور بیری، اور یِمرہ۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بَنیں"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "صوفَخ"
+    },
+    {
+      "surface": "סוח",
+      "gloss": "سُوَح"
+    },
+    {
+      "surface": "וחרנפר",
+      "gloss": "اور حَرنیپَر"
+    },
+    {
+      "surface": "ושועל",
+      "gloss": "اور شُوعال"
+    },
+    {
+      "surface": "וברי",
+      "gloss": "اور بیری"
+    },
+    {
+      "surface": "וימרה",
+      "gloss": "اور یِمرہ"
+    }
+  ],
+  "timestamp": "2026-08-10T08:03:08.847250317Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "⟨את⟩ چھوٹا الو، اور ⟨את⟩ بڑا الو، اور سفید الو۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چھوٹا الو"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "چھوٹا الو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "بڑا الو"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "بڑا الو"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "اور سفید الو"
+    }
+  ],
+  "timestamp": "2026-08-09T20:47:26.813590241Z",
+  "model": "glm-5.2"
+}

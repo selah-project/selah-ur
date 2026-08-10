@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 28,
+  "translation": "برکت دیا ⟨ہو⟩ تمہیں شہر میں، اور برکت دیا ⟨ہو⟩ تمہیں کھیت میں۔",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "برکت دیا ⟨ہو⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تمہیں"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شہر میں"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "اور برکت دیا ⟨ہو⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تمہیں"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "کھیت میں"
+    }
+  ],
+  "timestamp": "2026-08-09T20:54:15.007954457Z",
+  "model": "glm-5.2"
+}

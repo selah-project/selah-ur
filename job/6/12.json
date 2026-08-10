@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "کیا پتھروں کی طاقت میری طاقت ہے؟ کیا میرا گوشت پیتل کا ہے؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "כח",
+      "gloss": "طاقت"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "پتھروں کی"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "میری طاقت"
+    },
+    {
+      "surface": "אם",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "میرا گوشت"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "پیتل کا ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:38:51.158131424Z",
+  "model": "glm-5.2"
+}

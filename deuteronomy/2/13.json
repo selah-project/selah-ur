@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اب اُٹھو اور اپنے لیے ⟨את⟩ نہر زَرِد کو پار کرو، اور ہم نے ⟨את⟩ نہر زَرِد کو پار کیا۔",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "اب"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "اُٹھو"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "اور پار کرو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "اپنے لیے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نہر زَرِد"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "نہر"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "زَرِد"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "اور ہم نے پار کیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نہر زَرِد"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "نہر"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "زَرِد"
+    }
+  ],
+  "timestamp": "2026-08-10T07:14:06.853991041Z",
+  "model": "glm-5.2"
+}

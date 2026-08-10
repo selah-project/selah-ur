@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 5:11",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "عورتوں کو صِہیون میں ذلیل کیا، کنواریوں کو یہوداہ کے شہروں میں۔",
+  "tokens": [
+    {
+      "surface": "נשים",
+      "gloss": "عورتوں کو"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "صِہیون میں"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "ذلیل کیا"
+    },
+    {
+      "surface": "בתלת",
+      "gloss": "کنواریوں کو"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "کے شہروں میں"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:32:47.390460542Z",
+  "model": "glm-5.2"
+}

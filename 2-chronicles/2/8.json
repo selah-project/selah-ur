@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 2:8",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور کثرت سے لکڑی میرے لیے تیار کر، کیونکہ وہ گھر جو میں بنانے والا ہوں بڑا اور حیرت انگیز ہے۔",
+  "tokens": [
+    {
+      "surface": "ולהכין",
+      "gloss": "اور تیار کر"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے لیے"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "لکڑی"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "کثرت سے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "وہ گھر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "بنانے والا ہوں"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "بڑا"
+    },
+    {
+      "surface": "והפלא",
+      "gloss": "اور حیرت انگیز"
+    }
+  ],
+  "timestamp": "2026-08-10T01:14:56.728746857Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "deuteronomy 1:38",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "یَہوشُع بِن نون جو تیرے سامنے کھڑا ہے، وہ وہاں آئے گا؛ اسے مضبوط کر، کیونکہ وہی ⟨את⟩ یِسرائیل کو وراثت دلائے گا۔",
+  "tokens": [
+    {
+      "surface": "יהושע",
+      "gloss": "یَہوشُع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بِن"
+    },
+    {
+      "surface": "נון",
+      "gloss": "نون"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "جو کھڑا ہے"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "تیرے سامنے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "آئے گا"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "وہاں"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اسے"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "مضبوط کر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہی"
+    },
+    {
+      "surface": "ינחלנה",
+      "gloss": "وراثت دلائے گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِسرائیل کو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-09T20:43:07.984341173Z",
+  "model": "glm-5.2"
+}

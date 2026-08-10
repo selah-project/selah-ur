@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-samuel 20:26",
+  "book": "1-samuel",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "اور شاؤل نے اس دن کچھ نہیں کہا، کیونکہ اس نے کہا: کوئی حادثہ ہے، وہ ناپاک ہے، کیونکہ وہ ناپاک ہے۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کہا"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل نے"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "کچھ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "اس دن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "وہی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "اس نے کہا"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "حادثہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "نا"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    }
+  ],
+  "timestamp": "2026-08-09T21:26:17.769433431Z",
+  "model": "glm-5.2"
+}

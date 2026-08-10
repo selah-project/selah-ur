@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اور نُوح چھ سو سال کا ⟨تھا⟩، اور طوفان پانی زمین پر ⟨تھا⟩۔",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "اور نُوح"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "اور طوفان"
+    },
+    {
+      "surface": "היה",
+      "gloss": "تھا"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-10T05:12:42.393399333Z",
+  "model": "glm-5.2"
+}

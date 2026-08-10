@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 3:13",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "اس نے میرے گُردوں میں اپنے تیردان کے بیٹوں کو داخل کیا۔",
+  "tokens": [
+    {
+      "surface": "הביא",
+      "gloss": "اس نے داخل کیا"
+    },
+    {
+      "surface": "בכליותי",
+      "gloss": "میرے گُردوں میں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹوں کو"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "اپنے تیردان کے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:33:21.187817713Z",
+  "model": "glm-5.2"
+}

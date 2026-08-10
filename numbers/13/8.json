@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 13:8",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "قبیلۂ اِفرایم کے لیے — ہوشِیع بن نون۔",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "قبیلۂ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اِفرایم"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "ہوشِیع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "נון",
+      "gloss": "نون"
+    }
+  ],
+  "timestamp": "2026-08-09T20:30:09.206882312Z",
+  "model": "glm-5.2"
+}

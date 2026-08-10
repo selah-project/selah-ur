@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 52:23",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 52,
+  "translation": "اور انار نِناسی تھے، طرف پر چھ؛ سب انار سو تھے جالی پر چاروں طرف ۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "اور تھے"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "انار"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "نِناسی"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "اور چھ"
+    },
+    {
+      "surface": "רוחה",
+      "gloss": "طرف پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "הרמונים",
+      "gloss": "انار"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "سو"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "השבכה",
+      "gloss": "جالی"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چاروں طرف"
+    }
+  ],
+  "timestamp": "2026-08-10T07:25:40.353005689Z",
+  "model": "glm-5.2"
+}

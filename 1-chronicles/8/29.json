@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 8:29",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اور گِبعون میں رہتے تھے گِبعون کے باپ ⟨ؒ⟩، اور اس کی بیوی کا نام مَعَکہ تھا۔",
+  "tokens": [
+    {
+      "surface": "ובגבעון",
+      "gloss": "اور گِبعون میں"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "رہتے تھے"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "کے باپ"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "گِبعون"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "اور نام"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "اس کی بیوی کا"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "مَعَکہ"
+    }
+  ],
+  "timestamp": "2026-08-10T01:02:24.282134251Z",
+  "model": "glm-5.2"
+}

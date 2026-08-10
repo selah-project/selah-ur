@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 26:52",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 26,
+  "translation": "اور یاہویہ نے موشیه سے کلام کیا، کہنے لگا:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "اور … کلام کیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشیه"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہنے لگا"
+    }
+  ],
+  "timestamp": "2026-08-10T05:29:53.982816641Z",
+  "model": "glm-5.2"
+}

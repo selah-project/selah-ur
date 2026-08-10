@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "میں ⟨ہو⟩ گیا ہنسی اپنی ساری قوم کے لیے، ان کا نغمہ سارا دن۔",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "میں ⟨ہو⟩ گیا"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "ہنسی"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "اپنی ساری"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "قوم کے لیے"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "ان کا نغمہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "دن"
+    }
+  ],
+  "timestamp": "2026-08-10T07:33:21.188055498Z",
+  "model": "glm-5.2"
+}

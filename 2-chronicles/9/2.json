@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 9:2",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "اور شِلوموہ نے اسے ⟨את⟩ اس کے ⟨את⟩ سب باتوں کا بتایا؛ اور شِلوموہ سے کوئی بات پوشیدہ نہ رہی جو اسے نہ بتائی ہو۔",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "اور بتایا"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اسے"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شِلوموہ نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سب باتوں کو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "اس کی باتوں کو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "پوشیدہ رہا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کوئی بات"
+    },
+    {
+      "surface": "משלמה",
+      "gloss": "شِلوموہ سے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "بتائی"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اسے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:52:27.857470595Z",
+  "model": "glm-5.2"
+}

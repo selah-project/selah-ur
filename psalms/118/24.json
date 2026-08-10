@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 118,
+  "translation": "یہ وہ دن ہے جسے یاہویہ نے بنایا؛ ہم خوشی منائیں اور اس میں مسرور ہوں۔",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بنایا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ نے"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "خوشی منائیں"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "اور مسرور ہوں"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اس میں"
+    }
+  ],
+  "timestamp": "2026-08-10T06:35:34.143345818Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "حکمت سے ⟨ایک⟩ گھر بنایا جاتا ہے، اور تمیز سے وہ قائم کیا جاتا ہے۔",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "حکمت سے"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "بنایا جاتا ہے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "اور تمیز سے"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "قائم کیا جاتا ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:06:15.594919010Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 5:7",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "اب پس اے بیٹو، میری سنو اور میرے منہ کے اقوال سے ہٹ کر نہ جاؤ۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "اب پس"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "اے بیٹو"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سنو"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میری"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "תסורו",
+      "gloss": "ہٹ کر جاؤ"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "اقوال سے"
+    },
+    {
+      "surface": "פי",
+      "gloss": "میرے منہ کے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:58:24.975641286Z",
+  "model": "glm-5.2"
+}

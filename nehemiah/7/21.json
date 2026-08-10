@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 7:21",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اَتِیر کے بیٹے، حِزقیا کے ⟩، اَٹھانوے۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "اَتِیر"
+    },
+    {
+      "surface": "לחזקיה",
+      "gloss": "حِزقیا کے ⟩"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "نَوّے"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "اور آٹھ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:54:01.310595535Z",
+  "model": "glm-5.2"
+}

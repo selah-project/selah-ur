@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "ہرن اور غزال اور یحمور اور اکّو اور دیشون اور تاؤ اور زامر۔",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "ہرن"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "اور غزال"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "اور یحمور"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "اور اکّو"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "اور دیشون"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "اور تاؤ"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "اور زامر"
+    }
+  ],
+  "timestamp": "2026-08-09T20:48:50.712744Z",
+  "model": "glm-5.2"
+}

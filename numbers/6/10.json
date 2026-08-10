@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 6:10",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اور آٹھویں دن وہ دو فاختوں یا دو کبوتر کے بچوں کو کاہن کے پاس، خیمہِ اجتماع کے دہانے پر لائے گا۔",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "اور کے دن"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "آٹھویں"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "وہ لائے گا"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "فاختوں"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بچوں کو"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "کبوتر کے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کے پاس"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دہانے"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمہِ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "اجتماع"
+    }
+  ],
+  "timestamp": "2026-08-09T20:28:18.396475934Z",
+  "model": "glm-5.2"
+}

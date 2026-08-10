@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "یاہویہ، اپنے راستے مجھے بتا؛ اپنے پگہَن مجھے سکھا۔",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "اپنے راستے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "مجھے بتا"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "اپنے پگہَن"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "مجھے سکھا"
+    }
+  ],
+  "timestamp": "2026-08-09T23:28:52.435091131Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 76,
+  "translation": "وہاں اُس نے توڑ ڈالے تیر کے شعلے، ڈھال اور تلوار اور جنگ۔ سِلاہ۔",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "وہاں"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "اُس نے توڑ ڈالے"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "کے شعلے"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "تیر"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ڈھال"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "اور تلوار"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "اور جنگ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلاہ"
+    }
+  ],
+  "timestamp": "2026-08-09T23:39:20.383261850Z",
+  "model": "glm-5.2"
+}

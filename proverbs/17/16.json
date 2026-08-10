@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 17:16",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 17,
+  "translation": "یہ کیوں — نادان کے ہاتھ میں دام حکمت خریدنے کو، حالانکہ دل ⟨ہے ہی نہیں⟩؟",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "זה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "دام"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "کے ہاتھ میں"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "خریدنے کو"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "اور دل"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نہیں"
+    }
+  ],
+  "timestamp": "2026-08-10T06:37:59.967550199Z",
+  "model": "glm-5.2"
+}

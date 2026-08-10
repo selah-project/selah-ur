@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور کچھ دنوں کے بعد ہوا، کہ بنی عمون نے یِسرائل سے جنگ کی۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "کچھ دنوں کے بعد"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "نے جنگ کی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "عمون"
+    },
+    {
+      "surface": "עם",
+      "gloss": "سے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائل"
+    }
+  ],
+  "timestamp": "2026-08-10T07:16:05.920257094Z",
+  "model": "glm-5.2"
+}

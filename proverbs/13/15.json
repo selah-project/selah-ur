@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 13:15",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "اچھی سمجھ بخشتا ہے فضل، اور غدّاروں کا راستہ دیرپا ہے۔",
+  "tokens": [
+    {
+      "surface": "שֵֽׂכֶל",
+      "gloss": "سمجھ"
+    },
+    {
+      "surface": "ט֭וֹב",
+      "gloss": "اچھی"
+    },
+    {
+      "surface": "يִתֶּן",
+      "gloss": "بخشتا ہے"
+    },
+    {
+      "surface": "חֵ֑ן",
+      "gloss": "فضل"
+    },
+    {
+      "surface": "וְדֶ֖רֶךְ",
+      "gloss": "اور راستہ"
+    },
+    {
+      "surface": "בֹּגְדִ֣ים",
+      "gloss": "غدّاروں کا"
+    },
+    {
+      "surface": "אֵיתָֽן",
+      "gloss": "دیرپا ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:01:17.389721720Z",
+  "model": "glm-5.2"
+}

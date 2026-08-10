@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 28,
+  "translation": "اور پہلے مہینے میں، چودہویں دن ⟨کو⟩، مہینے کا، فِسح یاہویہ کے لیے ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "اور مہینے میں"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "پہلے"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دس"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مہینے کا"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "فِسح"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہویہ کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:37:42.982862215Z",
+  "model": "glm-5.2"
+}

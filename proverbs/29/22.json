@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 29:22",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 29,
+  "translation": "غصے والا آدمی جھگڑا بھڑکاتا ہے، اور قہر کا مالک گناہ میں کثرت رکھتا ہے۔",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غصے والا"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "بھڑکاتا ہے"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "جھگڑا"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "اور مالکِ"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "قہر"
+    },
+    {
+      "surface": "רב",
+      "gloss": "کثرت رکھتا ہے"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "گناہ میں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:09:14.666110555Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "برے لوگوں سے ہم رقیب نہ ہو، اور ان کے ساتھ ہونے کی تمنا نہ کر۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "ہم رقیب ہو"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "لوگوں سے"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برے"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "تمنا کر"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ہونے کی"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ان کے ساتھ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:06:15.594560178Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "ہم یتیم ہو گئے، ⟨ہماری⟩ کوئی باپ نہیں، ہماری مائیں بیواؤں کی طرح ہیں۔",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "یتیم"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "ہو گئے"
+    },
+    {
+      "surface": "אין",
+      "gloss": "کوئی نہیں"
+    },
+    {
+      "surface": "אב",
+      "gloss": "باپ"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "ہماری مائیں"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "بیواؤں کی طرح"
+    }
+  ],
+  "timestamp": "2026-08-10T00:32:59.878607729Z",
+  "model": "glm-5.2"
+}

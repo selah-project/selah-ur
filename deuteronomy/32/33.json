@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 32:33",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 32,
+  "translation": "ان کا شراب سمندری مَخلوک کا زہر ہے، اور افعوں کا سرِ زہر بےرحم ہے۔",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "زہر"
+    },
+    {
+      "surface": "תנינם",
+      "gloss": "سمندری مَخلوک کا"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "ان کا شراب"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "اور سرِ"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "افعوں کا"
+    },
+    {
+      "surface": "אכזר",
+      "gloss": "بےرحم"
+    }
+  ],
+  "timestamp": "2026-08-09T20:56:30.879325957Z",
+  "model": "glm-5.2"
+}

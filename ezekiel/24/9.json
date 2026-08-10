@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 24:9",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "اِس لئے یوں کہتا ہے ادونای یاہویہ: ہائے خونوں کی شہر! میں بھی بڑی چھالانی ہوں۔",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "اِس لئے"
+    },
+    {
+      "surface": "כה",
+      "gloss": "یوں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "کہتا ہے"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ہائے"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "خونوں کی"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بھی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "אגדיל",
+      "gloss": "بڑی کروں گا"
+    },
+    {
+      "surface": "המדורה",
+      "gloss": "چھالانی"
+    }
+  ],
+  "timestamp": "2026-08-09T22:53:52.010360069Z",
+  "model": "glm-5.2"
+}

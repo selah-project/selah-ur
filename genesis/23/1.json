@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 23:1",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "اور شرہ کی عمر ایک سو سال اور بیس سال اور سات سال ہوئی — شرہ کی زندگی کے سال یہی تھے۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "اور ہوئی"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "زندگی"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "شرہ کی"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ایک سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "اور بیس"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "اور سات"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "سال"
+    },
+    {
+      "surface": "שני",
+      "gloss": "سال"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "زندگی"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "شرہ کی"
+    }
+  ],
+  "timestamp": "2026-08-09T19:41:09.312511281Z",
+  "model": "glm-5.2"
+}

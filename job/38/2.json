@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 38:2",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 38,
+  "translation": "یہ کون ہے جو مشورے کو بغیر علم کے باتوں سے اندھیرا کرتا ہے؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "זה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "מחשיך",
+      "gloss": "اندھیرا کرتا ہے"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "مشورے کو"
+    },
+    {
+      "surface": "במלין",
+      "gloss": "باتوں سے"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "بغیر"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "علم کے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:23:56.672061461Z",
+  "model": "glm-5.2"
+}

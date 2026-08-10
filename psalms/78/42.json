@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 78,
+  "translation": "انہوں نے ⟨את⟩ اس کے ہاتھ کو نہ یاد کیا، اور نہ ⟨اس⟩ دن کو جب انہیں دشمن سے چھڑایا۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "یاد کیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اس کے ہاتھ کو"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اس کے ہاتھ کو"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن کو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جب"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "چھڑایا"
+    },
+    {
+      "surface": "מני",
+      "gloss": "سے"
+    },
+    {
+      "surface": "צר",
+      "gloss": "دشمن"
+    }
+  ],
+  "timestamp": "2026-08-09T23:40:37.530067457Z",
+  "model": "glm-5.2"
+}

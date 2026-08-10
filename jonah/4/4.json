@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "اور یاہویہ نے کہا: کیا تیرا غصہ بھڑکنا اچھا ہے؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور... نے کہا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "کیا... اچھا ہے"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "غصہ بھڑکنا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرا"
+    }
+  ],
+  "timestamp": "2026-08-09T23:12:47.473690289Z",
+  "model": "glm-5.2"
+}

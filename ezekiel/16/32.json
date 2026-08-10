@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 16:32",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 16,
+  "translation": "زانیہ بیوی! اپنے خاوند کے بدلے ⟨وہ⟩ ⟨את⟩ اجنبیوں کو لے لیتی ہے! —",
+  "tokens": [
+    {
+      "surface": "האשה",
+      "gloss": "عورت"
+    },
+    {
+      "surface": "המנאפת",
+      "gloss": "زانیہ بیوی"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "کے بدلے"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "اپنے خاوند"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "وہ لے لیتی ہے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اجنبیوں کو"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "اجنبیوں"
+    }
+  ],
+  "timestamp": "2026-08-09T22:51:25.075386096Z",
+  "model": "glm-5.2"
+}

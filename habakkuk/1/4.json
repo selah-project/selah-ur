@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "habakkuk 1:4",
+  "book": "habakkuk",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "اس لیے توریت سست ہوئی، اور انصاف کبھی نہ نکلے، کیونکہ بدکار ⟨⟨את⟩⟩ نیکوں کا گھیراؤ کرتا ہے؛ اس لیے انصاف ٹیڑھا نکلتا ہے۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "اس"
+    },
+    {
+      "surface": "כן",
+      "gloss": "لیے"
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "سست ہوئی"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "توریت"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "نکلے"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "کبھی"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "بدکار"
+    },
+    {
+      "surface": "מכתיר",
+      "gloss": "گھیراؤ کرتا ہے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نیکوں"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "نیکوں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اس"
+    },
+    {
+      "surface": "כן",
+      "gloss": "لیے"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "نکلتا ہے"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "מעקל",
+      "gloss": "ٹیڑھا"
+    }
+  ],
+  "timestamp": "2026-08-09T23:15:34.667219284Z",
+  "model": "glm-5.2"
+}

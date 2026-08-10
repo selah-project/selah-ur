@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "اور اُس کا نام یِسرائیل میں «جُتی اُتارے ہوئے کا گھر» پکارا جائے گا۔",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "اور پکارا جائے گا"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "اُس کا نام"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "یِسرائیل میں"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "اُتارے ہوئے"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "جُتی"
+    }
+  ],
+  "timestamp": "2026-08-09T20:54:19.805600025Z",
+  "model": "glm-5.2"
+}

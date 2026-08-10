@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 10:21",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "اور شِیم کو بھی ⟨وہ⟩ پیدا ہوئے — ہر بنیٰ عِبیر کا باپ، یِفِت کا بڑا بھائی۔",
+  "tokens": [
+    {
+      "surface": "ולשם",
+      "gloss": "اور شِیم کو"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "پیدا ہوئے"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بھی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨وہ⟩"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "کا باپ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنیٰ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "عِبیر"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "کا بھائی"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "یِفِت"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "بڑا"
+    }
+  ],
+  "timestamp": "2026-08-10T05:11:42.344101254Z",
+  "model": "glm-5.2"
+}

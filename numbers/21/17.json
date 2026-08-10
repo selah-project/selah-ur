@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "تب یِسرائیل نے ⟨את⟩ یہ گیت گایا: \"اے کنواں، اُبل اِنهیں کے لیے جواب دے!\"—",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "تب"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "گایا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یہ گیت"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "یہ گیت"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "اُبل"
+    },
+    {
+      "surface": "באר",
+      "gloss": "اے کنواں"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "جواب دے"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اِس کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:34:15.169194097Z",
+  "model": "glm-5.2"
+}

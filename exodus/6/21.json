@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 6:21",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اور یِتسہار کے بیٹے تھے قورَح، نَفگ اور زِکری۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "اور بیٹے"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "یِتسہار"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورَح"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "نَفگ"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "زِکری"
+    }
+  ],
+  "timestamp": "2026-08-09T19:55:43.570021686Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "اور کُوش نے ⟨את⟩ نِمرود کو پیدا کیا؛ وہ زمین میں جبار بننا شروع کر دیا۔",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "اور کُوش"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "پیدا کیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نِمرود"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "نِمرود"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "החל",
+      "gloss": "شروع کیا"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "بننا"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "جبار"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین میں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:57:33.218510324Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 10:22",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "یاہویہ کی برکت وہی دولتمند بناتی ہے، اور وہ اس کے ساتھ کوئی تکلیف نہیں جوڑتا۔",
+  "tokens": [
+    {
+      "surface": "ברכת",
+      "gloss": "کا برکت"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "وہی"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "دولتمند بناتی ہے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہیں"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "جوڑتا ہے"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "تکلیف"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "اس کے ساتھ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:02:24.031808076Z",
+  "model": "glm-5.2"
+}

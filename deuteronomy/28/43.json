@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 28:43",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 28,
+  "translation": "وہ غیر جو تیرے درمیان ہے، تجھ پر اوپر اوپر چڑھے گا، اور تو نیچے نیچے اترے گا۔",
+  "tokens": [
+    {
+      "surface": "הגר",
+      "gloss": "وہ غیر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "تیرے درمیان ہے"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "چڑھے گا"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "تجھ پر"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "اوپر"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "اوپر"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "اور تو"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "اترے گا"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "نیچے"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "نیچے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:41:11.222136067Z",
+  "model": "glm-5.2"
+}

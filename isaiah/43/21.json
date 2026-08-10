@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 43:21",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 43,
+  "translation": "یہ قوم ⟨⟨میرے⟩⟩ لیے بنا دی ہے، میری تعریف بیان کریں گے۔",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "זו",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "بنا دی ہے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے لیے"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "میری تعریف"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "بیان کریں گے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:14:26.285125974Z",
+  "model": "glm-5.2"
+}

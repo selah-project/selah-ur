@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 4:21",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "اور پھول اور چراغ اور چمٹیاں — سونا ⟨تھا⟩؛ وہ خالص سونے سے مکمل ⟨تھے⟩۔",
+  "tokens": [
+    {
+      "surface": "והפרח",
+      "gloss": "اور پھول"
+    },
+    {
+      "surface": "והנרות",
+      "gloss": "اور چراغ"
+    },
+    {
+      "surface": "והמלקחים",
+      "gloss": "اور چمٹیاں"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "מכלות",
+      "gloss": "خالص"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونے"
+    }
+  ],
+  "timestamp": "2026-08-10T01:14:03.187658373Z",
+  "model": "glm-5.2"
+}

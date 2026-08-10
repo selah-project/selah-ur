@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 7:33",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "نَبو کے دوسرے ⟨कि⟩ آدمی ⟨थे⟩، باوِجودیکہ وہ پچاس اور دو تھے۔",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "نَبو کے آدمی"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "نَبو"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "دوسرے"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پچاس"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "اور دو"
+    }
+  ],
+  "timestamp": "2026-08-10T09:05:25.164553356Z",
+  "model": "glm-5.2"
+}

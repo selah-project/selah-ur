@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 20:2",
+  "book": "2-kings",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "تو اس نے اپنا منہ دیوار کی طرف پھیرا، اور یاہویہ سے دعا کی، کہنے لگا:",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "تو پھیرا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنا منہ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "اپنا منہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "دیوار"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "اور دعا کی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہنے لگا"
+    }
+  ],
+  "timestamp": "2026-08-10T05:59:10.050600866Z",
+  "model": "glm-5.2"
+}

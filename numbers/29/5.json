@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 29:5",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 29,
+  "translation": "اور بکرِ مَعز ایک، گناہ کی قربانی، تمہارے لیے کفارہ کے طور پر،",
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "اور بکر"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "مَعز"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "گناہ کی قربانی"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "کفارہ کے لیے"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "تمہارے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:37:51.111071312Z",
+  "model": "glm-5.2"
+}

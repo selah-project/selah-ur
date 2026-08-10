@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "یِسرائیل کی ساری جماعت اسے کرے گی۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "جماعت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "کرے گی"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اسے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:00:43.835880149Z",
+  "model": "glm-5.2"
+}

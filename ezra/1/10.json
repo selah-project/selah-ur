@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 1:10",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "سونے کے پیالے تیس، چاندی کے پیالے دگنے چار سو اور دس، اور دیگر برتن ایک ہزار۔",
+  "tokens": [
+    {
+      "surface": "כפורי",
+      "gloss": "پیالے"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونے کے"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "تیس"
+    },
+    {
+      "surface": "כפורי",
+      "gloss": "پیالے"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی کے"
+    },
+    {
+      "surface": "משנים",
+      "gloss": "دگنے"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ועשרה",
+      "gloss": "اور دس"
+    },
+    {
+      "surface": "כלים",
+      "gloss": "برتن"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "دیگر"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ایک ہزار"
+    }
+  ],
+  "timestamp": "2026-08-10T00:46:30.321561772Z",
+  "model": "glm-5.2"
+}

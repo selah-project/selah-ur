@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "اور الوہیم نے دیکھا ⟨את⟩ سب کچھ جسے اس نے بنایا، اور دیکھو، بہت اچھا تھا۔ اور شام ہوئی اور صبح ہوئی — چھٹا دن۔",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "اور دیکھا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سب کچھ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جسے"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "اس نے بنایا"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "اور دیکھو"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "اچھا"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوئی"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "شام"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوئی"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "چھٹا"
+    }
+  ],
+  "timestamp": "2026-08-09T19:33:51.997369079Z",
+  "model": "glm-5.2"
+}

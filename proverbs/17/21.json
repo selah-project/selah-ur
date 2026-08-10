@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 17:21",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 17,
+  "translation": "کسی نادان کو جننے والے کے لیے ⟨یہ⟩ دکھ ہے، اور نادان کا باپ خوش نہیں ہوگا۔",
+  "tokens": [
+    {
+      "surface": "ילד",
+      "gloss": "جننے والے کے لیے"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "کسی نادان کو"
+    },
+    {
+      "surface": "לתוגה",
+      "gloss": "دکھ ہے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اس کے لیے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہیں"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "خوش ہوگا"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "کا باپ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "نادان"
+    }
+  ],
+  "timestamp": "2026-08-10T00:04:15.919801988Z",
+  "model": "glm-5.2"
+}

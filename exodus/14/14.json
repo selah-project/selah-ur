@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "یاہویہ تمہارے لیے لڑے گا، اور تم خاموش رہو۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "لڑے گا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تمہارے لیے"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "اور تم"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "خاموش رہو"
+    }
+  ],
+  "timestamp": "2026-08-10T07:09:39.402992629Z",
+  "model": "glm-5.2"
+}

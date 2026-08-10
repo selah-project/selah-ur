@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 73,
+  "translation": "मगर मैं — मेरे पाँव लगभग फिसल गए, मेरे क़दम लगभग गिर पड़े।",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "मगर मैं"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "लगभग"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "फिसल गए"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "मेरे पाँव"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "लगभग"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "गिर पड़े"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "मेरे क़दम"
+    }
+  ],
+  "timestamp": "2026-08-09T23:38:07.388971349Z",
+  "model": "glm-5.2"
+}

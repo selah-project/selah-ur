@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 10:13",
+  "book": "1-samuel",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "پھر ⟨وہ⟩ نبوت کرنا ختم کر چکا تو ⟨وہ⟩ بامہ میں آیا۔",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "پھر ختم کر چکا"
+    },
+    {
+      "surface": "מהתנבות",
+      "gloss": "نبوت کرنا"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "تو ⟨وہ⟩ آیا"
+    },
+    {
+      "surface": "הבמה",
+      "gloss": "بامہ میں"
+    }
+  ],
+  "timestamp": "2026-08-09T21:20:30.260524746Z",
+  "model": "glm-5.2"
+}

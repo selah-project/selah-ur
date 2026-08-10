@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اے خاندانِ یَعقُوَب، آؤ اور ہم چلیں روشنیِ یاہویہ میں۔",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "اے خاندان"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یَعقُوَب"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "آؤ"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "اور ہم چلیں"
+    },
+    {
+      "surface": "באור",
+      "gloss": "روشنی میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    }
+  ],
+  "timestamp": "2026-08-10T07:21:38.166765874Z",
+  "model": "glm-5.2"
+}

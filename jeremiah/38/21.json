@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 38:21",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 38,
+  "translation": "اور اگر تو نکلنے سے انکار کرتا ہے، یہ وہ بات ہے جو یاہویہ نے مجھے دکھائی ہے:",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "اور اگر"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "انکار کرتا ہے"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "نکلنے سے"
+    },
+    {
+      "surface": "זה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "بات ہے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "مجھے دکھائی ہے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    }
+  ],
+  "timestamp": "2026-08-10T07:48:13.449206928Z",
+  "model": "glm-5.2"
+}

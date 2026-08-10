@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 11:26",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور یِشوع میں، اور مولادہ میں، اور بَیت پالِط میں۔",
+  "tokens": [
+    {
+      "surface": "ובישוע",
+      "gloss": "اور یِشوع میں"
+    },
+    {
+      "surface": "ובמולדה",
+      "gloss": "اور مولادہ میں"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "اور بَیت میں"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "پالِط"
+    }
+  ],
+  "timestamp": "2026-08-10T06:48:01.940179152Z",
+  "model": "glm-5.2"
+}

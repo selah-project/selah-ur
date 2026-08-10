@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 18:8",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "اور یِسرائیل کے بادشاہ نے ایک خاص ملازم کو بلایا اور کہا: جلدی مِیخاہو یِملا کے بیٹے کو لاؤ۔",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "اور بلایا"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ نے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل کے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کو"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "خاص ملازم"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "جلدی لاؤ"
+    },
+    {
+      "surface": "מיכהו",
+      "gloss": "مِیخاہو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "یِملا کے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:54:39.001822931Z",
+  "model": "glm-5.2"
+}

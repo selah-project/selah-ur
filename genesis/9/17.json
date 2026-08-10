@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 9:17",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "اور الوہیم نے نُوح سے کہا: یہ ⟨ה⟩ اس عہد کی نشانی ہے جو میں نے اپنے اور ہر ایک بشر کے درمیان قائم کی ہے جو ⟨ہ⟩ زمین پر ہے۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُوح"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "אות",
+      "gloss": "نشانی"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "اس عہد"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "הקמתי",
+      "gloss": "میں نے قائم کی ہے"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "اپنے اور"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "کے درمیان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر ایک"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "بشر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-09T19:35:43.379886932Z",
+  "model": "glm-5.2"
+}

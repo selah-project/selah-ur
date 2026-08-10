@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 8:34",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "جیسا کیا گیا آج کے دن، اسے یاہویہ نے حکم دیا کرنا، تاکہ کفارہ ہو تمہارے لیے۔",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "جیسا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیا گیا"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "… کے دن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "آج"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم دیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ نے"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "کرنا"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "تاکہ کفارہ ہو"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "تمہارے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:17:39.622115102Z",
+  "model": "glm-5.2"
+}

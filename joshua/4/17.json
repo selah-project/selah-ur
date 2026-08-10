@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "تو یَہوشُعَہ نے ⟨את⟩ کاہنوں کو حکم دیا، کہا: یَردَن سے نکل آؤ۔",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "تو حکم دیا"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یَہوشُعَہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کاہنوں کو"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہنوں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہا"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "نکل آؤ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "سے"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یَردَن"
+    }
+  ],
+  "timestamp": "2026-08-09T20:56:42.976821693Z",
+  "model": "glm-5.2"
+}

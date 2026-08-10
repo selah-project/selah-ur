@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 28:9",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 28,
+  "translation": "جو اپنا کان سننے سے توڑہ ہلاتا ہے، توراہ سے، حتیٰ کہ اس کی دعا بھی مکروہ ہے۔",
+  "tokens": [
+    {
+      "surface": "מסיר",
+      "gloss": "ہٹاتا ہے"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "اپنا کان"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "سننے سے"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "توراہ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "حتیٰ کہ"
+    },
+    {
+      "surface": "תפלתו",
+      "gloss": "اس کی دعا"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "مکروہ ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:51:58.380419423Z",
+  "model": "glm-5.2"
+}

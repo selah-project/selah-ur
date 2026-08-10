@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 19:16",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "تُو اپنی قوم میں چُغلُ خور نہ بن کر ⟨نہ⟩ چل۔ تُو اپنے ہم٘سر کے خُون پر نہ کھڑا ہو۔ مَیں ہُوں یاہویہ۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "چل"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "چُغلُ خور"
+    },
+    {
+      "surface": "בעמיך",
+      "gloss": "اپنی قوم میں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "⟨نہ⟩"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "کھڑا ہو"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "דם",
+      "gloss": "خُون"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "اپنے ہم٘سر کے"
+    },
+    {
+      "surface": "אני",
+      "gloss": "مَیں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    }
+  ],
+  "timestamp": "2026-08-10T08:37:13.631104660Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 14:1",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "جو یاہویہ کا کلام یِرمَیَہو کے پاس ⟨آیا⟩ خشک‌سالیوں کے معاملات پر:",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "تھا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمَیَہو"
+    },
+    {
+      "surface": "על",
+      "gloss": "کے بارے میں"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "معاملات"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "خشک‌سالیوں"
+    }
+  ],
+  "timestamp": "2026-08-09T22:27:23.058860605Z",
+  "model": "glm-5.2"
+}

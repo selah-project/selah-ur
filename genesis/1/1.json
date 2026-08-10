@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "ابتدا میں الوہیم نے ⟨את⟩ آسمانوں اور ⟨את⟩ زمین کو پیدا کیا۔",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "ابتدا میں"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "پیدا کیا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "آسمانوں کو"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمانوں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "زمین کو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-09T19:33:38.779292303Z",
+  "model": "glm-5.2"
+}

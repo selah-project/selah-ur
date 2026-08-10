@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "nehemiah 7:62",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "دِلایا کے بیٹے، طوبیا کے بیٹے، نِقوداع کے بیٹے، چھ سو بیالیس،",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "דליה",
+      "gloss": "دِلایا کے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "طوبیا کے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "نِقوداع کے"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "اور بیالیس"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "اور دو"
+    }
+  ],
+  "timestamp": "2026-08-10T06:48:44.134648390Z",
+  "model": "glm-5.2"
+}

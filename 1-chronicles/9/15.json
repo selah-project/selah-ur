@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "اور بَق‌بَقّار، خِرِش اور گَلال، اور مَتَن‌یہ، بَن مِیخا، بَن زِکری، بَن آساف۔",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "اور بَق‌بَقّار"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "خِرِش"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "اور گَلال"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "اور مَتَن‌یہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بَن"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "مِیخا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بَن"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "زِکری"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بَن"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "آساف"
+    }
+  ],
+  "timestamp": "2026-08-10T01:03:32.479014312Z",
+  "model": "glm-5.2"
+}

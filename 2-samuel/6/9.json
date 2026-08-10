@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "تو داوِد نے اس دن یاہویہ سے ڈر لگا، اور کہا: یاہویہ کا صندوق میرے پاس کیونکر آئے گا؟",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "تو ڈر لگا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہویہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "اس دن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "איך",
+      "gloss": "کیونکر"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "آئے گا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میرے پاس"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    }
+  ],
+  "timestamp": "2026-08-10T05:47:46.158742072Z",
+  "model": "glm-5.2"
+}

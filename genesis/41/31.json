@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 41:31",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 41,
+  "translation": "اور زمین میں فراوانی معلوم نہ ہوگی اُس قحط کے سبب سے جو اُس کے بعد ہوگا، کیونکہ وہ بہت بھاری ہے۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "معلوم ہوگا"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "فراوانی"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین میں"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "سبب سے"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "قحط کے"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُس"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "بعد"
+    },
+    {
+      "surface": "כן",
+      "gloss": "اُس کے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "بھاری"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    }
+  ],
+  "timestamp": "2026-08-09T19:50:13.075325022Z",
+  "model": "glm-5.2"
+}

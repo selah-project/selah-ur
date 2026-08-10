@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "nehemiah 7:38",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "بَنے سَناؤہ کے، تین ہزار نو سو اور تینتیس۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بَنے"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "سَناؤہ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "تین"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "نو"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "اور تینتیس"
+    }
+  ],
+  "timestamp": "2026-08-10T09:05:45.760017886Z",
+  "model": "glm-5.2"
+}

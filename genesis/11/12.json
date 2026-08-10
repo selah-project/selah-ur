@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور اَرفَخشَد پینتیس سال زندہ رہا، اور اُس نے ⟨את⟩ شالَح کو جنم دیا۔",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "اور اَرفَخشَد"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زندہ رہا"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پانچ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "اور تیس"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "اور جنم دیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شالَح"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "شالَح"
+    }
+  ],
+  "timestamp": "2026-08-09T19:37:30.407685895Z",
+  "model": "glm-5.2"
+}

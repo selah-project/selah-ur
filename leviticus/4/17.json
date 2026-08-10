@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 4:17",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "اور کوہن اپنی انگلی خون میں ڈوبائے گا اور یاہویہ کے سامنے پرده کے منہ پر سات بار چھڑکے گا۔",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "اور ڈوبائے گا"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کوہن"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "اپنی انگلی"
+    },
+    {
+      "surface": "מן",
+      "gloss": "میں سے"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "خون"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "اور چھڑکے گا"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سات"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "بار"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "کے سامنے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "منہ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "پرده"
+    }
+  ],
+  "timestamp": "2026-08-10T07:11:15.723329229Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "کیونکہ الوہیم ⟨את⟩ ہر عمل کو عدالت میں لائے گا، اور ہر پوشیدہ چیز پر، خواہ اچھا ہو یا برا۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہر عمل"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "عمل"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "لائے گا"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "عدالت میں"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "پوشیدہ چیز"
+    },
+    {
+      "surface": "אם",
+      "gloss": "خواہ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "اچھا"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "یا"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:36:44.947679818Z",
+  "model": "glm-5.2"
+}

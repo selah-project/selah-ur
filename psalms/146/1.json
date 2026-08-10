@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 146,
+  "translation": "ستایش کرو یاہ! ستایش کر میری جان، ⟨את⟩ یاہویہ کو!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ستایش کرو"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "ستایش کر"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہویہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    }
+  ],
+  "timestamp": "2026-08-09T23:56:50.020499991Z",
+  "model": "glm-5.2"
+}

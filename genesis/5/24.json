@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 5:24",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "اور خَنوک ⟨את⟩ الوہیم کے ساتھ چلا، اور وہ نہ رہا، کیونکہ الوہیم نے اُسے لے لیا۔",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "اور چلا"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "خَنوک"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "الوہیم"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "اور وہ نہ رہا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "لے لیا"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اُسے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم"
+    }
+  ],
+  "timestamp": "2026-08-10T07:08:16.711734348Z",
+  "model": "glm-5.2"
+}

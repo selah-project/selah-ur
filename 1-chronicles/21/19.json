@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 21:19",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "اور داوِد چڑھ گیا گاد کے ⟨ال⟩ بات پر، جو اس نے یاہویہ کے نام میں بولا تھا۔",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "اور چڑھ گیا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "بات پر"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد کے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بولا تھا"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "نام میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کے"
+    }
+  ],
+  "timestamp": "2026-08-10T01:08:36.264899067Z",
+  "model": "glm-5.2"
+}

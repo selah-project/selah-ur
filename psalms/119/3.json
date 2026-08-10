@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 119,
+  "translation": "بے شک نہیں کرتے ⟨وہ⟩ بے اِنصافی، اُس کے راستوں میں چلے ہیں۔",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "بے شک"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "کرتے"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "بے اِنصافی"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "اُس کے راستوں میں"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "چلے ہیں"
+    }
+  ],
+  "timestamp": "2026-08-09T23:51:30.809731228Z",
+  "model": "glm-5.2"
+}

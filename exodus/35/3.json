@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 35,
+  "translation": "آگ نہ روشن کرو، اپنی تمام بستیوں میں، شَبَت کے دن۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "روشن کرو"
+    },
+    {
+      "surface": "אש",
+      "gloss": "آگ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "بستیوں میں"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دن میں"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "شَبَت"
+    }
+  ],
+  "timestamp": "2026-08-09T20:09:01.856324813Z",
+  "model": "glm-5.2"
+}

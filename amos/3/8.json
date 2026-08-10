@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 3:8",
+  "book": "amos",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "شیر نے گرجایا — کون نہ ڈرے؟ آقا یاہویہ نے بات کہی — کون نہ نبوت کرے؟",
+  "tokens": [
+    {
+      "surface": "אריה",
+      "gloss": "شیر"
+    },
+    {
+      "surface": "שאג",
+      "gloss": "گرجایا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "ڈرے"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "آقا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بات کہی"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ינבא",
+      "gloss": "نبوت کرے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:22:54.350485124Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 26:8",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 26,
+  "translation": "اور بَنِی فَلّو: اِلیآو۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "اور بَنِی"
+    },
+    {
+      "surface": "פלוא",
+      "gloss": "فَلّو"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "اِلیآو"
+    }
+  ],
+  "timestamp": "2026-08-09T20:36:53.859893932Z",
+  "model": "glm-5.2"
+}

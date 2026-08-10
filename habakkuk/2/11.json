@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 2:11",
+  "book": "habakkuk",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "کیونکہ دیوار سے پتھر چیخے گا، اور لکڑی سے کڑا جواب دے گا۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "پتھر"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "دیوار سے"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "چیخے گا"
+    },
+    {
+      "surface": "וכפיס",
+      "gloss": "اور کڑا"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "لکڑی سے"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "جواب دے گا"
+    }
+  ],
+  "timestamp": "2026-08-09T23:14:35.878114009Z",
+  "model": "glm-5.2"
+}

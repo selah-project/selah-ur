@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 5:17",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "تو قتل نہ کر۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "تو قتل کر"
+    }
+  ],
+  "timestamp": "2026-08-09T20:43:51.613153485Z",
+  "model": "glm-5.2"
+}

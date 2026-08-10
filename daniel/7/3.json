@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 7:3",
+  "book": "daniel",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اور چار جانور عظیم سمندر سے نکلے، ایک دوسرے سے مختلف۔",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "اور چار"
+    },
+    {
+      "surface": "חיון",
+      "gloss": "جانور"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "عظیم"
+    },
+    {
+      "surface": "סלקן",
+      "gloss": "نکلے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "سے"
+    },
+    {
+      "surface": "ימא",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "مختلف"
+    },
+    {
+      "surface": "דא",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "سے"
+    },
+    {
+      "surface": "דא",
+      "gloss": "اس"
+    }
+  ],
+  "timestamp": "2026-08-10T00:44:03.276468309Z",
+  "model": "glm-5.2"
+}

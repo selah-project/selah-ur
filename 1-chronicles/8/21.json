@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 8:21",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اور عَدَیاہ اور بِرایاہ اور شِمرت — شِمعی کے بیٹے۔",
+  "tokens": [
+    {
+      "surface": "ועדיה",
+      "gloss": "اور عَدَیاہ"
+    },
+    {
+      "surface": "ובראיה",
+      "gloss": "اور بِرایاہ"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "اور شِمرت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "شِمعی کے"
+    }
+  ],
+  "timestamp": "2026-08-10T01:01:30.006544709Z",
+  "model": "glm-5.2"
+}

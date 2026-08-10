@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "میرے ساتھ ⟨آں⟩ چاندی کے الوہیم اور سونے کے الوہیم نہ بناؤ؛ اپنے لیے نہ بناؤ۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "بناؤ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "میرے ساتھ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی کے"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "اور الوہیم"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونے کے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "بناؤ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "اپنے لیے"
+    }
+  ],
+  "timestamp": "2026-08-10T05:20:05.424550254Z",
+  "model": "glm-5.2"
+}

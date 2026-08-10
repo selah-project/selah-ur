@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 16:36",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 16,
+  "translation": "اور ⟨عُمر⟩ ⟨ایفہ⟩ کا دسواں حصہ ہے۔",
+  "tokens": [
+    {
+      "surface": "והעמר",
+      "gloss": "اور عُمر"
+    },
+    {
+      "surface": "עשרית",
+      "gloss": "دسواں حصہ"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ایفہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T08:33:45.367370887Z",
+  "model": "glm-5.2"
+}

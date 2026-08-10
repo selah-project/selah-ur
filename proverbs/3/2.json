@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 3:2",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "کِیونکہ دِنوں کی درازی اور حیات کے سال اور سلامتی تمہیں بڑھائیں گے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کِیونکہ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "درازی"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دِنوں کی"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "اور سال"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "حیات کے"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "اور سلامتی"
+    },
+    {
+      "surface": "יוסיפו",
+      "gloss": "بڑھائیں گے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تمہیں"
+    }
+  ],
+  "timestamp": "2026-08-09T23:59:10.184782753Z",
+  "model": "glm-5.2"
+}

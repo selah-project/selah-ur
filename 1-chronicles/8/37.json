@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 8:37",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اور موصَع نے ⟨את⟩ بِنعا کو جنم دیا؛ رافا ⟨کا⟩ بیٹا تھا، ایلعاسا ⟨کا⟩ بیٹا، آصیل ⟨کا⟩ بیٹا۔",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "اور موصَع"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "نے جنم دیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بِنعا کو"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "بِنعا"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "رافا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "ایلعاسا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "آصیل"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "بیٹا"
+    }
+  ],
+  "timestamp": "2026-08-10T01:03:14.460323526Z",
+  "model": "glm-5.2"
+}

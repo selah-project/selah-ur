@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 36:1",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 36,
+  "translation": "اِلیہُو نے مزید کہا۔",
+  "tokens": [
+    {
+      "surface": "וַיֹּ֥סֶף",
+      "gloss": "اور مزید"
+    },
+    {
+      "surface": "אֱלִיה֗וּא",
+      "gloss": "اِلیہُو"
+    },
+    {
+      "surface": "וַיֹּאמַֽר",
+      "gloss": "کہا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:22:17.888902415Z",
+  "model": "glm-5.2"
+}

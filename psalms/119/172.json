@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 119,
+  "translation": "میری زبان تیرا کلام گائے، کیونکہ تیرے سبھی حکم انصاف ہیں۔",
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "گائے"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "میری زبان"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "تیرا کلام"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھی"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "تیرے حکم"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "انصاف ہیں"
+    }
+  ],
+  "timestamp": "2026-08-10T06:36:36.273205193Z",
+  "model": "glm-5.2"
+}

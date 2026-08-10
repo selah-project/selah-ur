@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 26:11",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 26,
+  "translation": "اور قورح کے بیٹے نہ مرے۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "اور بیٹے"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح کے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "مرے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:37:32.571558010Z",
+  "model": "glm-5.2"
+}

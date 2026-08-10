@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "اور موشے نے یاہویہ کے مقررہ موعد ⟨את⟩ بنی اسرائیل کے بیٹوں کے پاس بیان کیے۔",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "اور بیان کیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مقررہ موعد کو"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "موعد"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کے پاس"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹوں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل کے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:23:23.247347403Z",
+  "model": "glm-5.2"
+}

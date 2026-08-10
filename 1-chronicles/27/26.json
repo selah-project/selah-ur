@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 27:26",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "اور زمین کی خاکِ خدمت کے لیے میدان کے کام کرنے والوں پر عزری بن کِلوب تھا۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "اور پر"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "کرنے والوں"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "کام"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "میدان کے"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "خدمت کے لیے"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "زمین کی"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "عزری"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "כלוב",
+      "gloss": "کِلوب"
+    }
+  ],
+  "timestamp": "2026-08-10T01:12:21.198096460Z",
+  "model": "glm-5.2"
+}

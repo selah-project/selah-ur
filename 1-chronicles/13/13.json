@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "اور داوِد نے ⟨את⟩ صندوق کو اپنے پاس داوِد کے شہر کی طرف نہ ہٹایا، بلکہ اسے عُوبِید اِدُوم گَتی کے گھر کی طرف موڑ دیا۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "ہٹایا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "صندوق"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اپنے پاس"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "موڑ دیا اسے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "عُوبِید"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "اِدُوم"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "گَتی"
+    }
+  ],
+  "timestamp": "2026-08-10T01:04:34.178346047Z",
+  "model": "glm-5.2"
+}

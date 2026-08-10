@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "اور اَبراہام نے ⟨את⟩ سات مادہ بھیڑیں الگ کھڑی کیں۔",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "اور کھڑی کیں"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَبراہام نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سات مادہ بھیڑیں"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سات"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "مادہ بھیڑیں"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ریوڑ کی"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "الگ"
+    }
+  ],
+  "timestamp": "2026-08-09T19:40:39.249213767Z",
+  "model": "glm-5.2"
+}

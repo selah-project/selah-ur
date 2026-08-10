@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 29:23",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 29,
+  "translation": "اور چوتھے دن دس بیل، دو مینڈھے، چودہ برّے ایک سال کے، بے عیب ہوں۔",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "اور دن"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "چوتھے"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "بیل"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دس"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "مینڈھے"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "برّے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال کے"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چودہ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "十"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "بے عیب"
+    }
+  ],
+  "timestamp": "2026-08-09T20:38:25.479831807Z",
+  "model": "glm-5.2"
+}

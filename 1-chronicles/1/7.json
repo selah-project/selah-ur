@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 1:7",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "اور یاوان کے بیٹے اِلی شَہ اور تَرشِیشَہ، کِتّیم اور رُودانِیم تھے۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "اور بیٹے"
+    },
+    {
+      "surface": "יון",
+      "gloss": "یاوان"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "اِلی شَہ"
+    },
+    {
+      "surface": "ותרשישה",
+      "gloss": "اور تَرشِیشَہ"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "کِتّیم"
+    },
+    {
+      "surface": "ורודנים",
+      "gloss": "اور رُودانِیم"
+    }
+  ],
+  "timestamp": "2026-08-10T00:57:24.514178635Z",
+  "model": "glm-5.2"
+}

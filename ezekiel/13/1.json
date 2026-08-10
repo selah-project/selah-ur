@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 13:1",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "اور یاہویہ کا ⟨ე› فر میری طرف آیا، یوں ⟨کہنے کو⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "فر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میری طرف"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہنے کو"
+    }
+  ],
+  "timestamp": "2026-08-09T22:49:33.139306360Z",
+  "model": "glm-5.2"
+}

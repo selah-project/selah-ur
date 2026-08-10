@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 10:5",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "جو ہنستے میں جمع کرتا ہے وہ سمجھدار بیٹا ہے، مگر جو کٹائی میں سوئے وہ شرمسار بیٹا ہے۔",
+  "tokens": [
+    {
+      "surface": "אגר",
+      "gloss": "جمع کرتا ہے"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "ہنستے میں"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "سمجھدار"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "سوئے"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "کٹائی میں"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "شرمسار"
+    }
+  ],
+  "timestamp": "2026-08-10T06:37:57.254513700Z",
+  "model": "glm-5.2"
+}

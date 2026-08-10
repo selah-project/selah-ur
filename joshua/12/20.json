@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "شِمرُون-مِرون کا بادشاہ، ایک؛ اَکشاف کا بادشاہ، ایک؛",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "شِمرُون-"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "مِرون"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "اَکشاف"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    }
+  ],
+  "timestamp": "2026-08-09T21:00:27.625376513Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "ہائے تُجھ کو، اے زمین! جس کا بادشاہ لڑکا ہو، اور تیرے سردار صبح کو کھانا کھاتے ہیں!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "ہائے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تُجھ کو"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "اے زمین!"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "جس کا بادشاہ"
+    },
+    {
+      "surface": "נער",
+      "gloss": "لڑکا"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "اور تیرے سردار"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "صبح کو"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "کھانا کھاتے ہیں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:35:01.983184288Z",
+  "model": "glm-5.2"
+}

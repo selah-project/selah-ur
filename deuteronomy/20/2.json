@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 20:2",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "اور ہوگا، جب تم جنگ کے قریب آؤ گے، تو کوهن آگے بڑھے گا اور قوم سے بولے گا،",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "اور ہوگا"
+    },
+    {
+      "surface": "כקרבכם",
+      "gloss": "جب تم قریب آؤ گے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کے"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "جنگ"
+    },
+    {
+      "surface": "ונגש",
+      "gloss": "تو آگے بڑھے گا"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کوهن"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "اور بولے گا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    }
+  ],
+  "timestamp": "2026-08-10T05:34:47.439562940Z",
+  "model": "glm-5.2"
+}

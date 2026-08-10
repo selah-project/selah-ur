@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 12:24",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "تِرتسہ کا بادشاہ، ایک؛ تمام بادشاہ ⟨تھے⟩ اکتیس۔",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "تِرتسہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "تیس"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "اور ایک"
+    }
+  ],
+  "timestamp": "2026-08-10T05:37:05.665225108Z",
+  "model": "glm-5.2"
+}

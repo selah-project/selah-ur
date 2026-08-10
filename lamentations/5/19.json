@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 5:19",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "تُو، یاہویہ، ہمیشہ کے لیے بٹھتا ہے؛ تیرا تخت نسلوں سے نسل تک ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "تُو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ کے لیے"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "بٹھتا ہے"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "تیرا تخت"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "نسل تک"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "اور نسل"
+    }
+  ],
+  "timestamp": "2026-08-10T00:32:49.639061482Z",
+  "model": "glm-5.2"
+}

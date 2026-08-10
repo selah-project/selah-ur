@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 1:14",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "اور حیوانات — دوڑنا اور لوٹنا، بجلی کے چمک کے منظر کی مانند۔",
+  "tokens": [
+    {
+      "surface": "והחיות",
+      "gloss": "اور حیوانات"
+    },
+    {
+      "surface": "רצוא",
+      "gloss": "دوڑنا"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "اور لوٹنا"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "منظر کی مانند"
+    },
+    {
+      "surface": "הבזק",
+      "gloss": "چمک کے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:45:39.636806421Z",
+  "model": "glm-5.2"
+}

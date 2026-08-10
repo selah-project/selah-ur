@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 12:17",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "اور بِنیامِن اور یِہوداہ کے بیٹوں میں سے ⟨کچھ⟩ داوِد کے پاس قلعے تک آئے۔",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "اور آئے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "سے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹوں"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بِنیامِن"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "اور یِہوداہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "למצד",
+      "gloss": "قلعے کی طرف"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "داوِد کے پاس"
+    }
+  ],
+  "timestamp": "2026-08-10T01:06:42.206275348Z",
+  "model": "glm-5.2"
+}

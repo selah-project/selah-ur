@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 2:39",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "حارِم کے بیٹے: ایک ہزار سترہ۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "حارِم"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ایک ہزار"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "اور سات"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دس"
+    }
+  ],
+  "timestamp": "2026-08-10T00:47:10.673256322Z",
+  "model": "glm-5.2"
+}

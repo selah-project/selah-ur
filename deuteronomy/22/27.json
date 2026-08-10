@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 22:27",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "کیونکہ کھیت میں اسے پایا؛ منگائی ہوئی لڑکی نے چلایا، اور اسے بچانے والا کوئی نہ تھا۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "کھیت میں"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "اسے پایا"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "چلایا"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "لڑکی نے"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "منگائی ہوئی"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "اور نہ تھا"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "بچانے والا"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اسے"
+    }
+  ],
+  "timestamp": "2026-08-10T05:34:48.715854472Z",
+  "model": "glm-5.2"
+}

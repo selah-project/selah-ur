@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 12:14",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "یِرمیاهو دسواں، مَکْبَنّای گیارہواں۔",
+  "tokens": [
+    {
+      "surface": "יִרְמְיָ֨הוּ֙",
+      "gloss": "یِرمیاهو"
+    },
+    {
+      "surface": "הָעֲשִׂירִ֔י",
+      "gloss": "دسواں"
+    },
+    {
+      "surface": "מַכְבַּנַּ֖י",
+      "gloss": "مَکْبَنّای"
+    },
+    {
+      "surface": "עַשְׁתֵּ֥י",
+      "gloss": "گیارہ"
+    },
+    {
+      "surface": "עָשָֽׂר",
+      "gloss": "−واں"
+    }
+  ],
+  "timestamp": "2026-08-10T09:06:49.452244018Z",
+  "model": "glm-5.2"
+}

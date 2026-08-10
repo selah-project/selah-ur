@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 26:19",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 26,
+  "translation": "یہوداہ کے بیٹے: عِیر اور اونان۔ اور عِیر اور اونان کنعان کی زمین میں مر گئے۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "ער",
+      "gloss": "عِیر"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "اور اونان"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "اور مر گئے"
+    },
+    {
+      "surface": "ער",
+      "gloss": "عِیر"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "اور اونان"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "میں زمین"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعان"
+    }
+  ],
+  "timestamp": "2026-08-10T07:13:11.135706156Z",
+  "model": "glm-5.2"
+}

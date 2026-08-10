@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 19:36",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "تو لُوط کی دونوں بیٹیاں اپنے باپ سے حاملہ ہو گئیں۔",
+  "tokens": [
+    {
+      "surface": "ותהרין",
+      "gloss": "اور حاملہ ہو گئیں"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دونوں"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "بیٹیاں"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "لُوط کی"
+    },
+    {
+      "surface": "מאביהן",
+      "gloss": "اپنے باپ سے"
+    }
+  ],
+  "timestamp": "2026-08-09T19:40:42.056895254Z",
+  "model": "glm-5.2"
+}

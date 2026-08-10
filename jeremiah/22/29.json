@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 22:29",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "اَے زمین، زمین، زمین، سنو یاہویہ کا کلام!",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "اَے زمین"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "سنو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کا"
+    }
+  ],
+  "timestamp": "2026-08-09T22:29:04.173282645Z",
+  "model": "glm-5.2"
+}

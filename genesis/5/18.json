@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 5:18",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "اور یَرَد نے دو اور ساٹھ سال اور ایک صد سال جیایا، اور اُس نے ⟨את⟩ خَنوک کو جنا۔",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "اور جیایا"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "یَرَد"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "اور ساٹھ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "اور ایک صد"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "اور جنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خَنوک کو"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "خَنوک"
+    }
+  ],
+  "timestamp": "2026-08-09T19:34:43.612350701Z",
+  "model": "glm-5.2"
+}

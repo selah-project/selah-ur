@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 34,
+  "translation": "⟨وہ⟩ تمام ہڈیوں کا نگہبان ہے — ان میں سے ایک بھی نہیں ٹوٹی۔",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "نگہبان"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "اس کی ہڈیوں کا"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "ان میں سے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "ٹوٹی"
+    }
+  ],
+  "timestamp": "2026-08-09T23:30:15.975547864Z",
+  "model": "glm-5.2"
+}

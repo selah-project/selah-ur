@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "تو اَبراہام کھڑا ہوا اور ملک کے لوگوں کو، بنی حِت کو، جھکا۔",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "تو کھڑا ہوا"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَبراہام"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "اور جھکا"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "لوگوں کو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ملک کے"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "חת",
+      "gloss": "حِت کو"
+    }
+  ],
+  "timestamp": "2026-08-10T05:13:24.567582307Z",
+  "model": "glm-5.2"
+}

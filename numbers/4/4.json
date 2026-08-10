@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 4:4",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "یہ ہے خدمت بِنوں قِہات کی خیمۂ مقران میں، ⟨ وہ⟩ قُدسُ الاقداس ہے۔",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "خدمت"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بِنوں"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قِہات"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "خیمے میں"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "مقران"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "قُدس"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "اقداس کا"
+    }
+  ],
+  "timestamp": "2026-08-10T05:26:29.266660141Z",
+  "model": "glm-5.2"
+}

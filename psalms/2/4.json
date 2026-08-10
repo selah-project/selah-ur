@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "آسمانوں میں بیٹھا ہوا ہنسے گا، ادونای ان کا مذاق اڑائے گا۔",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "بیٹھا ہوا"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "آسمانوں میں"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "ہنسے گا"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "مذاق اڑائے گا"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ان کا"
+    }
+  ],
+  "timestamp": "2026-08-09T23:23:56.750870452Z",
+  "model": "glm-5.2"
+}

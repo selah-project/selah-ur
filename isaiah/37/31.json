@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 37:31",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 37,
+  "translation": "اور بیت یہوداہ کی بچی ہوئی باقیات نیچے جڑ پکڑے گی اور اوپر پھل لائے گی۔",
+  "tokens": [
+    {
+      "surface": "ויספה",
+      "gloss": "اور پھر"
+    },
+    {
+      "surface": "פליטת",
+      "gloss": "بچی ہوئی"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ کی"
+    },
+    {
+      "surface": "הנשארה",
+      "gloss": "باقیات"
+    },
+    {
+      "surface": "שרש",
+      "gloss": "جڑ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "نیچے پکڑے گی"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "اور لائے گی"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "پھل"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "اوپر"
+    }
+  ],
+  "timestamp": "2026-08-10T06:01:18.032620536Z",
+  "model": "glm-5.2"
+}

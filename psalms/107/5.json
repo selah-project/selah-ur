@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 107:5",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 107,
+  "translation": "بھوکے بلکہ پیاسے، ان کا نفَش ⟨ان⟩ میں ⟨کو⟩ غش آتی ہے۔",
+  "tokens": [
+    {
+      "surface": "רעבים",
+      "gloss": "بھوکے"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "צמאים",
+      "gloss": "پیاسے"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ان کا نفَش"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ان میں"
+    },
+    {
+      "surface": "תתעטף",
+      "gloss": "غش آتی ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T08:59:52.857665534Z",
+  "model": "glm-5.2"
+}

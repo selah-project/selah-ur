@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور ⟨את⟩ گَت اور ⟨את⟩ مَرِیشہ اور ⟨את⟩ زِف کو۔",
+  "tokens": [
+    {
+      "surface": "وאת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "گَت کو"
+    },
+    {
+      "surface": "גת",
+      "gloss": "گَت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "مَرِیشہ کو"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "مَرِیشہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "زِف کو"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "زِف"
+    }
+  ],
+  "timestamp": "2026-08-10T01:16:12.155668570Z",
+  "model": "glm-5.2"
+}

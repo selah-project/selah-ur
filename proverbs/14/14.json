@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 14:14",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "ہٹاؤ دل اپنی راہوں سے سیر ہوگا، اور ⟨اس⟩ اچھے آدمی پر سے اپنے برتاؤ سے۔",
+  "tokens": [
+    {
+      "surface": "מדרכיו",
+      "gloss": "اپنی راہوں سے"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "سیر ہوگا"
+    },
+    {
+      "surface": "סוג",
+      "gloss": "ہٹاؤ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "ומעליו",
+      "gloss": "اور ⟨اس⟩ … پر سے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "اچھے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:02:39.398277506Z",
+  "model": "glm-5.2"
+}

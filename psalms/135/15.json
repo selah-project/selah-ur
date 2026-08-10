@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 135,
+  "translation": "اقوام کے بت چاندی اور سونا ⟨ہیں⟩، آدمی کے ہاتھوں کا کام۔",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "بت"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "اقوام کے"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "اور سونا"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کام"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ہاتھوں کا"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمی"
+    }
+  ],
+  "timestamp": "2026-08-09T23:54:39.803058525Z",
+  "model": "glm-5.2"
+}

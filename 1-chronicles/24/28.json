@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 24:28",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "مَحلی کے واسطے: اِلعازَر؛ اور اس کے کوئی بیٹے نہ ⟨تھے⟩۔",
+  "tokens": [
+    {
+      "surface": "למחלי",
+      "gloss": "مَحلی کے واسطے"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "اِلعازَر"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "تھا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اس کے"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بیٹے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:36:39.087451683Z",
+  "model": "glm-5.2"
+}

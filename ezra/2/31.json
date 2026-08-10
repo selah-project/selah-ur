@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezra 2:31",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "دوسرے عِیلام کے بیٹے، ایک ہزار دو سو باون اور چار۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "عِیلام"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "دوسرے"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ایک ہزار"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "دو سو"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "باون"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "اور چار"
+    }
+  ],
+  "timestamp": "2026-08-10T00:46:52.905483781Z",
+  "model": "glm-5.2"
+}

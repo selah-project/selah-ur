@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 27:2",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "یاہویہ نے مجھ سے یوں فرمایا: اپنے لیے بیڑیاں اور جوئے بنا اور انہیں اپنی گردن پر ڈال۔",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "یوں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فرمایا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مجھ سے"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بنا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اپنے لیے"
+    },
+    {
+      "surface": "מוסרות",
+      "gloss": "بیڑیاں"
+    },
+    {
+      "surface": "ומטות",
+      "gloss": "اور جوئے"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "اور ڈال"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "اپنی گردن"
+    }
+  ],
+  "timestamp": "2026-08-10T06:09:38.766970134Z",
+  "model": "glm-5.2"
+}

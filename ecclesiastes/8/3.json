@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اس کے حضور سے جلد نہ نکل؛ برے معاملے میں کھڑا نہ رہ، کیونکہ جو کچھ وہ چاہتا ہے کرتا ہے۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "جلدی نہ کر"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "اس کے حضور سے"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "نکل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "کھڑا رہ"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "معاملے میں"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جو کچھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "چاہتا ہے"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کرتا ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:35:30.118988687Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 35:19",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 35,
+  "translation": "یُوشِیّاہو کی بادشاہت کی اٹھارہویں سال میں یہ فِصح کیا گیا۔",
+  "tokens": [
+    {
+      "surface": "בשמונה",
+      "gloss": "اٹھارہ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(اٹھارہ)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "بادشاہت کی"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "یُوشِیّاہو"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "کیا گیا"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "فِصح"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "یہ"
+    }
+  ],
+  "timestamp": "2026-08-10T06:55:14.699693209Z",
+  "model": "glm-5.2"
+}

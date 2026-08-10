@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "اور اَبراہام نے پھر ⟨ایک⟩ عورت لی، اور اس کا نام قَتورہ تھا۔",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "اور پھر"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَبراہام"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "لی"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "عورت"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "اور اس کا نام"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "قَتورہ"
+    }
+  ],
+  "timestamp": "2026-08-09T19:42:55.883908676Z",
+  "model": "glm-5.2"
+}

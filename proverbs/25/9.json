@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "اپنا معاملہ اپنے ہمسائے سے جھگڑو اور ⟨את⟩ دوسرے کا بھید مت کھول۔",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "تیرا معاملہ"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "جھگڑو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے ہمسائے"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "اپنے ہمسائے"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "اور بھید"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "دوسرے کا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مت"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "کھول"
+    }
+  ],
+  "timestamp": "2026-08-10T00:06:47.352794204Z",
+  "model": "glm-5.2"
+}

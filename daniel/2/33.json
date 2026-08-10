@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "daniel 2:33",
+  "book": "daniel",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اس کی ٹانگیں ⟨تھیں⟩ آہنی، اس کے پاؤں ⟨تھے⟩ جن میں سے کچھ آہن کے اور جن میں سے کچھ مٹی کے۔",
+  "tokens": [
+    {
+      "surface": "שקוהי",
+      "gloss": "اس کی ٹانگیں"
+    },
+    {
+      "surface": "די",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "آہن"
+    },
+    {
+      "surface": "רגלוהי",
+      "gloss": "اس کے پاؤں"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "جن میں سے"
+    },
+    {
+      "surface": "די",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "آہن"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "اور جن میں سے"
+    },
+    {
+      "surface": "די",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "חסף",
+      "gloss": "مٹی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:42:20.430172571Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 45,
+  "translation": "کورنٹر کے لیے، شوشنیم پر، قورح کے بیٹوں کے لیے، مَسکیل، محبتوں کا گیت۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "کورنٹر کے لیے"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "شوشنیم"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بیٹوں کے لیے"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قورح"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "مَسکیل"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گیت"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "محبتوں کا"
+    }
+  ],
+  "timestamp": "2026-08-09T23:33:01.508176206Z",
+  "model": "glm-5.2"
+}

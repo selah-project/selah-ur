@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 35:15",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 35,
+  "translation": "اور یَعقُوب نے اُس جگہ کا نام جہاں ⟨اُس کے ساتھ⟩ الوہیم نے بات کی تھی، بَیت ایل رکھا۔",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "اور رکھا"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یَعقُوب"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نام"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نام"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "اُس جگہ کا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جہاں"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بات کی تھی"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اُس کے ساتھ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "وہاں"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بَیت"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    }
+  ],
+  "timestamp": "2026-08-09T19:47:25.640790533Z",
+  "model": "glm-5.2"
+}

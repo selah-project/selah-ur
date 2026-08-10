@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 5:27",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "دیکھ! یہ ہم نے جانچی ہے، ایسا ہی ہے — اور تو خود اپنے لیے جان لے۔",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "دیکھ!"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "חקרנוה",
+      "gloss": "ہم نے جانچی ہے"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایسا ہی"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ہے"
+    },
+    {
+      "surface": "שמענה",
+      "gloss": "اور سن"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "اور تو"
+    },
+    {
+      "surface": "דע",
+      "gloss": "جان لے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اپنے لیے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:11:00.636244189Z",
+  "model": "glm-5.2"
+}

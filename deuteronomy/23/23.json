@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "اور اگر تو نذر ماننے سے رک جائے، تو تیرے ذمے گناہ نہ ہو گا۔",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "اور اگر"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "تو رک جائے"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "نذر ماننے سے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہو گا"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تیرے ذمے"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "گناہ"
+    }
+  ],
+  "timestamp": "2026-08-10T07:14:37.308408512Z",
+  "model": "glm-5.2"
+}

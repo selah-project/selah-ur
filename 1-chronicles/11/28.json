@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 11:28",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "عِیرا، عِیکِیش کا بیٹا، ہَتکوعی؛ اَویعزِر، ہَعَنّوتھی۔",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "عِیرا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "عِیکِیش"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "ہَتکوعی"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "اَویعزِر"
+    },
+    {
+      "surface": "הענתותי",
+      "gloss": "ہَعَنّوتھی"
+    }
+  ],
+  "timestamp": "2026-08-10T01:04:05.293436682Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 29:26",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 29,
+  "translation": "تو یاہویہ کا غصہ اُس زمین پر بھڑک اٹھا، تاکہ اُس پر ⟨את⟩ ساری لعنت جو اس کتاب میں لکھی ہے ⟨وہ⟩ لائی جائے۔",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "تو بھڑک اٹھا"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غصہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین پر"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اُس"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "تاکہ لائی جائے"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "اُس پر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ساری لعنت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "لعنت"
+    },
+    {
+      "surface": "הכתובה",
+      "gloss": "لکھی ہوئی"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "کتاب میں"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اس"
+    }
+  ],
+  "timestamp": "2026-08-10T05:35:05.078641307Z",
+  "model": "glm-5.2"
+}

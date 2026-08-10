@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 148,
+  "translation": "پہاڑ اور تمام ٹیلے؛ پھل دار درخت اور تمام دیودار۔",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "اور تمام"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ٹیلے"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "درخت"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "پھل"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "اور تمام"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "دیودار"
+    }
+  ],
+  "timestamp": "2026-08-09T23:57:05.707294108Z",
+  "model": "glm-5.2"
+}

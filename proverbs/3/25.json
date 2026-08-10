@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 3:25",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "اَن کردہ خوفِ ناگہانی سے ڈر اور تباهیِ بدکاروں سے — جب وہ آئے۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ کر"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ڈر"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "خوفِ"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ناگہانی"
+    },
+    {
+      "surface": "ומשאת",
+      "gloss": "اور تباهیِ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکاروں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جب"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "وہ آئے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:38:21.639713761Z",
+  "model": "glm-5.2"
+}

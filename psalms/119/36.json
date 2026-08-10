@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 119,
+  "translation": "میرے دل کو اپنی گواہیوں کی طرف جھکا، اور نفعِ حرام کی طرف نہیں۔",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "جھکا"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "میرے دل کو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "تیری گواہیوں"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "اور نہیں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "نفعِ حرام"
+    }
+  ],
+  "timestamp": "2026-08-09T23:51:43.985762124Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 19:6",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "اور بیت لعباوت، اور شاروحِن — تیرہ شہر اور ان کے گاؤں،",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "اور بیت"
+    },
+    {
+      "surface": "לבאות",
+      "gloss": "لعباوت"
+    },
+    {
+      "surface": "ושרוחן",
+      "gloss": "اور شاروحِن"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "تین"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دس"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "اور ان کے گاؤں"
+    }
+  ],
+  "timestamp": "2026-08-09T21:03:53.085682029Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "اور تو پتھروں پر اِس تورات کے تمام ⟨את⟩ کلام کو کھود کر اچھی طرح لکھے گا۔",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "اور تو لکھے گا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "پتھروں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تمام کلام"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "اِس تورات"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "کے"
+    },
+    {
+      "surface": "באר",
+      "gloss": "کھود کر لکھے گا"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "اچھی طرح"
+    }
+  ],
+  "timestamp": "2026-08-10T07:14:17.522138739Z",
+  "model": "glm-5.2"
+}

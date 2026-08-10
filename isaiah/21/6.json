@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 21:6",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "کیونکہ اسی طرح ادونای نے مجھ سے فرمایا: جا، نگہبان کو کھڑا کر، جو دیکھے وہ بیان کر دے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "اسی طرح"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "فرمایا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مجھ سے"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای نے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "جا"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "کھڑا کر"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "نگہبان کو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "دیکھے"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "بیان کر دے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:06:40.403226488Z",
+  "model": "glm-5.2"
+}

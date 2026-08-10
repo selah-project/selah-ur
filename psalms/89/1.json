@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 89,
+  "translation": "مُعلِّمَانہ، اَیلِ اَیتان اَلْاَزْراخی کا۔",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "مُعلِّمَانہ"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "اَیلِ اَیتان"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "اَلْاَزْراخی"
+    }
+  ],
+  "timestamp": "2026-08-09T23:42:52.820657142Z",
+  "model": "glm-5.2"
+}

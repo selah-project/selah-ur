@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 44:26",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 44,
+  "translation": "اور اُس کے پاک ہونے کے بعد اُس کے لیے سات دِن گنے جائیں گے۔",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "اور بعد میں"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "اُس کے پاک ہونے کے"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "سات"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دِن"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "گنے جائیں گے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُس کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:02:56.222654960Z",
+  "model": "glm-5.2"
+}

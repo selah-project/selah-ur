@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 81,
+  "translation": "کورس کے رہنما کے لیے، گَت کے ساز پر، اَساف کے لیے۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "کورس کے رہنما کے لیے"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "گَت کے ساز"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "اَساف کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:41:16.358353243Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "lamentations 3:45",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "میں کا کوڑا اور ناپسندیدہ ہمیں بنا دیا، قوموں کے بیچ میں۔",
+  "tokens": [
+    {
+      "surface": "סְחִי",
+      "gloss": "کوڑا"
+    },
+    {
+      "surface": "וּמָאוֹס",
+      "gloss": "اور ناپسندیدہ"
+    },
+    {
+      "surface": "תְּשִׂימֵנוּ",
+      "gloss": "ہمیں بنا دیا"
+    },
+    {
+      "surface": "בְּקֶרֶב",
+      "gloss": "بیچ میں"
+    },
+    {
+      "surface": "הָעַמִּים",
+      "gloss": "قوموں کے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:29:44.444737337Z",
+  "model": "glm-5.2"
+}

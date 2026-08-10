@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 13:32",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "اور کاہن دیکھے گا ⟨את⟩ ضرب کو ساتویں دن، اور دیکھو — نَتَق پھیلا نہیں، اور اس میں بال زرد نہیں ہوا، اور نَتَق کا منظر ↔ کھال سے ↔ گہرا نہیں،",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "اور دیکھے گا"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ضرب کو"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ضرب"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ساتویں"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "اور دیکھو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "پھیلا"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "نَتَق"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہوا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اس میں"
+    },
+    {
+      "surface": "שער",
+      "gloss": "بال"
+    },
+    {
+      "surface": "צהב",
+      "gloss": "زرد"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "اور منظر"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "نَتَق کا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "گہرا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "↔"
+    },
+    {
+      "surface": "העור",
+      "gloss": "کھال سے"
+    }
+  ],
+  "timestamp": "2026-08-10T05:24:51.421320361Z",
+  "model": "glm-5.2"
+}

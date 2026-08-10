@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 33,
+  "translation": "اور عیسو نے کہا: میرے پاس بہت کچھ ہے، میرے بھائی، جو تیرا ہے وہ تیرے پاس ہی رہے۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ہے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے پاس"
+    },
+    {
+      "surface": "רב",
+      "gloss": "بہت کچھ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "میرے بھائی"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "رہے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے پاس"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرا ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T05:15:36.846872997Z",
+  "model": "glm-5.2"
+}

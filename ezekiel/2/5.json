@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 2:5",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور وہ — اگر سنیں اور اگر رکیں — کیونکہ بیتِ مری وہ ہیں، تو وہ جان لیں گے کیونکہ نبی ⟨ہے⟩ ⟨ان⟩ کے بیچ میں۔",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "اور وہ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "سنیں"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "اور اگر"
+    },
+    {
+      "surface": "יחדלו",
+      "gloss": "رکیں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "سرکشی"
+    },
+    {
+      "surface": "המה",
+      "gloss": "وہ ہیں"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "اور جان لیں گے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہے"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "ان کے بیچ میں"
+    }
+  ],
+  "timestamp": "2026-08-09T22:45:43.265266036Z",
+  "model": "glm-5.2"
+}

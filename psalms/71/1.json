@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 71,
+  "translation": "تیرے سپُرد میں ہوں، اَے یاہویہ؛ مُجھے ہمیشہ شرمسار نہ ہونے دے۔",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "تیرے سپُرد میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اَے یاہویہ"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "پناہ لی ہے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "شرمسار ہوں"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-08-09T23:38:35.673421278Z",
+  "model": "glm-5.2"
+}

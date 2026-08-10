@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 42:18",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 42,
+  "translation": "اے بہرے، سنو! اور اے اندھے، دیکھنے کے لیے نگاہ کرو!",
+  "tokens": [
+    {
+      "surface": "החרשים",
+      "gloss": "اے بہرے"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سنو"
+    },
+    {
+      "surface": "והעורים",
+      "gloss": "اور اے اندھے"
+    },
+    {
+      "surface": "הביטו",
+      "gloss": "نگاہ کرو"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "دیکھنے کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:13:06.129841070Z",
+  "model": "glm-5.2"
+}

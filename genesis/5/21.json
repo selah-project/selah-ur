@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 5:21",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "اور خَنوک پچاس اور ساٹھ سال جیا، اور اُس نے ⟨את⟩ مِتوشِلخ کو جنا۔",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "اور جیا"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "خَنوک"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پچاس"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "اور ساٹھ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "اور جنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مِتوشِلخ"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "مِتوشِلخ"
+    }
+  ],
+  "timestamp": "2026-08-10T07:08:16.711179095Z",
+  "model": "glm-5.2"
+}

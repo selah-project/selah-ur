@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 11:23",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "صالحوں کی خواہش تو بھلائی ہی، مگر شریروں کی امید قہر۔",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "خواہش"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "صالحوں کی"
+    },
+    {
+      "surface": "אך",
+      "gloss": "تو"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "بھلائی ہی"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "امید"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "شریروں کی"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "قہر"
+    }
+  ],
+  "timestamp": "2026-08-10T06:37:05.111594464Z",
+  "model": "glm-5.2"
+}

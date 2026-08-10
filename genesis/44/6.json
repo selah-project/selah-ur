@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 44,
+  "translation": "اور اس نے انہیں پکڑ لیا، اور ان سے ⟨את⟩ یہ باتیں کہیں۔",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "اور اس نے انہیں پکڑ لیا"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "اور اس نے کہا"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ان سے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یہ باتیں"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "باتوں کو"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "یہ"
+    }
+  ],
+  "timestamp": "2026-08-10T07:08:56.524016018Z",
+  "model": "glm-5.2"
+}

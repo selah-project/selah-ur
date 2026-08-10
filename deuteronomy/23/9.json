@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 23:9",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "بیٹے جو ان سے پیدا ہوں گے، تیسری نسل میں، وہ یاہویہ کی جماعت میں ان کے لیے آئے گا۔",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "پیدا ہوں گے"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ان سے"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "تیسری"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "آئے گا"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ان کے لیے"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "جماعت میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    }
+  ],
+  "timestamp": "2026-08-10T05:34:11.446560596Z",
+  "model": "glm-5.2"
+}

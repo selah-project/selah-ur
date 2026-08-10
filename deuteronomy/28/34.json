@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 28:34",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 28,
+  "translation": "اور تو دیوانہ ہو جائے گا ان آنکھوں کے منظر سے جو تو دیکھے گا۔",
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "اور تو ہو جائے گا"
+    },
+    {
+      "surface": "משגע",
+      "gloss": "دیوانہ"
+    },
+    {
+      "surface": "ממראה",
+      "gloss": "منظر سے"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "تیری آنکھوں کے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "تو دیکھے گا"
+    }
+  ],
+  "timestamp": "2026-08-10T07:14:49.488356756Z",
+  "model": "glm-5.2"
+}

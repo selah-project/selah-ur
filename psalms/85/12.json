@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 85:12",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 85,
+  "translation": "سچائی زمین سے اُگے گی، اور انصاف آسمانوں سے جھانکے گا۔",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "سچائی"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "زمین سے"
+    },
+    {
+      "surface": "תצמח",
+      "gloss": "اُگے گی"
+    },
+    {
+      "surface": "וצדק",
+      "gloss": "اور انصاف"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "آسمانوں سے"
+    },
+    {
+      "surface": "נשקף",
+      "gloss": "جھانکے گا"
+    }
+  ],
+  "timestamp": "2026-08-10T06:33:09.327566967Z",
+  "model": "glm-5.2"
+}

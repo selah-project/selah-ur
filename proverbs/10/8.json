@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "دل کا دانا احکام قبول کرتا ہے، اور بات کرنے والا بیوقوف گر پڑتا ہے۔",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل کا"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "قبول کرتا ہے"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "احکام"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "اور بیوقوف"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "بات کرنے والا"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "گر پڑتا ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:37:57.255007938Z",
+  "model": "glm-5.2"
+}

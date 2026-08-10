@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 3:12",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "اور اب اپنے لیے یِسرائیل کے قبائل میں سے بارہ آدمی منتخب کرو — ہر قبیلے سے ایک آدمی، ایک آدمی۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "اور اب"
+    },
+    {
+      "surface": "קחو",
+      "gloss": "منتخب کرو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "اپنے لیے"
+    },
+    {
+      "surface": "שני",
+      "gloss": "بارہ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "איש",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "משבטי",
+      "gloss": "قبائل میں سے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل کے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "איש",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "ہر قبیلے سے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:56:50.631886097Z",
+  "model": "glm-5.2"
+}

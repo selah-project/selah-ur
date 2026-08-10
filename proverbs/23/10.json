@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "ازلی سرحد کو نہ ہٹا، اور یتیموں کے کھیتوں میں مت آ۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "ہٹا"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ازلی"
+    },
+    {
+      "surface": "ובשדי",
+      "gloss": "اور کھیتوں میں"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "یتیموں کے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مت"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "آ"
+    }
+  ],
+  "timestamp": "2026-08-10T09:20:28.437123370Z",
+  "model": "glm-5.2"
+}

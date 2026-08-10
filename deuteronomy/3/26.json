@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 3:26",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "और यहवह तुम्हारे कारण मुझसे रूठा, और उसने मेरी न सुनी; और यहवह ने मुझसे कहा: 'तेरे लिए बहुत है; इस बात में मुझसे और बात मत कर।'",
+  "tokens": [
+    {
+      "surface": "ויתעבר",
+      "gloss": "और रूठा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवह"
+    },
+    {
+      "surface": "בי",
+      "gloss": "मुझसे"
+    },
+    {
+      "surface": "למענכם",
+      "gloss": "तुम्हारे कारण"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "और नहीं"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "उसने सुनी"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मेरी"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "और कहा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवह ने"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मुझसे"
+    },
+    {
+      "surface": "רב",
+      "gloss": "बहुत है"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तेरे लिए"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नहीं"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "बढ़ाना"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बात करना"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मुझसे"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "और"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "इस बात में"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "इस"
+    }
+  ],
+  "timestamp": "2026-08-09T20:43:59.573260643Z",
+  "model": "glm-5.2"
+}

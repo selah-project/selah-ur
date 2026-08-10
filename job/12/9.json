@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "کون نہیں جانتا ان سب میں سے کہ یاہویہ کے ہاتھ نے ⟨את⟩ یہ بناّ ہے؟",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "جانتا"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ان سب میں سے"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ہاتھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "بناّ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "یہ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:13:07.997665485Z",
+  "model": "glm-5.2"
+}

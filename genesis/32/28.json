@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 32:28",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 32,
+  "translation": "اور اُس نے اُس سے کہا: تیرا نام کیا ہے؟ تو اُس نے کہا: یَعقُوب۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور اُس نے کہا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اُس سے"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "تیرا نام"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "تو اُس نے کہا"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یَعقُوب"
+    }
+  ],
+  "timestamp": "2026-08-10T05:15:10.250989631Z",
+  "model": "glm-5.2"
+}

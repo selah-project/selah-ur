@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 104,
+  "translation": "تیری جھڑک سے وہ بھاگ گئے، تیرے گرج کی آواز سے وہ دوڑے گئے۔",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "سے"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "تیری جھڑک"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "وہ بھاگ گئے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "سے"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "تیرے گرج کی"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "وہ دوڑے گئے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:46:17.152201861Z",
+  "model": "glm-5.2"
+}

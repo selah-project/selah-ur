@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 7:25",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "ترجھے دل اُس کی راہوں کی طرف نہ بھٹکے، اور اُس کی پگڈنڈیوں میں نہ بھٹکے۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישט",
+      "gloss": "بھٹکے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "طرف"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "اُس کی راہوں کی"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ترجھے دل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתע",
+      "gloss": "بھٹکے"
+    },
+    {
+      "surface": "בנתיבותיה",
+      "gloss": "اُس کی پگڈنڈیوں میں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:00:48.950077432Z",
+  "model": "glm-5.2"
+}

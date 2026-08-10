@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "صَیدونیئوں کا ⟨اسے⟩ حِرمون کے لیے نام شِریون ہے، اور اَموری کا ⟨اسے⟩ نام شَنیر ہے۔",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "صَیدونی"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "نام رکھتے ہیں"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "حِرمون کو"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "شِریون"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "اور اَموری"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "نام رکھتے ہیں"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اسے"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "شَنیر"
+    }
+  ],
+  "timestamp": "2026-08-10T05:32:01.333673381Z",
+  "model": "glm-5.2"
+}

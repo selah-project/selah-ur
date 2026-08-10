@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 2:4",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور بادشاہ نے مجھ سے کہا: کس بابت تو یہ طلب کرتا ہے؟ اور میں نے دعا کی الوہیمِ آسمانوں کی طرف۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مجھ سے"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ نے"
+    },
+    {
+      "surface": "על",
+      "gloss": "کس بابت"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "זה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "طلب کرتا ہے"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "اور میں نے دعا کی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "الوہیمِ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمانوں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:51:24.686519510Z",
+  "model": "glm-5.2"
+}

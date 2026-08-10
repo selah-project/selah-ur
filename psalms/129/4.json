@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 129,
+  "translation": "یاہویہ راستباز ہے؛ اُس نے شریروں کے رسیاں کاٹ دی ہیں۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "راستباز"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "کاٹ دی ہیں"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "رسیاں"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "شریروں کے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:54:58.567398667Z",
+  "model": "glm-5.2"
+}

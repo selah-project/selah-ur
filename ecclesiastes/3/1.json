@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "ہر چیز کا ⟨ایک⟩ وقت ہے، اور آسمانوں کے تلے ہر مقصد کا ایک وقت ہے۔",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "ہر چیز کا"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "اور ایک وقت"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "مقصد کا"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "کے تلے"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمانوں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:33:08.487935174Z",
+  "model": "glm-5.2"
+}

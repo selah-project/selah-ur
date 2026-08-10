@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 51,
+  "translation": "جب ناتن نبی اُس کے پاس آیا، جیسے ہی وہ بَت شَبع کے پاس گیا۔",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "جب … آیا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اُس کے پاس"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتن"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیسے ہی"
+    },
+    {
+      "surface": "בא",
+      "gloss": "گیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کے پاس"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بَت"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شَبع"
+    }
+  ],
+  "timestamp": "2026-08-10T07:51:27.163161800Z",
+  "model": "glm-5.2"
+}

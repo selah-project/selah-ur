@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 23:29",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "کیونکہ ہر ⟨نفس⟩ جو اُس دن کے ٹھیک ⟨دن⟩ خود کو نہ ستائے، وہ اپنے لوگوں سے کاٹ دیا جائے گا۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "⟨نفس⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ستائے"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "کے ٹھیک"
+    },
+    {
+      "surface": "היום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اُس"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "کاٹ دیا جائے گا"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "اپنے لوگوں سے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:23:29.772599744Z",
+  "model": "glm-5.2"
+}

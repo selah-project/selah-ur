@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "کیا کرو گے تم مقررہ دن کے لیے، اور تہوار کے دن کے لیے، یاہویہ کے؟",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "کرو گے تم"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "دن کے لیے"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "مقررہ"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "اور دن کے لیے"
+    },
+    {
+      "surface": "חג",
+      "gloss": "تہوار"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    }
+  ],
+  "timestamp": "2026-08-10T06:21:44.484492291Z",
+  "model": "glm-5.2"
+}

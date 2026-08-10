@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezra 2:13",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اَدُونِیکام کے بیٹے — چھ سو چھٹھتر۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کے بیٹے"
+    },
+    {
+      "surface": "אדניקם",
+      "gloss": "اَدُونِیکام"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ساٹھ"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "اور چھ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:46:24.625728076Z",
+  "model": "glm-5.2"
+}

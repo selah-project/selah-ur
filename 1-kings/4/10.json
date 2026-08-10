@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "بِن خِسِد — اَرُوبوت میں؛ اُس کے لیے سوکو اور ساری زمین خِفِر ⟨تھی⟩۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "بِن"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خِسِد"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "اَرُوبوت میں"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُس کے لیے"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "سوکو"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "اور تمام"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "خِفِر"
+    }
+  ],
+  "timestamp": "2026-08-10T05:51:22.268156870Z",
+  "model": "glm-5.2"
+}

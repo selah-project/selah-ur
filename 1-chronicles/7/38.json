@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 7:38",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اور یِتِر کے بیٹے: یِفُنّہ، وپِسپا، وارا۔",
+  "tokens": [
+    {
+      "surface": "וּבְנֵ֖י",
+      "gloss": "اور بیٹے"
+    },
+    {
+      "surface": "יֶ֑תֶר",
+      "gloss": "یِتِر"
+    },
+    {
+      "surface": "יְפֻנֶּ֥ה",
+      "gloss": "یِفُنّہ"
+    },
+    {
+      "surface": "וּפִסְפָּ֖ה",
+      "gloss": "وپِسپا"
+    },
+    {
+      "surface": "וַאְרָֽא",
+      "gloss": "وارا"
+    }
+  ],
+  "timestamp": "2026-08-10T01:01:59.886598253Z",
+  "model": "glm-5.2"
+}

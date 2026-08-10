@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "nehemiah 7:29",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "قِریت یعارِم، کَفِیرہ اور بِیروت کے مرد، سات سو تینتالیس۔",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "قِریت"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "یعارِم"
+    },
+    {
+      "surface": "כפירה",
+      "gloss": "کَفِیرہ"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "اور بِیروت"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سات"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چالیس"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "اور تین"
+    }
+  ],
+  "timestamp": "2026-08-10T00:54:25.124338818Z",
+  "model": "glm-5.2"
+}

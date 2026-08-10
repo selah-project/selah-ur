@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "اور تیری آنکھ ترس نہ کھائے — جان ⟨ب⟩ جان، آنکھ ⟨ب⟩ آنکھ، دانت ⟨ب⟩ دانت، ہاتھ ⟨ب⟩ ہاتھ، پاؤں ⟨ب⟩ پاؤں۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "ترس کھائے"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "تیری آنکھ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "⟨ب⟩ جان"
+    },
+    {
+      "surface": "עין",
+      "gloss": "آنکھ"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "⟨ب⟩ آنکھ"
+    },
+    {
+      "surface": "שן",
+      "gloss": "دانت"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "⟨ب⟩ دانت"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ہاتھ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "⟨ب⟩ ہاتھ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "پاؤں"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "⟨ب⟩ پاؤں"
+    }
+  ],
+  "timestamp": "2026-08-09T20:50:26.126363451Z",
+  "model": "glm-5.2"
+}

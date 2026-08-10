@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 130,
+  "translation": "اور وہ ⟨את⟩ یِسراإل کو اُس کے تمام گناہوں سے فدیہ دے گا۔",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "اور وہ"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "فدیہ دے گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یِسراإل کو"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسراإل"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "تمام سے"
+    },
+    {
+      "surface": "עונתיו",
+      "gloss": "اُس کے گناہوں"
+    }
+  ],
+  "timestamp": "2026-08-09T23:55:28.276744490Z",
+  "model": "glm-5.2"
+}

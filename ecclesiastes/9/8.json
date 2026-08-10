@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "ہر وقت تیرے کپڑے سفید ہوں، اور تیرے سر پر تیل کم نہ ہو۔",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ہوں"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "تیرے کپڑے"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "سفید"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "اور تیل"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "تیرے سر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "کم ہو"
+    }
+  ],
+  "timestamp": "2026-08-10T00:35:02.749787352Z",
+  "model": "glm-5.2"
+}

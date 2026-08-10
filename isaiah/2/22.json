@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 2:22",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "تم اُس انسان سے باز رہو جس کی نَسَمہ اُس کے نتھنوں میں ہے — کیونکہ وہ کس قدر گنا جاتا ہے؟",
+  "tokens": [
+    {
+      "surface": "חדלו",
+      "gloss": "تم باز رہو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تم"
+    },
+    {
+      "surface": "מן",
+      "gloss": "سے"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "انسان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جس"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "نَسَمہ"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "اُس کے نتھنوں میں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "במה",
+      "gloss": "کس میں"
+    },
+    {
+      "surface": "נחשב",
+      "gloss": "گنا جاتا ہے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    }
+  ],
+  "timestamp": "2026-08-09T22:00:49.291907768Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 85:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 85,
+  "translation": "کورَہ کے بیٹوں کے لیے، ایک مَزمور، اور {فضل} کا قاری ہے۔",
+  "tokens": [
+    {
+      "surface": "לַמְנַצֵּ֬חַ",
+      "lemma": "l\/5329",
+      "gloss": "فنکارِ موسیقی",
+      "strong": "H5329",
+      "morph": "Pp-ms",
+      "notes": "לַמְנַצֵּ֥א"
+    },
+    {
+      "surface": "לִבְנֵ֣י",
+      "lemma": "l\/1121",
+      "gloss": "بیٹوں کے لیے",
+      "strong": "H1121",
+      "morph": "Ncmp",
+      "notes": "בֵּ֥ן"
+    },
+    {
+      "surface": "קֹ֬רַח",
+      "lemma": "קֹרַח",
+      "gloss": "کورَہ",
+      "strong": "H7141",
+      "morph": "Np",
+      "notes": "קֹֽרַחַ"
+    },
+    {
+      "surface": "מִזְמֽוֹר",
+      "lemma": "מִזְמוֹר",
+      "gloss": "مَزمور",
+      "strong": "H4210",
+      "morph": "Nc",
+      "notes": "מִזְמֽוֹר"
+    }
+  ],
+  "timestamp": "2026-08-10T09:19:48.313171806Z",
+  "model": "glm-5.2"
+}

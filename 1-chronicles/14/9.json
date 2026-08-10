@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 14:9",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "اور پلِشتیم آئے اور رفاییم کے وادی میں پھیل گئے۔",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "اور پلِشتیم"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آئے"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "اور پھیل گئے"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "کے وادی میں"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "رفاییم"
+    }
+  ],
+  "timestamp": "2026-08-10T01:05:33.477499805Z",
+  "model": "glm-5.2"
+}

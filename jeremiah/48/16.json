@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 48:16",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 48,
+  "translation": "مُوآب کا آنا قریب ہے اور اس کی بربادی بہت جلد ہے۔",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "قریب ہے"
+    },
+    {
+      "surface": "איד",
+      "gloss": "بربادی"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مُوآب کا"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "آنا"
+    },
+    {
+      "surface": "ורעתו",
+      "gloss": "اور اس کی"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "جلد ہے"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    }
+  ],
+  "timestamp": "2026-08-10T06:10:57.139866012Z",
+  "model": "glm-5.2"
+}

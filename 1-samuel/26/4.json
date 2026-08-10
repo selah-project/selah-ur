@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "ur",
+  "chapter": 26,
+  "translation": "چنانچہ داوِد نے جاسوس بھیجے اور جان لیا کہ شاؤل یقینی طور پر آ گیا ہے۔",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "چنانچہ بھیجا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد نے"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "جاسوس"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "اور جان لیا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آ گیا"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تک"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "یقینی"
+    }
+  ],
+  "timestamp": "2026-08-10T07:57:29.657821036Z",
+  "model": "glm-5.2"
+}

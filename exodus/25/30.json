@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 25:30",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "اور تو میز پر منھ کی روٹی ہمیشہ میرے سامنے رکھے۔",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "اور تو رکھے"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "میز"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "منھ کی"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "کے سامنے"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:06:25.400047745Z",
+  "model": "glm-5.2"
+}

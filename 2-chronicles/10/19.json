@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 10:19",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "اور اسرائیل نے بیتِ داوِد کے خلاف بغاوت کی، اسی دن تک۔",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "اور بغاوت کی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اسرائیل"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "بیتِ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "היום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اسی"
+    }
+  ],
+  "timestamp": "2026-08-10T01:16:37.207782024Z",
+  "model": "glm-5.2"
+}

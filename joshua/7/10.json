@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 7:10",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اور یاہویہ نے یِہوشوع سے کہا: اُٹھ، یہ کیا ہے کہ تو اپنے منہ کے بل گر پڑا ہے؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کو"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یِہوشوع"
+    },
+    {
+      "surface": "קם",
+      "gloss": "اُٹھ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تو"
+    },
+    {
+      "surface": "למה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "זה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "گر پڑا ہے"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تیرا چہرہ"
+    }
+  ],
+  "timestamp": "2026-08-10T07:56:58.392854652Z",
+  "model": "glm-5.2"
+}

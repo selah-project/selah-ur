@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 14:6",
+  "book": "zechariah",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "اور ہوگا ⟨اس⟩ دن میں، ⟨کہ⟩ نہ ہوگا روشنی، قیمتی روشنیاں، اور دیپ یخ بندھ جائیں گے۔",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "اور ہوگا"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "اس دن میں"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "وہی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوگا"
+    },
+    {
+      "surface": "אור",
+      "gloss": "روشنی"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "قیمتی روشنیاں"
+    },
+    {
+      "surface": "יקפאون",
+      "gloss": "دیپ یخ بندھ جائیں گے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:20:34.061776308Z",
+  "model": "glm-5.2"
+}

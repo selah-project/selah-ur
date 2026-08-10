@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اور تُوعی، حَمات کا بادشاہ، سن گیا کہ داوِد نے ہدَدعِزر کی پوری فوج کو مار گرایا۔",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "اور سن گیا"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "تُوعی"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "حَمات کا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "مار گرایا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پوری فوج کو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوری"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "فوج"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "ہدَدعِزر کی"
+    }
+  ],
+  "timestamp": "2026-08-10T09:13:36.485314722Z",
+  "model": "glm-5.2"
+}

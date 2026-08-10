@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 24:14",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "پندرہواں لِبِلگا کو، سولہواں لِعِمر کو۔",
+  "tokens": [
+    {
+      "surface": "לבלגה",
+      "gloss": "لِبِلگا کو"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پانچ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دس"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "لِعِمر کو"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دس"
+    }
+  ],
+  "timestamp": "2026-08-10T01:09:42.992961877Z",
+  "model": "glm-5.2"
+}

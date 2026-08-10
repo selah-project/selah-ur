@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "ایک برائی ہے جو میں نے سورج کے نیچے دیکھی، اور وہ آدمی پر بھاری ہے۔",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ہے"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "میں نے دیکھی"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "کے نیچے"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سورج"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "اور بھاری"
+    },
+    {
+      "surface": "היא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدمی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:35:48.676788988Z",
+  "model": "glm-5.2"
+}

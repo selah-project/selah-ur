@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 28,
+  "translation": "اور یَعقوب بئر شَبع سے نکلا اور حاران کی طرف چلا گیا۔",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "اور نکلا"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یَعقوب"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "بئر سے"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "شَبع"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "اور چلا گیا"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "حاران کی طرف"
+    }
+  ],
+  "timestamp": "2026-08-10T05:13:48.666876483Z",
+  "model": "glm-5.2"
+}

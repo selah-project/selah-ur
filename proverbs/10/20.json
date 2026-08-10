@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 10:20",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "پسندیدہ چاندی نیک زبان ⟨ہے⟩، بدکاروں کا دل تھوڑا ہے۔",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "چاندی"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "پسندیدہ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نیک"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکاروں کا"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "تھوڑا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:02:43.773868493Z",
+  "model": "glm-5.2"
+}

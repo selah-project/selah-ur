@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 78:66",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 78,
+  "translation": "اور اس نے اپنے دشمنوں کو پیچھے سے مارا؛ انہیں ہمیشہ کی ذلت دی۔",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "اور اس نے مارا"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "اپنے دشمنوں کو"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "پیچھے سے"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "ذلت"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ کی"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دی"
+    },
+    {
+      "surface": "למו",
+      "gloss": "انہیں"
+    }
+  ],
+  "timestamp": "2026-08-09T23:40:07.244005579Z",
+  "model": "glm-5.2"
+}

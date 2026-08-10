@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 30,
+  "translation": "اور میں نے کہا میرے سکون میں، کبھی نہیں ہلوں میں،到大𐎏ڈھیر تک۔",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "اور میں نے"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "کہا"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "میرے سکون میں"
+    },
+    {
+      "surface": "בל",
+      "gloss": "کبھی نہیں"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ہلوں میں"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "到大𐎏ڈھیر تک"
+    }
+  ],
+  "timestamp": "2026-08-09T23:28:57.570196126Z",
+  "model": "glm-5.2"
+}

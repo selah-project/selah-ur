@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 6:15",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اس لیے یکایک اس کی تباہی آئے گی؛ وہ اچانک ٹوٹ جائے گا اور کوئی شفا نہ ہو گی۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "اس"
+    },
+    {
+      "surface": "כן",
+      "gloss": "لیے"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "یکایک"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "آئے گی"
+    },
+    {
+      "surface": "אידו",
+      "gloss": "اس کی تباہی"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "اچانک"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "وہ ٹوٹ جائے گا"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "اور کوئی نہ"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "شفا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:00:40.430466732Z",
+  "model": "glm-5.2"
+}

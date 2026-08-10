@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "مِرایوت نے ⟨את⟩ امرایہ کو جنم دیا، اور امرایہ نے ⟨את⟩ اخیتوب کو جنم دیا۔",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "مِرایوت"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "نے … کو جنم دیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "امرایہ"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "امرایہ"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "اور امرایہ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "نے … کو جنم دیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اخیتوب"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "اخیتوب"
+    }
+  ],
+  "timestamp": "2026-08-10T01:00:17.606944605Z",
+  "model": "glm-5.2"
+}

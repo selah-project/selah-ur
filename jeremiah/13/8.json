@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 13:8",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "اور یاہویہ کا کلام مجھ تک آیا، یوں کہ:",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مجھ تک"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "یوں کہ"
+    }
+  ],
+  "timestamp": "2026-08-09T22:27:09.799121024Z",
+  "model": "glm-5.2"
+}

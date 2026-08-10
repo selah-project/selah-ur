@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "جب تو کسی شہر کے قریب آئے اس سے لڑنے کے لیے، تو اسے سلام کی پیشکش کے لیے پکارنا۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جب"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "تو قریب آئے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی جانب"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "کسی شہر"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "لڑنے کے لیے"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "اس سے"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "تو پکارنا"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "اسے"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "سلام کی پیشکش کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:50:40.330841471Z",
+  "model": "glm-5.2"
+}

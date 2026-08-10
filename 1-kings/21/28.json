@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 21:28",
+  "book": "1-kings",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "اور یاہویہ کا بَن ہوا اِلیَّہُو-ہَتِشبی کی طرف، کہنے کو:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بَن"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "اِلیَّہُو"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "ہَتِشبی"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہنے کو"
+    }
+  ],
+  "timestamp": "2026-08-09T21:52:32.483809956Z",
+  "model": "glm-5.2"
+}

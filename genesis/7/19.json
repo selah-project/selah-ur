@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 7:19",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اور پانی زمین پر نہایت نہایت غالب آئے، اور تمام آسمانوں کے نیچے جو اونچے پہاڑ ہیں وہ سب ڈھک گئے۔",
+  "tokens": [
+    {
+      "surface": "והמים",
+      "gloss": "اور پانی"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "غالب آئے"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "نہایت"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "نہایت"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "اور ڈھک گئے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "הגבהים",
+      "gloss": "اونچے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "نیچے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمانوں کے"
+    }
+  ],
+  "timestamp": "2026-08-09T19:35:09.937179713Z",
+  "model": "glm-5.2"
+}

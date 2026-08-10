@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 33:20",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 33,
+  "translation": "اور اس نے وہاں ایک قربان گاہ کھڑی کی، اور اُسے 'ایل، اِسرائیل کا الوہیم' پکارا۔",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "اور کھڑی کی"
+    },
+    {
+      "surface": "שם",
+      "gloss": "وہاں"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "قربان گاہ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "اور پکارا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اسے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "اِسرائیل کا"
+    }
+  ],
+  "timestamp": "2026-08-09T19:47:19.678771303Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 3:6",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "نہیں، کئی قوموں کی طرف جن کی باتیں تو نہیں سمجھ سکتا — بے شک اگر میں تجھے اُن کی طرف بھیجتا، تو وہ تیری بات سنتے۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "قوموں"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "بہت سے"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "گہرے"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ہونٹ"
+    },
+    {
+      "surface": "וכבדי",
+      "gloss": "اور بھرے"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جن کی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "تو سنتا"
+    },
+    {
+      "surface": "דבריהם",
+      "gloss": "باتیں"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "اُن کی طرف"
+    },
+    {
+      "surface": "שלחתיך",
+      "gloss": "میں تجھے بھیجتا"
+    },
+    {
+      "surface": "המה",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "سنتے"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تجھے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:13:39.257648383Z",
+  "model": "glm-5.2"
+}

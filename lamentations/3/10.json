@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "اُس نے میرے لیے گھات لگائے ہوئے ایک ریچھ ⟨بن⟩ گیا، چھپے ہوئے مقامات میں ایک شیر۔",
+  "tokens": [
+    {
+      "surface": "דֹּב",
+      "gloss": "ریچھ"
+    },
+    {
+      "surface": "אֹרֵב",
+      "gloss": "گھات لگائے ہوئے"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "לִי",
+      "gloss": "میرے لیے"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "شیر"
+    },
+    {
+      "surface": "בְמִסְתָּרִים",
+      "gloss": "چھپے ہوئے مقامات میں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:30:37.891911632Z",
+  "model": "glm-5.2"
+}

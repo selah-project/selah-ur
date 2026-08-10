@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 18:17",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "اور یاہویہ نے کہا: کیا میں اَوراہام سے چھپاؤں گا وہ جو میں کر رہا ہوں؟",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "اور یاہویہ نے"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "کہا"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "کیا چھپاؤں گا"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "מאברהם",
+      "gloss": "اَوراہام سے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "وہ جو"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کر رہا ہوں"
+    }
+  ],
+  "timestamp": "2026-08-09T19:39:24.364434156Z",
+  "model": "glm-5.2"
+}

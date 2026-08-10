@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 42:19",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 42,
+  "translation": "اس نے مغرب کی سمت کا رُخ کیا، اس نے ناپی، پانچ سو قَنِیم، ناپ کے قَنَہ سے۔",
+  "tokens": [
+    {
+      "surface": "סבב",
+      "gloss": "اِس نے رُخ کیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "سمت"
+    },
+    {
+      "surface": "הים",
+      "gloss": "مغرب کی"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "اس نے ناپی"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پانچ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "قَنِیم"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "قَنَہ سے"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "ناپ کے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:02:32.032802835Z",
+  "model": "glm-5.2"
+}

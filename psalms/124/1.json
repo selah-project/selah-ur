@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 124:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 124,
+  "translation": "माओम का गीत، दाविद के लिए। यदि यहवेह हमारे लिए न होता — यिस्राएल अब कहे,",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "माओम का"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविद के लिए"
+    },
+    {
+      "surface": "लולי",
+      "gloss": "यदि नहीं"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेह"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "जो था"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हमारे लिए"
+    },
+    {
+      "surface": "יאमר",
+      "gloss": "कहे"
+    },
+    {
+      "surface": "נא",
+      "gloss": "अब"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    }
+  ],
+  "timestamp": "2026-08-10T07:31:25.879623497Z",
+  "model": "glm-5.2"
+}

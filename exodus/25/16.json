@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "اور تو رکھے گا تابوت میں ⟨أرز⟩ گواہی کو جو میں تجھے دوں گا۔",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "اور تو رکھے گا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کو"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "تابوت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گواہی کو"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "گواہی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "میں دوں گا"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تجھے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:06:38.999559336Z",
+  "model": "glm-5.2"
+}

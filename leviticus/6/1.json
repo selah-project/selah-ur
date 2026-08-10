@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 6:1",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اور یاہویہ نے موشے سے کہا، کہہ کر:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "اور بولا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאمר",
+      "gloss": "کہہ کر:"
+    }
+  ],
+  "timestamp": "2026-08-09T20:16:30.378010249Z",
+  "model": "glm-5.2"
+}

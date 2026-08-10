@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اور فرعون پھرا اور اپنے گھر میں آگیا، اور اُس نے اِس پر بھی دھیان نہ دیا۔",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "اور پھرا"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "فرعون"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "اور آگیا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "میں"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "اپنے گھر"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "שת",
+      "gloss": "اُس نے دیا"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "دھیان"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بھی"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "اِس پر"
+    }
+  ],
+  "timestamp": "2026-08-09T19:57:29.078663307Z",
+  "model": "glm-5.2"
+}

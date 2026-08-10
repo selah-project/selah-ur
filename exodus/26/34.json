@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 26:34",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 26,
+  "translation": "اور تو ⟨את⟩ کفارے کو گواہی کے صندوق پر رکھے گا، مقدسُ المقدس میں۔",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "اور تو رکھے گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کفارے کو"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "کفارے کو"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "گواہی کے"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "مقدس میں"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "المقدس"
+    }
+  ],
+  "timestamp": "2026-08-09T20:06:20.620256318Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 30:27",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 30,
+  "translation": "ٹڈیوں کا کوئی بادشاہ نہیں، اور وہ سب مل کر لشکروں میں نکلتے ہیں۔",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نہیں ہے"
+    },
+    {
+      "surface": "לארבה",
+      "gloss": "ٹڈیوں کا"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "اور نکلتے ہیں"
+    },
+    {
+      "surface": "חצץ",
+      "gloss": "منقسم ہو کر"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "اس کا سارا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:09:32.221511082Z",
+  "model": "glm-5.2"
+}

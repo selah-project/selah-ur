@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 6:9",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "تَحَت اُس کا بیٹا، اوریایل اُس کا بیٹا، عُزیّا اُس کا بیٹا، اور شاؤل اُس کا بیٹا۔",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "تَحَت"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اُس کا بیٹا"
+    },
+    {
+      "surface": "אוריאל",
+      "gloss": "اوریایل"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اُس کا بیٹا"
+    },
+    {
+      "surface": "עזיה",
+      "gloss": "عُزیّا"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اُس کا بیٹا"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "اور شاؤل"
+    },
+    {
+      "surface": "بנו",
+      "gloss": "اُس کا بیٹا"
+    }
+  ],
+  "timestamp": "2026-08-10T01:01:09.638612083Z",
+  "model": "glm-5.2"
+}

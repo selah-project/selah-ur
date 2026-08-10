@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 14:12",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "ایک راہ ⟨ہے⟩ جو آدمی کے سامنے سیدھی معلوم ہوتی ہے، مگر اس کا انجام موت کی راہیں ہیں۔",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ہے"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ایک راہ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "سیدھی"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "کے سامنے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "مگر اس کا انجام"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "راستے"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت کی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:02:34.267186613Z",
+  "model": "glm-5.2"
+}

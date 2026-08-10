@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 26,
+  "translation": "دس ہاتھ ایک تختے کا طول، اور ایک ہاتھ اور آدھا ہاتھ ایک تختے کا عرض۔",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "دس"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ہاتھ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "طول"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "تختے کا"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "اور ایک ہاتھ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "اور آدھا"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ہاتھ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "عرض"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "تختے کا"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ایک"
+    }
+  ],
+  "timestamp": "2026-08-10T05:21:51.205586914Z",
+  "model": "glm-5.2"
+}

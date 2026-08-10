@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 24:5",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "اور تو ⟨את⟩ سُوجی لے کر اُسے پکاۓ گا — بارہ روٹیاں؛ ہر ایک روٹی کا دو عِسرون ہوگا۔",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "اور تو لے گا"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "سُوجی"
+    },
+    {
+      "surface": "ואפית",
+      "gloss": "اور تو پکاۓ گا"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "اُسے"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دس"
+    },
+    {
+      "surface": "חלות",
+      "gloss": "روٹیاں"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "عِسرون"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوگا"
+    },
+    {
+      "surface": "החלה",
+      "gloss": "وہ روٹی"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ایک"
+    }
+  ],
+  "timestamp": "2026-08-09T20:23:44.386161750Z",
+  "model": "glm-5.2"
+}

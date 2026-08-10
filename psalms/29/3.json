@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 29,
+  "translation": "یاہویہ کی آواز پانیوں پر ہے، جلال کا اِیل گرجتا ہے، یاہویہ بہت سے پانیوں پر ہے۔",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کی"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر ہے"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پانیوں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اِیل"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "جلال کا"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "گرجاتا ہے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر ہے"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانیوں"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "بہت سے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:28:37.212545732Z",
+  "model": "glm-5.2"
+}

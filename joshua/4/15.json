@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 4:15",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "اور یاہویہ نے یہوشُع سے فرمایا، کہہ کر:",
+  "tokens": [
+    {
+      "surface": "וַיֹּאמֶר",
+      "gloss": "اور فرمایا"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "יְהוֹשֻׁעַ",
+      "gloss": "یہوشُع"
+    },
+    {
+      "surface": "לֵאמֹר",
+      "gloss": "کہہ کر"
+    }
+  ],
+  "timestamp": "2026-08-10T08:41:00.459815639Z",
+  "model": "glm-5.2"
+}

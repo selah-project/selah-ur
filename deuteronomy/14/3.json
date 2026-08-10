@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "کوئی مکروہ چیز نہ کھاؤ۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "کھاؤ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "مکروہ چیز"
+    }
+  ],
+  "timestamp": "2026-08-09T20:47:48.301021235Z",
+  "model": "glm-5.2"
+}

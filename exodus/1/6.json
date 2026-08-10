@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "اور یوسِف مر گیا اور تمام اُس کے بھائی اور تمام وہ نسل۔",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "اور مر گیا"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسِف"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "اور تمام"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "اُس کے بھائی"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "اور تمام"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "وہ نسل"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "وہی"
+    }
+  ],
+  "timestamp": "2026-08-09T19:55:26.339837334Z",
+  "model": "glm-5.2"
+}

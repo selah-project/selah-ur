@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 36:28",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 36,
+  "translation": "جو بادل ٹپکاتے ہیں — وہ بکثرت انسانوں پر برستا ہے۔",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "ٹپکاتے ہیں"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "بادل"
+    },
+    {
+      "surface": "ירעפו",
+      "gloss": "وہ برستا ہے"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "انسانوں"
+    },
+    {
+      "surface": "רב",
+      "gloss": "بکثرت"
+    }
+  ],
+  "timestamp": "2026-08-10T00:23:26.320266504Z",
+  "model": "glm-5.2"
+}

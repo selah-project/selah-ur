@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "اور اپنے دل کی پیشوتی کا ختنہ کرو، اور اپنی گردنیں سخت نہ کرو آگے۔",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "اور ختنہ کرو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "پیشوتی"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "پیشوتی کا"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "اپنے دل کی"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "اور اپنی گردنیں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "سخت کرو"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "آگے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:46:33.948070702Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور اب، تمہارے لیے یہ حکم ⟨ہے⟩، اے کاہنوں،",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "اور اب"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "تمہارے لیے"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "یہ حکم"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "اے کاہنوں"
+    }
+  ],
+  "timestamp": "2026-08-10T06:27:02.193079723Z",
+  "model": "glm-5.2"
+}

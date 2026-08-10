@@ -1,0 +1,84 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 3:4",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "اور ⟨את⟩ دونوں گردے، اور ⟨את⟩ چربی جو ان پر ہے جو کمروں پر ہے، اور ⟨את⟩ جگر کی پرت جو گردوں کے ساتھ ہے، وہ اسے ہٹائے۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "دونوں گردے"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دونوں"
+    },
+    {
+      "surface": "הכלית",
+      "gloss": "گردے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "چربی"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "چربی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עלהן",
+      "gloss": "ان پر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הכסלים",
+      "gloss": "کمروں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "جگر کی پرت"
+    },
+    {
+      "surface": "היתרת",
+      "gloss": "جگر کی پرت"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הכבד",
+      "gloss": "جگر"
+    },
+    {
+      "surface": "על",
+      "gloss": "کے ساتھ"
+    },
+    {
+      "surface": "הכליות",
+      "gloss": "گردوں"
+    },
+    {
+      "surface": "יסירנה",
+      "gloss": "وہ اسے ہٹائے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:14:02.263632201Z",
+  "model": "glm-5.2"
+}

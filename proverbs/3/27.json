@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 3:27",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "نہ روک اچھائی کو اس کے مالکوں سے، جب تیرا ہاتھ ایل کی طرف ہو کرنے کو۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "روک"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "اچھائی کو"
+    },
+    {
+      "surface": "מבעליו",
+      "gloss": "اس کے مالکوں سے"
+    },
+    {
+      "surface": "בהיות",
+      "gloss": "جب ہو"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ایل کی طرف"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "تیرا ہاتھ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کرنے کو"
+    }
+  ],
+  "timestamp": "2026-08-10T06:38:21.640105759Z",
+  "model": "glm-5.2"
+}

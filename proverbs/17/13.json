@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 17:13",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 17,
+  "translation": "جو بُرائی کے بدلے بھلائی لوٹاتا ہے، اُس کے گھر سے بُرائی نہ ہٹے گی۔",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "لوٹاتا ہے"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بُرائی"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "کے بدلے"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "بھلائی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תמיש",
+      "gloss": "ہٹے گی"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بُرائی"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "اُس کے گھر سے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:37:59.966959181Z",
+  "model": "glm-5.2"
+}

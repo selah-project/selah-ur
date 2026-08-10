@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 45,
+  "translation": "اے بہادر، اپنی تلوار ران پر باندھو، تمہاری شان اور تمہاری جلال۔",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "باندھو"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "اپنی تلوار"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ران"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "اے بہادر"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "تمہاری شان"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "اور تمہاری جلال"
+    }
+  ],
+  "timestamp": "2026-08-09T23:33:01.508668439Z",
+  "model": "glm-5.2"
+}

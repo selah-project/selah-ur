@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 4:24",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "اپنے پاس سے ٹیڑھے منہ کو ہٹا، اور ہونٹوں کی ٹیڑھی باتوں کو اپنے سے دور کر۔",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "ہٹا"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "اپنے پاس سے"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "ٹیڑھاپن"
+    },
+    {
+      "surface": "פה",
+      "gloss": "منہ کا"
+    },
+    {
+      "surface": "ולזות",
+      "gloss": "اور ٹیڑھی باتیں"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ہونٹوں کی"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "دور کر"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "اپنے سے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:59:03.711552384Z",
+  "model": "glm-5.2"
+}

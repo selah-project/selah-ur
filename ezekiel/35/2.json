@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 35:2",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 35,
+  "translation": "اے ابنِ آدم، اپنا منہ کوہِ سَعیر کی طرف لے جا، اور اس کے خلاف نبوت کر۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "اے بیٹے"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم کے"
+    },
+    {
+      "surface": "שים",
+      "gloss": "لے جا"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "اپنا منہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "הר",
+      "gloss": "کوہ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "سَعیر"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "اور نبوت کر"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اس کے خلاف"
+    }
+  ],
+  "timestamp": "2026-08-09T22:59:47.215427161Z",
+  "model": "glm-5.2"
+}

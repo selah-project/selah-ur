@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 7:4",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "زَرَخْیا کا بیٹا، عُزّی کا بیٹا، بُقّی کا بیٹا۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "زَرَخْیا"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "عُزّی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "بُقّی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:49:29.858358325Z",
+  "model": "glm-5.2"
+}

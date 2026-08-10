@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 8:17",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اَس وقت شُلوموہ عِتزیون گِبِر اور اِیلوت کی طرف گیا، سمندر کے کنارے پر، ادوم کی زمین میں۔",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "اَس وقت"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "گیا"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شُلوموہ"
+    },
+    {
+      "surface": "לעציון",
+      "gloss": "عِتزیون کی طرف"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "گِبِر"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "اور … کی طرف"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "اِیلوت"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "کنارے"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر کے"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین میں"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ادوم کی"
+    }
+  ],
+  "timestamp": "2026-08-10T01:16:07.935500957Z",
+  "model": "glm-5.2"
+}

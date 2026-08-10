@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 7:1",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "وہ بات جو یِرمِیاہو کے پاس ہوئی ⟨את⟩ یاہویہ کی طرف سے، کہنے کے لیے:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "وہ بات"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہوئی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کے پاس"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمِیاہو"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "یاہویہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہنے کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:22:57.641039118Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "کیونکہ خون کا طالب ⟨את⟩ انہیں یاد رکھتا ہے — وہ دبکوؤں کی چیخ کو بھولتا نہیں۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "طالبِ"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "خون"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "انہیں"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "یاد رکھتا ہے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "بھولتا"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "چیخِ"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "دبکوؤں کی"
+    }
+  ],
+  "timestamp": "2026-08-10T06:28:55.358811018Z",
+  "model": "glm-5.2"
+}

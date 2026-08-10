@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 7:17",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "ہر ہاتھ ڈھیلا ہوگا اور ہر گھٹنا پانی کی طرح ہل جائے گا۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "הידים",
+      "gloss": "ہاتھ"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "ڈھیلا ہوگا"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "اور ہر"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "گھٹنا"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "ہل جائے گا"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانی کی طرح"
+    }
+  ],
+  "timestamp": "2026-08-09T22:49:25.707047261Z",
+  "model": "glm-5.2"
+}

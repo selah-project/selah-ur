@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 2:26",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور اس کی فوج اور ان کے گنے ہوئے باقی ہیں: اکسٹھ ہزار سات سو۔",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "اور اس کی فوج"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "اور ان کے گنے ہوئے"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "اور ساٹھ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "اور سات"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    }
+  ],
+  "timestamp": "2026-08-09T20:26:37.253170252Z",
+  "model": "glm-5.2"
+}

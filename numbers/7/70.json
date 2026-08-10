@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "numbers 7:70",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "بکروں کا ایک بالیدھ، گناہ قربان کے لیے۔",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "بالیدھ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "بکروں کا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "گناہ قربان کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:29:32.052295197Z",
+  "model": "glm-5.2"
+}

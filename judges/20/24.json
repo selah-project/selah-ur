@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "judges 20:24",
+  "book": "judges",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "اور یِسرائیل کے بیٹے دوسرے دن بِنیامین کے بیٹوں کے پاس قریب آئے۔",
+  "tokens": [
+    {
+      "surface": "ויקרבו",
+      "gloss": "اور قریب آئے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کے پاس"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹوں"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بِنیامین"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دن میں"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دوسرے"
+    }
+  ],
+  "timestamp": "2026-08-10T05:41:14.383151132Z",
+  "model": "glm-5.2"
+}

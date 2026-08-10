@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 7:6",
+  "book": "song-of-songs",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "کِتنا خوبصورت ہے اور کِتنا خوشگزار ہے، اَے محبّت، تذلّتوں میں!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "کِتنا"
+    },
+    {
+      "surface": "יפית",
+      "gloss": "خوبصورت ہے"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "اور کِتنا"
+    },
+    {
+      "surface": "נעמת",
+      "gloss": "خوشگزار ہے"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "اَے محبّت"
+    },
+    {
+      "surface": "בתענוגים",
+      "gloss": "تذلّتوں میں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:27:43.485309468Z",
+  "model": "glm-5.2"
+}

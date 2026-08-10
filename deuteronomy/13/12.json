@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 13:12",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "اور سارا یِسرائیل سنے گا اور ڈرے گا اور وہ ایسا برا کام جو تیرے درمیان ہے پھر نہیں کریں گے",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "اور سارا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "سنے گا"
+    },
+    {
+      "surface": "ויראון",
+      "gloss": "اور ڈرے گا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "יוספו",
+      "gloss": "وہ بڑھائیں گے"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کرنے کو"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "جیسا کام"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "برا"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "تیرے درمیان"
+    }
+  ],
+  "timestamp": "2026-08-09T20:47:43.423371813Z",
+  "model": "glm-5.2"
+}

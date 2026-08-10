@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 94,
+  "translation": "جو کان لگاتا ہے، کیا وہ نہ سنے گا؟ جو آنکھ بناتا ہے، کیا وہ نہ دیکھے گا؟",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "جو لگاتا ہے"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "کان"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "کیا نہ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "سنے گا"
+    },
+    {
+      "surface": "אם",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "بناتا ہے"
+    },
+    {
+      "surface": "עין",
+      "gloss": "آنکھ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "کیا نہ"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "دیکھے گا"
+    }
+  ],
+  "timestamp": "2026-08-09T23:44:49.188393487Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 2:20",
+  "book": "daniel",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "دانی‌ییل نے جواب دیا اور کہا: ایل کا نام ہمیشہ سے ہمیشہ تک مبارک رہے، کیونکہ دانائی اور زور اس کے ہیں۔",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "جواب دیا"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "دانی‌ییل"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "להוא",
+      "gloss": "ہو"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "نام"
+    },
+    {
+      "surface": "די",
+      "gloss": "کا"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "مبارک رہے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "سے"
+    },
+    {
+      "surface": "עלמא",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "اور تک"
+    },
+    {
+      "surface": "עלמא",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "די",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "חכמתא",
+      "gloss": "دانائی"
+    },
+    {
+      "surface": "וגבורתא",
+      "gloss": "اور زور"
+    },
+    {
+      "surface": "די",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اس کے"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ہیں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:38:45.128248383Z",
+  "model": "glm-5.2"
+}

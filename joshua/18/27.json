@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 18:27",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "اور رِقِم اور یِرْپئیل اور تارعَلہ",
+  "tokens": [
+    {
+      "surface": "ורקם",
+      "gloss": "اور رِقِم"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "اور رِقِم"
+    },
+    {
+      "surface": "ותראלה",
+      "gloss": "اور تارعَلہ"
+    }
+  ],
+  "timestamp": "2026-08-10T05:37:48.849300482Z",
+  "model": "glm-5.2"
+}

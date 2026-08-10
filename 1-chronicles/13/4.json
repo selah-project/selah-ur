@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 13:4",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "اور پوری مجلس نے ایسا کرنے کا کہا، کیونکہ معاملہ تمام لوگوں کی نظر میں سیدھا تھا۔",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوری"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "مجلس نے"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کرنے کا"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایسا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "سیدھا"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "معاملہ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "نظر میں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوگوں کی"
+    }
+  ],
+  "timestamp": "2026-08-10T01:06:53.378518554Z",
+  "model": "glm-5.2"
+}

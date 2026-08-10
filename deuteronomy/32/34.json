@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 32:34",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 32,
+  "translation": "کیا یہ میرے ساتھ محفوظ نہیں ہے، میرے خزانوں میں مُہر بند ہے؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "کیا نہیں"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "כמס",
+      "gloss": "محفوظ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "میرے ساتھ"
+    },
+    {
+      "surface": "חתם",
+      "gloss": "مُہر بند"
+    },
+    {
+      "surface": "באוצרתי",
+      "gloss": "میرے خزانوں میں"
+    }
+  ],
+  "timestamp": "2026-08-09T20:56:30.879505940Z",
+  "model": "glm-5.2"
+}

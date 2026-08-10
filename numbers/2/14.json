@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 2:14",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور گاد کا قبیلہ، اور گاد کے بیٹوں کا نَسِیب اِلیاساف، رعو ایل کا بیٹا ہے۔",
+  "tokens": [
+    {
+      "surface": "ומטה",
+      "gloss": "اور قبیلہ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "اور نَسِیب"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بیٹوں کا"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "اِلیاساف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "رعو ایل"
+    }
+  ],
+  "timestamp": "2026-08-10T08:37:55.598027479Z",
+  "model": "glm-5.2"
+}

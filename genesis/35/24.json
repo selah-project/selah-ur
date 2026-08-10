@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 35:24",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 35,
+  "translation": "راچیل کے بیٹے — یوسف اور بِنْیامین۔",
+  "tokens": [
+    {
+      "surface": "בְּנֵי",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "רָחֵל",
+      "gloss": "راچیل کے"
+    },
+    {
+      "surface": "יוֹסֵף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "וּבִנְיָמִן",
+      "gloss": "اور بِنْیامین"
+    }
+  ],
+  "timestamp": "2026-08-10T07:08:58.141168318Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 37:16",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 37,
+  "translation": "جب یِرْمَیَہُو کنویں کے گھر اور کوٹھڑیوں میں آیا، تو یِرْمَیَہُو نے وہاں بہت دن ٹھہرائے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "جب"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آیا"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرْمَیَہُو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کو"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "کنویں"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "اور کو"
+    },
+    {
+      "surface": "החניות",
+      "gloss": "کوٹھڑیوں"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "تو ٹھہرائے"
+    },
+    {
+      "surface": "שם",
+      "gloss": "وہاں"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرْمَیَہُو"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دن"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "بہت"
+    }
+  ],
+  "timestamp": "2026-08-10T07:59:46.759396618Z",
+  "model": "glm-5.2"
+}

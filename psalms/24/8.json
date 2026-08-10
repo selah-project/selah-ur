@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "کون ہے یہ، بادشاہِ جلال؟ یاہویہ، طاقتور اور بہادر، یاہویہ جنگ میں بہادر ہے۔",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "זה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہِ"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "جلال؟"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ،"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "طاقتور"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "اور بہادر،"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "بہادر"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "جنگ میں"
+    }
+  ],
+  "timestamp": "2026-08-09T23:28:14.207199119Z",
+  "model": "glm-5.2"
+}

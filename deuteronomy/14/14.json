@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "اور ⟨את⟩ ہر کوے کو — اپنی نوع کے مطابق۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "ہر کوے کو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "کوے کو"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "اپنی نوع کے مطابق"
+    }
+  ],
+  "timestamp": "2026-08-09T20:47:26.813206488Z",
+  "model": "glm-5.2"
+}

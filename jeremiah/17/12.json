@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 17:12",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 17,
+  "translation": "تختِ جلال، بلندتر از ابتدا سے، ہمارے مقدس کا مقام ہے۔",
+  "tokens": [
+    {
+      "surface": "כסא",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال کا"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "بلندتر"
+    },
+    {
+      "surface": "מראשון",
+      "gloss": "ابتدا سے"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "مقام"
+    },
+    {
+      "surface": "מקדשנו",
+      "gloss": "ہمارے مقدس کا"
+    }
+  ],
+  "timestamp": "2026-08-09T22:28:11.091567299Z",
+  "model": "glm-5.2"
+}

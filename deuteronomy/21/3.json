@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 21:3",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "اور ہوگا یوں کہ جو شہر مقتول کے سب سے نزدیک ہوگا، اُس شہر کے بزرگ بیلوں کی بछڑی لےں گے جس پر کام نہ کیا گیا ہو، جسے جوئے میں کھینچا نہ گیا ہو۔",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "اور ہوگا"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "הקרבה",
+      "gloss": "نزدیک ہوگا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کے"
+    },
+    {
+      "surface": "החלל",
+      "gloss": "مقتول"
+    },
+    {
+      "surface": "ולקחו",
+      "gloss": "اور لےں گے"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "بزرگ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اس"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "بیلوں کی بچڑی"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "بیلوں کی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "کام کیا گیا"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اس پر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جسے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "משכה",
+      "gloss": "کھینچا گیا"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "جوئے میں"
+    }
+  ],
+  "timestamp": "2026-08-09T20:52:02.596156934Z",
+  "model": "glm-5.2"
+}

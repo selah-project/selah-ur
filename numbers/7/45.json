@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 7:45",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "ایک بیل، مویشی کا بیٹا، ایک مینڈھا، ایک بھیڑ، ایک سال کا بیٹا، منظورِ سوختنی:",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "بیل"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "مویشی"
+    },
+    {
+      "surface": "איל",
+      "gloss": "مینڈھا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "بھیڑ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "سال کا"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "منظورِ سوختنی"
+    }
+  ],
+  "timestamp": "2026-08-09T20:28:08.132469954Z",
+  "model": "glm-5.2"
+}

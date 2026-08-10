@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 37:27",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 37,
+  "translation": "بُرائی سے ہٹ جاؤ اور اچھائی کرو، اور بس جاؤ ہمیشہ کے لیے۔",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "ہٹ جاؤ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "بُرائی سے"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "اور کرو"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "اچھائی"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "اور بس جاؤ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:31:33.001033063Z",
+  "model": "glm-5.2"
+}

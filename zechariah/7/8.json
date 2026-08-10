@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 7:8",
+  "book": "zechariah",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اور یاہویہ کا کلام زکریاہ کی طرف ⟨آیا⟩، یوں:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ⟨آیا⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "زکریاہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "یوں"
+    }
+  ],
+  "timestamp": "2026-08-09T23:18:32.913446707Z",
+  "model": "glm-5.2"
+}

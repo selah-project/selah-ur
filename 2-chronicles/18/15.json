@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 18:15",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "اور بادشاہ نے اس سے کہا: کتنی بارتیں میں تجھے قسم دلواؤں کہ تو مجھ سے نہ بولے، مگر سچ بولے، یاہویہ کے نام پر؟",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "اس سے"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ نے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "کتنی"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "بارتیں"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "משביעך",
+      "gloss": "تجھے قسم دلواؤں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "بولے"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مجھ سے"
+    },
+    {
+      "surface": "רק",
+      "gloss": "مگر"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "کے نام پر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    }
+  ],
+  "timestamp": "2026-08-10T01:19:36.395350904Z",
+  "model": "glm-5.2"
+}

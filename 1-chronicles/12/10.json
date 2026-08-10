@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "عِیزر سربراہ، عُوبَدْیَا دوسرا، اِلیآب تیسرا۔",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "عِیزر"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سربراہ"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "عُوبَدْیَا"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دوسرا"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "اِلیآب"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "تیسرا"
+    }
+  ],
+  "timestamp": "2026-08-10T01:03:42.934654423Z",
+  "model": "glm-5.2"
+}

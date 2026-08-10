@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 21:24",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "اور موشہ نے اَہرون اور اس کے بیٹوں اور بنی یِسرائیل کے سب بیٹوں سے بات کی۔",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "اور بات کی"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اَہرون"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "اور سے"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "اس کے بیٹوں"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "اور سے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹوں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-09T20:23:16.862400120Z",
+  "model": "glm-5.2"
+}

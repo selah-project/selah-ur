@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 17:17",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 17,
+  "translation": "میرے لیے دہشت نہ بن؛ تو میرا پناہگاہ ہے بُرے دن میں۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "بن"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے لیے"
+    },
+    {
+      "surface": "למחתה",
+      "gloss": "دہشت"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "میرا پناہگاہ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دن میں"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "بُرے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:29:14.039170942Z",
+  "model": "glm-5.2"
+}

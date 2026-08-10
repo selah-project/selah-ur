@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 3:29",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "اپنے رفیق کے خلاف برائی کا ارادہ نہ کر، اور وہ تیرے ساتھ ⟨את⟩ بھروسے سے بیٹھا ہے۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ارادہ کر"
+    },
+    {
+      "surface": "על",
+      "gloss": "کے خلاف"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "تیرے رفیق"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "اور وہ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "بیٹھا ہے"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "بھروسے سے"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ تیرے ساتھ",
+      "marks": "تیرے ساتھ"
+    }
+  ],
+  "timestamp": "2026-08-10T09:00:42.072666182Z",
+  "model": "glm-5.2"
+}

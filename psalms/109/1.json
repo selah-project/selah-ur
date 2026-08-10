@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 109,
+  "translation": "کورس کے لیے، داوِد کا مزمور۔ میری حمد کے الوہیم، خاموش نہ رہو۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "کورس کے لیے"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد کا"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مزمور"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "…کے الوہیم"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "میری حمد"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "خاموش رہو"
+    }
+  ],
+  "timestamp": "2026-08-09T23:49:20.371806761Z",
+  "model": "glm-5.2"
+}

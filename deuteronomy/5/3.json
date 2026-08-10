@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 5:3",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "یاہویہ نے ⟨את⟩ ہمارے باپ داداؤں کے ساتھ یہ عہد نہیں کاچا، بلکہ ⟨את⟩ ہمارے ساتھ، ہم — یہ ←←← یہاں آج ←←← سب زندہ۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ہمارے باپ داداؤں"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "ہمارے باپ داداؤں"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "کاچا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یہ عہد"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "عہد"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ہمارے ساتھ",
+      "marks": "ہمارے ساتھ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "פה",
+      "gloss": "یہاں"
+    },
+    {
+      "surface": "היום",
+      "gloss": "آج"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "سب"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندہ"
+    }
+  ],
+  "timestamp": "2026-08-10T07:14:06.202445650Z",
+  "model": "glm-5.2"
+}

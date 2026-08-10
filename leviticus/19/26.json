@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "خون پر نہ کھاؤ؛ نہ فال نکالو اور نہ جادو کا عمل کرو۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "تم کھاؤ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "خون"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "تم فال نکالو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "تم جادو کا عمل کرو"
+    }
+  ],
+  "timestamp": "2026-08-09T20:22:31.167673537Z",
+  "model": "glm-5.2"
+}

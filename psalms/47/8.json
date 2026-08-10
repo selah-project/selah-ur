@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 47,
+  "translation": "کیونکہ الوہیم ساری زمین کا بادشاہ ہے، سمجھدار بن کر گاؤ!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین کا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "گاؤ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "سمجھدار بن کر"
+    }
+  ],
+  "timestamp": "2026-08-09T23:32:44.067570280Z",
+  "model": "glm-5.2"
+}

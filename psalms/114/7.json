@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 114,
+  "translation": "سردار کے سامنے سے، اے زمین، کانپ، یعقوب کے الوہ کے سامنے سے۔",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "سامنے سے"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "سردار کے"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "اے زمین، کانپ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": ""
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "سامنے سے"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "الوہ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یعقوب کے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:50:32.101961328Z",
+  "model": "glm-5.2"
+}

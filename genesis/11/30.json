@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور سرای بانجھ تھی؛ اس کے لیے کوئی اولاد ⟨نہیں⟩ تھی۔",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "اور تھی"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "سرای"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "بانجھ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨نہیں⟩"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اس کے لیے"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "اولاد"
+    }
+  ],
+  "timestamp": "2026-08-10T05:12:32.471600751Z",
+  "model": "glm-5.2"
+}

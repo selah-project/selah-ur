@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 25:19",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "اور ہلاوت کے بعد ہوا۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "کے بعد"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "ہلاکت"
+    }
+  ],
+  "timestamp": "2026-08-09T20:36:13.625030731Z",
+  "model": "glm-5.2"
+}

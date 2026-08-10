@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 5:16",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "ان کا تیر دان کھلا ہوا قبر کی مانند ہے؛ وہ سب بہادر جنگجو ہیں۔",
+  "tokens": [
+    {
+      "surface": "אשפתו",
+      "gloss": "ان کا تیر دان"
+    },
+    {
+      "surface": "כקבר",
+      "gloss": "قبر کی مانند"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "کھلا ہوا"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "وہ سب"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "بہادر جنگجو ہیں"
+    }
+  ],
+  "timestamp": "2026-08-10T06:07:06.461254569Z",
+  "model": "glm-5.2"
+}

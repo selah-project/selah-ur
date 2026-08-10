@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 3:1",
+  "book": "zephaniah",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "ہائے ⟨وہ⟩ نافرمان اور گندگی! ⟨وہ⟩ شہر، ⟨وہ⟩ ظالم",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ہائے"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "نافرمان"
+    },
+    {
+      "surface": "ונגאלה",
+      "gloss": "اور گندگی"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨وہ⟩ شہر"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "⟨وہ⟩ ظالم"
+    }
+  ],
+  "timestamp": "2026-08-09T23:17:01.192345471Z",
+  "model": "glm-5.2"
+}

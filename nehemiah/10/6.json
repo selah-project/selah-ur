@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 10:6",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "حَارِم، مِریموت، عُبَدیاہ،",
+  "tokens": [
+    {
+      "surface": "חרם",
+      "gloss": "حَارِم"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "مِریموت"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "عُبَدیاہ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:54:21.099096480Z",
+  "model": "glm-5.2"
+}

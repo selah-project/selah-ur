@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 26:8",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 26,
+  "translation": "جیسے پتھر کو گولے میں باندھنا، ویسے ہی نا‌اہل کو عزت دینا ہے۔",
+  "tokens": [
+    {
+      "surface": "כצרור",
+      "gloss": "جیسے باندھنا"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "پتھر کو"
+    },
+    {
+      "surface": "במרגמה",
+      "gloss": "گولے میں"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ویسے ہی"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "دینا ہے"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "نا‌اہل کو"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "عزت"
+    }
+  ],
+  "timestamp": "2026-08-10T00:08:27.078931266Z",
+  "model": "glm-5.2"
+}

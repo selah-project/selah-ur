@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 26:17",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 26,
+  "translation": "تو زمین کے بزرگوں میں سے کچھ مردوں نے اٹھ کر ہر قوم کی مجلس سے کہا، کہتے ہوئے",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "تو اٹھے"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "مردوں نے"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "بزرگوں میں سے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨اس⟩ زمین کے"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "مجلسِ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨اس⟩ قوم کی"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہتے ہوئے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:32:05.071562620Z",
+  "model": "glm-5.2"
+}

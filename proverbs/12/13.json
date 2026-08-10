@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 12:13",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "ہونٹوں کے گناہ میں برائی کا پھندنا ہے، اور صالح ⟨کو⟩ تنگی سے نکلنا ہے۔",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "گناہ میں"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ہونٹوں کے"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "پھندنا"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برائی کا"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "اور نکلنا ہے"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "تنگی سے"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صالح"
+    }
+  ],
+  "timestamp": "2026-08-10T07:51:31.522193100Z",
+  "model": "glm-5.2"
+}

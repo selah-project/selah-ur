@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 29:23",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 29,
+  "translation": "اور تمام قومیں کہیں گی — کس بات پر یاہویہ نے اس طرح اس زمین کے ساتھ کیا؟ اس بڑے قہر کی کیسی تپش!",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "اور کہیں گی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "قومیں"
+    },
+    {
+      "surface": "על",
+      "gloss": "کس بات پر"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کس"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کئی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "اس طرح"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "اس زمین کے ساتھ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اس"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیسی"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "تپش"
+    },
+    {
+      "surface": "האף",
+      "gloss": "قہر کی"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "بڑے"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اس"
+    }
+  ],
+  "timestamp": "2026-08-09T20:55:35.400887354Z",
+  "model": "glm-5.2"
+}

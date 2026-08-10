@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 6:43",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اور ⟨את⟩ خِیلَز اور ⟨את⟩ اس کے میدان، ⟨את⟩ دِبیر اور ⟨את⟩ اس کے میدان۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "خِیلَز"
+    },
+    {
+      "surface": "חילז",
+      "gloss": "خِیلَز"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "اس کے میدان"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "اس کے میدان"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دِبیر"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "دِبیر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "اس کے میدان"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "اس کے میدان"
+    }
+  ],
+  "timestamp": "2026-08-10T01:02:17.143258242Z",
+  "model": "glm-5.2"
+}

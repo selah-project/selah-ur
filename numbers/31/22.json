@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 31,
+  "translation": "صرف ⟨את⟩ سونا اور ⟨את⟩ چاندی، ⟨את⟩ تانبا، ⟨את⟩ لوہا، ⟨את⟩ قلعی، اور ⟨את⟩ سیسہ —",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سونا"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "سونا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "چاندی"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "چاندی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تانبا"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "تانبا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لوہا"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "لوہا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قلعی"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "قلعی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "سیسہ"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "سیسہ"
+    }
+  ],
+  "timestamp": "2026-08-10T07:13:00.379346855Z",
+  "model": "glm-5.2"
+}

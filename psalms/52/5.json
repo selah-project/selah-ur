@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 52:5",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 52,
+  "translation": "تو نے برائی کو بھلائی سے زیادہ محبوب رکھا، جھوٹ کو سچ بولنے سے۔ سِلا۔",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "تو نے محبوب رکھا"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برائی کو"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "بھلائی سے زیادہ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "جھوٹ کو"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "بولنے سے"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "سچ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سِلا"
+    }
+  ],
+  "timestamp": "2026-08-09T23:34:43.752538507Z",
+  "model": "glm-5.2"
+}

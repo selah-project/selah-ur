@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 27:28",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "اور 低地 میں زیتونوں اور شِکمور درختوں پر بعَل حانان گدری تھا، اور تیل کے خزانوں پر یوعاش تھا۔",
+  "tokens": [
+    {
+      "surface": "وעל",
+      "gloss": "اور پر"
+    },
+    {
+      "surface": "הזיתים",
+      "gloss": "زیتونوں"
+    },
+    {
+      "surface": "והשקמים",
+      "gloss": "اور شِکمور درختوں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בשפלה",
+      "gloss": "低地 میں"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بعَل"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "حانان"
+    },
+    {
+      "surface": "הגדרי",
+      "gloss": "گدری"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "اور پر"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "خزانوں"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "تیل کے"
+    },
+    {
+      "surface": "יועש",
+      "gloss": "یوعاش"
+    }
+  ],
+  "timestamp": "2026-08-10T01:12:21.198436926Z",
+  "model": "glm-5.2"
+}

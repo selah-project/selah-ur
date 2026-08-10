@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 46,
+  "translation": "الوہیم ہمارا پناہگاہ اور زور ہے، بھوک میں بہت تیار ایک مدد۔",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ہمارے لیے"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "پناہگاہ"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "اور زور"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "مدد"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "بھوک میں"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "پایا جانا"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    }
+  ],
+  "timestamp": "2026-08-09T23:32:22.214786231Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "اَور یِہوناتان کا بیٹا مَریب‌بَعَل تھا؛ اَور مَری‌بَعَل نے ⟨את⟩ مِیخا کو پیدا کیا۔",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "اَور بیٹا"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "یِہوناتان کا"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "مَریب"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بَعَل"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "اَور مَری"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "بَعَل"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیدا کیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مِیخا کو"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "مِیخا"
+    }
+  ],
+  "timestamp": "2026-08-10T01:03:24.510159847Z",
+  "model": "glm-5.2"
+}

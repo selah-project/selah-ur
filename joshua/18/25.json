@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 18:25",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "گِبْعون اور ہارامہ اور بِئِروت",
+  "tokens": [
+    {
+      "surface": "גבעון",
+      "gloss": "گِبْعون"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "اور ہارامہ"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "اور بِئِروت"
+    }
+  ],
+  "timestamp": "2026-08-10T05:37:48.848883634Z",
+  "model": "glm-5.2"
+}

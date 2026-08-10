@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "ناحق جھگڑا نہ کرو کسی انسان سے، اگر اس نے تُمہیں برائی نہیں پہنچائی۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "جھگڑا نہ کرو"
+    },
+    {
+      "surface": "עם",
+      "gloss": "کے ساتھ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "کسی انسان"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ناحق"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "اس نے تُمہیں پہنچائی"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائی"
+    }
+  ],
+  "timestamp": "2026-08-09T23:58:49.922679605Z",
+  "model": "glm-5.2"
+}

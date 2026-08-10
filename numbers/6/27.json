@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 6:27",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اور وہ ⟨את⟩ میرا نام بنی یسرائیل پر رکھیں، اور میں انہیں برکت دوں گا۔",
+  "tokens": [
+    {
+      "surface": "ושמו",
+      "gloss": "اور وہ رکھیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میرا نام"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "میرا نام"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یسرائیل"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "اور میں"
+    },
+    {
+      "surface": "אברכם",
+      "gloss": "انہیں برکت دوں گا"
+    }
+  ],
+  "timestamp": "2026-08-09T20:27:16.669774502Z",
+  "model": "glm-5.2"
+}

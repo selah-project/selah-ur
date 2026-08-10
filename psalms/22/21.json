@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 22:21",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "بچا میری جان کو تلوار سے، میری اکیلی کو کتے کے پنجے سے۔",
+  "tokens": [
+    {
+      "surface": "הצילה",
+      "gloss": "بچا"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "تلوار سے"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان کو"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "کے پنجے سے"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کتے"
+    },
+    {
+      "surface": "יחידתי",
+      "gloss": "میری اکیلی کو"
+    }
+  ],
+  "timestamp": "2026-08-09T23:27:56.952786182Z",
+  "model": "glm-5.2"
+}

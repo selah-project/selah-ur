@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 5:19",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "اور تو چوری نہ کر۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "تو چوری کر"
+    }
+  ],
+  "timestamp": "2026-08-09T20:43:51.613536034Z",
+  "model": "glm-5.2"
+}

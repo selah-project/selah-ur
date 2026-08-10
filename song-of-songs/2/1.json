@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "میں ⟨ہوں⟩ شَرُون کی صحرائی گلِ ہزار، وادیوں کی ⟨ایک⟩ سوشنا۔",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "صحرائی گلِ ہزار"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "شَرُون کی"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "سوشنا"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "وادیوں کی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:25:39.542504250Z",
+  "model": "glm-5.2"
+}

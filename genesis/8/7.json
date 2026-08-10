@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "تو اس نے ⟨את⟩ کوا بھیجا، اور وہ نکلنے اور لوٹنے لگا، یہاں تک کہ پانی زمین سے سوکھ گئے۔",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "بھیجا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کوا"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "کوا"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "نکلا"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "نکلنے"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "اور لوٹنے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "یہاں تک کہ"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "سوکھ گئے"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-09T19:35:31.471781883Z",
+  "model": "glm-5.2"
+}

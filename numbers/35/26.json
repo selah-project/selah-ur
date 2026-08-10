@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 35:26",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 35,
+  "translation": "اور اگر نکلا ہی نکلے قاتل ⟨את⟩ سرحد اپنے پناہ گاہ کے شہر کی، جس کی طرف وہ بھاگا ہے وہاں،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "اور اگر"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "نکلا"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ہی نکلے"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "قاتل"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سرحد"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "מקלטו",
+      "gloss": "اپنی پناہ گاہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "بھاگا ہے"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "وہاں"
+    }
+  ],
+  "timestamp": "2026-08-09T20:41:53.223119912Z",
+  "model": "glm-5.2"
+}

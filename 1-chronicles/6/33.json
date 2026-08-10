@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 6:33",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اور اُن کے بھائی لاوِیّیم ⟨تھے⟩، مامور ⟨تھے⟩ مِشکان، گھر الوہیم کی ہر خدمت پر۔",
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "اور اُن کے بھائی"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاوِیّیم"
+    },
+    {
+      "surface": "נתונים",
+      "gloss": "مامور"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "עבודת",
+      "gloss": "خدمت پر"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "مِشکان"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوہیم کی"
+    }
+  ],
+  "timestamp": "2026-08-10T01:02:21.031067592Z",
+  "model": "glm-5.2"
+}

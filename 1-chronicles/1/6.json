@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 1:6",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "اور گُومَر کے بیٹے اَشکَنَز اور دِی فَت اور تُوگَرمَہ تھے۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "اور بیٹے"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "گُومَر"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "اَشکَنَز"
+    },
+    {
+      "surface": "ודיפת",
+      "gloss": "اور دِی فَت"
+    },
+    {
+      "surface": "ותוגרמה",
+      "gloss": "اور تُوگَرمَہ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:57:24.514047509Z",
+  "model": "glm-5.2"
+}

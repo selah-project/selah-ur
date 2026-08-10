@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "اور مزید میں نے سورج کے نیچے دیکھا: انصاف کی جگہ وہاں بدی ⟨تھی⟩، اور راست بازی کی جگہ وہاں بدی ⟨تھی⟩۔",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "اور مزید"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "میں نے دیکھا"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "نیچے"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سورج"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جگہ"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "انصاف کی"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "وہاں"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "بدی"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "اور جگہ"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "راست بازی کی"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "وہاں"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "بدی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:34:01.377695290Z",
+  "model": "glm-5.2"
+}

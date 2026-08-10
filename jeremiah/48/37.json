@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 48:37",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 48,
+  "translation": "کیونکہ ہر سر ⟨ہے⟩ گنجا، اور ہر داڑھی ⟨ہے⟩ مَنڈی ہوئی؛ ہر ہاتھوں پر ⟨ہیں⟩ گھاؤ، اور کمروں پر بوری۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "קרחה",
+      "gloss": "گنجا"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "اور ہر"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "داڑھی"
+    },
+    {
+      "surface": "גרעה",
+      "gloss": "مَنڈی ہوئی"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ہاتھوں"
+    },
+    {
+      "surface": "גדדת",
+      "gloss": "گھاؤ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "اور پر"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "کمروں"
+    },
+    {
+      "surface": "שק",
+      "gloss": "بوری"
+    }
+  ],
+  "timestamp": "2026-08-10T06:11:25.001665201Z",
+  "model": "glm-5.2"
+}

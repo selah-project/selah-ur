@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 29:29",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 29,
+  "translation": "اور چھٹے دن: آٹھ بیل، دو مینڈھے، چودہ مینڈھے کے بچے ایک سال کے، بے عیب۔",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "اور دن میں"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "چھٹے"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "بیل"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "آٹھ"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "مینڈھے"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "مینڈھے کے بچے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیانے والے"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دس"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "بے عیب"
+    }
+  ],
+  "timestamp": "2026-08-09T20:38:14.294737844Z",
+  "model": "glm-5.2"
+}

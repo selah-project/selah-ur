@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 92,
+  "translation": "کتنے بڑے ہیں تیرے کام، یاہویہ! بہت گہرے ہیں تیرے خیالات۔",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "کتنے"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "بڑے ہیں"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "تیرے کام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "گہرے ہیں"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "تیرے خیالات"
+    }
+  ],
+  "timestamp": "2026-08-09T23:43:43.608333383Z",
+  "model": "glm-5.2"
+}

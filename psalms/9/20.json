@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 9:20",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "اُٹھ، اے یاہویہ! نہ ہو قوی فانی! قومیں تیرے حضور میں فیصلے سے گزریں۔",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "اُٹھ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہویہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יעז",
+      "gloss": "ہو قوی"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "فانی"
+    },
+    {
+      "surface": "ישפטו",
+      "gloss": "فیصلے سے گزریں"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قومیں"
+    },
+    {
+      "surface": "על",
+      "gloss": "میں"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "تیرے حضور"
+    }
+  ],
+  "timestamp": "2026-08-09T23:25:46.708853598Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "nehemiah 7:47",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "بَنِی قِیروس، بَنِی سِیعا، بَنِی پَدون۔",
+  "tokens": [
+    {
+      "surface": "בְּנֵי",
+      "gloss": "بَنِی"
+    },
+    {
+      "surface": "קֵירֹ֥ס",
+      "gloss": "قِیروس"
+    },
+    {
+      "surface": "בְּנֵי",
+      "gloss": "بَنِی"
+    },
+    {
+      "surface": "סִיעָ֖א",
+      "gloss": "سِیعا"
+    },
+    {
+      "surface": "בְּנֵ֥י",
+      "gloss": "بَنِی"
+    },
+    {
+      "surface": "פָדֽוֹן",
+      "gloss": "پَدون"
+    }
+  ],
+  "timestamp": "2026-08-10T00:54:55.907500257Z",
+  "model": "glm-5.2"
+}

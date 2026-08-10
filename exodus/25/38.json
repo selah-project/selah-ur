@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 25:38",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "اور اس کے چِمٹے اور اس کے راکھ دانے خالص سونا ہوں گے۔",
+  "tokens": [
+    {
+      "surface": "ומלקחיה",
+      "gloss": "اور اس کے چِمٹے"
+    },
+    {
+      "surface": "ומחתתיה",
+      "gloss": "اور اس کے راکھ دانے"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونا"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "خالص"
+    }
+  ],
+  "timestamp": "2026-08-09T20:06:01.545121858Z",
+  "model": "glm-5.2"
+}

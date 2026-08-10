@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 139,
+  "translation": "کہاں جاؤں میں تیری روح سے؟ اور کہاں تیرے حضور سے بھاگ جاؤں؟",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "کہاں"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "جاؤں"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "تیری روح سے"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "اور کہاں"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "تیرے حضور سے"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "بھاگ جاؤں"
+    }
+  ],
+  "timestamp": "2026-08-09T23:55:55.970699508Z",
+  "model": "glm-5.2"
+}

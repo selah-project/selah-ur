@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "احمق اپنے ہاتھوں کو بغل میں دباتا ہے اور ⟨את⟩ اپنا گوشت کھاتا ہے۔",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "احمق"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "بغل میں دباتا ہے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنے ہاتھوں کو"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "اپنے ہاتھوں کو"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "اور کھاتا ہے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اپنا گوشت"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "اپنا گوشت"
+    }
+  ],
+  "timestamp": "2026-08-10T00:34:40.775302714Z",
+  "model": "glm-5.2"
+}

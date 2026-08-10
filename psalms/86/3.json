@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 86,
+  "translation": "م پر فضل کر، اے ادونای، کیونکہ میں تیری طرف پکارتا ہوں سارا دن۔",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "م پر فضل کر"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اے ادونای"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیری طرف"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "پکارتا ہوں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "دن"
+    }
+  ],
+  "timestamp": "2026-08-10T06:33:06.922694515Z",
+  "model": "glm-5.2"
+}

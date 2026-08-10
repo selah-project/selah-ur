@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 30:25",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 30,
+  "translation": "⟨⟩نملے ایک قوم ہیں ⟨जो⟩ طاقتور نہیں، لیکن گرمی میں وہ اپنی روٹی تیار کرتے ہیں۔",
+  "tokens": [
+    {
+      "surface": "הנמלים",
+      "gloss": "نملے"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ایک قوم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "עז",
+      "gloss": "طاقتور"
+    },
+    {
+      "surface": "ויכינו",
+      "gloss": "اور تیار کی"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "گرمی میں"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "ان کی روٹی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:09:32.221128002Z",
+  "model": "glm-5.2"
+}

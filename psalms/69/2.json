@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 69,
+  "translation": "اے الوہیم، مجھے بچا لے، کیونکہ پانی ⟨میری⟩ جان تک پہنچ چکے ہیں۔",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "مجھے بچا لے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "اے الوہیم"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "پہنچ چکے ہیں"
+    },
+    {
+      "surface": "מים",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان"
+    }
+  ],
+  "timestamp": "2026-08-09T23:37:50.435644588Z",
+  "model": "glm-5.2"
+}

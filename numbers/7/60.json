@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 7:60",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "نویں دن، بنیامین کے بیٹوں کا نسل سے ایک سردار، اَوِیدان (گِدْعونی کا بیٹا)۔",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "نویں"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "سردار"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "کے بیٹوں کا"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بِنیامین"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "اَوِیدان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "גדעני",
+      "gloss": "گِدْعونی"
+    }
+  ],
+  "timestamp": "2026-08-09T20:28:21.332956027Z",
+  "model": "glm-5.2"
+}

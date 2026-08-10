@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 27:25",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "مَلعون ⟨ہو⟩ وہ جو رِشوت لیتا ہے تاکہ ⟨وہ⟩ ⟨کسی⟩ بےگناہ کے خون کی جان کو مارے، اور تمام لوگ کہیں گے: آمِین۔",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "مَلعون"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "وہ جو لیتا ہے"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "رِشوت"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "تاکہ مارے"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "جان کو"
+    },
+    {
+      "surface": "דם",
+      "gloss": "خون (کے)"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "بےگناہ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "اور کہیں گے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوگ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمِین"
+    }
+  ],
+  "timestamp": "2026-08-10T08:40:56.066425990Z",
+  "model": "glm-5.2"
+}

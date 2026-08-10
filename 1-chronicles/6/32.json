@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 6:32",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "بَن مَحْلی کا، بَن موشی کا، بَن مْراری کا، بَن لِوی کا۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "بَن"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "مَحْلی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بَن"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "موشی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بَن"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مْراری"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بَن"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لِوی"
+    }
+  ],
+  "timestamp": "2026-08-10T01:01:33.670691080Z",
+  "model": "glm-5.2"
+}

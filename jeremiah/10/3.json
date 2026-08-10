@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 10:3",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "کیونکہ قوموں کے رَسم بےکار ہیں؛ کیونکہ ⟨اس نے⟩ جنگل سے درخت کاٹا، دستِ کاریگر کا کام، کلہاڑے سے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "رَسم"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "قوموں کے"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "بےکار"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ہیں⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "درخت"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "جنگل سے"
+    },
+    {
+      "surface": "כרתו",
+      "gloss": "کاٹا"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کام"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "دست"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "کاریگر کا"
+    },
+    {
+      "surface": "במעצד",
+      "gloss": "کلہاڑے سے"
+    }
+  ],
+  "timestamp": "2026-08-10T08:52:02.925122226Z",
+  "model": "glm-5.2"
+}

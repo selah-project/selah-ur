@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 3:4",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "اور اُس نے مجھ سے کہا: اے ابنِ آدم، جا، بَیت یِسرائیل کے پاس آ، اور اُن سے میرے بول بول۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور اُس نے کہا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مجھ سے"
+    },
+    {
+      "surface": "בן",
+      "gloss": "اے بیٹے"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم کے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "جا"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کے پاس"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "اور تُو بول"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "میرے بول"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "اُن سے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:47:50.915476723Z",
+  "model": "glm-5.2"
+}

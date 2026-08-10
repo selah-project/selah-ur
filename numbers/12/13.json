@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 12:13",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "چنانچہ موشے نے یاہویہ کو پکارا، کہتے ہوئے: اے ایل، اِبتدا میں، اِبتدا میں اِسے شفا دے!",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "چنانچہ پکارا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہتے ہوئے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اے ایل"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اِبتدا میں"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "شفا دے"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اِبتدا میں"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اِسے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:30:10.400381284Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 19:21",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "اور رَمَت، اور عِین گَنّیم، اور عِین حَدّہ، اور بَیت پَصِّیص۔",
+  "tokens": [
+    {
+      "surface": "ורמת",
+      "gloss": "اور رَمَت"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "اور عِین"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "گَنّیم"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "اور عِین"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "حَدّہ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "اور بَیت"
+    },
+    {
+      "surface": "פצץ",
+      "gloss": "پَصِّیص"
+    }
+  ],
+  "timestamp": "2026-08-09T21:04:10.681739630Z",
+  "model": "glm-5.2"
+}

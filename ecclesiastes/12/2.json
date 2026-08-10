@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "قبل اس کے کہ سورج نہ ہو اور روشنی اور چاند اور ستارے، اور بادل بارش کے بعد واپس آ جائیں۔",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "قبل اس کے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "ہو"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سورج"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "اور روشنی"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "اور چاند"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "اور ستارے"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "اور واپس آ جائیں"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "بادل"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "کے بعد"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "بارش"
+    }
+  ],
+  "timestamp": "2026-08-10T00:37:59.851903150Z",
+  "model": "glm-5.2"
+}

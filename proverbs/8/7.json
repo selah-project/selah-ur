@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 8:7",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "کیونکہ سچائی کو میرا تالو بکنا ہے، اور برائی میرے ہونٹوں کے لیے مکروہ ہے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچائی کو"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "بکنا ہے"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "میرا تالو"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "اور مکروہ ہے"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "میرے ہونٹوں کے لیے"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "برائی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:00:14.815967670Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 6:2",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "حسین اور نازک کو، بَت تِسیون کو، میں نے 〈ختم کر دیا〉۔",
+  "tokens": [
+    {
+      "surface": "הנוה",
+      "gloss": "حسین"
+    },
+    {
+      "surface": "והמענגה",
+      "gloss": "اور نازک کو"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "میں نے ختم کیا"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بَت"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "تِسیون"
+    }
+  ],
+  "timestamp": "2026-08-10T06:07:45.716558238Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 77,
+  "translation": "میں نے پچھلے دنوں کو سوچا، ازل کے سالوں کو۔",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "میں نے سوچا"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دنوں کو"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "پچھلے"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "سالوں کو"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "ازل کے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:39:25.417735026Z",
+  "model": "glm-5.2"
+}

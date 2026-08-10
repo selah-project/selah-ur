@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 19:20",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "مشورہ سن، اور ادب قبول کر، تاکہ تو اپنے آخری انجام میں حکیم بنے۔",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "سن"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "مشورہ"
+    },
+    {
+      "surface": "וקבל",
+      "gloss": "اور قبول کر"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ادب"
+    },
+    {
+      "surface": "למען",
+      "gloss": "تاکہ"
+    },
+    {
+      "surface": "תחכם",
+      "gloss": "تو حکیم بنے"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "اپنے آخری انجام میں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:04:45.459705760Z",
+  "model": "glm-5.2"
+}

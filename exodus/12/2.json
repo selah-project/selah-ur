@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "”یہ مہینہ تمہارے لیے مہینوں کا سر ہے؛ یہ تمہارے لیے سال کے مہینوں کا پہلا ہے۔",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "یہ مہینہ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تمہارے لیے"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "مہینوں کا"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "پہلا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ہے ⟨وہ⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تمہارے لیے"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "مہینوں کا"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "سال کے"
+    }
+  ],
+  "timestamp": "2026-08-09T19:58:47.812602215Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 18:15",
+  "book": "1-samuel",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "اور شاؤل نے دیکھا کہ وہ بہت کامیاب ہے، تو وہ اُس سے ڈرنے لگا۔",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "اور دیکھا"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "شاؤل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "کامیاب"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "تو ڈرنے لگا"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "اُس سے"
+    }
+  ],
+  "timestamp": "2026-08-09T21:24:42.174619458Z",
+  "model": "glm-5.2"
+}

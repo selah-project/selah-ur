@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 33,
+  "translation": "⟨اس کے لیے⟩ گاؤ نیا گیت؛ ساز کو خوبصورتی سے بجاؤ، رنانے کے ساتھ۔",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "گاؤ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨اس کے لیے⟩"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گیت"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نیا"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "خوبصورتی سے بجاؤ"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "ساز"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "رنانے کے ساتھ"
+    }
+  ],
+  "timestamp": "2026-08-09T23:30:40.202245097Z",
+  "model": "glm-5.2"
+}

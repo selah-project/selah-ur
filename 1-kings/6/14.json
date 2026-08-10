@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "تو شِلوموہ نے ⟨את⟩ گھر کو بنایا اور اسے مکمل کیا۔",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "تو اس نے بنایا"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شِلوموہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گھر"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "اور اسے مکمل کیا"
+    }
+  ],
+  "timestamp": "2026-08-09T21:42:16.861347190Z",
+  "model": "glm-5.2"
+}

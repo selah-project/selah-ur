@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "اور ⟨את⟩ بھیڑ کو وہ چار گنا بدل دے، اس لیے کہ اُس نے ⟨את⟩ یہ بات کی اور اس لیے کہ اُس نے رحم نہیں کیا۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "بھیڑ"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "بھیڑ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "بدل دے"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "چار گنا"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "اس لیے کہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "اُس نے کی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یہ بات"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "بات"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "اور اس لیے کہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "اُس نے رحم"
+    }
+  ],
+  "timestamp": "2026-08-09T21:34:06.562033732Z",
+  "model": "glm-5.2"
+}

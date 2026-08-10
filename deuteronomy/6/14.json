@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "دیگر الوہیم کے پیچھے نہ چلو، اُن قوموں کے الوہیم میں سے جو تمہارے گرد و نواح ہیں،",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "چلو"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "کے پیچھے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "دیگر"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "کے الوہیم میں سے"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "قوموں کے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "تمہارے گرد و نواح ہیں"
+    }
+  ],
+  "timestamp": "2026-08-09T20:45:52.195769818Z",
+  "model": "glm-5.2"
+}

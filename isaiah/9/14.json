@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 9:14",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "بُڑھا اور ⟨چہرے اٹھانے والا⟩ وہی سر ہے، اور جھوٹ سکھانے والا نبی وہی دُم ہے۔",
+  "tokens": [
+    {
+      "surface": "זקן",
+      "gloss": "بُڑھا"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "اور اٹھایا ہوا"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "چہرے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "اور نبی"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "سکھانے والا"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "جھوٹ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "הזנב",
+      "gloss": "دُم"
+    }
+  ],
+  "timestamp": "2026-08-10T07:21:45.017198483Z",
+  "model": "glm-5.2"
+}

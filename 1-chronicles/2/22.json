@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 2:22",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور سگوب نے ⟨את⟩ یائیر کو جنم دیا، اور اس کے لیے گِلعاد کی سرزمین میں بائیس اور تین شہر ہوئے۔",
+  "tokens": [
+    {
+      "surface": "ושגוב",
+      "gloss": "اور سگوب"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "جنم دیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یائیر"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "یائیر"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوئے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اس کے لیے"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بائیس"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "اور تین"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "سرزمین میں"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "گِلعاد"
+    }
+  ],
+  "timestamp": "2026-08-10T00:58:58.055505872Z",
+  "model": "glm-5.2"
+}

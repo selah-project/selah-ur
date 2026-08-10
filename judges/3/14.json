@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "اور یِسرائیل کے بَنّوں نے موآب کے بادشاہ عِغلون کی ⟨את⟩ خدمت کی اٹھارہ سال۔",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "اور خدمت کی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَنّوں نے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل کے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "عِغلون"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "عِغلون"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب کے"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "اٹھارہ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    }
+  ],
+  "timestamp": "2026-08-10T07:16:15.472046578Z",
+  "model": "glm-5.2"
+}

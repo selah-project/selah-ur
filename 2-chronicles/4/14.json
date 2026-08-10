@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "اور ⟨את⟩ کھونٹیوں کو بنایا، اور ⟨אت⟩ حوضوں کو بنایا، کھونٹیوں پر۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "کھونٹیوں کو"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "کھونٹیوں کو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بنایا"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "حوضوں کو"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "حوضوں کو"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بنایا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "کھونٹیوں"
+    }
+  ],
+  "timestamp": "2026-08-10T06:52:07.128692760Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 140:3",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 140,
+  "translation": "جو دل میں برائیاں سوچتے ہیں، ہر روز جنگیں اکٹھی کرتے ہیں۔",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "سوچتے ہیں"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "برائیاں"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "دل میں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "יָג֥וּרוּ",
+      "gloss": "اکٹھی کرتے ہیں"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "جنگیں"
+    }
+  ],
+  "timestamp": "2026-08-09T23:55:53.054830447Z",
+  "model": "glm-5.2"
+}

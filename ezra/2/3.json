@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 2:3",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "پَرْعوش کے بیٹے: دو ہزار، ایک سو، اٹھہتر۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "پَرْعوش کے"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "دو ہزار"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ایک سو"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "اٹھہتر"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "اور دو"
+    }
+  ],
+  "timestamp": "2026-08-10T00:46:51.833383350Z",
+  "model": "glm-5.2"
+}

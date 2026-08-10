@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "judges 9:39",
+  "book": "judges",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "تو گَعَل شَکیم کے سرداروں کے آگے نِکلا، اور اَبیمَلِخ سے لڑا۔",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "تو نِکلا"
+    },
+    {
+      "surface": "געל",
+      "gloss": "گَعَل"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "کے آگے"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "سرداروں"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شَکیم کے"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "اور لڑا"
+    },
+    {
+      "surface": "באבימלך",
+      "gloss": "اَبیمَلِخ سے"
+    }
+  ],
+  "timestamp": "2026-08-09T21:13:10.870929782Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 2:6",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور اس کا لشکر اور اس کے گنے گئے چونسٹھ ہزار چار سو ⟨ہیں⟩۔",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "اور اس کا لشکر"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "اور اس کے گنے گئے"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "اور پچاس"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "اور چار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    }
+  ],
+  "timestamp": "2026-08-10T05:26:36.195456392Z",
+  "model": "glm-5.2"
+}

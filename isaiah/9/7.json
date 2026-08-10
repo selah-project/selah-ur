@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "ایک بات ادونای نے یعقوب میں بھیجی، اور وہ یِسرائیل میں گری۔",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ایک بات"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "بھیجی"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "یعقوب میں"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "اور گری"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "یِسرائیل میں"
+    }
+  ],
+  "timestamp": "2026-08-09T22:04:59.582589189Z",
+  "model": "glm-5.2"
+}

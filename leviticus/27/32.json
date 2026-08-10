@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 27:32",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "اور مویشی اور ریوڑ کا سارا دسواں حصہ — ہر ⟨وہ⟩ جو عصے کے نیچے سے گزرے — دسواں مقدس ہوگا، یاہویہ کے لیے۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "اور سارا"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "دسواں حصہ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "مویشی"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "اور ریوڑ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "گزرے"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "نیچے سے"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "عصے کے"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "دسواں"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوگا"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہویہ کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:26:39.203938638Z",
+  "model": "glm-5.2"
+}

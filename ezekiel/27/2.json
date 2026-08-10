@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 27:2",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "اور تو، اے ابنِ آدم، صُور پر ایک نوحہ اٹھا،",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "اور تو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "שא",
+      "gloss": "اٹھا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "צר",
+      "gloss": "صُور"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "نوحہ"
+    }
+  ],
+  "timestamp": "2026-08-09T22:55:35.243569083Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 40,
+  "translation": "تو یوسف نے اُس سے کہا: یہ اُس کی تعبیر ہے — تین بیلِ شاخیں، وہ تین دن ہیں۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "تو کہا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُس سے"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف نے"
+    },
+    {
+      "surface": "זה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "تعبیر ہے"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "تین"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "بیلِ شاخیں"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "تین"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دن"
+    },
+    {
+      "surface": "הם",
+      "gloss": "وہ ہیں"
+    }
+  ],
+  "timestamp": "2026-08-10T05:16:44.859855875Z",
+  "model": "glm-5.2"
+}

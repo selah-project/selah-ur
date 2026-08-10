@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 4:11",
+  "book": "hosea",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "زناکاری اور شراب اور تیز شراب دل کو لے لیتی ہیں۔",
+  "tokens": [
+    {
+      "surface": "זנות",
+      "gloss": "زناکاری"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "اور شراب"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "اور تیز شراب"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "لے لیتی ہیں"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل کو"
+    }
+  ],
+  "timestamp": "2026-08-10T06:21:02.836225772Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 7:19",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اور گوشت جو کسی ناپاک چیز کو چھوئے، کھایا نہ جائے — آگ میں جلایا جائے؛ اور گوشت — ہر پاک شخص گوشت کھائے۔",
+  "tokens": [
+    {
+      "surface": "והבשר",
+      "gloss": "اور گوشت"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "چھوئے"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "کسی بھی"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ناپاک"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھایا جائے"
+    },
+    {
+      "surface": "באש",
+      "gloss": "آگ میں"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "جلایا جائے"
+    },
+    {
+      "surface": "והבשר",
+      "gloss": "اور گوشت"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھائے"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    }
+  ],
+  "timestamp": "2026-08-10T07:11:24.804351888Z",
+  "model": "glm-5.2"
+}

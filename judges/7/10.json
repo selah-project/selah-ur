@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 7:10",
+  "book": "judges",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اور اگر تو ڈرتا ہے اترنے کے لیے، تو تو اُتر، اور تیرا نَوَکر پُورہ، ڈیرے کی طرف۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "اور اگر"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ڈرتا ہے"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "اترنے کے لیے"
+    },
+    {
+      "surface": "רד",
+      "gloss": "اُتر"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "ופרה",
+      "gloss": "اور پُورہ"
+    },
+    {
+      "surface": "נערך",
+      "gloss": "تیرا نَوَکر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ڈیرے کی"
+    }
+  ],
+  "timestamp": "2026-08-09T21:10:39.007312785Z",
+  "model": "glm-5.2"
+}

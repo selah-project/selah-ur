@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 149:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 149,
+  "translation": "ہلیلُو یاہ! یاہویہ کو نیا گیت گاؤ؛ ⟨اس کی⟩ تعریف خیسِدیم کی مجلس میں ہو۔",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "ہلیلُو کرو"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "گاؤ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہویہ کو"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گیت"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نیا"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "اس کی تعریف"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "مجلس میں"
+    },
+    {
+      "surface": "חסידים",
+      "gloss": "خیسِدیم کی"
+    }
+  ],
+  "timestamp": "2026-08-09T23:56:52.066403722Z",
+  "model": "glm-5.2"
+}

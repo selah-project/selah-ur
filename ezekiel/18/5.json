@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 18:5",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "اور اگر کوئی ⟨آدمی⟩ نیک ہو اور انصاف اور راست بازاری کرے،",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "اور ⟨آدمی⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہو"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نیک"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "اور کرے"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "راست بازاری"
+    }
+  ],
+  "timestamp": "2026-08-10T07:26:32.664443306Z",
+  "model": "glm-5.2"
+}

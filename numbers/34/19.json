@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 34:19",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 34,
+  "translation": "اور یہ ہیں ⟨وہ⟩ مردوں کے نام: قبیلہ یِہودا کے لیے کالِو بِن یِفُنّے۔",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "اور یہ"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "نام"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "⟨وہ⟩ مردوں کے"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "قبیلہ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یِہودا کے لیے"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کالِو"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بِن"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "یِفُنّے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:41:08.076728038Z",
+  "model": "glm-5.2"
+}

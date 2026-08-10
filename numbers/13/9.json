@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 13:9",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "بِنْیَامین کے قبیلے کے لیے پَلْتِی بِن رَفوء۔",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "قبیلے کے لیے"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "بِنْیَامین"
+    },
+    {
+      "surface": "פלטי",
+      "gloss": "پَلْتِی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بِن"
+    },
+    {
+      "surface": "רפוא",
+      "gloss": "رَفوء"
+    }
+  ],
+  "timestamp": "2026-08-10T05:27:26.389016477Z",
+  "model": "glm-5.2"
+}

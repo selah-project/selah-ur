@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 8:17",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اَور زَبدَیَّہ، اَور مَشُلَّم، اَور خِزقی، اَور خابِر۔",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "اَور زَبدَیَّہ"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "اَور مَشُلَّم"
+    },
+    {
+      "surface": "וחזקי",
+      "gloss": "اَور خِزقی"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "اَور خابِر"
+    }
+  ],
+  "timestamp": "2026-08-10T01:01:59.852089602Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 81:14",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 81,
+  "translation": "اَے کاش! میری قوم مجھ سے سنتی، یِسرائیل میری راہوں میں چلتا!",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "اَے کاش!"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "میری قوم"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "سنتی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مجھ سے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "میری راہوں میں"
+    },
+    {
+      "surface": "יהלכו",
+      "gloss": "چلتا"
+    }
+  ],
+  "timestamp": "2026-08-09T23:40:42.603666527Z",
+  "model": "glm-5.2"
+}

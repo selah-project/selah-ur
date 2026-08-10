@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 32:23",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 32,
+  "translation": "میں اُن پر برائیاں جمع کروں گا؛ میں اپنے تیر اُن میں ختم کروں گا۔",
+  "tokens": [
+    {
+      "surface": "אספה",
+      "gloss": "میں جمع کروں گا"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "اُن پر"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "برائیاں"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "اپنے تیر"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "میں ختم کروں گا"
+    },
+    {
+      "surface": "בם",
+      "gloss": "اُن میں"
+    }
+  ],
+  "timestamp": "2026-08-10T05:35:46.111700370Z",
+  "model": "glm-5.2"
+}

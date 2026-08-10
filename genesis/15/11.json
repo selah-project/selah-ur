@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 15:11",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 15,
+  "translation": "اور شکار پرندے لاشوں پر اُترے، اور اَوراہام نے اُنہیں ⟨⟨את⟩⟩ ہانکا۔",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "اور اُترے"
+    },
+    {
+      "surface": "העיט",
+      "gloss": "شکار پرندے"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הפגרים",
+      "gloss": "لاشوں"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "اور ہانکا"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "اُنہیں"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "اَوراہام"
+    }
+  ],
+  "timestamp": "2026-08-10T05:11:42.748288426Z",
+  "model": "glm-5.2"
+}

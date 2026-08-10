@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور تم انہیں اپنے گھر کے چوکھٹوں اور اپنے دروازوں پر لکھو۔",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "اور تم لکھو"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "چوکھٹوں"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "اپنے گھر کے"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "اور اپنے دروازوں"
+    }
+  ],
+  "timestamp": "2026-08-09T20:47:25.328458864Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 1:40",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "اور تم اپنا رُخ پھیر لو اور صحرا کی طرف روانہ ہو جاؤ، راهِ بحرِ قُلزم کی۔",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "اور تم"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "اپنا رُخ پھیر لو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "اپنے لیے"
+    },
+    {
+      "surface": "וסעו",
+      "gloss": "اور روانہ ہو جاؤ"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "صحرا کی طرف"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "راهِ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "بحرِ"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "قُلزم"
+    }
+  ],
+  "timestamp": "2026-08-09T20:43:07.984747478Z",
+  "model": "glm-5.2"
+}

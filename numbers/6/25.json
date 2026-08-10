@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 6:25",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "یاہویہ اپنا چہرہ تجھ پر روشن کرے اور تجھ پر مہربان ہو۔",
+  "tokens": [
+    {
+      "surface": "יאר",
+      "gloss": "روشن کرے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "اپنا چہرہ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تجھ پر"
+    },
+    {
+      "surface": "ויחנך",
+      "gloss": "اور تجھ پر مہربان ہو"
+    }
+  ],
+  "timestamp": "2026-08-09T20:27:16.669369660Z",
+  "model": "glm-5.2"
+}

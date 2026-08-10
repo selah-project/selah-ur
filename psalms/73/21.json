@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 73,
+  "translation": "کیونکہ میرا دل خَمیر ہو گیا، اور میری گُردے تیز ہوئے،",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "خَمیر ہو گیا"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "میرا دل"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "اور میری گُردے"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "تیز ہوئے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:38:24.053172694Z",
+  "model": "glm-5.2"
+}

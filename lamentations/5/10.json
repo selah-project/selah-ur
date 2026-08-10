@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "ہماری کھال تنور کی طرح بھن گئی، بھوک کی تپشوں کے سامنے سے۔",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "ہماری کھال"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "تنور کی طرح"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "بھن گئی"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "کے سامنے سے"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "تپشوں"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "بھوک کی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:32:47.390304967Z",
+  "model": "glm-5.2"
+}

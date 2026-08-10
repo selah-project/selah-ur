@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 25:2",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "جسے نبی یِرمَیاهو نے ساری قوم یہوداہ اور یروشلایم کے تمام باشندوں سے کہا۔",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جسے"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کہا"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "یِرمَیاهو"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "نبی"
+    },
+    {
+      "surface": "על",
+      "gloss": "سے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "اور"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "باشندوں"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "سے کہا"
+    }
+  ],
+  "timestamp": "2026-08-10T06:09:42.399047938Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 7:3",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اور آسمان کے پرندوں میں سے بھی سات سات، نر اور مادہ، تاکہ سارے زمین کے رُخ پر بیج زندہ رہے۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "بھی"
+    },
+    {
+      "surface": "מעוף",
+      "gloss": "پرندوں میں سے"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "آسمان کے"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "سات"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "سات"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "نر"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "اور مادہ"
+    },
+    {
+      "surface": "לחיות",
+      "gloss": "تاکہ زندہ رہے"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "بیج"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "رخ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین کے"
+    }
+  ],
+  "timestamp": "2026-08-09T19:36:00.372798498Z",
+  "model": "glm-5.2"
+}

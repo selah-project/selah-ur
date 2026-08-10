@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 14:7",
+  "book": "zechariah",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "اور ہوگا ایک دن، وہ یاہویہ کو جانا جانے گا، نہ دن اور نہ رات، اور ہوگا وقتِ شام کو، تو روشنی ہوگی۔",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "اور ہوگا"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "جانا جانے گا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہویہ کو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "رات"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "اور ہوگا"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "کو وقت"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "شام"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوگی"
+    },
+    {
+      "surface": "אור",
+      "gloss": "روشنی"
+    }
+  ],
+  "timestamp": "2026-08-09T23:20:34.061949568Z",
+  "model": "glm-5.2"
+}

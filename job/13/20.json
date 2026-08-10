@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 13:20",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "صرف دو باتیں میرے ساتھ نہ کرنا؛ تب میں تیرے سامنے سے نہیں چھپوں گا۔",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעש",
+      "gloss": "کرنا"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "میرے ساتھ"
+    },
+    {
+      "surface": "אז",
+      "gloss": "تب"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "تیرے سامنے سے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "چھپوں گا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:14:05.386971324Z",
+  "model": "glm-5.2"
+}

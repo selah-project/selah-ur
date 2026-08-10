@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 33:18",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 33,
+  "translation": "اور وہ روانہ ہوئے حَصیروت سے، اور ٹھہرے رِتْمہ میں۔",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "اور وہ روانہ ہوئے"
+    },
+    {
+      "surface": "מחצרת",
+      "gloss": "حَصیروت سے"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "اور ٹھہرے"
+    },
+    {
+      "surface": "ברתמה",
+      "gloss": "رِتْمہ میں"
+    }
+  ],
+  "timestamp": "2026-08-09T20:40:25.552918229Z",
+  "model": "glm-5.2"
+}

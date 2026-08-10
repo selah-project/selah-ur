@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 3:2",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "اور ⟨ایسا ہوا⟩ تین دن کے اختتام پر، کہ اہلکار پڑاؤ کے بیچ سے گزرے۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ⟨ایسا ہوا⟩"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "اختتام پر"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "تین"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دن کے"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "کہ گزرے"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "اہلکار"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "بیچ سے"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "پڑاؤ کے"
+    }
+  ],
+  "timestamp": "2026-08-10T05:36:21.601375344Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 23:16",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "ساتویں شَبات کے اگلے دن تک تم پچاس دن گنو گے، اور تم یاہویہ کو نیا تحفہ پیش کرو گے۔",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "اگلے دن"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "شَبات"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "ساتویں"
+    },
+    {
+      "surface": "תספרו",
+      "gloss": "تم گنو گے"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پچاس"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "اور تم پیش کرو گے"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "تحفہ"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "نیا"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہویہ کو"
+    }
+  ],
+  "timestamp": "2026-08-10T05:25:18.396821690Z",
+  "model": "glm-5.2"
+}

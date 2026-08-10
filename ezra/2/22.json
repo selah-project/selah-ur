@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 2:22",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "نَطُفہ کے مرد، پچاس اور چھ۔",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "مرد"
+    },
+    {
+      "surface": "נטפה",
+      "gloss": "نَطُفہ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "پچاس"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "اور چھ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:46:17.538453291Z",
+  "model": "glm-5.2"
+}

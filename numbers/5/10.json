@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "اور ⟨ہر⟩ آدمی کے مقدس تحفے اس کے ہوں گے؛ جو کچھ کوئی آدمی کاہن کو دے، وہ اس کا ہوگا۔",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "اور ⟨ہر⟩ آدمی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اس کے مقدس تحفے"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "اس کے مقدس تحفے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اس کے"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ہوں گے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "جو کوئی آدمی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دے"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "کاہن کو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اس کا"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوگا"
+    }
+  ],
+  "timestamp": "2026-08-10T07:12:32.274576038Z",
+  "model": "glm-5.2"
+}

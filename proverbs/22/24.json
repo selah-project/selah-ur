@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "غصے والے آدمی سے دوستی نہ کرنا، اور ⟨את⟩ غیظ و غضب کے آدمی کے ساتھ نہ جانا۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "دوستی کرنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "غصے والے آدمی"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "مالکِ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "غصے"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "غیظ و غضب کے آدمی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "غیظ و غضب کے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "جانا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:07:10.462207855Z",
+  "model": "glm-5.2"
+}

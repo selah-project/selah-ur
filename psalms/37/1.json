@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 37:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 37,
+  "translation": "داؤُد کا۔ بدکاروں سے غصہ مت کرو، ظلم کرنے والوں پر رشک مت کرو۔",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "داؤُد کا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مت"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "غصہ کرو"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "بدکاروں سے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مت"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "رشک کرو"
+    },
+    {
+      "surface": "בעשי",
+      "gloss": "کرنے والوں پر"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ظلم"
+    }
+  ],
+  "timestamp": "2026-08-09T23:31:14.780273806Z",
+  "model": "glm-5.2"
+}

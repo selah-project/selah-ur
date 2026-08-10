@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 48,
+  "translation": "एक गीत, एक मिज़्मोर, कोरह के बेटों के लिए।",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "एक गीत"
+    },
+    {
+      "surface": "מזמोר",
+      "gloss": "एक मिज़्मोर"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "के बेटों के लिए"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरह"
+    }
+  ],
+  "timestamp": "2026-08-09T23:33:02.936015690Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 10:23",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "اور مَنَشّے کے بیٹوں کے قبیلے کی فوج پر گَملیایل پِداہ‌صور کا بیٹا تھا۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "اور پر"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "فوج"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "قبیلے کی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹوں کے"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "مَنَشّے"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "گَملیایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "پِداہ‌"
+    },
+    {
+      "surface": "צור",
+      "gloss": "صور"
+    }
+  ],
+  "timestamp": "2026-08-10T05:27:31.198189379Z",
+  "model": "glm-5.2"
+}

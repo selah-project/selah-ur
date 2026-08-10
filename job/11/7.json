@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 11:7",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "کیا الوہ کی کھوج پاسکتے ہیں؟ کیا شدّای کی انتہا تک پاسکتے ہیں؟",
+  "tokens": [
+    {
+      "surface": "החקר",
+      "gloss": "کیا کھوج"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "الوہ کی"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "پاسکتے ہیں"
+    },
+    {
+      "surface": "אם",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "תכלית",
+      "gloss": "انتہا"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدّای کی"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "پاسکتے ہیں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:13:58.977721667Z",
+  "model": "glm-5.2"
+}

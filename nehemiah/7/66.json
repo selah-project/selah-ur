@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "nehemiah 7:66",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "ساری جلسہ ⟨تھی⟩ ایک ساتھ: چار ریبو، دو ہزار، تین سو، اور ساٹھ۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "جلسہ"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "ایک ساتھ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "ریبو"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "دو ہزار"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "تین"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "اور ساٹھ"
+    }
+  ],
+  "timestamp": "2026-08-10T07:34:43.713661390Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 13:2",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "جو تم جانتے ہو وہی میں بھی جانتا ہں، میں تم سے کمتر نہیں ہوں۔",
+  "tokens": [
+    {
+      "surface": "כדעתכם",
+      "gloss": "جیسا تم جانتے ہو"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "میں جانتا ہوں"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بھی"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "گرتا"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "تم سے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:13:45.743758362Z",
+  "model": "glm-5.2"
+}

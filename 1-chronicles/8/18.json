@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 8:18",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اَور یِشمَرای، اَور یِزلیاہ، اَور یووَب، اِلپَعَل کے بیٹے تھے۔",
+  "tokens": [
+    {
+      "surface": "וישמרי",
+      "gloss": "اَور یِشمَرای"
+    },
+    {
+      "surface": "ויזליאה",
+      "gloss": "اَور یِزلیاہ"
+    },
+    {
+      "surface": "ויובב",
+      "gloss": "اَور یووَب"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کے بیٹے"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "اِلپَعَل"
+    }
+  ],
+  "timestamp": "2026-08-10T01:01:59.852306917Z",
+  "model": "glm-5.2"
+}

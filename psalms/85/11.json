@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 85,
+  "translation": "خِیسِد اور سچائی ملے، انصاف اور شالوم نے ایک دوسرے کو بوسہ دیا۔",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "خِیسِد"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "اور سچائی"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "ملے"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "اور شالوم"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "بوسہ دیا"
+    }
+  ],
+  "timestamp": "2026-08-10T06:33:09.327396523Z",
+  "model": "glm-5.2"
+}

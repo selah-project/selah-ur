@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 31:53",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 31,
+  "translation": "(کیونکہ لشکر کے مردوں نے لوٹا تھا، ہر ایک اپنے لیے۔)",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "مردوں نے"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "لشکر کے"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "لوٹا تھا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ہر ایک"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اپنے لیے"
+    }
+  ],
+  "timestamp": "2026-08-10T05:29:50.507362427Z",
+  "model": "glm-5.2"
+}

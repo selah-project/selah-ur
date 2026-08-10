@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 10:17",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "زمین سے اپنا اسباب اکٹھا کر، اے محصور میں رہنے والی،",
+  "tokens": [
+    {
+      "surface": "אספי",
+      "gloss": "اکٹھا کر"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "زمین سے"
+    },
+    {
+      "surface": "כנעתך",
+      "gloss": "تیرا اسباب"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "اے رہنے والی"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "محصور میں"
+    }
+  ],
+  "timestamp": "2026-08-10T06:06:21.362328346Z",
+  "model": "glm-5.2"
+}

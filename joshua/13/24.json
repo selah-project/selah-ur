@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 13:24",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "اور موشے نے قبیلے کو دیا — گاد کو — بنی گاد کو، اُن کے خاندانوں کے لیے۔",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "اور دیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "قبیلے کو"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "גד",
+      "gloss": "گاد"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "اُن کے خاندانوں کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T21:01:41.917217567Z",
+  "model": "glm-5.2"
+}

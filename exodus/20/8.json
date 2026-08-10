@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "یاد رکھنا ⟨את⟩ شَبات کے دن کو، ⟨اسے⟩ مقدس کرنے کے لیے۔",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "یاد رکھنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دن کو"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "شَبات کے"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "⟨اسے⟩ مقدس کرنے کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:03:51.774682755Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 8:14",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اور اَخِیو، شاشاق، اور یِریموت۔",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "اور اَخِیو"
+    },
+    {
+      "surface": "ששק",
+      "gloss": "شاشاق"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "اور یِریموت"
+    }
+  ],
+  "timestamp": "2026-08-10T01:02:37.215224486Z",
+  "model": "glm-5.2"
+}

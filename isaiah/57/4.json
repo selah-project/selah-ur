@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 57:4",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 57,
+  "translation": "کس کے خلاف تم ہنستے ہو؟ کس کے خلاف تم منہ کھولتے ہو، زبان لٹکاتے ہو؟ کیا تم باغی بچے نہیں ہو، جھوٹ کی نسل؟",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "کے خلاف"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کس"
+    },
+    {
+      "surface": "תתענגו",
+      "gloss": "تم ہنستے ہو"
+    },
+    {
+      "surface": "על",
+      "gloss": "کے خلاف"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کس"
+    },
+    {
+      "surface": "תרחיבו",
+      "gloss": "تم کھولتے ہو"
+    },
+    {
+      "surface": "פה",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "תאריכו",
+      "gloss": "تم لٹکاتے ہو"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "زبان"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تم"
+    },
+    {
+      "surface": "ילדי",
+      "gloss": "بچے"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "باغی"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "جھوٹ"
+    }
+  ],
+  "timestamp": "2026-08-09T22:18:23.493451222Z",
+  "model": "glm-5.2"
+}

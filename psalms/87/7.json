@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 87,
+  "translation": "اور گانے والے 'جیسے نَچنے والے' — میرے سارے چشمے تیرے ہیں۔",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "اور گانے والے"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "جیسے نَچنے والے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "میرے چشمے"
+    },
+    {
+      "surface": "בך",
+      "gloss": "تیرے ہیں"
+    }
+  ],
+  "timestamp": "2026-08-10T07:30:39.018043420Z",
+  "model": "glm-5.2"
+}

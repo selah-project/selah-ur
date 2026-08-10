@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 7:19",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اور شِمیداع کے بیٹے ⟨تھے⟩ اَخْیان اور شَکِم اور لِقْحی اور اَنیعام۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "اور وہ ⟨تھے⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "שמידע",
+      "gloss": "شِمیداع"
+    },
+    {
+      "surface": "אחין",
+      "gloss": "اَخْیان"
+    },
+    {
+      "surface": "ושכם",
+      "gloss": "اور شَکِم"
+    },
+    {
+      "surface": "ולקחי",
+      "gloss": "اور لِقْحی"
+    },
+    {
+      "surface": "ואניעם",
+      "gloss": "اور اَنیعام"
+    }
+  ],
+  "timestamp": "2026-08-10T01:02:38.016324872Z",
+  "model": "glm-5.2"
+}

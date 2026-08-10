@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 17:22",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 17,
+  "translation": "خوش دل ⟨انسان⟩ علاج کرتا ہے، اور مارا ہوا روح ہڈیوں کو سوکھ دیتا ہے۔",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "خوش"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "علاج کرتا ہے"
+    },
+    {
+      "surface": "גהה",
+      "gloss": "کو"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "اور روح"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "مارا ہوا"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "سوکھ دیتا ہے"
+    },
+    {
+      "surface": "גרם",
+      "gloss": "ہڈیوں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:04:15.920138416Z",
+  "model": "glm-5.2"
+}

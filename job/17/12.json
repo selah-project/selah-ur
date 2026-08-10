@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 17:12",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 17,
+  "translation": "رات کو دن بنا دیتے ہیں، روشنی اندھیرے کے روبرو قریب ہے۔",
+  "tokens": [
+    {
+      "surface": "לילה",
+      "gloss": "رات کو"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "بنا دیتے ہیں"
+    },
+    {
+      "surface": "אור",
+      "gloss": "روشنی"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "قریب ہے"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "کے روبرو"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "اندھیرے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:40:33.561906984Z",
+  "model": "glm-5.2"
+}

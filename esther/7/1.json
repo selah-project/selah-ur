@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "تو بادشاہ اور ہامان اِستَر ملکہ کے ساتھ شراب نوشی کے لیے آئے۔",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "تو آئے"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "اور ہامان"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "شراب نوشی کے لیے"
+    },
+    {
+      "surface": "עם",
+      "gloss": "کے ساتھ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "اِستَر"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ملکہ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:39:26.581243832Z",
+  "model": "glm-5.2"
+}

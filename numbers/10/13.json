@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 10:13",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "اور وہ پہلی دفعہ روانہ ہوئے، یاہویہ کے منہ کے مطابق، موشے کے ہاتھ پر۔",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "اور وہ روانہ ہوئے"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "پہلی دفعہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "کے مطابق"
+    },
+    {
+      "surface": "פי",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "کے ہاتھ پر"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    }
+  ],
+  "timestamp": "2026-08-10T08:38:43.383118519Z",
+  "model": "glm-5.2"
+}

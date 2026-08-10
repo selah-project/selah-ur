@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "اور اُس کے تمام دنوں میں وہ اندھیرے میں کھاتا ہے، اور بہت غصہ، اور اُس کی بیماری، اور قہر۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "بھی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "اُس کے دنوں میں"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "اندھیرے میں"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "وہ کھاتا ہے"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "اور غصہ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "اُس کی بیماری"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "اور قہر"
+    }
+  ],
+  "timestamp": "2026-08-10T00:34:25.807598272Z",
+  "model": "glm-5.2"
+}

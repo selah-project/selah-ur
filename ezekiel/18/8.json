@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 18:8",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "بڑھا کر نہ دے، نفع نہ لے، ظلم سے اپنا ہاتھ روک لے، آدمی اور آدمی کے درمیان سچا انصاف کرے۔",
+  "tokens": [
+    {
+      "surface": "בנשך",
+      "gloss": "बڑھا کر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नह"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "दे"
+    },
+    {
+      "surface": "ותרבית",
+      "gloss": "نفع"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "لے"
+    },
+    {
+      "surface": "מעול",
+      "gloss": "ظلم سے"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "روک لے"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "اپنا ہاتھ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچا"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کرے"
+    },
+    {
+      "surface": "בין",
+      "gloss": "درمیان"
+    },
+    {
+      "surface": "איש",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "اور آدمی کے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:26:32.665121472Z",
+  "model": "glm-5.2"
+}

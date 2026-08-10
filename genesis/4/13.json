@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "اور قایِن نے یاہویہ سے کہا: میرا گناہ ⟨از⟩ برداشت سے بڑا ہے۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "קין",
+      "gloss": "قایِن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "بڑا ہے"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "میرا گناہ"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "از برداشت"
+    }
+  ],
+  "timestamp": "2026-08-09T19:33:32.696324917Z",
+  "model": "glm-5.2"
+}

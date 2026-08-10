@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 29,
+  "translation": "روٹی نہیں کھائے اور شراب اور نشہ آور مشروب نہیں پیے — تاکہ تم جانو کہ میں یاہویہ تمہارا الوہیم ہوں۔",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "تم نے کھائے"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "اور شراب"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "اور نشہ آور مشروب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "تم نے پیے"
+    },
+    {
+      "surface": "למען",
+      "gloss": "تاکہ"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "تم جانو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "تمہارا الوہیم"
+    }
+  ],
+  "timestamp": "2026-08-09T20:55:38.341365796Z",
+  "model": "glm-5.2"
+}

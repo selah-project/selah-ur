@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "⟨برائے⟩ رہنما ⟨ہے⟩ نغمہ، برائے داوِد۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "⟨برائے⟩ رہنما"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "نغمہ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "برائے داوِد"
+    }
+  ],
+  "timestamp": "2026-08-09T23:27:43.608719161Z",
+  "model": "glm-5.2"
+}

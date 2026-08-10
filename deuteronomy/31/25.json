@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 31,
+  "translation": "تو موشے نے ⟨את⟩ لاویوں کو — تابوتِ عہدِ یاہویہ کے اٹھانے والوں کو — حکم دیا، ⟨یہ⟩ کہنا:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "تو حکم دیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لاویوں کو"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاویوں"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "اٹھانے والوں کو"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "تابوتِ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "عہدِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہنا"
+    }
+  ],
+  "timestamp": "2026-08-10T08:41:05.005896176Z",
+  "model": "glm-5.2"
+}

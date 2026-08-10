@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 109:15",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 109,
+  "translation": "وہ ہمیشہ یاہویہ کے سامنے رہیں، اور وہ زمین سے ان کی یاد کو کاٹ دے۔",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "وہ رہیں"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "کے سامنے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "ויכרת",
+      "gloss": "اور وہ کاٹ دے"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "زمین سے"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "ان کی یاد"
+    }
+  ],
+  "timestamp": "2026-08-09T23:50:37.960446999Z",
+  "model": "glm-5.2"
+}

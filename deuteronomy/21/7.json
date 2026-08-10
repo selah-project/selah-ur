@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "اور جواب دیں اور کہیں: ہمارے ہاتھوں نے نہیں بہایا ⟨את⟩ یہ خون، اور ہماری آنکھوں نے نہیں دیکھا۔",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "اور جواب دیں"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "اور کہیں"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "ہمارے ہاتھوں نے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "بہایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یہ خون"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "خون"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "اور ہماری آنکھوں نے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "دیکھا"
+    }
+  ],
+  "timestamp": "2026-08-09T20:51:11.821012425Z",
+  "model": "glm-5.2"
+}

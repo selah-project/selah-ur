@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 47,
+  "translation": "کیونکہ یاہویہ، علیون، بھَیُناک ہے — وہ ایک بڑا بادشاہ ہے ساری زمین پر۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "علیون (سب سے بالا)"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "بھَیُناک"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "بڑا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-09T23:32:52.992228208Z",
+  "model": "glm-5.2"
+}

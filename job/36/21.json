@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 36:21",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 36,
+  "translation": "خبردار، ⟨آپ⟩ کجروی کی طرف مت پھریں، کیونکہ اِسے آپ نے تکلیف پر ترجیح دی ہے۔",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "خبردار"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مت"
+    },
+    {
+      "surface": "תפן",
+      "gloss": "پھریں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "און",
+      "gloss": "کجروی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "זה",
+      "gloss": "اِسے"
+    },
+    {
+      "surface": "בחרת",
+      "gloss": "آپ نے ترجیح دی"
+    },
+    {
+      "surface": "מעני",
+      "gloss": "تکلیف"
+    }
+  ],
+  "timestamp": "2026-08-10T09:29:09.360931409Z",
+  "model": "glm-5.2"
+}

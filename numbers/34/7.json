@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 34:7",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 34,
+  "translation": "اور یہ تمھارے لیے شمالی سرحد ہوگا: عظیم سمندر سے تم ہور کوہ کا نشان لگاؤ گے،",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "اور یہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوگا"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تمھارے لیے"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "سرحد"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "شمالی"
+    },
+    {
+      "surface": "מן",
+      "gloss": "سے"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "عظیم"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "تم نشان لگاؤ گے"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨اپنے⟩ لیے"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ہور کوہ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "کوہ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:41:10.752594702Z",
+  "model": "glm-5.2"
+}

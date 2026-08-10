@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 31:24",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 31,
+  "translation": "اس نے کتان کی قمیضیں بنائیں اور بیچ دیں، اور کمر بند تاجر کو دیا۔",
+  "tokens": [
+    {
+      "surface": "סדין",
+      "gloss": "کتان کی قمیضیں"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "بنائیں"
+    },
+    {
+      "surface": "ותמכר",
+      "gloss": "اور بیچ دیں"
+    },
+    {
+      "surface": "וחגור",
+      "gloss": "اور کمر بند"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "دیا"
+    },
+    {
+      "surface": "לכנעני",
+      "gloss": "تاجر کو"
+    }
+  ],
+  "timestamp": "2026-08-10T00:10:21.058334356Z",
+  "model": "glm-5.2"
+}

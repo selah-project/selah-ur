@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "کیونکہ باتیں بہت ہیں جو ہِبَل کو بڑھاتی ہیں؛ آدم کو کیا فائدہ؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ہیں"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "باتیں"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "بڑھاتی ہیں"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ہِبَل کو"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "فائدہ"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "آدم کو"
+    }
+  ],
+  "timestamp": "2026-08-10T06:43:29.877427110Z",
+  "model": "glm-5.2"
+}

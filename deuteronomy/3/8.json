@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "اور ہم نے اس وقت لیا ⟨את⟩ اُس زمین کو دو اموری بادشاہوں کے ہاتھ سے جو یَردَن کے پار تھے — نَحل اَرنون سے لے کر ہر حِرمون تک۔",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "اور ہم نے لیا"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "اس وقت"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "وہی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اُس زمین کو"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین کو"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ہاتھ سے"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "بادشاہوں کے"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "اموری"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "پار تھے"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یَردَن کے"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "نَحل سے"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "اَرنون"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "حِرمون"
+    }
+  ],
+  "timestamp": "2026-08-10T05:32:00.452873542Z",
+  "model": "glm-5.2"
+}

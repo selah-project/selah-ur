@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 37,
+  "translation": "غصے سے باز آ، اور غیظ کو چھوڑ دے؛ ہیجان نہ کر — یہ تو صرف برائی کی طرف لے جاتا ہے۔",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "باز آ"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "غصے سے"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "اور چھوڑ دے"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "غیظ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "ہیجان نہ کر"
+    },
+    {
+      "surface": "אך",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "برائی کی طرف"
+    }
+  ],
+  "timestamp": "2026-08-10T06:29:46.394695777Z",
+  "model": "glm-5.2"
+}

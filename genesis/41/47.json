@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "genesis 41:47",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 41,
+  "translation": "اور زمین نے سات سالوں میں فراوانی سے پیدا کیا — مُٹھیوں کے مطابق۔",
+  "tokens": [
+    {
+      "surface": "ותעש",
+      "gloss": "اور بنائی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین نے"
+    },
+    {
+      "surface": "בשבע",
+      "gloss": "سات میں"
+    },
+    {
+      "surface": "שני",
+      "gloss": "سالوں"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "فراوانی"
+    },
+    {
+      "surface": "לקמצים",
+      "gloss": "مُٹھیوں کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T19:51:56.655803858Z",
+  "model": "glm-5.2"
+}

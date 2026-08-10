@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 39:11",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 39,
+  "translation": "اور وہ قطار دوسری: نُوفَخ، سَپیر اور یَہلوم۔",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "اور وہ قطار"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دوسری"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "نُوفَخ"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "سَپیر"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "اور یَہلوم"
+    }
+  ],
+  "timestamp": "2026-08-09T20:11:15.015607039Z",
+  "model": "glm-5.2"
+}

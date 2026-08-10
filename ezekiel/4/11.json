@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 4:11",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "اور پانی مقدار میں تو پیئے — ہین کا چھٹا حصہ؛ مقررہ وقت سے مقررہ وقت تک تو پیئے۔",
+  "tokens": [
+    {
+      "surface": "ומים",
+      "gloss": "اور پانی"
+    },
+    {
+      "surface": "במשורה",
+      "gloss": "مقدار میں"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "تو پیئے"
+    },
+    {
+      "surface": "ששית",
+      "gloss": "چھٹا حصہ"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "ہین کا"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "תשתہ",
+      "gloss": "تو پیئے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:14:17.076742304Z",
+  "model": "glm-5.2"
+}

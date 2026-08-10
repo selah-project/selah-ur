@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 63:4",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 63,
+  "translation": "کیونکہ انتقام کا دن میرے دل میں ⟨تھا⟩، اور میرے مفتوحوں کا سال آ گیا۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "انتقام کا"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "میرے دل میں"
+    },
+    {
+      "surface": "ושנת",
+      "gloss": "اور سال"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "میرے مفتوحوں کا"
+    },
+    {
+      "surface": "באה",
+      "gloss": "آ گیا"
+    }
+  ],
+  "timestamp": "2026-08-09T22:19:40.405147426Z",
+  "model": "glm-5.2"
+}

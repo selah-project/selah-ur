@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "یاہویہ! نجات دے! بادشاہ ہمیں جواب دے اُس دن جب ہم پکاریں۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "نجات دے"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "ہمیں جواب دے"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "اُس دن"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "جب ہم پکاریں"
+    }
+  ],
+  "timestamp": "2026-08-09T23:26:35.327644117Z",
+  "model": "glm-5.2"
+}

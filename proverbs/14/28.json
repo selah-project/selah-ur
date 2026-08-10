@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 14:28",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "بہت لوگوں میں بادشاہ کی زینت ہے، اور قوم کے نہ رہنے میں حاکم کی بربادی ہے۔",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "بہت میں"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لوگوں"
+    },
+    {
+      "surface": "הדרת",
+      "gloss": "کا زینت"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ובאפס",
+      "gloss": "اور نہ رہنے میں"
+    },
+    {
+      "surface": "לאם",
+      "gloss": "قوم کے"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "بری بربادی"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "حاکم کی"
+    }
+  ],
+  "timestamp": "2026-08-10T06:37:06.256499521Z",
+  "model": "glm-5.2"
+}

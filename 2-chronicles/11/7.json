@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور ⟨את⟩ بَیت صُور اور ⟨את⟩ سوکو اور ⟨את⟩ عَدُلّام کو۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "بَیت صُور"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بَیت"
+    },
+    {
+      "surface": "צור",
+      "gloss": "صُور"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "سوکو"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "سوکو"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "عَدُلّام"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "عَدُلّام"
+    }
+  ],
+  "timestamp": "2026-08-10T09:07:58.367724189Z",
+  "model": "glm-5.2"
+}

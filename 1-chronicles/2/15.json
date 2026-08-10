@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 2:15",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اُوصِم چھٹا، داوِد ساتواں۔",
+  "tokens": [
+    {
+      "surface": "אצם",
+      "gloss": "اُوصِم"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "چھٹا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ساتواں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:58:01.283961859Z",
+  "model": "glm-5.2"
+}

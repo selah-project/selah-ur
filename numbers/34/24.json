@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 34:24",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 34,
+  "translation": "اور قبطِ بنیے اِفْرایِم کے لیے ایک نسیٰ، قَمو ایل بَن شِفْتان۔",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "اور قبطِ کے لیے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنیے"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "اِفْرایِم"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ایک نسیٰ"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "قَمو ایل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بَن"
+    },
+    {
+      "surface": "שפטן",
+      "gloss": "شِفْتان"
+    }
+  ],
+  "timestamp": "2026-08-10T07:12:49.336763679Z",
+  "model": "glm-5.2"
+}

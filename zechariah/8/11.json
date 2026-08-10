@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 8:11",
+  "book": "zechariah",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اب پھر، پہلے کے دنوں کی طرح نہیں میں ہوں اس قوم کی باقی کے لیے، یاہویہ صباؤت کا فتویٰ۔",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "اب پھر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "دنوں کی طرح"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "پہلے کے"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں ہوں"
+    },
+    {
+      "surface": "לשארית",
+      "gloss": "باقی کے لیے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم کی"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اس"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "فتویٰ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "صباؤت"
+    }
+  ],
+  "timestamp": "2026-08-10T06:27:56.537775651Z",
+  "model": "glm-5.2"
+}

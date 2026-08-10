@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 3:11",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "دوسرا حصہ مضبوط کیا مَلکیہ بن حارِم اور حَشّوب بن پَحَت موآب نے، اور ⟨את⟩ تنوروں کے برج کو۔",
+  "tokens": [
+    {
+      "surface": "מדה",
+      "gloss": "حصہ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "دوسرا"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "مضبوط کیا"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "مَلکیہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "حارِم"
+    },
+    {
+      "surface": "וחשוב",
+      "gloss": "اور حَشّوب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "پَحَت"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "موآب"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "تنوروں کے برج کو"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "برج"
+    },
+    {
+      "surface": "התנורים",
+      "gloss": "تنوروں کے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:52:53.444672225Z",
+  "model": "glm-5.2"
+}

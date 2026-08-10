@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 118,
+  "translation": "بہتر ہے یاہویہ میں پناہ لینا آدمی پر بھروسا کرنے سے۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "بہتر"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "پناہ لینا"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "یاہویہ میں"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "بھروسا کرنے سے"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "آدمی پر"
+    }
+  ],
+  "timestamp": "2026-08-10T07:31:27.880609666Z",
+  "model": "glm-5.2"
+}

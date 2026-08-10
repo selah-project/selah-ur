@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "کیا میں سمندر ہوں، یا تَنین، کہ تو نے مجھ پر نگہبان مقرر کیا ہے؟",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "کیا سمندر"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "אם",
+      "gloss": "یا"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "تنین"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "مقرر کیا ہے"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "مجھ پر"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "نگہبان"
+    }
+  ],
+  "timestamp": "2026-08-10T00:12:55.341929978Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 14:39",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "اور موشہ نے ⟨את⟩ یہ باتیں بنی یِسرائیل کے سبھی لوگوں کو بیان کیں، اور قوم نے بہت ماتم کیا۔",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "اور بیان کیں"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشہ نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یہ باتیں"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "باتیں"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کو"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "اور ماتم کیا"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم نے"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    }
+  ],
+  "timestamp": "2026-08-10T05:29:08.650703807Z",
+  "model": "glm-5.2"
+}

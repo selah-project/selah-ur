@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "numbers 7:64",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "بکروں میں سے ایک بکرا، خطا کے لیے۔",
+  "tokens": [
+    {
+      "surface": "שְׂעִיר",
+      "gloss": "بکرا"
+    },
+    {
+      "surface": "עִזִּ֥ים",
+      "gloss": "بکروں"
+    },
+    {
+      "surface": "אֶחָ֖ד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "לְחַטָּֽאת",
+      "gloss": "خطا کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-10T05:27:59.596776636Z",
+  "model": "glm-5.2"
+}

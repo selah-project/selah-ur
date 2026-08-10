@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 17,
+  "translation": " ٹیڑھا دل بھلائی نہیں پاتا، اور اپنی زبان میں پھرا ہوا برائی میں گرتا ہے۔",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "ٹیڑھا"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "پاتا"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "بھلائی"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "اور پھرا ہوا"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "اپنی زبان میں"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "گرتا ہے"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "برائی میں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:04:25.226412084Z",
+  "model": "glm-5.2"
+}

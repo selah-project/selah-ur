@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 30:26",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 30,
+  "translation": "اور تو اس سے مسح کرے گا ⟨את⟩ خیمہ موعد اور ⟨את⟩ عہد کا صندوق۔",
+  "tokens": [
+    {
+      "surface": "ומשחת",
+      "gloss": "اور تو مسح کرے گا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اس سے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "خیمہ موعد"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "خیمہ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "موعد"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "عہد کا صندوق"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "صندوق"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "عہد کا"
+    }
+  ],
+  "timestamp": "2026-08-09T20:07:37.115636814Z",
+  "model": "glm-5.2"
+}

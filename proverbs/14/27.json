@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 14:27",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "یاہویہ کا ڈر زندگی کا چشمہ ہے، موت کے پھندوں سے ہٹ جانے کو۔",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "کا ڈر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "چشمہ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگی"
+    },
+    {
+      "surface": "לסור",
+      "gloss": "ہٹ جانے کو"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "کے پھندوں سے"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    }
+  ],
+  "timestamp": "2026-08-10T06:37:06.256340369Z",
+  "model": "glm-5.2"
+}

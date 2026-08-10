@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 4:2",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "“اپنے لیے قوم میں سے بارہ آدمی لو؛ ہر قبیلے سے ایک آدمی، ایک آدمی۔”",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "لو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "اپنے لیے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "سے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دس"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ایک آدمی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ایک آدمی"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "قبیلے سے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:57:11.071524138Z",
+  "model": "glm-5.2"
+}

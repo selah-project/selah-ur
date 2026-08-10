@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 61,
+  "translation": "کو رہنمائی کے لیے، تاروں کے ساز پر، داوِد ⟨کی طرف سے⟩۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "کو رہنمائی کے لیے"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "تاروں کے ساز"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد ⟨کی طرف سے⟩"
+    }
+  ],
+  "timestamp": "2026-08-09T23:36:35.638196215Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "خیسِدِ یاہویہ ⟨ہیں⟩ کیونکہ ہم ختم نہیں ہوئے، کیونکہ اُس کی رحمتیں نہیں تھکیں۔",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "خیسِدِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "ہم ختم ہوئے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "تھکیں"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "اُس کی رحمتیں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:29:43.155997987Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 5:20",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "بیان کرو یہ بات بیت یَعقُوڤ میں اور اسے سناؤ یہوداہ میں، کہہ کر:",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "بیان کرو"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "یہ بات"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "میں گھر"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یَعقُوڤ کے"
+    },
+    {
+      "surface": "והשמיעוה",
+      "gloss": "اور اسے سناؤ"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "یہوداہ میں"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہہ کر"
+    }
+  ],
+  "timestamp": "2026-08-09T22:23:04.812666483Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "اور بَلَق نے بِلعام سے کہا: نہ تو اسے لعنت دے، نہ اسے برکت دے۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بَلَق"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بِلعام"
+    },
+    {
+      "surface": "גם",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "קב",
+      "gloss": "لعنت دے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "اسے لعنت دے"
+    },
+    {
+      "surface": "גם",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "برکت دے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "اسے برکت دے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:36:23.068536930Z",
+  "model": "glm-5.2"
+}

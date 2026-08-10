@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 7:24",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "خاریف کے بیٹے، ایک سو بارہ۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "חריף",
+      "gloss": "خاریف"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ایک سو"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-دس"
+    }
+  ],
+  "timestamp": "2026-08-10T00:54:01.311135541Z",
+  "model": "glm-5.2"
+}

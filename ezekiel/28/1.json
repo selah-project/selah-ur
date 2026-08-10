@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 28:1",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 28,
+  "translation": "اور یاہویہ کا فرمان مجھے ⟨آیا⟩، یوں ⟨کہنے⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ⟨ہوا⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "فرمان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مجھے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہنے کو"
+    }
+  ],
+  "timestamp": "2026-08-09T22:55:59.242052610Z",
+  "model": "glm-5.2"
+}

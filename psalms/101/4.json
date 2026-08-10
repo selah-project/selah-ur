@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 101,
+  "translation": "کڑا دل مجھ سے دور ہٹ جائے گا؛ برائی کو میں نہیں جاؤں گا۔",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "کڑا"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "دور ہٹ جائے گا"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "مجھ سے"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برائی کو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "جاؤں گا"
+    }
+  ],
+  "timestamp": "2026-08-09T23:45:44.879234569Z",
+  "model": "glm-5.2"
+}

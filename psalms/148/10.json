@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 148,
+  "translation": "جنگلی جانور اور تمام مویشی؛ رینگنے والے اور پرندے۔",
+  "tokens": [
+    {
+      "surface": "החיה",
+      "gloss": "جنگلی جانور"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "اور تمام"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "مویشی"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "رینگنے والے"
+    },
+    {
+      "surface": "וצפור",
+      "gloss": "اور پرندے"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "پر والے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:57:05.707574116Z",
+  "model": "glm-5.2"
+}

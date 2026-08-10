@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 6:2",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اور یہ ہیں گِرِشُوم کے بیٹوں کے نام: لِبنی اور شِمعی۔",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "اور یہ"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "نام"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹوں"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "گِرِشُوم"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "لِبنی"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "اور شِمعی"
+    }
+  ],
+  "timestamp": "2026-08-10T01:01:12.290693547Z",
+  "model": "glm-5.2"
+}

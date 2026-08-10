@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 2:22",
+  "book": "2-kings",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور ⟨את⟩ پانی شفا پا گئے اس دن تک، اِلیشعع کے کلہ کے مطابق جو اس نے بولا تھا۔",
+  "tokens": [
+    {
+      "surface": "וירפו",
+      "gloss": "اور شفا پا گئے"
+    },
+    {
+      "surface": "המים",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "היום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اس"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "کے مطابق"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "اِلیشعع"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "اس نے بولا تھا"
+    }
+  ],
+  "timestamp": "2026-08-09T21:53:08.014849183Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 4:6",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "اور میری قوم کی بیٹی کا گناہ سدوم کے گناہ سے بڑھ گیا، جو ایک پل میں الٹ دی گئی، اور اس پر ہاتھ نہیں اٹھائے گئے۔",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "اور بڑھ گیا"
+    },
+    {
+      "surface": "עון",
+      "gloss": "گناہ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بیٹی کا"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "میری قوم کی"
+    },
+    {
+      "surface": "מחטאת",
+      "gloss": "سے گناہ"
+    },
+    {
+      "surface": "סדום",
+      "gloss": "سدوم"
+    },
+    {
+      "surface": "ההפוכה",
+      "gloss": "الٹ دی گئی"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "جیسے"
+    },
+    {
+      "surface": "רגע",
+      "gloss": "ایک پل میں"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "חלו",
+      "gloss": "ہلائے گئے"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اس پر"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ہاتھ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:30:50.634745698Z",
+  "model": "glm-5.2"
+}

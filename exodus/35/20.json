@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 35,
+  "translation": "پھر نکلے تمام جماعتِ بنیؑ یِسراإل کی موشیه کے سامنے سے۔",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "پھر نکلے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "جماعتِ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنیؑ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسراإل کی"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "کے سامنے سے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشیه"
+    }
+  ],
+  "timestamp": "2026-08-09T20:09:42.723422814Z",
+  "model": "glm-5.2"
+}

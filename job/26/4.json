@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 26:4",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 26,
+  "translation": "⟨את⟩ کس کو باتیں بیان کیں، اور کِس کا دم تیرے سے نکلا؟",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کس کو"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کس کو"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "بیان کیں"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "باتیں"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "اور دم کا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کِس کا"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "نکلا"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "تیرے سے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:19:35.629733950Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 2:14",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "جو برائی کرنے پر خوش ہوتے ہیں، برائی کی ٹیڑھ میں اچھلتے ہیں،",
+  "tokens": [
+    {
+      "surface": "השמחים",
+      "gloss": "جو خوش ہوتے ہیں"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کرنے پر"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "وہ اچھلتے ہیں"
+    },
+    {
+      "surface": "בתהפכות",
+      "gloss": "کی ٹیڑھ میں"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برائی"
+    }
+  ],
+  "timestamp": "2026-08-09T23:58:13.542784082Z",
+  "model": "glm-5.2"
+}

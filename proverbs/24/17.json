@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 24:17",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "جب تیرا دشمن گرے تو خوش مت ہو، اور جب وہ ٹھوکر کھائے تو تیرا دل ⟨مت⟩ مسرور ہو،",
+  "tokens": [
+    {
+      "surface": "בנפל",
+      "gloss": "جب گرے"
+    },
+    {
+      "surface": "אויביך",
+      "gloss": "تیرا دشمن"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مت"
+    },
+    {
+      "surface": "תשמח",
+      "gloss": "خوش ہو"
+    },
+    {
+      "surface": "ובכשלו",
+      "gloss": "اور جب وہ ٹھوکر کھائے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مت"
+    },
+    {
+      "surface": "יגל",
+      "gloss": "مسرور ہو"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "تیرا دل"
+    }
+  ],
+  "timestamp": "2026-08-10T00:07:07.087215850Z",
+  "model": "glm-5.2"
+}

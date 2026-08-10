@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 7:20",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "ایک سونے کا کف جو دس شیکل کا تھا، جو خُوشبوئے بخور سے بھرا ہوا تھا۔",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "کف"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دس"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونے"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "بھرا ہوا"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "خُوشبوئے بخور"
+    }
+  ],
+  "timestamp": "2026-08-09T20:28:29.044504366Z",
+  "model": "glm-5.2"
+}

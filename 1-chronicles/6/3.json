@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 6:3",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اور قِہات کے بیٹے: عَمرام، یِصہار، حَبرون اور عُزّی ایل۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "اور بیٹے"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قِہات"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "عَمرام"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "اور یِصہار"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "اور حَبرون"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "اور عُزّی ایل"
+    }
+  ],
+  "timestamp": "2026-08-10T01:01:12.290808972Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 21:4",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "آنکھوں کی اونچائی اور دل کا کھلاؤ — شریر کا ہل ہی گناہ ہے۔",
+  "tokens": [
+    {
+      "surface": "רום",
+      "gloss": "اونچائی"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "آنکھوں کی"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "اور کھلاؤ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل کا"
+    },
+    {
+      "surface": "נר",
+      "gloss": "ہل"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "شریر کا"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "گناہ ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:04:53.434381963Z",
+  "model": "glm-5.2"
+}

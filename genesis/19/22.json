@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 19:22",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "جلدی کر، وہاں بھاگ جا، کیونکہ جب تک تو وہاں نہ پہنچے میں کچھ کر نہیں سکتا۔ اِسی لیے اُس شہر کا نام صُعَر رکھا گیا۔",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "جلدی کر"
+    },
+    {
+      "surface": "המלט",
+      "gloss": "بھاگ جا"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "وہاں"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "میں کر سکتا"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کرنے"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کچھ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "جب تک"
+    },
+    {
+      "surface": "באך",
+      "gloss": "تو پہنچے"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "وہاں"
+    },
+    {
+      "surface": "על",
+      "gloss": "اِسی پر"
+    },
+    {
+      "surface": "כן",
+      "gloss": "لہٰذا"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "رکھا گیا"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نام"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "اُس شہر کا"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "صُعَر"
+    }
+  ],
+  "timestamp": "2026-08-09T19:39:20.029871838Z",
+  "model": "glm-5.2"
+}

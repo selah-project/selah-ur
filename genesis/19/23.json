@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 19:23",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "سورج زمین پر نکلا، اور لوط صُعَر میں آ گیا۔",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "سورج"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "نکلا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "اور لوط"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آ گیا"
+    },
+    {
+      "surface": "צערה",
+      "gloss": "صُعَر میں"
+    }
+  ],
+  "timestamp": "2026-08-09T19:39:20.030035069Z",
+  "model": "glm-5.2"
+}

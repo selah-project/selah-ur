@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 12:23",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "دور کے نافات کا بادشاہ، ایک؛ گِلگال کے گوییم کا بادشاہ، ایک۔",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "دور"
+    },
+    {
+      "surface": "לנפת",
+      "gloss": "نافات"
+    },
+    {
+      "surface": "דור",
+      "gloss": "دور"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "گوییم"
+    },
+    {
+      "surface": "לגלגל",
+      "gloss": "گِلگال کے"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    }
+  ],
+  "timestamp": "2026-08-10T05:37:05.665115713Z",
+  "model": "glm-5.2"
+}

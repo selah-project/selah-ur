@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 21:5",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "میری طرف رُخ کرو اور حیران رہ جاؤ، اور ہاتھ منہ پر رکھو۔",
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "میری طرف رُخ کرو"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میری طرف"
+    },
+    {
+      "surface": "והשמו",
+      "gloss": "اور حیران رہ جاؤ"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "اور رکھو"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ہاتھ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פה",
+      "gloss": "منہ"
+    }
+  ],
+  "timestamp": "2026-08-10T06:40:42.706409454Z",
+  "model": "glm-5.2"
+}

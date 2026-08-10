@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 113,
+  "translation": "طلوعِ آفتاب سے لے کر اس کے غروب تک، ستوت کیا جانے ہے نامِ یاہویہ۔",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "طلوعِ … سے"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "آفتاب"
+    },
+    {
+      "surface": "עד",
+      "gloss": "لے کر"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "اس کے غروب تک"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "ستوت کیا جانے ہے"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    }
+  ],
+  "timestamp": "2026-08-09T23:49:33.448581145Z",
+  "model": "glm-5.2"
+}

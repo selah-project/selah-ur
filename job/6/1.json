@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 6:1",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "تب اِیّوَب نے جواب دیا اور کہا،",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "تب جواب دیا"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "اِیّوَب نے"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:11:47.990718310Z",
+  "model": "glm-5.2"
+}

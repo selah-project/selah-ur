@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 5:10",
+  "book": "song-of-songs",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "میرا محبوب ⟨ہے⟩ چمکیلا اور سرخ، دس ہزار میں نمایاں!",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "میرا محبوب"
+    },
+    {
+      "surface": "צח",
+      "gloss": "چمکیلا"
+    },
+    {
+      "surface": "ואדום",
+      "gloss": "اور سرخ"
+    },
+    {
+      "surface": "דגול",
+      "gloss": "نمایاں"
+    },
+    {
+      "surface": "מרבבה",
+      "gloss": "دس ہزار میں"
+    }
+  ],
+  "timestamp": "2026-08-10T06:42:13.081178444Z",
+  "model": "glm-5.2"
+}

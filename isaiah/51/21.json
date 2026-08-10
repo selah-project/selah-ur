@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 51:21",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 51,
+  "translation": "لِہذا اب سُن، اے ⟨تُو⟩ دُکھی اور مَست — مگر شراب سے نہیں،",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "لِہذا"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "سُن"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اب"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "دُکھی"
+    },
+    {
+      "surface": "ושכרת",
+      "gloss": "اور مَست"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "مگر نہیں"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "شراب سے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:15:53.099533573Z",
+  "model": "glm-5.2"
+}

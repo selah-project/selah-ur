@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 38,
+  "translation": "اور یہ تیرے لیے ⟨האות⟩ نشان ہے از طرفِ یاہویہ، کہ یاہویہ ⟨את⟩ اس بات کو جو ⟨اس نے⟩ کہی ہے کرے گا۔",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "اور یہ"
+    },
+    {
+      "surface": "لך",
+      "gloss": "تیرے لیے"
+    },
+    {
+      "surface": "האות",
+      "gloss": "نشان ہے"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ از طرفِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "یעשה",
+      "gloss": "کرے گا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اس بات کو"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "اس بات"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اس"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کہی ہے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:11:48.073747282Z",
+  "model": "glm-5.2"
+}

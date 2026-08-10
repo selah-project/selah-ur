@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "یہوداہ کے بیٹے: پَرِتس، خِتصرون، وَخَرمی، وَخور، اور وَشوبال۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پَرِتس"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "خِتصرون"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "وَخَرمی"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "وَخور"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "وَشوبال"
+    }
+  ],
+  "timestamp": "2026-08-10T01:01:16.517775488Z",
+  "model": "glm-5.2"
+}

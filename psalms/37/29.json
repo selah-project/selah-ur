@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 37:29",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 37,
+  "translation": "صادق ⟨את⟩ زمین کے وارث ہوں گے اور اس میں ہمیشہ بسائیں گے۔",
+  "tokens": [
+    {
+      "surface": "צדיקים",
+      "gloss": "صادق"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "وارث ہوں گے"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "וישכנו",
+      "gloss": "اور بسائیں گے"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "اس میں"
+    }
+  ],
+  "timestamp": "2026-08-10T06:30:28.587050324Z",
+  "model": "glm-5.2"
+}

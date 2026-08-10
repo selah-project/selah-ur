@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 36:26",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 36,
+  "translation": "اور یہ ہیں دِیشان کے بیٹے: حَمدان اور اِشبان اور یِتران اور کِران۔",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "اور یہ ہیں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "دِیشان"
+    },
+    {
+      "surface": "חמדן",
+      "gloss": "حَمدان"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "اور اِشبان"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "اور یِتران"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "اور کِران"
+    }
+  ],
+  "timestamp": "2026-08-09T19:47:30.239637049Z",
+  "model": "glm-5.2"
+}

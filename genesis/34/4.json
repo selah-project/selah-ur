@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 34,
+  "translation": "اور شِکھَم نے اپنے باپ حَمور سے کہا کہ: \"میرے لیے ⟨את⟩ اِس لڑکی کو بطورِ بیوی لے آؤ۔\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شِکھَم نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "حَمور"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "اپنے باپ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "קח",
+      "gloss": "لے آؤ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے لیے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اِس لڑکی کو"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "اِس لڑکی"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "اِس"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "بطورِ بیوی"
+    }
+  ],
+  "timestamp": "2026-08-09T19:47:23.775017489Z",
+  "model": "glm-5.2"
+}

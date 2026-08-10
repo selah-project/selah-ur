@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 34,
+  "translation": "تو خَمور، شَخِم کے باپ، یَعقُوب کے پاس ⟨את⟩ اس کے ساتھ بات کرنے کے لیے نکلا۔",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "نکلا"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "خَمور"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باپ"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "شَخِم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کے پاس"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یَعقُوب"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "بات کرنے کے لیے"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اس کے ساتھ"
+    }
+  ],
+  "timestamp": "2026-08-10T07:55:22.091081353Z",
+  "model": "glm-5.2"
+}

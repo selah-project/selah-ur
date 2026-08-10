@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 31:22",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 31,
+  "translation": "اس نے اپنے لیے چٹائیں بنائیں؛ سُندر اور ارغوانی اس کا لباس ہے۔",
+  "tokens": [
+    {
+      "surface": "מרבדים",
+      "gloss": "چٹائیں"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "بنائیں"
+    },
+    {
+      "surface": "לה",
+      "gloss": "اپنے لیے"
+    },
+    {
+      "surface": "שש",
+      "gloss": "سُندر"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "اور ارغوانی"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "اس کا لباس"
+    }
+  ],
+  "timestamp": "2026-08-10T00:10:21.058037635Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 79,
+  "translation": "کیا تک ہے، اے یاہویہ؟ کیا تو ہمیشہ غصے میں رہے گا؟ کیا تیری غیرت آگ کی طرح بھڑکے گی؟",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "کیا تک"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہویہ"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "غصے میں رہے گا"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "بھڑکے گی"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "کی طرح"
+    },
+    {
+      "surface": "אש",
+      "gloss": "آگ"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "تیری غیرت"
+    }
+  ],
+  "timestamp": "2026-08-09T23:40:17.715194345Z",
+  "model": "glm-5.2"
+}

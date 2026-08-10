@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 29,
+  "translation": "اور اس نے ⟨את⟩ کاہنوں اور ⟨את⟩ لاویوں کو لا کر مشرقی چوک میں اکٹھا کیا۔",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "اور اس نے لا کر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کاہنوں کو"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "کاہنوں"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "لاویوں کو"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاویوں"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "اکٹھا کیا"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "چوک میں"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "مشرقی"
+    }
+  ],
+  "timestamp": "2026-08-10T06:53:44.122613771Z",
+  "model": "glm-5.2"
+}

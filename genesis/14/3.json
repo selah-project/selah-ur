@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "یہ سب اِکٹھے ہوئے سِدّیم کی وادی میں — وہ ⟨ہے⟩ نمک کا سمندر۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "یہ سب"
+    },
+    {
+      "surface": "אלה",
+      "gloss": ""
+    },
+    {
+      "surface": "חברו",
+      "gloss": "اِکٹھے ہوئے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "میں"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "وادی"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "سِدّیم کی"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ ⟨ہے⟩"
+    },
+    {
+      "surface": "ים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "نمک کا"
+    }
+  ],
+  "timestamp": "2026-08-09T19:38:03.851491675Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 31:26",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 31,
+  "translation": "اس کا منہ ⟨ाہ⟩ حکمت میں کھولتی ہے، اور خیسِد کی تورات اس کی زبان پر ہے۔",
+  "tokens": [
+    {
+      "surface": "פיה",
+      "gloss": "اس کا منہ"
+    },
+    {
+      "surface": "פתחה",
+      "gloss": "کھولتی ہے"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "حکمت میں"
+    },
+    {
+      "surface": "ותורת",
+      "gloss": "اور تورات"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "خیسِد کی"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "לשונה",
+      "gloss": "اس کی زبان"
+    }
+  ],
+  "timestamp": "2026-08-10T00:09:50.797048900Z",
+  "model": "glm-5.2"
+}

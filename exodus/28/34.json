@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 28:34",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 28,
+  "translation": "سونے کی گھنٹی اور انار، سونے کی گھنٹی اور انار، چولاے کے دامن پر چاروں طرف۔",
+  "tokens": [
+    {
+      "surface": "פעמן",
+      "gloss": "گھنٹی"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونے کی"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "اور انار"
+    },
+    {
+      "surface": "פעמן",
+      "gloss": "گھنٹی"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونے کی"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "اور انار"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "שולי",
+      "gloss": "دامن"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "چولاے کے"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چاروں طرف"
+    }
+  ],
+  "timestamp": "2026-08-10T08:35:53.776695813Z",
+  "model": "glm-5.2"
+}

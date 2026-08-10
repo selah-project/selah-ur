@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 118,
+  "translation": "یاہویہ میرے ساتھ ہے — نہ ڈروں گا؛ آدمی میرا کیا کرے گا؟",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے ساتھ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ڈروں گا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کرے گا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرا"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمی"
+    }
+  ],
+  "timestamp": "2026-08-10T07:31:27.880321002Z",
+  "model": "glm-5.2"
+}

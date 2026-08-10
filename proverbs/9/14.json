@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 9:14",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "وہ اپنے گھر کے دہانے پر بیٹھتی ہے، شہر کی بلندیوں کے ایک مسند پر۔",
+  "tokens": [
+    {
+      "surface": "וישבה",
+      "gloss": "وہ بیٹھتی ہے"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "دہانے پر"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "اپنے گھر کے"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "مسند"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "بلندیوں کے"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "شہر کی"
+    }
+  ],
+  "timestamp": "2026-08-10T07:31:50.495190620Z",
+  "model": "glm-5.2"
+}

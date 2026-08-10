@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 42:16",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 42,
+  "translation": "پیمائشی چھڑی سے اُس نے مشرق کی طرف ناپا — پانچ سو چھڑیاں، پیمائشی چھڑی سے، چاروں طرف۔",
+  "tokens": [
+    {
+      "surface": "מדד",
+      "gloss": "اس نے ناپا"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "طرف"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "مشرق کی"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "چھڑی سے"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "پیمائشی"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پانچ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "چھڑیاں"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "چھڑی سے"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "پیمائشی"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "چاروں طرف"
+    }
+  ],
+  "timestamp": "2026-08-09T23:02:00.394831878Z",
+  "model": "glm-5.2"
+}

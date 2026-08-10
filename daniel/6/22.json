@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 6:22",
+  "book": "daniel",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "تب دانیائل نے بادشاہ سے کلام کیا: اے بادشاہ، ہمیشہ کے لیے جیو!",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "تب"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "دانیائل نے"
+    },
+    {
+      "surface": "עם",
+      "gloss": "کے ساتھ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "מלל",
+      "gloss": "کلام کیا"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "اے بادشاہ"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "ہمیشہ کے لیے"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "جیو"
+    }
+  ],
+  "timestamp": "2026-08-10T00:46:04.096507609Z",
+  "model": "glm-5.2"
+}

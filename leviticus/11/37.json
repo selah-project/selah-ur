@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 11:37",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور جو ⟨چیز⟩ ان کی مردار میں سے کسی بونے جانے والے بیج پر گرے جو بویا جائے، وہ پاک ہے۔",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "اور جو"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "گرے"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "ان کی مردار میں سے"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کسی"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "بیج"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "بونے جانے والے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "بویا جائے"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T05:23:50.843501550Z",
+  "model": "glm-5.2"
+}

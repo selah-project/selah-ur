@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "سب ایک ہی جگہ کو جاتا ہے؛ سب غبار سے ⟨بنا⟩، اور سب غبار کو لوٹتا ہے۔",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "جاتا ہے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کو"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "جگہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک ہی"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "היה",
+      "gloss": "تھا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "سے"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "غبار"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "اور سب"
+    },
+    {
+      "surface": "שב",
+      "gloss": "لوٹتا ہے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کو"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "غبار"
+    }
+  ],
+  "timestamp": "2026-08-10T00:33:20.494002610Z",
+  "model": "glm-5.2"
+}

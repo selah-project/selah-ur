@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 5:11",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "مزدور کی نیند میٹھی ہوتی ہے، خواہ وہ تھوڑا کھائے یا بہت کھائے؛ لیکن امیر کی طرحی اسے سونے نہیں دیتی۔",
+  "tokens": [
+    {
+      "surface": "מתוקה",
+      "gloss": "میٹھی ہوتی ہے"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "نیند"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "مزدور کی"
+    },
+    {
+      "surface": "אם",
+      "gloss": "خواہ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "تھوڑا"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "یا"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھائے"
+    },
+    {
+      "surface": "והשבע",
+      "gloss": "لیکن طرحی"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "امیر کی"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "מניח",
+      "gloss": "دیتی"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اسے"
+    },
+    {
+      "surface": "לישון",
+      "gloss": "سونے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:43:25.318194698Z",
+  "model": "glm-5.2"
+}

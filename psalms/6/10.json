@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 6:10",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "یاہویہ نے میری استغاثہ سنی ہے؛ یاہویہ میری دعا قبول کرے گا۔",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "سنی ہے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ نے"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "میری استغاثہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "میری دعا"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "قبول کرے گا"
+    }
+  ],
+  "timestamp": "2026-08-09T23:23:16.974404305Z",
+  "model": "glm-5.2"
+}

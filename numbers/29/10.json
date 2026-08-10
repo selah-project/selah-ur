@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 29:10",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 29,
+  "translation": "عِسرون، عِسرون ہر ایک مینڈھے کے لیے، سات مینڈھوں کے لیے —",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "عِسرون"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "عِسرون"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "مینڈھے کے لیے"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "سات کے لیے"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "مینڈھوں"
+    }
+  ],
+  "timestamp": "2026-08-10T07:12:58.580998285Z",
+  "model": "glm-5.2"
+}

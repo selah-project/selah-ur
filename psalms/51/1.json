@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 51,
+  "translation": "راہنما کے لیے۔ ایک مزمور داوِد کے لیے۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "راہنما کے لیے"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ایک مزمور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:51:27.162906310Z",
+  "model": "glm-5.2"
+}

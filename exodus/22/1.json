@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 22:1",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "اگر سوراخ میں چور ملا جائے اور مارا گیا اور مر گیا، تو اس کے لیے ⟨خون نہیں⟩۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "במחתרת",
+      "gloss": "سوراخ میں"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ملا جائے"
+    },
+    {
+      "surface": "הגנב",
+      "gloss": "چور"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "اور مارا گیا"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "اور مر گیا"
+    },
+    {
+      "surface": "אין",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اس کے لیے"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "خون"
+    }
+  ],
+  "timestamp": "2026-08-09T20:04:45.385560757Z",
+  "model": "glm-5.2"
+}

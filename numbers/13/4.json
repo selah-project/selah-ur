@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 13:4",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "اور یہ ہیں ان کے نام: قبیلہِ راؤبَن کے لیے — شَمُّوع، زَکّور کا بیٹا۔",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "اور یہ ہیں"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "ان کے نام"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "قبیلہ کے لیے"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "راؤبَن"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "شَمُّوع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "زَکّور کا"
+    }
+  ],
+  "timestamp": "2026-08-10T05:27:56.411890469Z",
+  "model": "glm-5.2"
+}

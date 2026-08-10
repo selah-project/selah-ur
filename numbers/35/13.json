@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 35:13",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 35,
+  "translation": "اور ⟨جن⟩ شہروں کو تم دوں گے، وہ چھ پناہ گاہ کے شہر تمہارے لیے ہوں گے۔",
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "اور شہر"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨جن⟩"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "تم دوں گے"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "پناہ گاہ"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "وہ ہوں گے"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تمہارے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:42:18.718124655Z",
+  "model": "glm-5.2"
+}

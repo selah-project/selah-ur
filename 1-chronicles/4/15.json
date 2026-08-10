@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "اور کالِب بَن یَفُنّیہ کے بیٹے ⟨تھے⟩ عِیرو، ایلہ اور ناعَم؛ اور ایلہ کے بیٹے ⟨تھے⟩ قْنَز۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "اور بیٹے"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کالِب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بَن"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "یَفُنّیہ"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "عِیرو"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایلہ"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "اور ناعَم"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "اور بیٹے"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ایلہ"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "اور قْنَز"
+    }
+  ],
+  "timestamp": "2026-08-10T01:00:25.925475802Z",
+  "model": "glm-5.2"
+}

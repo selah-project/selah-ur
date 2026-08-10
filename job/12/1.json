@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 12:1",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "اور ایّیوٗب نے جواب دیا اور کہا،",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "اور جواب دیا"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ایّیوٗب"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:13:39.187434701Z",
+  "model": "glm-5.2"
+}

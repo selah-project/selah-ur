@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 23:21",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "مِراری کے بیٹے مَخْلِی اور موشی؛ مَخْلِی کے بیٹے اِلعازار و قِیش۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مِراری"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "مَخْلِی"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "اور موشی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "مَخْلِی"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "اِلعازار"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "و قِیش"
+    }
+  ],
+  "timestamp": "2026-08-10T07:36:40.781173397Z",
+  "model": "glm-5.2"
+}

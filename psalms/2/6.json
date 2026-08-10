@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "”اور میں نے اپنے بادشاہ کو نصب کیا ہے، صہیون پر، اپنے مقدس پہاڑ پر۔“",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "اور میں"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "نصب کیا ہے"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "اپنے بادشاہ کو"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "صہیون"
+    },
+    {
+      "surface": "הר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "اپنے مقدس"
+    }
+  ],
+  "timestamp": "2026-08-09T23:23:11.710844013Z",
+  "model": "glm-5.2"
+}

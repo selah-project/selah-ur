@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 13:19",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "اور پھوڑے کی جگہ پر سفید سوجن یا سرخی مائل سفید داغ ہو، تو کاہن کو دکھایا جائے۔",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "اور ہو"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "کی جگہ پر"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "پھوڑے"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "سوجن"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "سفید"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "داغ"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "سفید"
+    },
+    {
+      "surface": "אדמדמת",
+      "gloss": "سرخی مائل"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "تو دکھایا جائے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کو"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کاہن"
+    }
+  ],
+  "timestamp": "2026-08-10T05:24:15.470423872Z",
+  "model": "glm-5.2"
+}

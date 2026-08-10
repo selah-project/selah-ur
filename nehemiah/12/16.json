@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 12:16",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "عِدّو کے لِے زِکَریاہ، گِنّیتون کے لِے مِشُلّام۔",
+  "tokens": [
+    {
+      "surface": "לעדיא",
+      "gloss": "عِدّو کے لِے"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "زِکَریاہ"
+    },
+    {
+      "surface": "לגנתון",
+      "gloss": "گِنّیتون کے لِے"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "مِشُلّام"
+    }
+  ],
+  "timestamp": "2026-08-10T00:55:46.883692081Z",
+  "model": "glm-5.2"
+}

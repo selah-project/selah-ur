@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 19:15",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "اور اس نے قوم سے کہا: تین دن کے لیے تیار رہو؛ عورت کے پاس نہ جاؤ۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "העם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "היו",
+      "gloss": "رہو"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "تیار"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "تین"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دن کے لیے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגשו",
+      "gloss": "جاؤ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کے پاس"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "عورت"
+    }
+  ],
+  "timestamp": "2026-08-09T20:02:45.194233534Z",
+  "model": "glm-5.2"
+}

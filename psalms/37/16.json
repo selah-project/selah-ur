@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 37,
+  "translation": "بہتر ہے راستباز کا تھوڑا، بہت سے شریروں کے بھاری مال سے۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "بہتر ہے"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "تھوڑا"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "راستباز کا"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "بھاری مال سے"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "شریروں کے"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "بہت سے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:30:54.585518435Z",
+  "model": "glm-5.2"
+}

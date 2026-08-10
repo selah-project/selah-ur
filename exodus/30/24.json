@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 30:24",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 30,
+  "translation": "اور قَسْیَہ پانچ سو، مقدس کے شاقل کے مطابق؛ اور زیتون کا تیل ایک هِن،",
+  "tokens": [
+    {
+      "surface": "וקדה",
+      "gloss": "اور قَسْیَہ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پانچ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "شاقل کے مطابق"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "مقدس کے"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "اور تیل"
+    },
+    {
+      "surface": "זית",
+      "gloss": "زیتون کا"
+    },
+    {
+      "surface": "הין",
+      "gloss": "ایک هِن"
+    }
+  ],
+  "timestamp": "2026-08-09T20:07:29.973246182Z",
+  "model": "glm-5.2"
+}

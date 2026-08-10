@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 33:39",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 33,
+  "translation": "اور اہرون تین اور بیس اور سو سال کا بیٹا تھا ⟨جب⟩ اپنی موت میں، ہور پہاڑ پر۔",
+  "tokens": [
+    {
+      "surface": "ואהרן",
+      "gloss": "اور اہرون"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "تین"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "اور بیس"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "اور سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "במתו",
+      "gloss": "اپنی موت میں"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "پہاڑ پر"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ہور (پہاڑ)"
+    }
+  ],
+  "timestamp": "2026-08-09T20:41:03.739084060Z",
+  "model": "glm-5.2"
+}

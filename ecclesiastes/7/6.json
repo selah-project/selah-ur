@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "کیونکہ جیسے کانٹوں کا کرتن ہے برتن کے تلے، ویسے ہی نادان کا ہنسنا ہے؛ اور یہ بھی ہوا ہے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "جیسے … کرتن ہے"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "کانٹوں کا"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تلے"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "برتن کے"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ویسے ہی"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "ہنسنا ہے"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "نادان کا"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "اور … بھی"
+    },
+    {
+      "surface": "זה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ہوا ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:35:37.802790873Z",
+  "model": "glm-5.2"
+}

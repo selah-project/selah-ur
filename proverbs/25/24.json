@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 25:24",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "چھت کے کونے میں بیٹھنا جھگڑالو عورت اور وسیع گھر سے بہتر ہے۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "بہتر"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "بیٹھنا"
+    },
+    {
+      "surface": "על",
+      "gloss": "میں"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "کونے"
+    },
+    {
+      "surface": "גג",
+      "gloss": "چھت کے"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "سے"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "جھگڑالو عورت اور"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "وسیع"
+    }
+  ],
+  "timestamp": "2026-08-10T00:07:37.783179434Z",
+  "model": "glm-5.2"
+}

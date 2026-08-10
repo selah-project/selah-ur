@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 22:23",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "اور یاہویہ کا کلام میرے پاس آیا، یہ فرماتے ہوئے:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ⟨وہ⟩ ہوا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میرے پاس"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "یہ فرماتے ہوئے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:15:17.184706703Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 115,
+  "translation": "مُردے یاہ کو تعریف نہیں کرتے، نہ کوئی بھی جو خاموشی میں اُترتے ہیں۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "مُردے"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "تعریف کرتے"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی بھی"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "اُترتے ہیں"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "خاموشی میں"
+    }
+  ],
+  "timestamp": "2026-08-09T23:50:51.653742272Z",
+  "model": "glm-5.2"
+}

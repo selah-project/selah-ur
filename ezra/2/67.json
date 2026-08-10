@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "ezra 2:67",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "ان کے اونٹ چار سو پینتیس تھے، ان کے گدھے چھ ہزار سات سو بیس تھے۔",
+  "tokens": [
+    {
+      "surface": "גמליהם",
+      "gloss": "ان کے اونٹ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "تیس"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "اور پانچ"
+    },
+    {
+      "surface": "חמרים",
+      "gloss": "ان کے گدھے"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "سات"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "اور بیس"
+    }
+  ],
+  "timestamp": "2026-08-10T00:49:08.693944501Z",
+  "model": "glm-5.2"
+}

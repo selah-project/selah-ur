@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 8:13",
+  "book": "2-samuel",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اور داوِد نے اپنے لیے نام ⟨بنا⟩، جب وہ ⟨את⟩ ارام کو مارنے سے لوٹا، نمک کی وادی میں — اٹھارہ ہزار۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "اور بنا"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "שם",
+      "gloss": "نام"
+    },
+    {
+      "surface": "בשבו",
+      "gloss": "جب وہ لوٹا"
+    },
+    {
+      "surface": "מהכותו",
+      "gloss": "مارنے سے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ارام"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ارام"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "وادی میں"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "نمک"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "اٹھ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دس"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    }
+  ],
+  "timestamp": "2026-08-09T21:31:45.885262436Z",
+  "model": "glm-5.2"
+}

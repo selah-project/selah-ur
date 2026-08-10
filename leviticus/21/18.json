@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 21:18",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "کیونکہ جس ⟨آدمی⟩ میں بھی کوئی عیب ہو، وہ قریب نہ آئے — اندھا آدمی، یا لنگڑا، یا ٹوتی ناک والا، یا بہت بڑا عضو رکھنے والا۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "איש",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اس میں"
+    },
+    {
+      "surface": "מום",
+      "gloss": "کوئی عیب"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "وہ قریب آئے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "עור",
+      "gloss": "اندھا"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "لنگڑا"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ٹوتی ناک والا"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "بہت بڑا عضو رکھنے والا"
+    }
+  ],
+  "timestamp": "2026-08-09T20:23:00.886347848Z",
+  "model": "glm-5.2"
+}

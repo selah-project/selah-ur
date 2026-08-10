@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 22:14",
+  "book": "2-samuel",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "گرجے یاہویہ آسمانوں سے، اور عِلیون اپنی آواز دے۔",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "گرجے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "سے"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "آسمانوں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "اور عِلیون"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "دے"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "اپنی آواز"
+    }
+  ],
+  "timestamp": "2026-08-09T21:38:35.151066759Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "lamentations 3:59",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "تو نے دیکھا ہے اے یاہویہ میرا ظلم، تو میرا حق دانتا ہے۔",
+  "tokens": [
+    {
+      "surface": "רָאִ֤יתָה",
+      "gloss": "تو نے دیکھا ہے"
+    },
+    {
+      "surface": "יְהוָה֙",
+      "gloss": "اے یاہویہ"
+    },
+    {
+      "surface": "עַוָּ֣תָתִ֔י",
+      "gloss": "میرا ظلم"
+    },
+    {
+      "surface": "שָׁפְטָ֖ה",
+      "gloss": "تو دانتا ہے"
+    },
+    {
+      "surface": "מִשְׁפָּטִֽי",
+      "gloss": "میرا حق"
+    }
+  ],
+  "timestamp": "2026-08-10T06:42:34.659685256Z",
+  "model": "glm-5.2"
+}

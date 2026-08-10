@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 33:15",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 33,
+  "translation": "اور قدیم پہاڑوں کی چوٹیوں سے، اور ازلی ٹیلوں کی بہترین چیزوں سے۔",
+  "tokens": [
+    {
+      "surface": "ומראש",
+      "gloss": "اور چوٹیوں سے"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "پہاڑوں کی"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "قدیم"
+    },
+    {
+      "surface": "וממגד",
+      "gloss": "اور بہترین چیزوں سے"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "ٹیلوں کی"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ازلی"
+    }
+  ],
+  "timestamp": "2026-08-10T07:15:33.141333895Z",
+  "model": "glm-5.2"
+}

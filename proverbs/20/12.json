@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 20:12",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "کان سننے والا اور آنکھ دیکھنے والی—یاہویہ نے ان دونوں کو بنایا ہے۔",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "کان"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "سننے والا"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "اور آنکھ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "دیکھنے والی"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "بنایا ہے"
+    },
+    {
+      "surface": "גם",
+      "gloss": "بھی"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ان دونوں کو"
+    }
+  ],
+  "timestamp": "2026-08-10T06:38:46.745152865Z",
+  "model": "glm-5.2"
+}

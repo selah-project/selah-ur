@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 78:39",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 78,
+  "translation": "اور اس نے یاد کیا کہ وہ گوشت ہیں، ایک روح جو چلتی ہے اور واپس نہیں آتی۔",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "اور اس نے یاد کیا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "המה",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "چلتی ہے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "واپس آتی"
+    }
+  ],
+  "timestamp": "2026-08-10T06:34:09.151539947Z",
+  "model": "glm-5.2"
+}

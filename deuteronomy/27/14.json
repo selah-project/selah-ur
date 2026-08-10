@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 27:14",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "اور لاوِیّون جواب دیں گے اور ہر ایک اِنسانِ یِسرائیل کی طرف بلند آواز سے کہیں گے،",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "اور جواب دیں گے"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "لاوِیّون"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "اور کہیں گے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ہر ایک"
+    },
+    {
+      "surface": "איש",
+      "gloss": "اِنسانِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "רם",
+      "gloss": "بلند"
+    }
+  ],
+  "timestamp": "2026-08-09T20:52:56.098762194Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "اور اَبراہام نے ⟨את⟩ سب کچھ جو اس کا تھا یِتسحاق کو دے دیا۔",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "اور دیا"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَبراہام"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سب کچھ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اس کا"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "یِتسحاق کو"
+    }
+  ],
+  "timestamp": "2026-08-09T19:42:06.017281473Z",
+  "model": "glm-5.2"
+}

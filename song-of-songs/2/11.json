@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 2:11",
+  "book": "song-of-songs",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "کیونکہ دیکھو، ہاستاو گزر گیا، بارک رفع ہو گئی، چلی گئی۔",
+  "tokens": [
+    {
+      "surface": "כִּי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "הִנֵּה",
+      "gloss": "دیکھو"
+    },
+    {
+      "surface": "הַסְתָיו",
+      "gloss": "ہاستاو"
+    },
+    {
+      "surface": "עָבַר",
+      "gloss": "گزر گیا"
+    },
+    {
+      "surface": "הַגֶּשֶׁם",
+      "gloss": "بارک"
+    },
+    {
+      "surface": "חָלַף",
+      "gloss": "رفع ہو گئی"
+    },
+    {
+      "surface": "הָלַךְ",
+      "gloss": "چلی گئی"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "اس کے لیے \/ اپنے ساتھ"
+    }
+  ],
+  "timestamp": "2026-08-10T06:42:36.186148629Z",
+  "model": "glm-5.2"
+}

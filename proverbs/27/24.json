@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "کیونکہ دولت ہمیشہ کے لیے نہیں ⟨ہے⟩، اور کیا تاج نسل در نسل باقی رہتا ہے؟",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ہمیشہ کے لیے"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "دولت"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "اور کیا"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "تاج"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "نسل در"
+    },
+    {
+      "surface": "דור",
+      "gloss": "نسل"
+    }
+  ],
+  "timestamp": "2026-08-10T06:39:19.942566183Z",
+  "model": "glm-5.2"
+}

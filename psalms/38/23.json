@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 38,
+  "translation": "میری مدد کے لیے جلدی کر، اے ادونای؛ ⟨تو⟩ میری نجات ہے۔",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "جلدی کر"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "میری مدد کے لیے"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "اے ادونای"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "میری نجات"
+    }
+  ],
+  "timestamp": "2026-08-09T23:31:30.544171608Z",
+  "model": "glm-5.2"
+}

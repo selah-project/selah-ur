@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-kings 6:31",
+  "book": "2-kings",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اور اس نے کہا: یوں مجھ سے الوہیم کرے اور یوں زیادہ، اگر اِلیشَع بِن شافَت کا سر آج اس پر ٹکا رہے۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور اس نے کہا"
+    },
+    {
+      "surface": "כה",
+      "gloss": "یوں"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کرے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مجھ سے"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "اور یوں"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "زیادہ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ٹکا رہے"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "اِلیشَع"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بِن"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "شافَت"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اس پر"
+    },
+    {
+      "surface": "היום",
+      "gloss": "آج"
+    }
+  ],
+  "timestamp": "2026-08-09T21:55:20.663188997Z",
+  "model": "glm-5.2"
+}

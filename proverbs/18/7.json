@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 18:7",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "نا‌دان کا منہ اس کی ہلاکت ہے، اور اس کے ہونٹ اس کی جان کا پھندا ہیں۔",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "نا‌دان کا"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "ہلاکت"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اس کی"
+    },
+    {
+      "surface": "ושפתיו",
+      "gloss": "اور اس کے ہونٹ"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "پھندا"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "اس کی جان کا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:04:32.346012433Z",
+  "model": "glm-5.2"
+}

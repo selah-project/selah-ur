@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 27:17",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "ان کی مت سلو، بابُل کے بادشاہ کی خدمت کرو اور زندہ رہو — یہ شہر کیوں ویران ہو؟",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مت"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "تم سلو"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ان کی"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "خدمت کرو"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بابُل کے بادشاہ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "بابُل"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "اور زندہ رہو"
+    },
+    {
+      "surface": "למה",
+      "gloss": "کیوں"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ہو"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "یہ شہر"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "ویران"
+    }
+  ],
+  "timestamp": "2026-08-09T22:33:59.428770240Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 12:27",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "نکما اپنا شکار بھونتا نہیں، اور آدمی کا مال قیمتی ہے — ⟨یعنی⟩ کڑی محنت کا۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "יחרך",
+      "gloss": "بھونتا"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "نکما"
+    },
+    {
+      "surface": "צידו",
+      "gloss": "اپنا شکار"
+    },
+    {
+      "surface": "והון",
+      "gloss": "اور مال"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدمی کا"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "قیمتی ہے"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "کڑی محنت کا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:02:27.904908096Z",
+  "model": "glm-5.2"
+}

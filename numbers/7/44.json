@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 7:44",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "ایک `(سونے کا`) چمچہ، دس `(شکل)` `(سونا)`، `(خوشبودار`) `(دھوپ`) سے بھرا ہوا۔",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ہتھیلی"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دس"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونا"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "بھرا ہوا"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "دھوپ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:29:24.340252209Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "اور اِبصان مر گیا، اور وہ بَیتِ لَحِم میں دفن ہوا۔",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "اور مر گیا"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "اِبصان"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "اور دفن ہوا"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "بَیتِ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "لَحِم میں"
+    }
+  ],
+  "timestamp": "2026-08-10T09:17:44.535278330Z",
+  "model": "glm-5.2"
+}

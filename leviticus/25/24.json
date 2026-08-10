@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 25:24",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "اور اپنی موروثی زمین کے سارے ملک میں زمین کو فدیہ دینا تم پر لازم ہے۔",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "اور سارے"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین میں"
+    },
+    {
+      "surface": "אחזתכם",
+      "gloss": "تمہاری موروثی"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "فدیہ"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "تم دینا"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "زمین کو"
+    }
+  ],
+  "timestamp": "2026-08-10T05:25:44.158353922Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اور گوشت اور روٹی میں جو بچے انہیں آگ میں جلا دو۔",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "اور جو بچے"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "گوشت میں"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "اور روٹی میں"
+    },
+    {
+      "surface": "באש",
+      "gloss": "آگ میں"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "تم جلا دو"
+    }
+  ],
+  "timestamp": "2026-08-09T20:18:31.197062243Z",
+  "model": "glm-5.2"
+}

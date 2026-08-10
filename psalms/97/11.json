@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 97:11",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 97,
+  "translation": "نیکوں کے لیے روشنی بویا گیا ہے، اور سیدھے دل کے لیے خوشی۔",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "روشنی"
+    },
+    {
+      "surface": "زרע",
+      "gloss": "بویا گیا ہے"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "نیکوں کے لیے"
+    },
+    {
+      "surface": "ולישרי",
+      "gloss": "اور سیدھے کے لیے"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "خوشی"
+    }
+  ],
+  "timestamp": "2026-08-09T23:46:09.280263144Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 35:19",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 35,
+  "translation": "خون کا وارث ⟨خود⟩ ⟨את⟩ قاتل کو مارے گا، جب وہ اس سے ملیں گے تو وہی اسے مار ڈالے گا۔",
+  "tokens": [
+    {
+      "surface": "גאל",
+      "gloss": "وارث"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "خون کا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨خود⟩"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "مارے گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "قاتل کو"
+    },
+    {
+      "surface": "הרצח",
+      "gloss": "قاتل کو"
+    },
+    {
+      "surface": "בפגעו",
+      "gloss": "جب ملیں گے"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اس سے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہی"
+    },
+    {
+      "surface": "ימיתנו",
+      "gloss": "اسے مار ڈالے گا"
+    }
+  ],
+  "timestamp": "2026-08-09T20:41:58.940539716Z",
+  "model": "glm-5.2"
+}

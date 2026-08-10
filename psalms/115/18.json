@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 115,
+  "translation": "اور ہم یاہ کو برکت دیں گے اب سے اور تا ابد۔ یاہ کی تعریف کرو!",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "اور ہم"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "برکت دیں گے"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "اب سے"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "اور تک"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ابد"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "تعریف کرو"
+    },
+    {
+      "surface": "יה",
+      "gloss": "یاہ"
+    }
+  ],
+  "timestamp": "2026-08-09T23:50:51.653979546Z",
+  "model": "glm-5.2"
+}

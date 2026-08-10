@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "ملعون ⟨ہے⟩ وہ جو اپنے باپ کی بیوی کے ساتھ لیٹتا ہے، کیونکہ اس نے اپنے باپ کا دامن کھول دیا، اور تمام لوگ کہیں گے: آمین۔",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ملعون"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "لیٹتا ہے"
+    },
+    {
+      "surface": "עם",
+      "gloss": "کے ساتھ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "بیوی"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "اپنے باپ کی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "کھول دیا"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "دامن"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "اپنے باپ کا"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "اور کہیں گے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوگ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "آمین"
+    }
+  ],
+  "timestamp": "2026-08-10T07:41:12.447699484Z",
+  "model": "glm-5.2"
+}

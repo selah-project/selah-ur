@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 4:30",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "اور بیتوایل میں اور خورمہ میں اور صِقلگ میں۔",
+  "tokens": [
+    {
+      "surface": "ובבתואל",
+      "gloss": "اور بیتوایل میں"
+    },
+    {
+      "surface": "ובחרמה",
+      "gloss": "اور خورمہ میں"
+    },
+    {
+      "surface": "ובציקלג",
+      "gloss": "اور صِقلگ میں"
+    }
+  ],
+  "timestamp": "2026-08-10T01:00:17.546366999Z",
+  "model": "glm-5.2"
+}

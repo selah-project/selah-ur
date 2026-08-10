@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 15:19",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 15,
+  "translation": "کاہل کا راستہ کانٹوں کی باڑ کی طرح ہے، مگر سیدھوں کا راستہ پکی سڑک ہے۔",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "راستہ"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "کاہل کا"
+    },
+    {
+      "surface": "כמשכת",
+      "gloss": "کی طرح ہے"
+    },
+    {
+      "surface": "חדק",
+      "gloss": "کانٹوں کی باڑ"
+    },
+    {
+      "surface": "וארח",
+      "gloss": "مگر راستہ"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "سیدھوں کا"
+    },
+    {
+      "surface": "סללה",
+      "gloss": "پکی سڑک ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:04:11.541917233Z",
+  "model": "glm-5.2"
+}

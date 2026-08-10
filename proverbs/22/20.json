@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "کیا میں نے تجھے لکھا نہیں تین بار مشوروں اور معرفت میں؟",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "کیا نہیں"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "میں نے لکھا"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تجھے"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "تین بار"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "مشوروں میں"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "اور معرفت"
+    }
+  ],
+  "timestamp": "2026-08-10T00:05:28.473103777Z",
+  "model": "glm-5.2"
+}

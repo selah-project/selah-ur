@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 11:44",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "عُزیّا عَشتَراتی، شامَع اور یَعوایِل، بَنَی حوتام عَرویری۔",
+  "tokens": [
+    {
+      "surface": "עזיא",
+      "gloss": "عُزیّا"
+    },
+    {
+      "surface": "העשתרתי",
+      "gloss": "عَشتَراتی"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "شامَع"
+    },
+    {
+      "surface": "ויעואל",
+      "gloss": "اور یَعوایِل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَنَی"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "حوتام"
+    },
+    {
+      "surface": "הערערי",
+      "gloss": "عَرویری"
+    }
+  ],
+  "timestamp": "2026-08-10T01:03:19.169976127Z",
+  "model": "glm-5.2"
+}

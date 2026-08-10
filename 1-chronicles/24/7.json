@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 24:7",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "اور پہلا گورا نکلا یِہوْیاریب کو، دوسرا یَدَعْیاه کو۔",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "اور نکلا"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "گورا"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "پہلا"
+    },
+    {
+      "surface": "ליהויריב",
+      "gloss": "یِہوْیاریب کو"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "یَدَعْیاه کو"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دوسرا"
+    }
+  ],
+  "timestamp": "2026-08-10T09:07:04.809152427Z",
+  "model": "glm-5.2"
+}

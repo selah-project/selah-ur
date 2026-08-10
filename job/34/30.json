@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 34:30",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 34,
+  "translation": "تاکہ ناپاک آدم حکومت نہ کرے، لوگ سے پھندوں سے۔",
+  "tokens": [
+    {
+      "surface": "ממלך",
+      "gloss": "تاکہ … حکومت نہ کرے"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "ناپاک"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "سے پھندوں سے"
+    },
+    {
+      "surface": "עם",
+      "gloss": "لوگ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:22:48.533106676Z",
+  "model": "glm-5.2"
+}

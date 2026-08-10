@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 6:9",
+  "book": "zechariah",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اور یاہویہ کا بار میرے پاس آیا، یوں کہنے کو:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بار"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "میرے پاس"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "یوں کہنے کو"
+    }
+  ],
+  "timestamp": "2026-08-10T06:27:46.580479074Z",
+  "model": "glm-5.2"
+}

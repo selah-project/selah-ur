@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "یہوداہ کے لیے، نَحشون، عَمّیناداب کا بیٹا۔",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "یہوداہ کے لیے"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "نَحشون"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "عَمّیناداب کا"
+    }
+  ],
+  "timestamp": "2026-08-10T08:38:35.117074614Z",
+  "model": "glm-5.2"
+}

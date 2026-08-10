@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اُس نے مجھے شراب کے گھر میں لایا، اور اُس کا جھنڈا مجھ پر محبت تھی۔",
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "اُس نے مجھے لایا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "میں"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "היין",
+      "gloss": "شراب کے"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "اور اُس کا جھنڈا"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "مجھ پر"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "محبت"
+    }
+  ],
+  "timestamp": "2026-08-10T00:25:39.543049628Z",
+  "model": "glm-5.2"
+}

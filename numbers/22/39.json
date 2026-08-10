@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 22:39",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "اور بِلعام بَلَق کے ساتھ چلا، اور وہ آئے قِریت حُصوت کو۔",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "اور چلا"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "بِلعام"
+    },
+    {
+      "surface": "עם",
+      "gloss": "کے ساتھ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "بَلَق"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "اور وہ آئے"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "قِریت"
+    },
+    {
+      "surface": "חצות",
+      "gloss": "حُصوت"
+    }
+  ],
+  "timestamp": "2026-08-10T05:31:08.125607791Z",
+  "model": "glm-5.2"
+}

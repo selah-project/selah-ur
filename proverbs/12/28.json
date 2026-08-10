@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "راستِ راست‌دلی میں زندگی ہے، اور اس کی گزرگاہ کا رستہ موت نہیں۔",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "راستِ میں"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "راست‌دلی"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "زندگی ہے"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "اور رستہ"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "گزرگاہ کا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    }
+  ],
+  "timestamp": "2026-08-10T00:02:27.905049973Z",
+  "model": "glm-5.2"
+}

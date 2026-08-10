@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 5:9",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "کہ نہ تو اپنی ہیبت دوسروں کو دے اور اپنے سالوں کو ایک ظالم کو،",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "کہ نہ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "تو دے"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "دوسروں کو"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "اپنی ہیبت"
+    },
+    {
+      "surface": "ושנתיך",
+      "gloss": "اور اپنے سالوں کو"
+    },
+    {
+      "surface": "לאכזרי",
+      "gloss": "ایک ظالم کو"
+    }
+  ],
+  "timestamp": "2026-08-10T06:36:59.503753647Z",
+  "model": "glm-5.2"
+}

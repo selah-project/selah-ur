@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "اور یہ ⟨وہ⟩ ہیں جنہیں تم ان میں سے نہ کھاؤ: شکرا، اور پھاڑا، اور عزنیاہ۔",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "اور یہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنہیں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "تم کھاؤ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ان میں سے"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "شکرا"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "اور پھاڑا"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "اور عزنیاہ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:47:28.089087624Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 31,
+  "translation": "تو الوہیم نے ⟨את⟩ تمہارے باپ کے مویشی چھین لے اور مجھے دے دیے۔",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "تو چھین لیا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "تمہارے باپ کے مویشی"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "مویشی"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "تمہارے باپ کے"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "اور دے دیے"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مجھے"
+    }
+  ],
+  "timestamp": "2026-08-09T19:46:22.686442146Z",
+  "model": "glm-5.2"
+}

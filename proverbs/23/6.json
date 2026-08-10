@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "نہ کھا ⟨את⟩ روٹی ⟨⟩ بری آنکھ والے کی، اور نہ چاہ اُس کی لذیذ چیزیں۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "کھا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "روٹی"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "روٹی"
+    },
+    {
+      "surface": "רע",
+      "gloss": "بری"
+    },
+    {
+      "surface": "עין",
+      "gloss": "آنکھ والے کی"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "چاہ"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "اُس کی لذیذ چیزیں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:06:24.043814994Z",
+  "model": "glm-5.2"
+}

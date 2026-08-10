@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 113,
+  "translation": "تاکہ سلاتا ہے انہیں بزرگوں کے ساتھ، اپنی قوم کے بزرگوں کے ساتھ۔",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "تاکہ سلاتا ہے"
+    },
+    {
+      "surface": "עם",
+      "gloss": "کے ساتھ"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "بزرگوں"
+    },
+    {
+      "surface": "עם",
+      "gloss": "کے ساتھ"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "بزرگوں"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "اپنی قوم"
+    }
+  ],
+  "timestamp": "2026-08-09T23:49:34.569134747Z",
+  "model": "glm-5.2"
+}

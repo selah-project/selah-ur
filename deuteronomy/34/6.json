@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 34:6",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 34,
+  "translation": "اور اسے ⟨את⟩ گھاٹی میں، مِتصرایم کی زمین میں، بیت‌فعور کے سامنے دفن کیا گیا؛ اور کوئی شخص آج تک اس کی قبر کو نہیں جانتا۔",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "اور دفن کیا گیا"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "اسے"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "گھاٹی میں"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین میں"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "مِتصرایم کی"
+    },
+    {
+      "surface": "מול",
+      "gloss": "کے سامنے"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "فعور"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "جانتا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "کوئی شخص"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اس کی قبر کو"
+    },
+    {
+      "surface": "קברתו",
+      "gloss": "اس کی قبر"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "היום",
+      "gloss": "آج"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اس"
+    }
+  ],
+  "timestamp": "2026-08-09T20:56:26.312160314Z",
+  "model": "glm-5.2"
+}

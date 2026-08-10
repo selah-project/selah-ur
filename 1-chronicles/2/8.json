@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 2:8",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور اَیتان کے بیٹے ⟨میں⟩ عَزَریاہ ⟨تھا⟩۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "اور بیٹے"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "اَیتان"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "عَزَریاہ"
+    }
+  ],
+  "timestamp": "2026-08-10T09:05:21.326845580Z",
+  "model": "glm-5.2"
+}

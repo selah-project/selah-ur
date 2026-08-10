@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 81,
+  "ref": "numbers 7:81",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "ایک بیل، مادہ گائے کا بیٹا، ایک مینڈھا، ایک حمل، اپنی ایک سال کا بیٹا، جلاو قربان کے لیے۔",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "بیل"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "مادہ گائے"
+    },
+    {
+      "surface": "איל",
+      "gloss": "مینڈھا"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "حمل"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "سال کا"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "جلاو قربان کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-10T08:38:56.154841026Z",
+  "model": "glm-5.2"
+}

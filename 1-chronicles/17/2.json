@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 17:2",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 17,
+  "translation": "اور ناتن نے داوِد سے کہا: جو کچھ تیرے دل میں ہے وہ کر، کیونکہ الوہیم تیرے ساتھ ہے۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتن نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جو کچھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "تیرے دل میں ہے"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "وہ کر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تیرے ساتھ ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T01:08:32.147745108Z",
+  "model": "glm-5.2"
+}

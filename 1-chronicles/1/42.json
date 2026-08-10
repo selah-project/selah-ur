@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 1:42",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "ایتسِر کے بیٹے ⟨تھے⟩ بِلہان اور زَعوان، یَعقان؛ دِیشون کے بیٹے ⟨تھے⟩ عُوص اور اَران۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "ایتسِر"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "بِلہان"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "اور زَعوان"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "یَعقان"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "دِیشون"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "عُوص"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "اور اَران"
+    }
+  ],
+  "timestamp": "2026-08-10T00:58:12.451207197Z",
+  "model": "glm-5.2"
+}

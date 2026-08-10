@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "حکمت سے کہہ: 'تو میری بہن ہے'، اور فہم کو 'ساتھی' پکار۔",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "کہہ"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "حکمت سے"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "میری بہن ہے"
+    },
+    {
+      "surface": "את",
+      "gloss": "تو"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "اور فہم کو"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "فہم کو"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "پکار"
+    }
+  ],
+  "timestamp": "2026-08-10T00:00:25.838494741Z",
+  "model": "glm-5.2"
+}

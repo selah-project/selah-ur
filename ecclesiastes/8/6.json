@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "کیونکہ ہر مقصد کے لیے ایک وقت اور ایک فیصلہ ہے، کیونکہ آدمی کی برائی اس پر بھاری ہے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "مقصد"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ہے"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "اور فیصلہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "آدمی کی"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "بھاری"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اس پر"
+    }
+  ],
+  "timestamp": "2026-08-10T06:43:58.623375495Z",
+  "model": "glm-5.2"
+}

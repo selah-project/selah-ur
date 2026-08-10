@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 30:2",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 30,
+  "translation": "یوں کہا یاہویہ نے، الوہیمِ یِسرائیل کے، کہنے کو: تو اپنے لیے ⟨את⟩ سب باتیں جو میں نے تجھ سے کہی ہیں، ایک کتاب میں لکھ۔",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "یوں"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "کہا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "الوہیمِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہنے کو"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "لکھ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اپنے لیے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سب باتیں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "باتیں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "میں نے کہی ہیں"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تجھ سے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "میں"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "کتاب"
+    }
+  ],
+  "timestamp": "2026-08-09T22:33:48.876876432Z",
+  "model": "glm-5.2"
+}

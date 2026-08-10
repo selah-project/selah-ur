@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 19:15",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "اور نہ ہوگا مِتصرایم کے لیے کوئی کام جو سر یا دم، کھجور کا پتا یا نرسل کر سکے۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوگا"
+    },
+    {
+      "surface": "למצרים",
+      "gloss": "مِتصرایم کے لیے"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "کوئی کام"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "کر سکے"
+    },
+    {
+      "surface": "رאש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "یا دم"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "کھجور کا پتا"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "یا نرسل"
+    }
+  ],
+  "timestamp": "2026-08-09T22:06:46.949910849Z",
+  "model": "glm-5.2"
+}

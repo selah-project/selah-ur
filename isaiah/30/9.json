@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 30:9",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 30,
+  "translation": "کیونکہ یہ ایک متمرد قوم ہے، بےوفا بیٹے، بیٹے جو یاہویہ کی تورات سننے پر راضی نہیں ہوئے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "متمرد"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ⟨ہے⟩"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "כחשים",
+      "gloss": "بےوفا"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "راضی ہوئے"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "سننے پر"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "توراتِ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    }
+  ],
+  "timestamp": "2026-08-09T22:09:28.050227128Z",
+  "model": "glm-5.2"
+}

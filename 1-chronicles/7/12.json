@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اور شُپِّیم اور خُپِّیم عِیر کے بیٹے ہیں؛ خُوشِیم اخَر کے بیٹے ہیں۔",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "اور شُپِّیم"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "اور خُپِّیم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "عِیر کے"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "خُوشِیم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "اخَر کے"
+    }
+  ],
+  "timestamp": "2026-08-10T01:02:21.104323275Z",
+  "model": "glm-5.2"
+}

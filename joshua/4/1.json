@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 4:1",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "اور ہوا جب تمام قوم نے ⟨את⟩ یردن کو پار کرنا مکمل کیا، تو یاہویہ نے یہوشُع سے فرمایا، کہنا:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جب"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "مکمل کیا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "قوم نے"
+    },
+    {
+      "surface": "לעבור",
+      "gloss": "پار کرنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یردن"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "یردن"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "اور فرمایا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یہوشُع"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہنا"
+    }
+  ],
+  "timestamp": "2026-08-09T20:57:11.071314738Z",
+  "model": "glm-5.2"
+}

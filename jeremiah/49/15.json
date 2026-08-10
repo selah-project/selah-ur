@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 49:15",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 49,
+  "translation": "کیونکہ دیکھ، میں نے تمہیں قوموں میں چھوٹا کر دیا ہے، آدمیوں میں حقیر۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "دیکھ"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "چھوٹا"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "میں نے تمہیں کر دیا ہے"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "قوموں میں"
+    },
+    {
+      "surface": "בזוי",
+      "gloss": "حقیر"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "آدمیوں میں"
+    }
+  ],
+  "timestamp": "2026-08-09T22:44:43.117074847Z",
+  "model": "glm-5.2"
+}

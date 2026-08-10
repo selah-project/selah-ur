@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "اور یہ ہیں وہ حکمام جو تو ⟨ان⟩ کے سامنے رکھے گا۔",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "اور یہ"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "حکمام"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "تو رکھے گا"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "ان کے سامنے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:04:48.723003540Z",
+  "model": "glm-5.2"
+}

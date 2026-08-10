@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 14:20",
+  "book": "judges",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "اور شِمشون کی بیوی اُس کے ساتھی کو دے دی گئی، جو اُس کا دوست تھا۔",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "اور ⟨وہ⟩ ہوئی"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "بیوی"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "شِمشون کی"
+    },
+    {
+      "surface": "למרעהו",
+      "gloss": "اُس کے ساتھی کو"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "دوست تھا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُس کا"
+    }
+  ],
+  "timestamp": "2026-08-10T07:17:39.829772933Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 10:9",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "تو یَهوشُعَ اچانک ان پر آ گیا — ساری رات وہ گِلگال سے چڑھتا رہا۔",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "تو آ گیا"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ان پر"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "یَهوشُعَ"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "اچانک"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "رات"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "چڑھتا رہا"
+    },
+    {
+      "surface": "מן",
+      "gloss": "سے"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "گِلگال"
+    }
+  ],
+  "timestamp": "2026-08-09T21:00:31.722639966Z",
+  "model": "glm-5.2"
+}

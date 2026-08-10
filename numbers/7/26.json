@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 7:26",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "ایک سونے کی کف دس شیکل، جو خُوشبو سے بھری ہوئی ہو۔",
+  "tokens": [
+    {
+      "surface": "כַּ֥ף",
+      "gloss": "کف"
+    },
+    {
+      "surface": "אַחַ֛ת",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "עֲשָׂרָ֥ה",
+      "gloss": "دس"
+    },
+    {
+      "surface": "זָהָ֖ב",
+      "gloss": "سونا"
+    },
+    {
+      "surface": "מְלֵאָ֥ה",
+      "gloss": "بھری ہوئی"
+    },
+    {
+      "surface": "קְטֹֽרֶת",
+      "gloss": "خُوشبو"
+    }
+  ],
+  "timestamp": "2026-08-09T20:28:28.428456070Z",
+  "model": "glm-5.2"
+}

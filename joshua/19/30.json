@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 19:30",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "اور عُمہ، اور اَفِق، اور رَخوب — بائیس شہر اور ان کے دیہات۔",
+  "tokens": [
+    {
+      "surface": "ועמה",
+      "gloss": "اور عُمہ"
+    },
+    {
+      "surface": "ואפק",
+      "gloss": "اور اَفِق"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "اور رَخوب"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیس"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "اور دو"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "اور ان کے دیہات"
+    }
+  ],
+  "timestamp": "2026-08-09T21:04:13.481298396Z",
+  "model": "glm-5.2"
+}

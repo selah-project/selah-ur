@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 21:19",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "یا کوئی ⟨آدمی⟩ جس میں ٹوٹی ہوئی ٹانگ ہو، یا ٹوٹی ہوئی ہاتھ۔",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہوگا"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اس میں"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ٹوٹی ہوئی"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ٹانگ"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ٹوٹی ہوئی"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ہاتھ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:23:00.886483844Z",
+  "model": "glm-5.2"
+}

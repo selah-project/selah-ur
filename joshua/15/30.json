@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 15:30",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 15,
+  "translation": "اور اِلتولاد، اور کَسِیل، اور خورمہ۔",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "اور اِلتولاد"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "اور کَسِیل"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "اور خورمہ"
+    }
+  ],
+  "timestamp": "2026-08-09T21:02:42.592803534Z",
+  "model": "glm-5.2"
+}

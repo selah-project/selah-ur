@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 8:25",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اور ہوا کہ جو ⟨گزرے⟩ وہ گرا اس دن آدمی سے لے کر عورت تک، بارہ ہزار، یعنی ہاۓ کے سبھی آدمی۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "כל",
+      "gloss": "جو ⟨گزرے⟩"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "گرا"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "اس دن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "آدمی سے"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "لے کر"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "عورت تک"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "بارہ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "یعنی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھی"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "آدمی"
+    },
+    {
+      "surface": "העי",
+      "gloss": "ہاۓ کے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:59:52.986429124Z",
+  "model": "glm-5.2"
+}

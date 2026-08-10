@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 48:23",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 48,
+  "translation": "اور قِریاتایِم پر اور بَیت گامُول پر اور بَیت مَعون پر۔",
+  "tokens": [
+    {
+      "surface": "وעל",
+      "gloss": "اور پر"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "قِریاتایِم"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "اور پر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بَیت"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "گامُول"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "اور پر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بَیت"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "مَعون"
+    }
+  ],
+  "timestamp": "2026-08-09T22:44:18.379087280Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 6:14",
+  "book": "joshua",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اور دوسرے دن ⟨את⟩ شہر کا ایک ہی چکر لگایا، اور ڈیرا لوٹ آئے؛ یوں انہوں نے چھ دن تک کیا۔",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "اور چکر لگایا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شہر"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر کا"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دوسرے"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "بار"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "اور لوٹ آئے"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ڈیرا"
+    },
+    {
+      "surface": "כה",
+      "gloss": "یوں"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "انہوں نے کیا"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دن"
+    }
+  ],
+  "timestamp": "2026-08-09T20:57:28.588767075Z",
+  "model": "glm-5.2"
+}

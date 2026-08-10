@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اچھی ہے حکمت وراثت کے ساتھ، اور فائدہ ہے سورج دیکھنے والوں کو۔",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "اچھی ہے"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "עם",
+      "gloss": "کے ساتھ"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "وراثت"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "اور فائدہ ہے"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "دیکھنے والوں کو"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سورج"
+    }
+  ],
+  "timestamp": "2026-08-10T06:43:14.385450896Z",
+  "model": "glm-5.2"
+}

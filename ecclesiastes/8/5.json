@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "فرمانَبردار کو کوئی برا معاملہ معلوم نہیں ہوتا، اور حکیم کا دل وقت اور انصاف کو جانتا ہے۔",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "نگہبان"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "جانتا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "معاملہ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برا"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "اور وقت"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "اور انصاف"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "جانتا"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حکیم"
+    }
+  ],
+  "timestamp": "2026-08-10T06:43:58.623135656Z",
+  "model": "glm-5.2"
+}

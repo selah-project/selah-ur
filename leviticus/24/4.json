@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "پاکیزہ مَنورہ پر وہ چراغوں کو ترتیب دے گا، یاہویہ کے سامنے مسلسل۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "مَنورہ"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "پاکیزہ"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "وہ ترتیب دے گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "چراغوں کو"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "چراغوں"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "کے سامنے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "مسلسل"
+    }
+  ],
+  "timestamp": "2026-08-09T20:24:20.627121421Z",
+  "model": "glm-5.2"
+}

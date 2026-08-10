@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 31,
+  "translation": "اس نے اس کے ساتھ بھلائی کی ہے، برائی نہیں، اس کی زندگی کے سبھی دنوں میں۔",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "اس نے اس کے ساتھ کی ہے"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "بھلائی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہیں"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سبھی"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "دنوں میں"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "اس کی زندگی کے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:38:44.333755702Z",
+  "model": "glm-5.2"
+}

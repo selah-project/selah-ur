@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 21:11",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "اور تو قیدیوں میں ایک صورتَخوش خاتون دیکھے، اور تو اس سے محبت کرے، اور تو اسے اپنے لیے بیوی لے،",
+  "tokens": [
+    {
+      "surface": "וראית",
+      "gloss": "اور تو دیکھے"
+    },
+    {
+      "surface": "בשביה",
+      "gloss": "قیدیوں میں"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "خاتون"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "خوش"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "صورت"
+    },
+    {
+      "surface": "וחשקת",
+      "gloss": "اور تو محبت کرے"
+    },
+    {
+      "surface": "בה",
+      "gloss": "اس سے"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "اور تو لے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اپنے لیے"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "بیوی"
+    }
+  ],
+  "timestamp": "2026-08-09T20:51:35.703100361Z",
+  "model": "glm-5.2"
+}

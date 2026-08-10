@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "مگر خون مت کھاؤ، اسے زمین پر پانی کی طرح بہاؤ۔",
+  "tokens": [
+    {
+      "surface": "רַק֩",
+      "gloss": "مگر"
+    },
+    {
+      "surface": "הַדָּ֖ם",
+      "gloss": "خون"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "مت"
+    },
+    {
+      "surface": "תֹאכְל֑וּ",
+      "gloss": "کھاؤ"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הָאָ֥רֶץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "תִּשְׁפְּכֶ֖נּוּ",
+      "gloss": "اسے بہاؤ"
+    },
+    {
+      "surface": "כַּמָּֽיִם",
+      "gloss": "پانی کی طرح"
+    }
+  ],
+  "timestamp": "2026-08-10T05:32:59.661755710Z",
+  "model": "glm-5.2"
+}

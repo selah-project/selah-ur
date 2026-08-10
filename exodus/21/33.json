@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 21:33",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "اور جب کوئی شخص گڑھا کھولے یا جب کوئی شخص گڑھا کھودے اور اسے ڈھانپ نہے، اور وہاں کوئی بیل یا گدہ گر جائے،",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "اور جب"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "کھولے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "کوئی شخص"
+    },
+    {
+      "surface": "בור",
+      "gloss": "گڑھا"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "جب"
+    },
+    {
+      "surface": "יכרה",
+      "gloss": "کھودے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "کوئی شخص"
+    },
+    {
+      "surface": "בר",
+      "gloss": "گڑھا"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "יכסנו",
+      "gloss": "اسے ڈھانپے"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "اور گرے"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "وہاں"
+    },
+    {
+      "surface": "שור",
+      "gloss": "بیل"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "گدہ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:05:22.404522578Z",
+  "model": "glm-5.2"
+}

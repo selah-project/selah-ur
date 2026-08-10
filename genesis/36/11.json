@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 36:11",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 36,
+  "translation": "اور عیسو کے بیٹے تھے: تیمان، اومر، صِفو، گَعتام اور قِناز۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "اور تھے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "اِلیفاز"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "تیمان"
+    },
+    {
+      "surface": "אומר",
+      "gloss": "اومر"
+    },
+    {
+      "surface": "צפו",
+      "gloss": "صِفو"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "اور گَعتام"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "اور قِناز"
+    }
+  ],
+  "timestamp": "2026-08-09T19:47:14.785446310Z",
+  "model": "glm-5.2"
+}

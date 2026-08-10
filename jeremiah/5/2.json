@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "اور اگر کہیں، ”یاہویہ زندہ ہے“، تو یقیناً وہ جھوٹ کی قسم کھاتے ہیں۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "اور اگر"
+    },
+    {
+      "surface": "חי",
+      "gloss": "زندہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "کہیں"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "یقیناً"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "جھوٹ کی"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "قسم کھاتے ہیں"
+    }
+  ],
+  "timestamp": "2026-08-10T06:06:57.238606932Z",
+  "model": "glm-5.2"
+}

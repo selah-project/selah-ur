@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 47,
+  "translation": "اور پَرعہ نے یوسف سے کہا، کہہ کر: تیرا باپ اور تیرے بھائی تیرے پاس آئے ہیں۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پَرعہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہہ کر"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "تیرا باپ"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "اور تیرے بھائی"
+    },
+    {
+      "surface": "באו",
+      "gloss": "آئے ہیں"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیرے پاس"
+    }
+  ],
+  "timestamp": "2026-08-09T19:53:33.591485403Z",
+  "model": "glm-5.2"
+}

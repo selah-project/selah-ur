@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 45:15",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 45,
+  "translation": "یقیناً تو ⟨هیں⟩ ایلِ پنہان، یِسرایلیل کا الوہیم، مُنجی۔",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "یقیناً"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "پنہان"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "الوہیمِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایلیل"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "مُنجی"
+    }
+  ],
+  "timestamp": "2026-08-10T07:46:20.729664229Z",
+  "model": "glm-5.2"
+}

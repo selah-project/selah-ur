@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "تو جا، ان سے کہہ: تم ⟨اپنے⟩ خیموں کو لوٹ جاؤ۔",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "جا"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "کہہ"
+    },
+    {
+      "surface": "لהם",
+      "gloss": "ان سے"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "لوٹ جاؤ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تم"
+    },
+    {
+      "surface": "לאהליכם",
+      "gloss": "اپنے خیموں کو"
+    }
+  ],
+  "timestamp": "2026-08-10T07:14:30.492182283Z",
+  "model": "glm-5.2"
+}

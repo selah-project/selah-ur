@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 17:26",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 17,
+  "translation": "اسی دن کی اصل میں اَوراہام کا ختنہ ہوا اور اِسماعیل اُس کا بیٹا۔",
+  "tokens": [
+    {
+      "surface": "בעצם",
+      "gloss": "اصل میں"
+    },
+    {
+      "surface": "היום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "اسی"
+    },
+    {
+      "surface": "נמול",
+      "gloss": "ختنہ ہوا"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَوراہام"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "اور اِسماعیل"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اُس کا بیٹا"
+    }
+  ],
+  "timestamp": "2026-08-10T05:13:12.578378154Z",
+  "model": "glm-5.2"
+}

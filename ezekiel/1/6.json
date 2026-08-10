@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 1:6",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "اور ⟨ہر⟩ ایک کے چار چہرے اور ⟨ہر⟩ ایک کے چار پر تھے، ان کے لیے۔",
+  "tokens": [
+    {
+      "surface": "וארבעה",
+      "gloss": "اور چار"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "چہرے"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "ایک کے لیے"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "اور چار"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "پر"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "ایک کے لیے"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ان کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:46:15.039378886Z",
+  "model": "glm-5.2"
+}

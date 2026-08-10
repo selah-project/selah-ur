@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 7:11",
+  "book": "micah",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "تیرے باڑے بنانے کا دن! اُس دن حد دور ہٹا دی جائے گی۔",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "بنانے کے لیے"
+    },
+    {
+      "surface": "גדריך",
+      "gloss": "تیرے باڑے"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "دور ہٹا دی جائے گی"
+    },
+    {
+      "surface": "חק",
+      "gloss": "حد"
+    }
+  ],
+  "timestamp": "2026-08-10T06:25:16.341064208Z",
+  "model": "glm-5.2"
+}

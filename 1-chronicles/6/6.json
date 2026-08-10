@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 6:6",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "یُوآخ اُس کا بیٹا، عِدّو اُس کا بیٹا، زِیرح اُس کا بیٹا، یِعاتَرائی اُس کا بیٹا۔",
+  "tokens": [
+    {
+      "surface": "יואח",
+      "gloss": "یُوآخ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اُس کا بیٹا"
+    },
+    {
+      "surface": "עדו",
+      "gloss": "عِدّو"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اُس کا بیٹا"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "زِیرح"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اُس کا بیٹا"
+    },
+    {
+      "surface": "יאתרי",
+      "gloss": "یِعاتَرائی"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اُس کا بیٹا"
+    }
+  ],
+  "timestamp": "2026-08-10T01:01:04.227913436Z",
+  "model": "glm-5.2"
+}

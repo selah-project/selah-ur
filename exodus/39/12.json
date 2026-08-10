@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 39:12",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 39,
+  "translation": "اور وہ قطار تیسری: لَشِم، شِبو اور اَخلَمہ۔",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "اور وہ قطار"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "تیسری"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "لَشِم"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "شِبو"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "اور اَخلَمہ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:11:15.015714830Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 2:7",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور کَرمی کے بیٹے ⟨میں⟩ عاکر، یِسرائیل کا بھَنجَن، جو خَیرَم میں خیانت کرتا تھا۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "اور بیٹے"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "کَرمی"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "عاکر"
+    },
+    {
+      "surface": "עוכר",
+      "gloss": "بھَنجَن"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "خیانت کرتا تھا"
+    },
+    {
+      "surface": "בחרם",
+      "gloss": "خَیرَم میں"
+    }
+  ],
+  "timestamp": "2026-08-10T09:05:21.326680257Z",
+  "model": "glm-5.2"
+}

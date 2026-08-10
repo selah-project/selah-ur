@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "وہ تیرے ہی لیے ہوں، اکیلے تیرے لیے، اور اجنبیوں کے ساتھ ⟨את⟩ کے ساتھ نہ ہوں۔",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "وہ ہوں"
+    },
+    {
+      "surface": "לך",
+      "gloss": "تیرے لیے"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "اکیلے تیرے لیے"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "اجنبیوں کے لیے"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "کے ساتھ"
+    }
+  ],
+  "timestamp": "2026-08-09T23:57:58.501177728Z",
+  "model": "glm-5.2"
+}

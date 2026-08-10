@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 23:28",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "وہ بھی شکار کی طرح گھات لگاتی ہے، اور خائنوں کو آدمیوں میں بڑھاتی ہے۔",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "بھی"
+    },
+    {
+      "surface": "היא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "כחתף",
+      "gloss": "شکار کی طرح"
+    },
+    {
+      "surface": "תארב",
+      "gloss": "گھات لگاتی ہے"
+    },
+    {
+      "surface": "ובוגדים",
+      "gloss": "اور خائنوں کو"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "آدمیوں میں"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "بڑھاتی ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:32:21.717667569Z",
+  "model": "glm-5.2"
+}

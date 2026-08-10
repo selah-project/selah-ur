@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 24:11",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "نواں یِیشوع، دسواں شِکَن‌یاهو۔",
+  "tokens": [
+    {
+      "surface": "לישוע",
+      "gloss": "یِیشوع کو"
+    },
+    {
+      "surface": "התשעי",
+      "gloss": "نواں"
+    },
+    {
+      "surface": "לשכניהו",
+      "gloss": "شِکَن‌یاهو کو"
+    },
+    {
+      "surface": "העשרי",
+      "gloss": "دسواں"
+    }
+  ],
+  "timestamp": "2026-08-10T01:10:01.311865322Z",
+  "model": "glm-5.2"
+}

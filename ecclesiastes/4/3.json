@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "اور ان دونوں سے بہتر ہے ⟨את⟩ وہ جو اب تک نہیں ہوا، جس نے نہیں دیکھا ⟨את⟩ برے کام کو جو کیا گیا ہے سورج کے تلے۔",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "اور بہتر ہے"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "ان دونوں سے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "وہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "اب تک"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہوا"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جس نے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "دیکھا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "برے کام کو"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "کام"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "برے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "کیا گیا ہے"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "تلے"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سورج کے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:34:04.485972200Z",
+  "model": "glm-5.2"
+}

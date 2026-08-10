@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 37:19",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 37,
+  "translation": "اور انہوں نے ایک دوسرے سے کہا: دیکھو، خوابوں کا مالک یہ ⟨آدمی⟩ آ رہا ہے۔",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "اور انہوں نے کہا"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "اپنے بھائی"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "دیکھو"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "مالک"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "خوابوں کا"
+    },
+    {
+      "surface": "הלזה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آ رہا ہے"
+    }
+  ],
+  "timestamp": "2026-08-09T19:48:10.115647375Z",
+  "model": "glm-5.2"
+}

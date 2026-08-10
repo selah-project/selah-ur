@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 5:13",
+  "book": "amos",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "اِس لِیے دانا ⟨وہ⟩ اُس وقت میں خاموش رہے گا، کیونکہ وہ برا وقت ہے۔",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "اِس لِیے"
+    },
+    {
+      "surface": "המשכיל",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "وقت میں"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "اُس"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "خاموش رہے گا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برا"
+    },
+    {
+      "surface": "היא",
+      "gloss": "وہ ⟨ہے⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T06:23:18.436392042Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اور دوسرے مہینے میں، مہینے کے ستائیسویں دن، زمین خشک ہوگئی۔",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "اور مہینے میں"
+    },
+    {
+      "surface": "השני",
+      "gloss": "دوسرے"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "سات میں"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "اور بیس"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "مہینے کے لیے"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "خشک ہوگئی"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    }
+  ],
+  "timestamp": "2026-08-10T05:11:28.641064003Z",
+  "model": "glm-5.2"
+}

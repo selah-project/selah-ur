@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 30:11",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 30,
+  "translation": "کیونکہ یہ حکم جو مَیں آج تجھے حکم دیتا ہوں — نہ تو وہ تجھ سے ⟨پوشیدہ⟩ ہے اور نہ وہ دور ہے۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "یہ حکم"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "مَیں"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "تجھے حکم دیتا ہوں"
+    },
+    {
+      "surface": "היום",
+      "gloss": "آج"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "⟨پوشیدہ⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ ہے"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "تجھ سے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "רחקה",
+      "gloss": "دور"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:54:38.324803333Z",
+  "model": "glm-5.2"
+}

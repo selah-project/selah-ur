@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 8:11",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اور لِویِم سب لوگوں کو خاموش کیا، کہہ کر: چپ رہو، کیونکہ یہ دن مقدس ⟨ہے⟩، اور غمگین نہ ہو۔",
+  "tokens": [
+    {
+      "surface": "והלוים",
+      "gloss": "اور لِویِم"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "خاموش کیا"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "העם",
+      "gloss": "لوگوں کو"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہہ کر"
+    },
+    {
+      "surface": "הסו",
+      "gloss": "چپ رہو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "یہ دن"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "תעצבו",
+      "gloss": "غمگین ہو"
+    }
+  ],
+  "timestamp": "2026-08-10T00:54:36.806441607Z",
+  "model": "glm-5.2"
+}

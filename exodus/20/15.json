@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 20:15",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "تو چوری نہ کر۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "چوری کر"
+    }
+  ],
+  "timestamp": "2026-08-09T20:02:06.636302942Z",
+  "model": "glm-5.2"
+}

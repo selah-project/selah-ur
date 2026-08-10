@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 36:27",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 36,
+  "translation": "یہ ہیں ایتسِر کے بیٹے: بِلہان اور زَعوان اور عَکان۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "یہ ہیں"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "ایتسِر"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "بِلہان"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "اور زَعوان"
+    },
+    {
+      "surface": "ועקן",
+      "gloss": "اور عَکان"
+    }
+  ],
+  "timestamp": "2026-08-09T19:47:30.239790289Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 47:2",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 47,
+  "translation": "پیسنی پکڑ اور آٹا پیس، اپنا نقاب ہٹا، دامن اٹھا، ٹانگ کھول، نہریں پار کر۔",
+  "tokens": [
+    {
+      "surface": "قחי",
+      "gloss": "پکڑ"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "پیسنی"
+    },
+    {
+      "surface": "וטחני",
+      "gloss": "اور پیس"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "آٹا"
+    },
+    {
+      "surface": "גלי",
+      "gloss": "ہٹا"
+    },
+    {
+      "surface": "צמתך",
+      "gloss": "اپنا نقاب"
+    },
+    {
+      "surface": "חשפי",
+      "gloss": "اٹھا"
+    },
+    {
+      "surface": "שבל",
+      "gloss": "دامن"
+    },
+    {
+      "surface": "גלי",
+      "gloss": "کھول"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "ٹانگ"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "پار کر"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "نہریں"
+    }
+  ],
+  "timestamp": "2026-08-09T22:15:11.426768660Z",
+  "model": "glm-5.2"
+}

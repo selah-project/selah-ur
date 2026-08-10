@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 76,
+  "translation": "کورس کے لیے، تاروں کے ساز پر۔ اَساف کا مَزمور، ایک گیت۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "کورس کے لیے"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "تاروں کے ساز پر"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مَزمور"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "اَساف کا"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "گیت"
+    }
+  ],
+  "timestamp": "2026-08-09T23:39:20.382735802Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 7:23",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "بنی یِسرائیل سے کہہ کر بولو: بیل کا، اور بھیڑ کا، اور بکری کا کوئی چربی نہ کھاؤ۔",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "بولو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہہ کر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "چربی"
+    },
+    {
+      "surface": "שור",
+      "gloss": "بیل کا"
+    },
+    {
+      "surface": "וכשב",
+      "gloss": "اور بھیڑ کا"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "اور بکری کا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "کھاؤ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:17:10.915850315Z",
+  "model": "glm-5.2"
+}

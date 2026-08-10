@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 24:29",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "مت کہو: جیسا اُس نے مجھ سے کیا، ویسا میں اُس سے کروں گا؛ میں ⟨وہ⟩ آدمی کو اُس کے عمل کے مطابق بدلوں گا۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مت"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "کہو"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "جیسا"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "לי",
+      "gloss": "مجھ سے"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ویسا"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "کروں گا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُس سے"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "بدلوں گا"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "آدمی کو"
+    },
+    {
+      "surface": "כפעלו",
+      "gloss": "اُس کے عمل کے مطابق"
+    }
+  ],
+  "timestamp": "2026-08-10T00:06:39.678088217Z",
+  "model": "glm-5.2"
+}

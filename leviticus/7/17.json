@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 7:17",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اور قربانی کے گوشت کا جو بچے، تیسرے دن آگ میں جلایا جائے گا۔",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "اور جو بچے"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "گوشت سے"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "قربانی کے"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "دن میں"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "تیسرے"
+    },
+    {
+      "surface": "באש",
+      "gloss": "آگ میں"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "جلایا جائے گا"
+    }
+  ],
+  "timestamp": "2026-08-10T07:11:24.803671089Z",
+  "model": "glm-5.2"
+}

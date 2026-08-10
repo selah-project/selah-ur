@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezra 2:26",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "رامہ اور گَبَع کے بَنوں کی — چھ سو اِکیس۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بَنوں کی"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "رامہ"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "اور گَبَع"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیس"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "اور ایک"
+    }
+  ],
+  "timestamp": "2026-08-10T06:46:24.906768135Z",
+  "model": "glm-5.2"
+}

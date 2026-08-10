@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 28:5",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 28,
+  "translation": "برائی کے مرد ⟨དö судебनہیں سمجھتے، مگر یاہویہ کے طلب گنار سب کچھ سمجھتے ہیں۔",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "برائی کے مرد"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "سمجھتے"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "انصاف"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "مگر طلب گنار"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "سمجھتے ہیں"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب کچھ"
+    }
+  ],
+  "timestamp": "2026-08-10T06:39:08.689063572Z",
+  "model": "glm-5.2"
+}

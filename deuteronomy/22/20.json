@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 22:20",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "اور اگر سچ ہو یہ بات، یعنی نہیں مِلے کنواری پن کے نشان اُس نوجوان عورت کے پاس،",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "اور اگر"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہو"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "یہ بات"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "مِلے"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "کنواری پن کے نشان"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "اُس نوجوان عورت کے پاس"
+    }
+  ],
+  "timestamp": "2026-08-10T07:13:50.000697778Z",
+  "model": "glm-5.2"
+}

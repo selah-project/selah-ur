@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "یہاں تک کہ یاہویہ جھانکے اور دیکھے آسمان سے۔",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "یہاں تک کہ"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "جھانکے"
+    },
+    {
+      "surface": "ורא",
+      "gloss": "اور دیکھے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "آسمان سے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:33:16.128331948Z",
+  "model": "glm-5.2"
+}

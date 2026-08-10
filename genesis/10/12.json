@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "اور ⟨את⟩ رَسَن کو، جو نِینَوِہ اور کَلَح کے درمیان ہے — وہ ⟨⟨⟩⟩ وہی بڑا شہر ہے۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "رَسَن"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "رَسَن"
+    },
+    {
+      "surface": "בין",
+      "gloss": "کے درمیان"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "نِینَوِہ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "اور"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "کَلَح"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "بڑا"
+    }
+  ],
+  "timestamp": "2026-08-09T19:36:54.776135099Z",
+  "model": "glm-5.2"
+}

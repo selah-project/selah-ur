@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 28:8",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 28,
+  "translation": "تو عیسو نے دیکھا کہ کنعان کی بیٹیاں اُس کے باپ یِتسْحاک کی نگاہ میں بری ہیں۔",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "تو دیکھا"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عیسو"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "بری"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "بیٹیاں"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کنعان"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "نگاہ میں"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "یِتسْحاک"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "اُس کے باپ"
+    }
+  ],
+  "timestamp": "2026-08-10T05:13:42.448565447Z",
+  "model": "glm-5.2"
+}

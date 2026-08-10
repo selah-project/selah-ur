@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور اگر تیرا قربان دیگچی میں پکائی ہوئی ہو، تو خالص آٹا تیل کے ساتھ بنے گا۔",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "اور اگر"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "مَنْحَہ"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "دیگچی"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "تیرا قربان"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "خالص آٹا"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "تیل کے ساتھ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "بنے گا"
+    }
+  ],
+  "timestamp": "2026-08-09T20:13:34.324192350Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 7:14",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "سلامتی کے قربانیں میرے پاس ہیں؛ آج میں نے اپنی نذریں پوری کی ہیں۔",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "قربانیں"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "سلامتی کے"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "میرے پاس ہیں"
+    },
+    {
+      "surface": "היום",
+      "gloss": "آج"
+    },
+    {
+      "surface": "שלמתי",
+      "gloss": "میں نے پوری کی ہیں"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "اپنی نذریں"
+    }
+  ],
+  "timestamp": "2026-08-10T06:37:30.928744303Z",
+  "model": "glm-5.2"
+}

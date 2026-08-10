@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "⟨את⟩ یاہویہ اپنے الوہیم سے ڈرو ⟨את⟩ اور اُس کی عبادت کرو اور اُس کے نام کی قسم کھاؤ۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یاہویہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "تیرا الوہیم"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ڈرو"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "⟨את⟩ اور اُس کی"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "عبادت کرو"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "اور اُس کے نام کی"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "قسم کھاؤ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:45:52.195521712Z",
+  "model": "glm-5.2"
+}

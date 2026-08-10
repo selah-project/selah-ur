@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 10:21",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "صادق کے ہونٹ بہتوں کو چراتے ہیں، اور بیوقوف دل کے کمی میں مر جاتے ہیں۔",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "ہونٹ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صادق کے"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "چراتے ہیں"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "بہتوں کو"
+    },
+    {
+      "surface": "ואוילים",
+      "gloss": "اور بیوقوف"
+    },
+    {
+      "surface": "בחסר",
+      "gloss": "کمی میں"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل کے"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "مر جاتے ہیں"
+    }
+  ],
+  "timestamp": "2026-08-10T09:00:14.784824751Z",
+  "model": "glm-5.2"
+}

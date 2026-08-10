@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 130,
+  "translation": "کیونکہ تیرے ساتھ ⟨ہے⟩ بخشش، تاکہ تو سے ڈِقا جائے!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تیرے ساتھ"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "بخشش"
+    },
+    {
+      "surface": "למען",
+      "gloss": "تاکہ"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "تو سے ڈِقا جائے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:54:51.095910280Z",
+  "model": "glm-5.2"
+}

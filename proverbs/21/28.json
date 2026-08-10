@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 21:28",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "جھوٹے گواہ کا ضمیر ہو جائے گا، مگر سننے والا آدمی ہمیشہ بولتا رہے گا۔",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "گواہ"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "جھوٹے"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "کا ضمیر ہو جائے گا"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "مگر آدمی"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "سننے والا"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "بولتا رہے گا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:04:50.518247652Z",
+  "model": "glm-5.2"
+}

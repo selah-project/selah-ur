@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "nehemiah 7:44",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "گلوکار: آساف کے بیٹے ایک سو اڑالیس۔",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "گلوکار"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کے بیٹے"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "آساف"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ایک سو"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "اڑالیس"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "اور آٹھ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:54:34.663492911Z",
+  "model": "glm-5.2"
+}

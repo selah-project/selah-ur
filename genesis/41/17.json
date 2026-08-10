@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 41:17",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 41,
+  "translation": "پھر پِرعوہ نے یوسف سے کہا: میرے خواب میں، دیکھو، میں نہر کے کنارے کھڑا تھا،",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "پِرعوہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف"
+    },
+    {
+      "surface": "בחלמי",
+      "gloss": "میرے خواب میں"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "دیکھو، میں"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "کھڑا تھا"
+    },
+    {
+      "surface": "על",
+      "gloss": "کے کنارے"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "کنارے"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "نہر"
+    }
+  ],
+  "timestamp": "2026-08-09T19:49:50.962878963Z",
+  "model": "glm-5.2"
+}

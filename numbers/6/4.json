@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 6:4",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اپنی علیحدگی کے سارے دن وہ کچھ نہ کھائے جو انگور کی بیل سے بنتا ہو، بوند سے لے کر چھلکے تک۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "دن"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "اپنی علیحدگی کے"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "کچھ نہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "بنتا ہو"
+    },
+    {
+      "surface": "מגפן",
+      "gloss": "انگور کی بیل سے"
+    },
+    {
+      "surface": "היין",
+      "gloss": "شراب کی"
+    },
+    {
+      "surface": "מחרצנים",
+      "gloss": "بوند سے"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "זג",
+      "gloss": "چھلکے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "کھائے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:27:53.240359026Z",
+  "model": "glm-5.2"
+}

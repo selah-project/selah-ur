@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 9:26",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "اور اُس نے کہا: مبارک ہو یاہویہ، شِیم کا الوہیم؛ اور کَنْعان اُن کا غلام ہو۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور اُس نے کہا"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "مبارک ہو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "کا الوہیم"
+    },
+    {
+      "surface": "שם",
+      "gloss": "شِیم"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہو"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "کَنْعان"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "غلام"
+    },
+    {
+      "surface": "למו",
+      "gloss": "اُن کا"
+    }
+  ],
+  "timestamp": "2026-08-09T19:35:25.943236579Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "اور تم اس میں سے صبح تک کچھ نہ بچانا؛ اور جو اس میں سے صبح تک بچ جائے اسے آگ میں جلا دینا۔",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "تم بچانا"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اس میں سے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "اور جو بچ جائے"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اس میں سے"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "صبح"
+    },
+    {
+      "surface": "באש",
+      "gloss": "آگ میں"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "تم جلا دینا"
+    }
+  ],
+  "timestamp": "2026-08-09T19:58:07.078753379Z",
+  "model": "glm-5.2"
+}

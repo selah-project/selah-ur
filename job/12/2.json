@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "بےشک کہ تم ہی ⟨ہو⟩ قوم، اور تمہارے ساتھ حکمت مر جائے گی۔",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "بےشک"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "تم"
+    },
+    {
+      "surface": "עם",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "تمہارے ساتھ"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "مر جائے گی"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    }
+  ],
+  "timestamp": "2026-08-10T00:13:39.187689860Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 39:22",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 39,
+  "translation": "اور جانے گا بیت یِسرائیل کہ میں یاہویہ ان کا الوہیم ہوں، اُس دن سے اور آگے کے لیے۔",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "اور جانے گا"
+    },
+    {
+      "surface": "בית",
+      "gloss": "بیت"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "ان کا الوہیم"
+    },
+    {
+      "surface": "מן",
+      "gloss": "سے"
+    },
+    {
+      "surface": "היום",
+      "gloss": "اُس دن"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "اور آگے کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:18:54.829768476Z",
+  "model": "glm-5.2"
+}

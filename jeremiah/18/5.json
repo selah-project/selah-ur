@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 18:5",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "اور یاہویہ کا فرمان مجھے آیا، یوں ⟨کہنا⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "فرمان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کا"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مجھے آیا"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "یوں ⟨کہنا⟩"
+    }
+  ],
+  "timestamp": "2026-08-10T06:08:29.005634977Z",
+  "model": "glm-5.2"
+}

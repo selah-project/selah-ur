@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 34,
+  "translation": "یاہویہ میں میری جان فخر کرے؛ خاکسار سن کر خوش ہوں۔",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "یاہویہ میں"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "فخر کرے"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "میری جان"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "سن کر"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "خاکسار"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "خوش ہوں"
+    }
+  ],
+  "timestamp": "2026-08-09T23:29:47.056402782Z",
+  "model": "glm-5.2"
+}

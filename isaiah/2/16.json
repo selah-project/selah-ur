@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 2:16",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور تمام تَرشیش کے جہازوں پر، اور تمام نادرِ نظر تصویروں پر۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "اور پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "جہازوں"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "تَرشیش"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "اور پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "שכיות",
+      "gloss": "تصویروں"
+    },
+    {
+      "surface": "החמדה",
+      "gloss": "نادرِ نظر"
+    }
+  ],
+  "timestamp": "2026-08-10T07:21:28.228555783Z",
+  "model": "glm-5.2"
+}

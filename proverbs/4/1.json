@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 4:1",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "سنو، بیٹو، باپ کی تادیب ⟨کو⟩ اور ⟨سمعِ⟩ دانشمند ہونے کے لیے دھیان دو۔",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "سنو"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بیٹو"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تادیب"
+    },
+    {
+      "surface": "אב",
+      "gloss": "باپ کی"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "اور دھیان دو"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "دانشمند ہونے کے لیے"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "فہم"
+    }
+  ],
+  "timestamp": "2026-08-10T06:37:36.018249292Z",
+  "model": "glm-5.2"
+}

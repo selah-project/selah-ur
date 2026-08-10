@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 28:7",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 28,
+  "translation": "اس کے دو کندھے ہونگے جو جُڑے ہوئے ہوں گے — اس کے دونوں سروں تک — اور وہ جُڑا ہوا ہوگا۔",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "כתפת",
+      "gloss": "کندھے"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "جُڑے ہوئے"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہونگے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اس کے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "تک"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دونوں"
+    },
+    {
+      "surface": "קצותיו",
+      "gloss": "سروں"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "اور وہ جُڑا ہوا ہوگا"
+    }
+  ],
+  "timestamp": "2026-08-09T20:07:39.554452534Z",
+  "model": "glm-5.2"
+}

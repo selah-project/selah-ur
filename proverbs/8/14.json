@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 8:14",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "میرے لیے مشورہ ⟨ہے⟩ اور ࣔتوشیہ، میں ہی سمجھ ⟨ہوں⟩، میرے لیے قوت ہے۔",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "میرے لیے"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "مشورہ"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "اور توشیہ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "سمجھ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے لیے"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "قوت"
+    }
+  ],
+  "timestamp": "2026-08-10T00:00:32.507597881Z",
+  "model": "glm-5.2"
+}

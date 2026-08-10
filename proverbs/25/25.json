@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 25:25",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "ٹھنڈے پانی ⟨علی⟩ تھکی ہوئی نَفَش ⟨پر⟩، اور ایک اچھی خبر دور کی زمین سے ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "קרים",
+      "gloss": "ٹھنڈے"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨علی⟩"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "نَفَش"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "تھکی ہوئی"
+    },
+    {
+      "surface": "ושמועה",
+      "gloss": "اور خبر"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "اچھی"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "زمین سے"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "دور کی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:07:04.984485425Z",
+  "model": "glm-5.2"
+}

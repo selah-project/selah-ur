@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "پتھریں ہٹانے والا اُن سے تکلیف پائے گا؛ لکڑیاں کھودنے والا اُن میں خطرے میں پڑے گا۔",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "ہٹانے والا"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "پتھریں"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "تکلیف پائے گا"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "اُن سے"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "کھودنے والا"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "لکڑیاں"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "خطرے میں پڑے گا"
+    },
+    {
+      "surface": "בם",
+      "gloss": "اُن میں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:35:17.141249274Z",
+  "model": "glm-5.2"
+}

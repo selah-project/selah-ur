@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "nehemiah 7:52",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "بنیں بِیسای، بنیں مِعونیم، بنیں نِفوشِسیم کی۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بنیں"
+    },
+    {
+      "surface": "בסי",
+      "gloss": "بِیسای"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنیں"
+    },
+    {
+      "surface": "מעונים",
+      "gloss": "مِعونیم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بنیں"
+    },
+    {
+      "surface": "נפושסים",
+      "gloss": "نِفوشِسیم"
+    }
+  ],
+  "timestamp": "2026-08-10T00:53:59.554108596Z",
+  "model": "glm-5.2"
+}

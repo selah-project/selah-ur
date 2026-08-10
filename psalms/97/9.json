@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 97:9",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 97,
+  "translation": "کیونکہ تُو، یاہویہ، ⟨ہے⟩ سب سے بلند پوری زمین پر؛ تُو بہت اونچا اُٹھایا گیا ہے سب اِلٰہوں پر۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تُو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "سب سے بلند"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "پوری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "נעלית",
+      "gloss": "اونچا اُٹھایا گیا ہے"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "اِلٰہوں"
+    }
+  ],
+  "timestamp": "2026-08-09T23:46:09.279888441Z",
+  "model": "glm-5.2"
+}

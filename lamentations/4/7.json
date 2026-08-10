@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 4:7",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "اس کے نذیر برف سے زیادہ پاک تھے، دودھ سے زیادہ سفید، ان کی ہڈیاں موتیوں سے زیادہ سرخ تھیں، ان کا قد سفر ہے۔",
+  "tokens": [
+    {
+      "surface": "זכו",
+      "gloss": "پاک تھے"
+    },
+    {
+      "surface": "נזיריה",
+      "gloss": "اس کے نذیر"
+    },
+    {
+      "surface": "משלג",
+      "gloss": "برف سے"
+    },
+    {
+      "surface": "צחו",
+      "gloss": "سفید تھے"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "دودھ سے"
+    },
+    {
+      "surface": "אדמו",
+      "gloss": "سرخ تھیں"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "ہڈیاں"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "موتیوں سے"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "سفر"
+    },
+    {
+      "surface": "גזרתם",
+      "gloss": "ان کا قد"
+    }
+  ],
+  "timestamp": "2026-08-10T00:30:50.634895431Z",
+  "model": "glm-5.2"
+}

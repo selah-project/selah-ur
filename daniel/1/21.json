@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 1:21",
+  "book": "daniel",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "اور دانیئل ⟨رہا⟩ تک سنّہِ اول کورش بادشاہ کے۔",
+  "tokens": [
+    {
+      "surface": "וַֽיְהִי֙",
+      "gloss": "اور ⟨رہا⟩"
+    },
+    {
+      "surface": "דָּֽנִיֵּ֔אל",
+      "gloss": "دانیئل"
+    },
+    {
+      "surface": "עַד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "שְׁנַ֥ת",
+      "gloss": "سنّہِ"
+    },
+    {
+      "surface": "אַחַ֖ת",
+      "gloss": "اول"
+    },
+    {
+      "surface": "לְכ֥וֹרֶשׁ",
+      "gloss": "کورش"
+    },
+    {
+      "surface": "הַמֶּֽלֶךְ",
+      "gloss": "بادشاہ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:38:12.440659307Z",
+  "model": "glm-5.2"
+}

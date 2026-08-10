@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 40:1",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 40,
+  "translation": "تسلی دو، تسلی دو میری قوم کو، تمہارا الوہیم کہتا ہے۔",
+  "tokens": [
+    {
+      "surface": "נחמו",
+      "gloss": "تسلی دو"
+    },
+    {
+      "surface": "נחמו",
+      "gloss": "تسلی دو"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "میری قوم کو"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "کہتا ہے"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "تمہارا الوہیم"
+    }
+  ],
+  "timestamp": "2026-08-10T06:03:32.527591688Z",
+  "model": "glm-5.2"
+}

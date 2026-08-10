@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 16,
+  "translation": "بہتر ہے تھوڑا ⟨ہونا⟩ انصاف کے ساتھ، بہت سی آمدنی سے بغیر عدل کے۔",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "بہتر ہے"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "تھوڑا"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "انصاف کے ساتھ"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "بہت سے … سے"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "آمدنی"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "بغیر"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "عدل کے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:03:39.797056668Z",
+  "model": "glm-5.2"
+}

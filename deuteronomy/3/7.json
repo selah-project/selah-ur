@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 3:7",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "اور سارے مویشی اور شہروں کا مالِ غنیمت ہم نے اپنے لیے لُوٹا۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "اور سارے"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "مویشی"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "اور مالِ غنیمت"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "شہروں کا"
+    },
+    {
+      "surface": "בזונו",
+      "gloss": "ہم نے لُوٹا"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "اپنے لیے"
+    }
+  ],
+  "timestamp": "2026-08-10T05:32:00.452697015Z",
+  "model": "glm-5.2"
+}

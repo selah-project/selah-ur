@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 10:27",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "یاہویہ کا خوف دنوں کو بڑھاتا ہے، اور شریرﻭں کے سالیں کم ہو جاتی ہیں۔",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "خوف"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "بڑھاتا ہے"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "دنوں کو"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "اور سالیں"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "شریرﻭں کے"
+    },
+    {
+      "surface": "תקצרנה",
+      "gloss": "کم ہو جاتی ہیں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:01:59.880355650Z",
+  "model": "glm-5.2"
+}

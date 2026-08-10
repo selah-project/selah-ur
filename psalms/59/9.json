@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 59,
+  "translation": "اور تو، اے یاہویہ، ان پر ہنسیں گا؛ تو تمام قوموں کا مذاق اڑائے گا۔",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "اور تو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "اے یاہویہ"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "ہنسیں گا"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ان پر"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "مذاق اڑائے گا"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "قوموں کو"
+    }
+  ],
+  "timestamp": "2026-08-09T23:35:44.895392932Z",
+  "model": "glm-5.2"
+}

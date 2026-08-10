@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 106,
+  "translation": "اور اسے اس کے لیے صداقت میں شمار کیا گیا، نسل در نسل ہمیشہ تک۔",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "اور شمار کیا گیا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اس کے لیے"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "صداقت میں"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "نسل"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "در نسل"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ"
+    }
+  ],
+  "timestamp": "2026-08-09T23:47:24.799664818Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 11:23",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "اور یاہویہ کا جلال شہر کے بیچ سے چلا گیا، اور اس پہاڑ پر کھڑا ہو گیا جو شہر کے مشرق کی طرف ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "اور چلا گیا"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "جلال"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "بیچ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "شہر کے"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "اور کھڑا ہو گیا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "پہاڑ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "مشرق کی طرف"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "شہر کے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:48:34.781081192Z",
+  "model": "glm-5.2"
+}

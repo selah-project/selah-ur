@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "حصہ بہ حصہ وہ کھائیں گے، اُس کی فروخت شدہ چیزوں کے سوا، آباؤں پر۔",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "حصہ"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "جیسا حصہ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "وہ کھائیں گے"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "سوا"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "اُس کی فروخت شدہ چیزوں کے"
+    },
+    {
+      "surface": "על",
+      "gloss": "کے حساب سے"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "آباؤں"
+    }
+  ],
+  "timestamp": "2026-08-09T20:50:40.450868847Z",
+  "model": "glm-5.2"
+}

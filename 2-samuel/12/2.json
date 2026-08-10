@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 12:2",
+  "book": "2-samuel",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "دولتمند کے پاس بہت بھاری تعداد میں بھیڑیں اور مویشی تھے۔",
+  "tokens": [
+    {
+      "surface": "לעשיר",
+      "gloss": "دولتمند کے پاس"
+    },
+    {
+      "surface": "היה",
+      "gloss": "تھے"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "بھیڑیں"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "اور مویشی"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "بھاری تعداد میں"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "بہت"
+    }
+  ],
+  "timestamp": "2026-08-09T21:35:22.778128975Z",
+  "model": "glm-5.2"
+}

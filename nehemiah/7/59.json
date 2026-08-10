@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "nehemiah 7:59",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "شِفتَیَہ کے بیٹے، حَتّیل کے بیٹے، پُوخیرِت-ہَصَّباییم کے بیٹے، آمُون کے بیٹے۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "شِفتَیَہ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "חטיל",
+      "gloss": "حَتّیل"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "פכרת",
+      "gloss": "پُوخیرِت"
+    },
+    {
+      "surface": "הצביים",
+      "gloss": "ہَصَّباییم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "آمُون"
+    }
+  ],
+  "timestamp": "2026-08-10T06:48:03.797982226Z",
+  "model": "glm-5.2"
+}

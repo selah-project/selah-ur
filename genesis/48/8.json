@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 48,
+  "translation": "اور یِسرائیل نے یوسف کے بیٹوں کو دیکھا اور کہا: یہ کون ہیں؟",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "اور دیکھا"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "یوسف کے بیٹوں کو"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹوں"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "یوسف کے"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "מי",
+      "gloss": "کون"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "یہ"
+    }
+  ],
+  "timestamp": "2026-08-10T05:17:45.110846607Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 27:4",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "غصہ ظلم کش ہے اور قہر ایک سیلاب، اور قیام کس کر سکتا ہے؟",
+  "tokens": [
+    {
+      "surface": "אכזריות",
+      "gloss": "ظلم کش"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "غصہ"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "اور سیلاب"
+    },
+    {
+      "surface": "אף",
+      "gloss": "قہر"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "اور کس"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "قیام کر سکتا ہے"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "کے آگے"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "رسی کے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:08:54.030594602Z",
+  "model": "glm-5.2"
+}

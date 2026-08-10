@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اور اُس نے اُس پر ⟨את⟩ سینہ پٹہ رکھا، اور سینہ پٹہ میں ⟨את⟩ اُوریم اور ⟨את⟩ تُمیم رکھے۔",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "اور رکھا"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "اُس پر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سینہ پٹہ"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "سینہ پٹہ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "اور رکھے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "میں"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "سینہ پٹہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "اُوریم"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "اُوریم"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "تُمیم"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "تُمیم"
+    }
+  ],
+  "timestamp": "2026-08-09T20:17:26.799475286Z",
+  "model": "glm-5.2"
+}

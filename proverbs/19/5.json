@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 19:5",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "جھوٹا گواہ ⟨لن⟩ بری نہیں ہوگا، اور جو جھوٹ پھونکتا ہے وہ ⟨نہیں⟩ بچے گا۔",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "گواہ"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "جھوٹے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "بریا ہوگا"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "اور پھونکتا ہے"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "جھوٹ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "بچے گا"
+    }
+  ],
+  "timestamp": "2026-08-10T06:38:52.845373613Z",
+  "model": "glm-5.2"
+}

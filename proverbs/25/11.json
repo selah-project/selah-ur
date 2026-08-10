@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 25:11",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "سونے کے سیب چاندی کی نقش و نگار میں ⟨ہیں⟩ — اپنے مقام پر بولا ہوا لفظ۔",
+  "tokens": [
+    {
+      "surface": "תפוחי",
+      "gloss": "سیب"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونے کے"
+    },
+    {
+      "surface": "במשכיות",
+      "gloss": "نقش و نگار میں"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "چاندی کی"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "لفظ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بولا ہوا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "אפניו",
+      "gloss": "اپنے مقام"
+    }
+  ],
+  "timestamp": "2026-08-10T00:06:47.353182113Z",
+  "model": "glm-5.2"
+}

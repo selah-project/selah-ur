@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 19:10",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 19,
+  "translation": "عیش ناحص نہیں ⟨ہے⟩ کم عقل کو، بلکہ غلام کا سرداروں پر حکومت کرنا کتنی بات ہے!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "مناسب ہے"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "کم عقل کو"
+    },
+    {
+      "surface": "תענוג",
+      "gloss": "عیش"
+    },
+    {
+      "surface": "אף",
+      "gloss": "بلکہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کتنی"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "غلام کا"
+    },
+    {
+      "surface": "משל",
+      "gloss": "حکومت کرنا"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "سرداروں پر"
+    }
+  ],
+  "timestamp": "2026-08-10T06:38:47.431788022Z",
+  "model": "glm-5.2"
+}

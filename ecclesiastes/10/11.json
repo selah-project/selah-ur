@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "اگر سانپ بغیر منتر کے لگے، تو جادوگر کی زبان کا کوئی فائدہ نہیں۔",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "لگے"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "سانپ"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "بغیر"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "منتر کے"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "تو نہیں ہے"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "کوئی فائدہ"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "کو"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "زبان والے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:35:17.141856873Z",
+  "model": "glm-5.2"
+}

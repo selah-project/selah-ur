@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 10:34",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "مِن بَنِی بَانِی کے: مَعَدَی، عَمرام، اور اُو ایل۔",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "مِن بَنِی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بَانِی"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "مَعَدَی"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "عَمرام"
+    },
+    {
+      "surface": "ואואל",
+      "gloss": "اور اُو ایل"
+    }
+  ],
+  "timestamp": "2026-08-10T06:46:20.608254254Z",
+  "model": "glm-5.2"
+}

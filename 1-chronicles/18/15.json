@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 18:15",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "اور یوآب بِن صَرویَہ لشکر کا ⟨سربراہ⟩ تھا، اور یِہوشافات بِن اَخیلود مازکِیر تھا،",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "اور یوآب"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بِن"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "صَرویَہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "لشکر"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "اور یِہوشافات"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بِن"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "اَخیلود"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "مازکِیر"
+    }
+  ],
+  "timestamp": "2026-08-10T01:07:46.810910153Z",
+  "model": "glm-5.2"
+}

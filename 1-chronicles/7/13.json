@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 7:13",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "نَفتالی کے بیٹے یَخَتسی‌ایل، وگونی، ویِیَتسِر، وشَلوم — بیلہا کے بیٹے۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کے بیٹے"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "نَفتالی"
+    },
+    {
+      "surface": "יחציאל",
+      "gloss": "یَخَتسی‌ایل"
+    },
+    {
+      "surface": "וגוני",
+      "gloss": "وگونی"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "ویِیَتسِر"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "وشَلوم"
+    },
+    {
+      "surface": "בני",
+      "gloss": "کے بیٹے"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "بیلہا"
+    }
+  ],
+  "timestamp": "2026-08-10T01:02:48.027600194Z",
+  "model": "glm-5.2"
+}

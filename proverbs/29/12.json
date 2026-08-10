@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 29:12",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 29,
+  "translation": "حاکم اگر جھوٹی بات پر کان دھرتا ہے، اس کے تمام خادم بدکار ہوتے ہیں۔",
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "حاکم"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "کان دھرتا ہے"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بات"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "جھوٹی"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "اس کے خادم"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "بدکار ہوتے ہیں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:09:17.338563294Z",
+  "model": "glm-5.2"
+}

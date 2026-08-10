@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 27:23",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "جانتے ہوئے تو جانیو اپنی بھیڑوں کے منہ کو، اپنا دل گلّوں پر لگاؤ۔",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "جانتے ہوئے"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "تو جانیو"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منہ کو"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "اپنی بھیڑوں کے"
+    },
+    {
+      "surface": "שית",
+      "gloss": "لگاؤ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "اپنا دل"
+    },
+    {
+      "surface": "לעדרים",
+      "gloss": "گلّوں پر"
+    }
+  ],
+  "timestamp": "2026-08-10T06:39:19.942388244Z",
+  "model": "glm-5.2"
+}

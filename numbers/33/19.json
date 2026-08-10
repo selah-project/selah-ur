@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 33:19",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 33,
+  "translation": "اور وہ روانہ ہوئے رِتْمہ سے، اور ٹھہرے رِمّون-پَرَص میں۔",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "اور وہ روانہ ہوئے"
+    },
+    {
+      "surface": "מרתמה",
+      "gloss": "رِتْمہ سے"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "اور ٹھہرے"
+    },
+    {
+      "surface": "ברמן",
+      "gloss": "رِمّون میں"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "پَرَص"
+    }
+  ],
+  "timestamp": "2026-08-09T20:40:25.553046700Z",
+  "model": "glm-5.2"
+}

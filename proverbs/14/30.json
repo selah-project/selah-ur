@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "گوشت کی زندگی شفا بخش دل ⟨ہے⟩، اور ہڈیوں کا سڑنا قناعت ہے۔",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "زندگی"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "گوشت کی"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "شفا بخش"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "اور سڑنا"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ہڈیوں کا"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "قناعت (سڑن)"
+    }
+  ],
+  "timestamp": "2026-08-10T09:00:31.026558030Z",
+  "model": "glm-5.2"
+}

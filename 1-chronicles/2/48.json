@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 2:48",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "کالَب کی پیلَگِش مَعَکہ نے شِبَر اور ⟨את⟩ تِرحَنہ کو جنم دیا۔",
+  "tokens": [
+    {
+      "surface": "פלגש",
+      "gloss": "پیلَگِش"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "کالَب"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "مَعَکہ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "جنم دیا"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "شِبَر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "تِرحَنہ"
+    },
+    {
+      "surface": "תרחנה",
+      "gloss": "تِرحَنہ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:58:22.021306484Z",
+  "model": "glm-5.2"
+}

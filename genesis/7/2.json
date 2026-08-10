@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 7:2",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "ہر پاک جانور میں سے سات سات، نر اور مادہ، اپنے لیے لے؛ اور اُس جانور میں سے جو پاک نہیں ہے، دو، نر اور مادہ؛",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "ہر میں سے"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "جانور"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "لے"
+    },
+    {
+      "surface": "לך",
+      "gloss": "اپنے لیے"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "سات"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "سات"
+    },
+    {
+      "surface": "איש",
+      "gloss": "نر"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "اور اُس کی مادہ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "اور میں سے"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "جانور"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "پاک"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "איש",
+      "gloss": "نر"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "اور اُس کی مادہ"
+    }
+  ],
+  "timestamp": "2026-08-09T19:36:00.372626101Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 5:18",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "اور بھی ان دنوں میں، یاہویہ کا بیان، ⟨את⟩ تمہارے ساتھ کامل تباہی نہیں کروں گا۔",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "اور بھی"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "ان دنوں میں"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "بیان"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "کروں گا"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "تمہارے ساتھ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "کامل تباہی"
+    }
+  ],
+  "timestamp": "2026-08-10T08:50:56.855392400Z",
+  "model": "glm-5.2"
+}

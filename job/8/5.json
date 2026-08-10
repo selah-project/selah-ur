@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 8:5",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اگر تو اَیل کی طرف جلدی اٹھ کر طلب کرے، اور شدّای سے تضرع کرے،",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "תשחר",
+      "gloss": "جلدی طلب کرے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "אל",
+      "gloss": "اَیل"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "اور سے"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "شدّای"
+    },
+    {
+      "surface": "תתחنן",
+      "gloss": "تضرع کرے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:12:33.333777640Z",
+  "model": "glm-5.2"
+}

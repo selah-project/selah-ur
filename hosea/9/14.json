@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 9:14",
+  "book": "hosea",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "انہیں دے یاہویہ — تو کیا دے گا؟ انہیں دے رحم کہ اسقاط کرے، اور چھاتیاں سوکھی ہوئی۔",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "دے"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انہیں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "تو دے گا"
+    },
+    {
+      "surface": "תן",
+      "gloss": "دے"
+    },
+    {
+      "surface": "להם",
+      "gloss": "انہیں"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "رحم"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "کہ اسقاط کرے"
+    },
+    {
+      "surface": "ושדים",
+      "gloss": "اور چھاتیاں"
+    },
+    {
+      "surface": "צמקים",
+      "gloss": "سوکھی ہوئی"
+    }
+  ],
+  "timestamp": "2026-08-10T06:22:46.991437803Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 141,
+  "ref": "psalms 119:141",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 119,
+  "translation": "چھوٹا ہوں میں اور حقیر، تیرے فرائض نہیں بھولا ہوں۔",
+  "tokens": [
+    {
+      "surface": "צעיר",
+      "gloss": "چھوٹا ہوں"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "ונבזה",
+      "gloss": "اور حقیر"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "تیرے فرائض"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "بھولا ہوں"
+    }
+  ],
+  "timestamp": "2026-08-10T06:35:15.480402261Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 18:4",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "اور یَہوشَفَٹ نے یِسْرآیل کے بادشاہ سے کہا: آج ہی، اِلتجا ہے، یاہویہ کا ⟨את⟩ کلام تلاش کرو۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "یَہوشَفَٹ نے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسْرآیل کے"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "تلاش کرو"
+    },
+    {
+      "surface": "נא",
+      "gloss": "اِلتجا ہے"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "آج ہی"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "کلام"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کلام"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کا"
+    }
+  ],
+  "timestamp": "2026-08-10T01:19:32.582588125Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 33:22",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 33,
+  "translation": "اور دان کے بارے میں کہا: دان شیر کا بچہ ہے، باشان سے پھاندتا ہے۔",
+  "tokens": [
+    {
+      "surface": "ולדן",
+      "gloss": "اور دان کے لیے"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "اس نے کہا"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "גור",
+      "gloss": "بچہ"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "شیر کا"
+    },
+    {
+      "surface": "יזנק",
+      "gloss": "وہ پھاندتا ہے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "سے"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "باشان"
+    }
+  ],
+  "timestamp": "2026-08-09T20:55:41.302524709Z",
+  "model": "glm-5.2"
+}

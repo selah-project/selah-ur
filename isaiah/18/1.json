@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "ہائے ⟨ ⟩ زمین پر́لتی ہوئی پر́اں کی، جو نہروں کے پار کُوش میں ہے۔",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ہائے"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "پر́لتی ہوئی"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "پر́وں کی"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "پار"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "نہروں کے"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "کُوش"
+    }
+  ],
+  "timestamp": "2026-08-09T22:07:24.434680215Z",
+  "model": "glm-5.2"
+}

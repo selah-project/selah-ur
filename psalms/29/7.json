@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 29,
+  "translation": "یاہویہ کی آواز تراشتی ہے آگ کی لپٹیں۔",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ کی"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "تراشتی ہے"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "لپٹیں"
+    },
+    {
+      "surface": "אש",
+      "gloss": "آگ کی"
+    }
+  ],
+  "timestamp": "2026-08-09T23:28:28.304708207Z",
+  "model": "glm-5.2"
+}

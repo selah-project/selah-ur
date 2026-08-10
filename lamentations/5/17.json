@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 5:17",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "اس پر ہمارا دل ⟨ہے⟩ بیمار؛ ان چیزوں پر ہماری آنکھیں اندھیر گئیں۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "اس پر"
+    },
+    {
+      "surface": "זה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہوا"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "بیمار"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ہمارا دل"
+    },
+    {
+      "surface": "על",
+      "gloss": "ان پر"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "اندھیر گئیں"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "ہماری آنکھیں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:32:49.638555703Z",
+  "model": "glm-5.2"
+}

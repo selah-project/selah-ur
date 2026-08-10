@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 34:20",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 34,
+  "translation": "صالح کی تکالیف بہت ہیں، اور ان سب سے یاہویہ اسے بچاتا ہے۔",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "بہت ہیں"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "تکالیف"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "صالح کی"
+    },
+    {
+      "surface": "ומכלם",
+      "gloss": "اور ان سب سے"
+    },
+    {
+      "surface": "יצילנו",
+      "gloss": "اسے بچاتا ہے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    }
+  ],
+  "timestamp": "2026-08-09T23:30:12.102842177Z",
+  "model": "glm-5.2"
+}

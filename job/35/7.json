@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 35:7",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 35,
+  "translation": "اگر تو راست باز ہے تو اسے کیا دیتا ہے؟ یا وہ تیرے ہاتھ سے کیا لیتا ہے؟",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "צדקת",
+      "gloss": "تو راست باز ہے"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "تو دیتا ہے"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اسے"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "تیرے ہاتھ سے"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "وہ لیتا ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:23:09.321500669Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور نَخشون نے ⟨את]] شَلما کو پیدا کیا، اور شَلما نے ⟨את⟩ بوعَز کو پیدا کیا۔",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "اور نَخشون"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیدا کیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "شَلما"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "شَلما"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "اور شَلما"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "پیدا کیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بوعَز"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "بوعَز"
+    }
+  ],
+  "timestamp": "2026-08-10T00:57:48.204246533Z",
+  "model": "glm-5.2"
+}

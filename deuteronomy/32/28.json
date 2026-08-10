@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 32:28",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 32,
+  "translation": "کیونکہ وہ ایک ایسی قوم ہیں جو صلاح سے محروم ہے، اور ان میں کوئی سمجھ نہیں۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "قوم"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "محروم ہے"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "صلاح سے"
+    },
+    {
+      "surface": "המה",
+      "gloss": "وہ ہیں"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "اور کوئی نہیں"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ان میں"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "سمجھ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:56:03.175625834Z",
+  "model": "glm-5.2"
+}

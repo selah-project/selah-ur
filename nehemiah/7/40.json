@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "nehemiah 7:40",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "بَنے اِمَّیر کے، ایک ہزار باون اور دو۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بَنے"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "اِمَّیر"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ایک ہزار"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "باون"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "اور دو"
+    }
+  ],
+  "timestamp": "2026-08-10T09:05:45.760279979Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 1:25",
+  "book": "1-samuel",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "اور ⟨انہوں نے⟩ ⟨את⟩ بیل کو ذبح کیا اور ⟨وہ⟩ ⟨את⟩ لڑکے کو عِلی کے پاس لائے۔",
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "اور ذبح کیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "بیل کو"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "بیل"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "اور لائے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "لڑکے کو"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "لڑکے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کے پاس"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "عِلی"
+    }
+  ],
+  "timestamp": "2026-08-09T21:18:09.030157810Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "leviticus 25:40",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "مزدور کی طرح، رہائشی کی طرح وہ تیرے ساتھ رہے؛ یوبیل کے سال تک وہ تیرے ساتھ کام کرے۔",
+  "tokens": [
+    {
+      "surface": "כשכיר",
+      "gloss": "مزدور کی طرح"
+    },
+    {
+      "surface": "כתושב",
+      "gloss": "رہائشی کی طرح"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "وہ رہے"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تیرے ساتھ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "تک"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "سالِ"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "یوبیل کے"
+    },
+    {
+      "surface": "יעבד",
+      "gloss": "وہ کام کرے"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "تیرے ساتھ"
+    }
+  ],
+  "timestamp": "2026-08-10T05:25:47.208329964Z",
+  "model": "glm-5.2"
+}

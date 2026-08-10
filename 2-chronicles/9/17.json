@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 9:17",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "اور بادشاہ نے ہاتھی دانت کا ایک بڑا تخت بنایا اور اسے خالص سونے سے مغلظ کیا۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "اور بنایا"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ نے"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "تخت"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ہاتھی دانت"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "بڑا"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "اور اسے مغلظ کیا"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونے سے"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "خالص"
+    }
+  ],
+  "timestamp": "2026-08-10T01:17:06.070034645Z",
+  "model": "glm-5.2"
+}

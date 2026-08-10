@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 13:20",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 13,
+  "translation": "داناؤں کے ساتھ ⟨את⟩ چل کر دانا بنو، اور بیوقوفوں کا ساتھی تباہ ہوگا۔",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "چل کر"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "داناؤں کو"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "داناؤں"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "اور دانا بنو"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "اور ساتھی"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "بیوقوفوں کا"
+    },
+    {
+      "surface": "ירוע",
+      "gloss": "تباہ ہوگا"
+    }
+  ],
+  "timestamp": "2026-08-10T07:51:45.412330297Z",
+  "model": "glm-5.2"
+}

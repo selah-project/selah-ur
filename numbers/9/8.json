@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 9:8",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "اور موشے نے ان سے کہا: ٹھہرو، تاکہ میں سن لوں یاہویہ تمہیں کیا حکم دیتا ہے۔",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "اور کہا"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ان سے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے نے"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "ٹھہرو"
+    },
+    {
+      "surface": "ואשמעה",
+      "gloss": "تاکہ میں سن لوں"
+    },
+    {
+      "surface": "מה",
+      "gloss": "کیا"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "حکم دیتا ہے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "تمہیں"
+    }
+  ],
+  "timestamp": "2026-08-09T20:29:56.123008207Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "judges 6:40",
+  "book": "judges",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اور الوہیم نے اسی رات ایسا کیا، اور گزّہ پر صرف خشکی رہی اور ساری زمین پر اوس تھی۔",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "اور کیا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم نے"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ایسا"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "رات"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اسی"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوئی"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "خشکی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "הגזה",
+      "gloss": "گزّہ"
+    },
+    {
+      "surface": "לבדה",
+      "gloss": "صرف"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "اور پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ساری"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین"
+    },
+    {
+      "surface": "היה",
+      "gloss": "تھی"
+    },
+    {
+      "surface": "טל",
+      "gloss": "اوس"
+    }
+  ],
+  "timestamp": "2026-08-09T21:10:58.970122447Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 9:21",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "زَکَریاہ بِن مِشلَمیاہ دَروازہ بان ⟨تھا⟩، ⟨از⟩ دروازے کے ⟨لیے⟩ خیمہ موعد کے۔",
+  "tokens": [
+    {
+      "surface": "זכריה",
+      "gloss": "زَکَریاہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بِن"
+    },
+    {
+      "surface": "משלמיה",
+      "gloss": "مِشلَمیاہ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "دَروازہ بان"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دروازے"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "خیمہ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "موعد"
+    }
+  ],
+  "timestamp": "2026-08-10T06:50:15.453588457Z",
+  "model": "glm-5.2"
+}

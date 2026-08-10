@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 42:11",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 42,
+  "translation": "ہم سب ایک ہی آدمی کے بیٹے ہیں؛ ہم سچے ہیں؛ تیرے غلام جاسوس نہیں ہیں۔",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "ہم سب"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "آدمی کے"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "נחנו",
+      "gloss": "ہیں"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "سچے"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ہم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ہیں"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "تیرے غلام"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "جاسوس"
+    }
+  ],
+  "timestamp": "2026-08-09T19:51:10.470953549Z",
+  "model": "glm-5.2"
+}

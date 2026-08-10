@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 147,
+  "translation": "وہ دیتا ہے حیوان کو اس کی خوراک کو، غراب کے بچوں کو جو پکارتے ہیں۔",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "وہ دیتا ہے"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "حیوان کو"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "اس کی خوراک کو"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "بچوں کو"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "غراب کے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "پکارتے ہیں"
+    }
+  ],
+  "timestamp": "2026-08-09T23:56:50.105584936Z",
+  "model": "glm-5.2"
+}

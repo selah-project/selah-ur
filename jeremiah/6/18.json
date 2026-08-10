@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 6:18",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "“اِسی لیے، اے قومو، سنو، اور جانو، اے جماعت، ⟨את⟩ جو ان میں ہے۔",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "اِسی لیے"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "سنو"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "اے قومو"
+    },
+    {
+      "surface": "ודעי",
+      "gloss": "اور جانو"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "اے جماعت"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "جو ان میں ہے"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ان میں ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:07:36.783094588Z",
+  "model": "glm-5.2"
+}

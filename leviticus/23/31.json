@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 23:31",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "کوئی کام نہ کرو — یہ تمہاری نسلوں کے لیے، تمہاری سب بستگوں میں ہمیشہ کا فرض ہے۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "کوئی"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "کام"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "کرو"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "فرض"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ہمیشہ کا"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "تمہاری نسلوں کے لیے"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "تمہاری سب"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "بستگوں میں"
+    }
+  ],
+  "timestamp": "2026-08-09T20:23:29.772988555Z",
+  "model": "glm-5.2"
+}

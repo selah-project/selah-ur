@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nahum 3:2",
+  "book": "nahum",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "کوڑے کی آواز اور پہیے کے ہلنے کی آواز اور دوڑتا گھوڑا اور ناچتی رتھ۔",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "آواز"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "کوڑے"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "اور آواز"
+    },
+    {
+      "surface": "רעש",
+      "gloss": "ہلنے"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "پہیے"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "اور گھوڑا"
+    },
+    {
+      "surface": "דהר",
+      "gloss": "دوڑتا"
+    },
+    {
+      "surface": "ומרכבה",
+      "gloss": "اور رتھ"
+    },
+    {
+      "surface": "מרקדה",
+      "gloss": "ناچتی"
+    }
+  ],
+  "timestamp": "2026-08-09T23:14:43.305556030Z",
+  "model": "glm-5.2"
+}

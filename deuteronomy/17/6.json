@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 17:6",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 17,
+  "translation": "دو گواہوں کے منہ یا تین گواہوں کے منہ پر ⟨آیت⟩ مُرت کو موت دی جائے گی؛ ایک گواہ کے منہ پر ⟨آیت⟩ مُرت کو موت نہ دی جائے گی۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פי",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "گواہوں"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "تین"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "گواہوں"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "موت دی جائے گی"
+    },
+    {
+      "surface": "המת",
+      "gloss": "مُرت"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "موت دی جائے گی"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פי",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "گواہ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    }
+  ],
+  "timestamp": "2026-08-09T20:51:43.571173335Z",
+  "model": "glm-5.2"
+}

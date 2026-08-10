@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "مَشَلِ شِلوموہ کی: ایک دانا بیٹا باپ کو خوش کرتا ہے، مگر نادان بیٹا ⟨ہے⟩ اپنی ماں کا دکھ۔",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "مَشَل"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شِلوموہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "دانا"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "خوش کرتا ہے"
+    },
+    {
+      "surface": "אב",
+      "gloss": "باپ"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "مگر بیٹا"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "نادان"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "دکھ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "اپنی ماں کا"
+    }
+  ],
+  "timestamp": "2026-08-10T00:00:50.268031293Z",
+  "model": "glm-5.2"
+}

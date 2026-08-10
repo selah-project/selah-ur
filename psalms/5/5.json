@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "کِیونکہ تو رَذالت میں خوشی نہ رکھنے والا ⟨ایل⟩ ہے، برائی تیرے پاس ٹھہر نہیں سکتی۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کِیونکہ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ایل"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "خوشی رکھنے والا"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "رَذالت میں"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "تو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "تیرے پاس ٹھہر سکتی"
+    },
+    {
+      "surface": "רע",
+      "gloss": "برائی"
+    }
+  ],
+  "timestamp": "2026-08-09T23:24:05.217498698Z",
+  "model": "glm-5.2"
+}

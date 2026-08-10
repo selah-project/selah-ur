@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 48:9",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 48,
+  "translation": "ہبہ جو تم یاہویہ کے لیے اٹھاؤ گے — لمبائی پچیس ہزار اور چوڑائی دس ہزار ⟨ہوگی⟩۔",
+  "tokens": [
+    {
+      "surface": "התרומה",
+      "gloss": "ہبہ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "تم اٹھاؤ گے"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "یاہویہ کے لیے"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "لمبائی"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "پچیس"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "اور بیس"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "اور چوڑائی"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "دس"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    }
+  ],
+  "timestamp": "2026-08-10T09:28:20.107943172Z",
+  "model": "glm-5.2"
+}

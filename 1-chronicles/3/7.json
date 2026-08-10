@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 3:7",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "اور نوگہ و نِفِگ و یافیع۔",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "اور نوگہ"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "و نِفِگ"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "و یافیع"
+    }
+  ],
+  "timestamp": "2026-08-10T00:59:57.809051381Z",
+  "model": "glm-5.2"
+}

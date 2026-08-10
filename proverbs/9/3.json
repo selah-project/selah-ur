@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 9:3",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "بھیج دیں اپنی لڑکیاں، پکارتی ہے شہر کی بلندیوں کی چوٹیوں پر۔",
+  "tokens": [
+    {
+      "surface": "שלחה",
+      "gloss": "بھیج دیں"
+    },
+    {
+      "surface": "נערתיה",
+      "gloss": "اپنی لڑکیاں"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "پکارتی ہے"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "גפי",
+      "gloss": "چوٹیوں"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "بلندیوں"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "شہر"
+    }
+  ],
+  "timestamp": "2026-08-10T06:37:26.672573867Z",
+  "model": "glm-5.2"
+}

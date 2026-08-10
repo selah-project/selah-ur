@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 99,
+  "translation": "یاہویہ صِہیون میں بڑا ہے، اور وہ سب قوموں پر برتر ہے۔",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "صِہیون میں"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "بڑا ہے"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "اور برتر"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "قوموں"
+    }
+  ],
+  "timestamp": "2026-08-09T23:46:05.019657785Z",
+  "model": "glm-5.2"
+}

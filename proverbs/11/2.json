@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 11,
+  "translation": "آتا ہے گھمنڈ، پھر آتا ہے رسوائی؛ اور ⟨את⟩ عاجدوں کے ساتھ ہے حکمت۔",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "آتا ہے"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "گھمنڈ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "پھر آتا ہے"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "رسوائی"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "عاجدوں"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "عاجدوں"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    }
+  ],
+  "timestamp": "2026-08-10T00:01:21.681969220Z",
+  "model": "glm-5.2"
+}

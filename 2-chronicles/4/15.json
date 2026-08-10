@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "⟨את⟩ سمندر ایک، اور ⟨את⟩ بیل بارہ، اس کے نیچے۔",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سمندر"
+    },
+    {
+      "surface": "הים",
+      "gloss": "سمندر"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ایک"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "بیل"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "بیل"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دس"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "اس کے نیچے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:52:07.128808988Z",
+  "model": "glm-5.2"
+}

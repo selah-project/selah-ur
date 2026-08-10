@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 23:38",
+  "book": "2-samuel",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "عِیرا ہَیِتری، گارِب ہَیِتری،",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "عِیرا"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "ہَیِتری"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "گارِب"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "ہَیِتری"
+    }
+  ],
+  "timestamp": "2026-08-10T08:47:04.071950351Z",
+  "model": "glm-5.2"
+}

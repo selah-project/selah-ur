@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 9:30",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "اور شِلوموہ نے یروشلایم میں سارے یِسرائیل پر بادشاہی کی، چالیس برس۔",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "اور بادشاہی کی"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شِلوموہ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یروشلایم میں"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارے"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چالیس"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "برس"
+    }
+  ],
+  "timestamp": "2026-08-10T01:16:24.002503881Z",
+  "model": "glm-5.2"
+}

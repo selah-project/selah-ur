@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "jeremiah 6:28",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "سب منحرف ہیں، سرکش باغی، چغل خور، تانبا اور لوہا ہیں، سب ہی بگاڑنے والے ہیں وہ۔",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "سب"
+    },
+    {
+      "surface": "סרי",
+      "gloss": "منحرف"
+    },
+    {
+      "surface": "סוררים",
+      "gloss": "سرکش باغی"
+    },
+    {
+      "surface": "הלכי",
+      "gloss": "چلنے والے"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "چغل خور"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "تانبا"
+    },
+    {
+      "surface": "וברזל",
+      "gloss": "اور لوہا"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "سب ہی"
+    },
+    {
+      "surface": "משחיתים",
+      "gloss": "بگاڑنے والے ہیں"
+    },
+    {
+      "surface": "המה",
+      "gloss": "وہ"
+    }
+  ],
+  "timestamp": "2026-08-09T22:23:07.925006879Z",
+  "model": "glm-5.2"
+}

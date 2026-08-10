@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 25:20",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "سردی کے دن کپڑا ہٹانا، اور سودے پر سرکہ، اور بُرے دل پر گیت گانے والا۔",
+  "tokens": [
+    {
+      "surface": "מַ֥עֲדֶה",
+      "gloss": "ہٹانا"
+    },
+    {
+      "surface": "בֶּ֨גֶד",
+      "gloss": "کپڑا"
+    },
+    {
+      "surface": "בְּי֣וֹם",
+      "gloss": "کے دن"
+    },
+    {
+      "surface": "קָ֭רָה",
+      "gloss": "سردی"
+    },
+    {
+      "surface": "חֹ֣מֶץ",
+      "gloss": "سرکہ"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "נָ֑תֶר",
+      "gloss": "سودا"
+    },
+    {
+      "surface": "וְשָׁ֥ר",
+      "gloss": "اور گانے والا"
+    },
+    {
+      "surface": "בַּ֝שִּׁרִ֗ים",
+      "gloss": "گیت"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "پر"
+    },
+    {
+      "surface": "לֶב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "רָֽע",
+      "gloss": "بُرے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:07:10.360807921Z",
+  "model": "glm-5.2"
+}

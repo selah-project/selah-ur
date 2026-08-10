@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 18:10",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "تیرے بیٹے کی بیٹی یا تیری بیٹی کی بیٹی کی عریانی — ان کی عریانی کو نہ کھولنا، کیونکہ تیری ہی عریانی ہیں یہ۔",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "عریانی"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بیٹی"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "تیرے بیٹے"
+    },
+    {
+      "surface": "או",
+      "gloss": "یا"
+    },
+    {
+      "surface": "בת",
+      "gloss": "بیٹی"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "تیری بیٹی"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "کھولنا"
+    },
+    {
+      "surface": "ערותן",
+      "gloss": "ان کی عریانی"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "ערותך",
+      "gloss": "تیری عریانی"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "یہ"
+    }
+  ],
+  "timestamp": "2026-08-10T07:11:17.029184691Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 64,
+  "translation": "کورس کے رہنما کے لیے۔ مَزْمُور، داوِد کا۔",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "کورس کے رہنما کے لیے"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "مَزْمُور"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "داوِد کا"
+    }
+  ],
+  "timestamp": "2026-08-09T23:36:48.023493901Z",
+  "model": "glm-5.2"
+}

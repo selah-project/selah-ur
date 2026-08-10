@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 1:21",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "ان کے گنے ہوئے، قبیلہ رِاؤبَن کے لیے: چھِچالیس ہزار اور پانچ سو۔",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ان کے گنے ہوئے"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "قبیلہ کے لیے"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "رِاؤبَن"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "اور چالیس"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "اور پانچ"
+    },
+    {
+      "surface": "مאות",
+      "gloss": "سو"
+    }
+  ],
+  "timestamp": "2026-08-10T05:26:23.614142827Z",
+  "model": "glm-5.2"
+}

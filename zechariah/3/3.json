@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 3:3",
+  "book": "zechariah",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "اور یہوشُعَ ⟨بُنا ہوا تھا⟩ گندے کپڑوں میں، اور فرشتے کے سامنے کھڑا تھا۔",
+  "tokens": [
+    {
+      "surface": "ויהושע",
+      "gloss": "اور یہوشُعَ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨تھا⟩"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "پہنے ہوئے"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "کپڑوں"
+    },
+    {
+      "surface": "צואים",
+      "gloss": "گندے"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "اور کھڑا تھا"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "کے سامنے"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "فرشتے"
+    }
+  ],
+  "timestamp": "2026-08-10T08:02:05.125082371Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "nehemiah 7:42",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "حارِم کے بیٹے ایک ہزار سترہ۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "کے بیٹے"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "حارِم"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ایک ہزار"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "سات"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دس"
+    }
+  ],
+  "timestamp": "2026-08-10T00:54:34.663209827Z",
+  "model": "glm-5.2"
+}

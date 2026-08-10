@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 14:25",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "سچا گواہ جانوں کو بچاتا ہے، اور جھوٹ پھونکنے والا دھوکہ ہے۔",
+  "tokens": [
+    {
+      "surface": "מציל",
+      "gloss": "بچاتا ہے"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "جانوں کو"
+    },
+    {
+      "surface": "עד",
+      "gloss": "گواہ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "سچا"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "اور پھونکنے والا"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "جھوٹ"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "دھوکہ ہے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:37:06.255911609Z",
+  "model": "glm-5.2"
+}

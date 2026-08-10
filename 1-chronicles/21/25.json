@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 21:25",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "اور داوِد نے اَورنَن کو مکان کے ⟨لئے⟩ سونا دیا — قریب چھ سو شاقل کا وزن۔",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "اور دیا"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "داوِد"
+    },
+    {
+      "surface": "לארנן",
+      "gloss": "اَورنَن کو"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "مکان کے ⟨لئے⟩"
+    },
+    {
+      "surface": "שקלי",
+      "gloss": "شاقل"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "سونا"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "وزن"
+    },
+    {
+      "surface": "שש",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    }
+  ],
+  "timestamp": "2026-08-10T01:07:54.712666347Z",
+  "model": "glm-5.2"
+}

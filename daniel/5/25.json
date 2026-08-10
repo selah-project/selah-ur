@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "اور یہ وہ تحریر ہے جو لکھی گئی: مِنے، مِنے، تِکِل، اور پَراسِین۔",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "اور یہ"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "تحریر"
+    },
+    {
+      "surface": "די",
+      "gloss": "جو"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "لکھی گئی"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "مِنے"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "مِنے"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "تِکِل"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "اور پَراسِین"
+    }
+  ],
+  "timestamp": "2026-08-10T00:41:23.632673070Z",
+  "model": "glm-5.2"
+}

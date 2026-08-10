@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "اور ⟨את⟩ گوشت اور ⟨את⟩ کھال کو اُس نے آگ میں جلا ڈالا، خیمہ گاہ کے باہر۔",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "گوشت"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "گوشت"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "کھال"
+    },
+    {
+      "surface": "העור",
+      "gloss": "کھال کو"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "اُس نے جلا ڈالا"
+    },
+    {
+      "surface": "באש",
+      "gloss": "آگ میں"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "باہر"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "خیمہ گاہ کے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:17:00.706013502Z",
+  "model": "glm-5.2"
+}

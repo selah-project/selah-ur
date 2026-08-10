@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "جو کچھ ہوا وہ پہلے سے ہے، اور جو ہونا ہے وہ پہلے سے ہو چکا ہے؛ اور الوہیم ⟨את⟩ مارے ہوئے کو ڈھونڈتا ہے۔",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "جو کچھ"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ہوا"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "پہلے سے"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ ہے"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "اور جو"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ہونا"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "پہلے سے"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ہو چکا ہے"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "اور الوہیم"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "ڈھونڈتا ہے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مارے ہوئے کو"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "مارے ہوئے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:34:01.377501160Z",
+  "model": "glm-5.2"
+}

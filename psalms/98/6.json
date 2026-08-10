@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 98,
+  "translation": "بوقوں اور شوفار کی آواز کے ساتھ، چیخیں بادشاہ یاہویہ کے سامنے۔",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "بوقوں"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "اور آواز"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "شوفار کی"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "چیخیں"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "کے سامنے"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    }
+  ],
+  "timestamp": "2026-08-09T23:45:22.248626667Z",
+  "model": "glm-5.2"
+}

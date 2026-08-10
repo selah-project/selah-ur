@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 39:17",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 39,
+  "translation": "اور ⟨انہوں نے⟩ دو سنہری لڑیوں کو دو انگوٹھیوں پر رکھا، چوشن کے کناروں پر۔",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "اور رکھا"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "لڑیوں کو"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "سنہری"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "دو"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "انگوٹھیوں"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "کناروں"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "چوشن کے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:10:10.901936816Z",
+  "model": "glm-5.2"
+}

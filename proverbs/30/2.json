@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 30:2",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 30,
+  "translation": "کیونکہ میں کسی آدمی سے بھی زیادہ بےوقوف ہوں، اور کسی آدمی کی سمجھ میرے پاس نہیں۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "בער",
+      "gloss": "بےوقوف"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "میں"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "کسی آدمی سے بھی زیادہ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہیں"
+    },
+    {
+      "surface": "בינת",
+      "gloss": "سمجھ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "کسی آدمی کی"
+    },
+    {
+      "surface": "לי",
+      "gloss": "میرے پاس"
+    }
+  ],
+  "timestamp": "2026-08-10T00:09:09.954557757Z",
+  "model": "glm-5.2"
+}

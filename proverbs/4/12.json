@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 4:12",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "جب تو چلے گا تو تیرا قدم تنگ نہ ہوگا؛ اور اگر تو دوڑے گا تو تو ٹھوکر نہ کھائے گا۔",
+  "tokens": [
+    {
+      "surface": "בלכתך",
+      "gloss": "جب تو چلے گا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "تنگ ہوگا"
+    },
+    {
+      "surface": "צעדך",
+      "gloss": "تیرا قدم"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "اور اگر"
+    },
+    {
+      "surface": "תרוץ",
+      "gloss": "تو دوڑے گا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תכשל",
+      "gloss": "تو ٹھوکر کھائے گا"
+    }
+  ],
+  "timestamp": "2026-08-09T23:58:36.253588352Z",
+  "model": "glm-5.2"
+}

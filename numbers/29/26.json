@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 29:26",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 29,
+  "translation": "اور پانچویں دن نو بیل، دو مینڈھے، اور چودہ مینڈھے کے بچے ایک سال کے، بے عیب۔",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "اور دن"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "پانچویں"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "بیل"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "نو"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "مینڈھے"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "مینڈھے کے بچے"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال کے"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "چار"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "دس"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "بے عیب"
+    }
+  ],
+  "timestamp": "2026-08-09T20:38:13.372353401Z",
+  "model": "glm-5.2"
+}

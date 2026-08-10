@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "بھیڑیں ذبح کرو، انصاف کی قربانیاں، اور یاہویہ پر بھروسہ کرو۔",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "ذبح کرو"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "قربانیاں"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "انصاف کی"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "اور بھروسہ کرو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کے پاس"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    }
+  ],
+  "timestamp": "2026-08-09T23:23:27.358039456Z",
+  "model": "glm-5.2"
+}

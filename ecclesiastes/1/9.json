@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "جو کچھ ⟨ہوا⟩ ہے وہی ہوگا، اور جو کچھ ⟨کیا گیا⟩ ہے وہی کیا جائے گا؛ اور سورج کے نیچے کوئی نئی بات نہیں۔",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "جو کچھ"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ہوا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہی"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "ہوگا"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "اور جو کچھ"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "کیا گیا"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہی"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "کیا جائے گا"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "اور نہیں ہے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "کوئی بھی"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "نئی بات"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "کے نیچے"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "سورج"
+    }
+  ],
+  "timestamp": "2026-08-10T00:33:09.812299563Z",
+  "model": "glm-5.2"
+}

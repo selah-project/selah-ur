@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اور بیس سال کے اختتام پر — جس میں شِلوموہ نے ⟨את⟩ یاہویہ کا گھر اور ⟨את⟩ اپنا گھر بنایا تھا —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "اختتام پر"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیس"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جنہیں"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "بنایا"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شِلوموہ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "گھر"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "اپنا گھر"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "اپنا گھر"
+    }
+  ],
+  "timestamp": "2026-08-10T01:16:40.339500781Z",
+  "model": "glm-5.2"
+}

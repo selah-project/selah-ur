@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 5:17",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "پس مَہَلَلْایل کے سب دن پانچ اور نواسی سال اور آٹھ سو سال ہوئے، اور وہ مر گیا۔",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "پس ہوئے"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "دن"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "مَہَلَلْایل"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "پانچ"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "اور نواسی"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "اور آٹھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "سال"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "اور وہ مر گیا"
+    }
+  ],
+  "timestamp": "2026-08-09T19:34:43.612144047Z",
+  "model": "glm-5.2"
+}

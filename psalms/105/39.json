@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 105:39",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 105,
+  "translation": "بادل پھیلا چھپاؤ کے لیے، اور آگ روشنی کے لیے رات میں۔",
+  "tokens": [
+    {
+      "surface": "פרש",
+      "gloss": "پھیلا"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "بادل"
+    },
+    {
+      "surface": "למסך",
+      "gloss": "چھپاؤ کے لیے"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "اور آگ"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "روشنی کے لیے"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "رات"
+    }
+  ],
+  "timestamp": "2026-08-10T06:35:09.468906050Z",
+  "model": "glm-5.2"
+}

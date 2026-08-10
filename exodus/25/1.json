@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 25:1",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "اور یاہویہ نے موشے سے کلام فرمایا، یوں کہ",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "اور کلام فرمایا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "یوں کہ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:06:03.714463055Z",
+  "model": "glm-5.2"
+}

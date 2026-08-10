@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 12:25",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 12,
+  "translation": "بَنیٔے یہوداہ، ڈھال اور نیزہ اٹھانے والے، چھ ہزار آٹھ سو، لشکر کے لیےتیار ہوئے۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بَنیٔے"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یہوداہ"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "اٹھانے والے"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "ڈھال"
+    },
+    {
+      "surface": "ורמח",
+      "gloss": "اور نیزہ"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "چھ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "اور آٹھ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "تیار ہوئے"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "لشکر کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-10T06:50:07.216683901Z",
+  "model": "glm-5.2"
+}

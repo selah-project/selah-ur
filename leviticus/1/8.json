@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 1:8",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "اور اہرون کے بیٹوں نے، ⟨وہ⟩ کاہنوں نے، ⟨את⟩ ٹکڑوں کو، ⟨את⟩ سر اور ⟨את⟩ چربی کو، اس لکڑ پر جو آگ پر ہے جو قربان گاہ پر ہے، ترتیب دی ہوگی۔",
+  "tokens": [
+    {
+      "surface": "וערכו",
+      "gloss": "اور ترتیب دی ہوگی"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بیٹوں نے"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "اہرون کے"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "وہ کاہنوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ٹکڑوں کو"
+    },
+    {
+      "surface": "הנתחים",
+      "gloss": "ٹکڑوں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سر"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "سر"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "اور ⟨את⟩",
+      "marks": "چربی کو"
+    },
+    {
+      "surface": "הפדר",
+      "gloss": "چربی"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "لکڑ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "האש",
+      "gloss": "آگ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قربان گاہ"
+    }
+  ],
+  "timestamp": "2026-08-10T08:36:17.269197682Z",
+  "model": "glm-5.2"
+}

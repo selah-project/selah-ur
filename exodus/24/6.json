@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 24:6",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "اور موشے نے لیا ⟨آدھا⟩ خون کا، اور رکھا طاسوں میں؛ اور ⟨آدھا⟩ خون کا، چھڑکا قربان گاہ پر۔",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "اور لیا"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "آدھا"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "خون"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "اور رکھا"
+    },
+    {
+      "surface": "באגנת",
+      "gloss": "طاسوں میں"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "اور آدھا"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "خون"
+    },
+    {
+      "surface": "זרק",
+      "gloss": "چھڑکا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "قربان گاہ"
+    }
+  ],
+  "timestamp": "2026-08-10T05:21:12.009535021Z",
+  "model": "glm-5.2"
+}

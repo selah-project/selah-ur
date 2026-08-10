@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "بچا، اے میرے بیٹے، اپنے باپ کے حکم کو، اور مت چھوڑ اپنی ماں کی تورات کو۔",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "بچا"
+    },
+    {
+      "surface": "בני",
+      "gloss": "اے میرے بیٹے"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "حکم کو"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "اپنے باپ کے"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "اور مت"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "چھوڑ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "تورات کو"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "اپنی ماں کی"
+    }
+  ],
+  "timestamp": "2026-08-10T07:51:29.276509375Z",
+  "model": "glm-5.2"
+}

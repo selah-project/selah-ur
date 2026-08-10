@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 89,
+  "translation": "کوئی دشمن اُس پر بوجھ نہ ڈالے گا اور ظلم کا بیٹا اُسے دبائے نہیں۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "بوجھ ڈالے گا"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "دشمن"
+    },
+    {
+      "surface": "בו",
+      "gloss": "اُس پر"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "اور بیٹا"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ظلم کا"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "اُسے دبائے"
+    }
+  ],
+  "timestamp": "2026-08-09T23:43:01.574767627Z",
+  "model": "glm-5.2"
+}

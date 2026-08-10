@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "اور تو، اے یاہویہ، دور نہ ہو؛ اے میری قوت، میری مدد کے لیے جلد کر۔",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "اور تو"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "دور ہو"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "اے میری قوت"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "میری مدد کے لیے"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "جلد کر"
+    }
+  ],
+  "timestamp": "2026-08-09T23:27:28.917036947Z",
+  "model": "glm-5.2"
+}

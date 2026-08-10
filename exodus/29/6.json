@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 29:6",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 29,
+  "translation": "اور تو پگڑی کو اس کے سر پر رکھے گا، اور تو ⟨את⟩ مقدس تاج کو پگڑی پر لگائے گا۔",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "اور تو رکھے گا"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "پگڑی"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "اس کے سر"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "اور تو لگائے گا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "مقدس تاج"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "تاج"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "مقدس"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "המצנפת",
+      "gloss": "پگڑی"
+    }
+  ],
+  "timestamp": "2026-08-09T20:08:01.326290043Z",
+  "model": "glm-5.2"
+}

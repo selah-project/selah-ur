@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 2:8",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور اس کا لشکر اور اس کے گنے گئے ستر ہزار چار سو ⟨ہیں⟩۔",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "اور اس کا لشکر"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "اور اس کے گنے گئے"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "سات"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "اور پچاس"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "اور چار"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    }
+  ],
+  "timestamp": "2026-08-10T05:26:36.195692747Z",
+  "model": "glm-5.2"
+}

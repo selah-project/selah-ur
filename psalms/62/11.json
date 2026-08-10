@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 62:11",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 62,
+  "translation": "ظلم پر بھروسا نہ کرو، اور لوٹ مار میں خالی نہ بنو؛ اگر دولت بڑھے بھی، دل نہ لگانا۔",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "بھروسا کرو"
+    },
+    {
+      "surface": "בעשק",
+      "gloss": "ظلم پر"
+    },
+    {
+      "surface": "ובגזל",
+      "gloss": "اور لوٹ مار میں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תהבלו",
+      "gloss": "خالی بنو"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "دولت"
+    },
+    {
+      "surface": "כי",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "بڑھے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תשיתו",
+      "gloss": "لگانا"
+    },
+    {
+      "surface": "لب",
+      "gloss": "دل"
+    }
+  ],
+  "timestamp": "2026-08-10T06:31:54.832763566Z",
+  "model": "glm-5.2"
+}

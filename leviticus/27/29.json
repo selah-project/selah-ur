@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "ہر ⟨چیرم⟩ جو انسانوں میں سے چیرم کیا جائے ⟨وہ⟩ فدیہ نہ ہوگا؛ موت سے ⟨وہ⟩ مارا جائے گا۔",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ہر"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "چیرم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "چیرم کیا جائے"
+    },
+    {
+      "surface": "מן",
+      "gloss": "سے"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "انسانوں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "فدیہ ہوگا"
+    },
+    {
+      "surface": "מות",
+      "gloss": "موت"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "مارا جائے گا"
+    }
+  ],
+  "timestamp": "2026-08-09T20:26:39.203388211Z",
+  "model": "glm-5.2"
+}

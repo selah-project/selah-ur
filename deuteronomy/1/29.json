@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "اور میں نے تم سے کہا: نہ ڈرو اور نہ ان سے خوف کھاؤ۔",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "اور میں نے کہا"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "تم سے"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہ"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "ڈرو"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور نہ"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "خوف کھاؤ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ان سے"
+    }
+  ],
+  "timestamp": "2026-08-10T05:31:58.201236766Z",
+  "model": "glm-5.2"
+}

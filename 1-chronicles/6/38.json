@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 6:38",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "صادُوق اس کا بیٹا، اَخیمَعَتس اس کا بیٹا۔",
+  "tokens": [
+    {
+      "surface": "צדוק",
+      "gloss": "صادُوق"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اس کا بیٹا"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "اَخیمَعَتس"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "اس کا بیٹا"
+    }
+  ],
+  "timestamp": "2026-08-10T01:01:36.457201310Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور میں نے اپنی آنکھیں اٹھائیں اور دیکھا، اور دیکھو! چار سینگ ہیں۔",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "اور میں نے اٹھائیں"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "میری آنکھیں"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "میری آنکھیں"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "اور دیکھا"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "اور دیکھو"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "چار"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "سینگ"
+    }
+  ],
+  "timestamp": "2026-08-09T23:18:02.505505886Z",
+  "model": "glm-5.2"
+}

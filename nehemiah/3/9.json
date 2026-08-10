@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 3:9",
+  "book": "nehemiah",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "اور ان کے ہاتھ کے ساتھ مضبوطی کی رپایہ بن حور، حاکمِ نصف ضلع یروشلایم (یروشلم)۔",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "اور کے ساتھ"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ان کے ہاتھ"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "مضبوطی کی"
+    },
+    {
+      "surface": "רפיה",
+      "gloss": "رپایہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بن"
+    },
+    {
+      "surface": "חור",
+      "gloss": "حور"
+    },
+    {
+      "surface": "שר",
+      "gloss": "حاکم"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "نصف"
+    },
+    {
+      "surface": "פלך",
+      "gloss": "ضلع"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "یروشلایم"
+    }
+  ],
+  "timestamp": "2026-08-10T00:52:53.444101890Z",
+  "model": "glm-5.2"
+}

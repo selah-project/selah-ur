@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 4:26",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "تو اس نے اسے چھوڑ دیا۔ تب وہ کہنے لگی: «ختن کے سبب سے خونِ داماد۔»",
+  "tokens": [
+    {
+      "surface": "וירף",
+      "gloss": "تو چھوڑ دیا"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "اسے"
+    },
+    {
+      "surface": "אז",
+      "gloss": "تب"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "وہ کہنے لگی"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "داماد"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "خونِ"
+    },
+    {
+      "surface": "למולת",
+      "gloss": "ختن کے سبب سے"
+    }
+  ],
+  "timestamp": "2026-08-09T19:56:11.192836129Z",
+  "model": "glm-5.2"
+}

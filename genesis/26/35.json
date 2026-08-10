@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 26:35",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 26,
+  "translation": "اور وہ اِسحاق اور رِفقہ کے دلوں کے لیے تلخیِ روح ⟨تھیں⟩۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور وہ ⟨تھیں⟩"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "تلخی"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "روح"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "اِسحاق کے لیے"
+    },
+    {
+      "surface": "ולרבקה",
+      "gloss": "اور رِفقہ کے لیے"
+    }
+  ],
+  "timestamp": "2026-08-09T19:42:25.842304999Z",
+  "model": "glm-5.2"
+}

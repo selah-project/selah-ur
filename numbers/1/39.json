@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 1:39",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "ان کے شمار شدہ، قبیلہ دان کے، دو اور ساٹھ ہزار اور سات سو تھے۔",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ان کے شمار شدہ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "قبیلہ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "دان"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "دو"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "اور ساٹھ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ہزار"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "اور سات"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "سو"
+    }
+  ],
+  "timestamp": "2026-08-10T05:26:36.528400997Z",
+  "model": "glm-5.2"
+}

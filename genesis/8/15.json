@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 8,
+  "translation": "اور الوہیم نے نُوح سے کلام کیتا، کہنا:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "اور کلام کیتا"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "נח",
+      "gloss": "نُوح"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہنا"
+    }
+  ],
+  "timestamp": "2026-08-10T05:11:28.641197994Z",
+  "model": "glm-5.2"
+}

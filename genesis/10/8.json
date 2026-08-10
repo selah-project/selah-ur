@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "اور کُوش نے ⟨את⟩ نِمرود کو جنم دیا؛ وہ زمین پر ایک جبار بننا شروع کرنے والا تھا۔",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "اور کُوش"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "نے جنم دیا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "نِمرود"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "نِمرود"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "وہ"
+    },
+    {
+      "surface": "החל",
+      "gloss": "شروع کرنے والا تھا"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "بننا"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ایک جبار"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "زمین پر"
+    }
+  ],
+  "timestamp": "2026-08-09T19:35:36.305313938Z",
+  "model": "glm-5.2"
+}

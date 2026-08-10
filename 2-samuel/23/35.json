@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 23:35",
+  "book": "2-samuel",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "خِتْسْرو ہَکَرْمِلی، فَعَرای ہَاَرْبی۔",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "خِتْسْرو"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "ہَکَرْمِلی"
+    },
+    {
+      "surface": "פערי",
+      "gloss": "فَعَرای"
+    },
+    {
+      "surface": "הארבי",
+      "gloss": "ہَاَرْبی"
+    }
+  ],
+  "timestamp": "2026-08-10T05:49:20.621110102Z",
+  "model": "glm-5.2"
+}

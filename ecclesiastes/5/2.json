@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "کیونکہ خواب بہت فکروں سے آتا ہے، اور بیوقوف کی آواز بہت باتوں میں ⟨ہوتی ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "آتا ہے"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "خواب"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "فکروں سے"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "اور آواز"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "بیوقوف کی"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "باتوں میں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:33:49.094778071Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 31:15",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 31,
+  "translation": "اور یاہویہ خیمے میں بادل کے ستون میں ظاہر ہوا، اور بادل کا ستون خیمے کے دہانے پر کھڑا ہوا۔",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "اور ظاہر ہوا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "خیمے میں"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "ستون میں"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "بادل"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "اور کھڑا ہوا"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "ستون"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "بادل"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "دہانے"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "خیمے کے"
+    }
+  ],
+  "timestamp": "2026-08-09T20:56:11.581657786Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 20:29",
+  "book": "judges",
+  "lang": "ur",
+  "chapter": 20,
+  "translation": "اور یِسرائیل نے گِب‌عہ کے گرد و نواح میں گھات لگائی۔",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "اور رکھی"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل نے"
+    },
+    {
+      "surface": "ארבים",
+      "gloss": "گھاتیں"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کے پاس"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "گِب‌عہ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "گرد و نواح میں"
+    }
+  ],
+  "timestamp": "2026-08-10T05:40:45.421274845Z",
+  "model": "glm-5.2"
+}

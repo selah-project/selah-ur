@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 28:28",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 28,
+  "translation": "یہویہ تجھے جنون اور اندھے پن اور دلی حیرت سے مارے گا۔",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "تجھے مارے گا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یہویہ"
+    },
+    {
+      "surface": "בשגעון",
+      "gloss": "جنون سے"
+    },
+    {
+      "surface": "ובעורון",
+      "gloss": "اور اندھے پن سے"
+    },
+    {
+      "surface": "ובתמהון",
+      "gloss": "اور حیرت سے"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "دلی"
+    }
+  ],
+  "timestamp": "2026-08-10T05:34:23.892252669Z",
+  "model": "glm-5.2"
+}

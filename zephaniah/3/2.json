@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 3:2",
+  "book": "zephaniah",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "نہیں سنتی ⟨وہ⟩ آواز، نہیں لیتی تادیب، یاہویہ پر نہیں بھروسہ کرتی، اپنے الوہیم کی طرف نہیں قریب ہوتی۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "سنتی"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "⟨وہ⟩ آواز"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "لیتی"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "تادیب"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "یاہویہ پر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "בטחה",
+      "gloss": "بھروسہ کرتی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "اپنے الوہیم"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "قریب ہوتی"
+    }
+  ],
+  "timestamp": "2026-08-09T23:17:01.192615089Z",
+  "model": "glm-5.2"
+}

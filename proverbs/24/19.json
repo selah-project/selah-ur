@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 24:19",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "برائی کرنے والوں سے غصہ مت کرو، اور شریر لوگوں سے حسد مت کرو،",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "مت"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "غصہ کرو"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "برائی کرنے والوں سے"
+    },
+    {
+      "surface": "אל",
+      "gloss": "مت"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "حسد کرو"
+    },
+    {
+      "surface": "ברשעים",
+      "gloss": "شریر لوگوں سے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:07:07.087573159Z",
+  "model": "glm-5.2"
+}

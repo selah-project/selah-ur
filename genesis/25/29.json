@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 25:29",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 25,
+  "translation": "اور یَعقُوب نے ⟨את⟩ پکوایا پکوایا، اور عیسو میدان سے آیا، اور وہ تھکا ہوا تھا۔",
+  "tokens": [
+    {
+      "surface": "ויזד",
+      "gloss": "اور پکوایا"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "یَعقُوب"
+    },
+    {
+      "surface": "נזיד",
+      "gloss": "پکوايا"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "اور آیا"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "عِیسو"
+    },
+    {
+      "surface": "מן",
+      "gloss": "سے"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "میدان"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "اور وہ"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "تھکا ہوا"
+    }
+  ],
+  "timestamp": "2026-08-09T19:42:26.984900839Z",
+  "model": "glm-5.2"
+}

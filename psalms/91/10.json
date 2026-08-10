@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 91,
+  "translation": "برائی تیرے پاس نہیں آئے گی، اور کوئی مار تیرے خیمے کے نزدیک نہیں آئے گی۔",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "آئے گی"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "تیرے پاس"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "برائی"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "اور مار"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "نزدیک آئے گی"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "تیرے خیمے کے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:31:01.005457106Z",
+  "model": "glm-5.2"
+}

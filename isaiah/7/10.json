@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 7:10",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "اور یاہویہ نے اَخاز سے اور بات کہی، ⟨یہ⟩ کہہ کر:",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "اور اِس نے اور"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بات کہی"
+    },
+    {
+      "surface": "אל",
+      "gloss": "سے"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "اَخاز"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "کہہ کر"
+    }
+  ],
+  "timestamp": "2026-08-10T05:59:34.168444317Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 29:9",
+  "book": "job",
+  "lang": "ur",
+  "chapter": 29,
+  "translation": "سرداروں نے باتوں سے رکا اور ہاتھ اپنے منہ پر رکھا۔",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "سرداروں نے"
+    },
+    {
+      "surface": "עצרו",
+      "gloss": "روکے"
+    },
+    {
+      "surface": "במלים",
+      "gloss": "باتوں سے"
+    },
+    {
+      "surface": "וכף",
+      "gloss": "اور ہاتھ"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "رکھی"
+    },
+    {
+      "surface": "לפיהם",
+      "gloss": "اپنے منہ پر"
+    }
+  ],
+  "timestamp": "2026-08-10T00:20:09.469869103Z",
+  "model": "glm-5.2"
+}

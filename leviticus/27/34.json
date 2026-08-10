@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 27:34",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "یہ وہ حکم ہیں جو یاہویہ نے ⟨את⟩ موشے کو بْنِ یِسرایل کی طرف کوہِ سِینای پر دیے۔",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "حکم"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "دیے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ نے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "موشے"
+    },
+    {
+      "surface": "משה",
+      "gloss": "موشے کو"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "בני",
+      "gloss": "بْنِ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرایل"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "کوہِ"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "سِینای پر"
+    }
+  ],
+  "timestamp": "2026-08-10T05:25:58.938605393Z",
+  "model": "glm-5.2"
+}

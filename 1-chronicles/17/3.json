@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 17:3",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 17,
+  "translation": "اور اسی رات ہوا، اور الوہیم کا بول ناتن کی طرف آیا، یوں کہنا:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "رات میں"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "اسی"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "بول"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "الوہیم کا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ناتن"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "یوں کہنا"
+    }
+  ],
+  "timestamp": "2026-08-10T01:08:32.147869241Z",
+  "model": "glm-5.2"
+}

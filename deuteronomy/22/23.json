@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 22:23",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "اگر کوئی کنواری لڑکی کسی شخص سے منگنی ہو، اور کوئی شخص اُسے شہر میں پا لے اور اُس کے ساتھ ہمبستر ہو —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ہو"
+    },
+    {
+      "surface": "נער",
+      "gloss": "لڑکی"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "کنواری"
+    },
+    {
+      "surface": "מארשה",
+      "gloss": "منگنی"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "کسی شخص سے"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "اور پا لے"
+    },
+    {
+      "surface": "איש",
+      "gloss": "کوئی شخص"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "شہر میں"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "اور ہمبستر ہو"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "اُس کے ساتھ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:52:32.863775448Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 14:5",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "اَور یِبخار، اَور اِلیشوع، اَور اِلپالِت۔",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "اَور یِبخار"
+    },
+    {
+      "surface": "ואלישוע",
+      "gloss": "اَور اِلیشوع"
+    },
+    {
+      "surface": "ואלפלט",
+      "gloss": "اَور اِلپالِت"
+    }
+  ],
+  "timestamp": "2026-08-10T01:05:09.032749429Z",
+  "model": "glm-5.2"
+}

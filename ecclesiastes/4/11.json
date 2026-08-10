@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "اور اگر دو لیٹ جائیں، تو ⟨انہیں⟩ گرمی رہتی ہے؛ مگر اکیلے کو کیسے گرمی ہو گی؟",
+  "tokens": [
+    {
+      "surface": "גַּ֛ם",
+      "gloss": "بھی"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "اگر"
+    },
+    {
+      "surface": "יִשְׁכְּב֥וּ",
+      "gloss": "لیٹ جائیں"
+    },
+    {
+      "surface": "שְׁנַ֖יִם",
+      "gloss": "دو"
+    },
+    {
+      "surface": "וְחַ֣ם",
+      "gloss": "اور گرمی"
+    },
+    {
+      "surface": "לָהֶ֑ם",
+      "gloss": "انہیں"
+    },
+    {
+      "surface": "וּלְאֶחָ֖ד",
+      "gloss": "اور اکیلے کو"
+    },
+    {
+      "surface": "אֵ֥יךְ",
+      "gloss": "کیسے"
+    },
+    {
+      "surface": "יֵחָֽם",
+      "gloss": "گرمی ہو گی"
+    }
+  ],
+  "timestamp": "2026-08-10T08:02:40.152064895Z",
+  "model": "glm-5.2"
+}

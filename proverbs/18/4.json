@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 18:4",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 18,
+  "translation": "ایک آدمی کے منہ کے الفاظ گہرے پانی ہیں، حکمت کا چشمہ ایک بہتا ہوا نہر ہے۔",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "پانی"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "گہرے"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "الفاظ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "کے منہ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ایک آدمی"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "نہر"
+    },
+    {
+      "surface": "נבע",
+      "gloss": "بہتا ہوا"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "چشمہ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "حکمت"
+    }
+  ],
+  "timestamp": "2026-08-10T00:03:58.461689855Z",
+  "model": "glm-5.2"
+}

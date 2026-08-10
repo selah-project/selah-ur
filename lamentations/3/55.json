@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "میں نے یاہویہ، تیرا نام پکارا، نچلے گڑھے سے۔",
+  "tokens": [
+    {
+      "surface": "קָרָ֤אתִי",
+      "gloss": "میں نے پکارا"
+    },
+    {
+      "surface": "שִׁמְךָ֙",
+      "gloss": "تیرا نام"
+    },
+    {
+      "surface": "יְהוָ֔ה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "מִבּ֖וֹר",
+      "gloss": "گڑھے سے"
+    },
+    {
+      "surface": "תַּחְתִּיּֽוֹת",
+      "gloss": "نچلے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:30:09.102630881Z",
+  "model": "glm-5.2"
+}

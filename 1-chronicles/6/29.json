@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 6:29",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اور مْراری کے بیٹے، ان کے بھائی، بائیں ہاتھ پر ⟨تھے⟩: ایِتان، بَن کِیشی کا، بَن عَبدی کا، بَن مَلّوکھ کا۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "اور بیٹے"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "مْراری"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "ان کے بھائی"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "השמאול",
+      "gloss": "بائیں ہاتھ"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "ایِتان"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بَن"
+    },
+    {
+      "surface": "קישי",
+      "gloss": "کِیشی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بَن"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "عَبدی"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بَن"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "مَلّوکھ"
+    }
+  ],
+  "timestamp": "2026-08-10T01:01:33.670167667Z",
+  "model": "glm-5.2"
+}

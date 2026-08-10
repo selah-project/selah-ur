@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 23:24",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "بہت سراہے گا باپِ نیکوکار، جنم دینے والا حکیم کا، اور وہ اُس میں خوش ہوگا۔",
+  "tokens": [
+    {
+      "surface": "گול",
+      "gloss": "بہت"
+    },
+    {
+      "surface": "יגול",
+      "gloss": "سراہے گا"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "باپِ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "نیکوکار"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "جنم دینے والا"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حکیم"
+    },
+    {
+      "surface": "ובו",
+      "gloss": "اور اُس میں"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "خوش ہوگا"
+    }
+  ],
+  "timestamp": "2026-08-10T06:38:46.757469537Z",
+  "model": "glm-5.2"
+}

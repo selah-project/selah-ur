@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 14:20",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "غریب تو اپنے ہمسائی سے بھی نفرت کیا جاتا ہے، مگر امیر کے محبوب بہت ہیں۔",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "بھی تو"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "اپنے ہمسائی سے"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "نفرت کیا جاتا ہے"
+    },
+    {
+      "surface": "רש",
+      "gloss": "غریب"
+    },
+    {
+      "surface": "ואהבי",
+      "gloss": "مگر محبوب"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "امیر کے"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "بہت ہیں"
+    }
+  ],
+  "timestamp": "2026-08-10T00:02:07.278976456Z",
+  "model": "glm-5.2"
+}

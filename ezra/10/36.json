@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 10:36",
+  "book": "ezra",
+  "lang": "ur",
+  "chapter": 10,
+  "translation": "وَنیاہ، مِریموت، اِلیاشِیو۔",
+  "tokens": [
+    {
+      "surface": "וניה",
+      "gloss": "وَنیاہ"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "مِریموت"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "اِلیاشِیو"
+    }
+  ],
+  "timestamp": "2026-08-10T06:46:20.608454456Z",
+  "model": "glm-5.2"
+}

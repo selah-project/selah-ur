@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 39:5",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 39,
+  "translation": "کھلے میدان کے منہ پر تو گرے گا، کیونکہ میں نے بات کہی ہے — فتویٰ ہے ادونای یاہویہ کا۔",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "פני",
+      "gloss": "منہ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "میدان"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "تو گرے گا"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "میں"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "نے بات کہی ہے"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "فتویٰ ہے"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    }
+  ],
+  "timestamp": "2026-08-10T07:27:41.216146411Z",
+  "model": "glm-5.2"
+}

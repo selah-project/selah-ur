@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 5:27",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "لِوی کے بیٹے — گِرْشُون، قِهات اور مِراری۔",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "لِوی کے"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "گِرْشُون"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "قِهات"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "اور مِراری"
+    }
+  ],
+  "timestamp": "2026-08-10T01:00:51.414283477Z",
+  "model": "glm-5.2"
+}

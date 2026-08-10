@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 35:10",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 35,
+  "translation": "اور تم میں سے ہر دلِ حکمت والا آئے اور وہ سب کچھ بنائے جو یاہویہ نے حکم دیا ہے ⟨את⟩",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "اور ہر"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "حکمت والا"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "تم میں"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "آئے"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "اور بنائے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "سب کچھ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سب کچھ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "حکم دیا ہے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    }
+  ],
+  "timestamp": "2026-08-09T20:10:00.466175050Z",
+  "model": "glm-5.2"
+}

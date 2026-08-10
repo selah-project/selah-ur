@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 58,
+  "translation": "جو منتر پھونکنے والوں کی آواز نہیں سنتا، بڑا ہی ماہر جادو گر بھی ہو۔",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "سنتا"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "کی آواز"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "منتر پھونکنے والوں"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "جو جوڑتا ہو"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "جادو"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "بڑا ہی ماہر"
+    }
+  ],
+  "timestamp": "2026-08-09T23:35:00.174492017Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "پیدا ہونے کا وقت، اور مرنے کا وقت؛ لگانے کا وقت، اور نوپود کو اکھاڑ پھینکنے کا وقت۔",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "پیدا ہونے کا"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "اور وقت"
+    },
+    {
+      "surface": "למות",
+      "gloss": "مرنے کا"
+    },
+    {
+      "surface": "עת",
+      "gloss": "وقت"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "لگانے کا"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "اور وقت"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "اکھاڑ پھینکنے کا"
+    },
+    {
+      "surface": "نטוע",
+      "gloss": "نوپود کو"
+    }
+  ],
+  "timestamp": "2026-08-10T00:33:08.488339205Z",
+  "model": "glm-5.2"
+}

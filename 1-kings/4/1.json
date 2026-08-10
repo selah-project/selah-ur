@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "ur",
+  "chapter": 4,
+  "translation": "تو بادشاہ شِلومہ تمام یِسرائیل پر بادشاہ ⟨تھا⟩۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "تو ⟨تھا⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "شِلومہ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہ"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כל",
+      "gloss": "تمام"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    }
+  ],
+  "timestamp": "2026-08-09T21:40:43.024422673Z",
+  "model": "glm-5.2"
+}

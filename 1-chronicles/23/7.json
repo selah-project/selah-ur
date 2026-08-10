@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 23:7",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 23,
+  "translation": "لِگِرشُنیّ (گرشونیوں کے لیے): لَعدان اور شِمعی۔",
+  "tokens": [
+    {
+      "surface": "לגרשני",
+      "gloss": "لِگِرشُنیّ (گرشونیوں کے لیے)"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "لَعدان"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "اور شِمعی"
+    }
+  ],
+  "timestamp": "2026-08-10T09:31:04.366841558Z",
+  "model": "glm-5.2"
+}

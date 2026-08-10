@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 115,
+  "translation": "یاہویہ تم پر زیادہ کرے گا — تم پر، تم پر اور تمہارے بیٹوں پر۔",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "زیادہ کرے گا"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "تم پر"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "تم پر"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "اور پر"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "تمہارے بیٹوں"
+    }
+  ],
+  "timestamp": "2026-08-09T23:51:10.029681107Z",
+  "model": "glm-5.2"
+}

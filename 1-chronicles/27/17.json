@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 27:17",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "لَوی کے ⟨لِے⟩ خَشَبْیہ بَن کَموایل؛ اہرون کے ⟨لِے⟩ صادوق۔",
+  "tokens": [
+    {
+      "surface": "ללוי",
+      "gloss": "لَوی کے لِے"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "خَشَبْیہ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بَن"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "کَموایل"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "اہرون کے لِے"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "صادوق"
+    }
+  ],
+  "timestamp": "2026-08-10T01:12:19.688204030Z",
+  "model": "glm-5.2"
+}

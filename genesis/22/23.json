@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 22:23",
+  "book": "genesis",
+  "lang": "ur",
+  "chapter": 22,
+  "translation": "اور بَتُوایل نے ⟨את⟩ رِبقہ کو جنا۔ یہ آٹھ مِلکہ نے اَبراهام کے بھائی ناخور کے لیے جنے۔",
+  "tokens": [
+    {
+      "surface": "ובתואל",
+      "gloss": "اور بَتُوایل"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "جنا"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "رِبقہ"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "رِبقہ"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "آٹھ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "جنے"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "مِلکہ"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "ناخور کے لیے"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "بھائی"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "اَبراهام"
+    }
+  ],
+  "timestamp": "2026-08-09T19:41:09.257157161Z",
+  "model": "glm-5.2"
+}

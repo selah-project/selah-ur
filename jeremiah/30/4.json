@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 30:4",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 30,
+  "translation": "اور یہ وہ باتیں ہیں جو یاہویہ نے یِسرائیل اور یِہودہ کے بارے میں کہیں۔",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "اور یہ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "باتیں"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "جو"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "کہیں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کے بارے میں"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "یِسرائیل"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "اور کے بارے میں"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "یِہودہ"
+    }
+  ],
+  "timestamp": "2026-08-09T22:33:48.877182759Z",
+  "model": "glm-5.2"
+}

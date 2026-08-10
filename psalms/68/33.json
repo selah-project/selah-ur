@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 68:33",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 68,
+  "translation": "زمین کی مملکتو، الوہیم کو گاؤ، ادونای کو بجاؤ — سلاہ۔",
+  "tokens": [
+    {
+      "surface": "ממלכות",
+      "gloss": "مملکتیں"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "زمین کی"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "گاؤ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "الوہیم کو"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "بجاؤ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ادونای کو"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "سلاہ"
+    }
+  ],
+  "timestamp": "2026-08-09T23:37:26.003694434Z",
+  "model": "glm-5.2"
+}

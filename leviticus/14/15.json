@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "ur",
+  "chapter": 14,
+  "translation": "اور کوہن تیل کے لوگ میں سے لے اور اپنی بائیں ہتھیلی پر ڈالے۔",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "اور لے"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کوہن"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "لوگ میں سے"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "تیل"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "اور ڈالے"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ہتھیلی"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "کوہن کی"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "بائیں"
+    }
+  ],
+  "timestamp": "2026-08-09T20:20:09.058706268Z",
+  "model": "glm-5.2"
+}

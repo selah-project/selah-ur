@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 2:30",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 2,
+  "translation": "اور نَداب کے بیٹے سِلِد اور اَپّایِم تھے؛ اور سِلِد بے اولاد مر گیا۔",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "اور بیٹے"
+    },
+    {
+      "surface": "نדב",
+      "gloss": "نَداب"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "سِلِد"
+    },
+    {
+      "surface": "ואפים",
+      "gloss": "اور اَپّایِم"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "اور مر گیا"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "سِلِد"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "بیٹے"
+    }
+  ],
+  "timestamp": "2026-08-10T00:58:28.729369414Z",
+  "model": "glm-5.2"
+}

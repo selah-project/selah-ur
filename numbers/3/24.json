@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 3:24",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "اور گِرشونیوں کے باپ کے گھر کا سردار: اِلیاساف، لائیل کا بیٹا۔",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "اور سردار"
+    },
+    {
+      "surface": "בית",
+      "gloss": "گھر کا"
+    },
+    {
+      "surface": "אב",
+      "gloss": "باپ کے"
+    },
+    {
+      "surface": "לגרשני",
+      "gloss": "گِرشونیوں کے"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "اِلیاساف"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "لائیل کا"
+    }
+  ],
+  "timestamp": "2026-08-09T20:26:10.163234104Z",
+  "model": "glm-5.2"
+}

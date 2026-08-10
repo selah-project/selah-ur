@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 27:8",
+  "book": "2-chronicles",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "پچیس برس کا تھا جب اُس نے بادشاہت شروع کی، اور سولہ برس یروشلایم میں بادشاہی کی۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "... کا بیٹا"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "بیس"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "اور پانچ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "برس"
+    },
+    {
+      "surface": "היה",
+      "gloss": "تھا"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "بادشاہت میں اپنی"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "اور چھ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "دس"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "برس"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "بادشاہی کی"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "یروشلایم میں"
+    }
+  ],
+  "timestamp": "2026-08-10T01:23:51.164294246Z",
+  "model": "glm-5.2"
+}

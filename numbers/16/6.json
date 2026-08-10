@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 16:6",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 16,
+  "translation": "یہ کرو: اپنے لیے مچھلیاں لو، قُورح اور اس کی پوری جماعت،",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "کرو"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "لو"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "اپنے لیے"
+    },
+    {
+      "surface": "מחתות",
+      "gloss": "مچھلیاں"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "قُورح"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "اور پوری"
+    },
+    {
+      "surface": "עדתו",
+      "gloss": "اس کی جماعت"
+    }
+  ],
+  "timestamp": "2026-08-10T05:29:29.616295323Z",
+  "model": "glm-5.2"
+}

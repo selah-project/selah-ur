@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 6,
+  "translation": "اور تو انہیں اپنے گھر کی چوکھٹوں اور اپنے دروازوں پر لکھے گا۔",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "اور تو لکھے گا"
+    },
+    {
+      "surface": "על",
+      "gloss": "پر"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "چوکھٹوں"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "اپنے گھر کی"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "اور اپنے دروازوں"
+    }
+  ],
+  "timestamp": "2026-08-09T20:44:36.099769022Z",
+  "model": "glm-5.2"
+}

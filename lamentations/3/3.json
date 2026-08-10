@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "یقیناً میری طرف ⟨وہ⟩ پھِرتا ہے، پلٹتا ہے ⟨את⟩ اپنا ہاتھ سارا دن۔",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "یقیناً"
+    },
+    {
+      "surface": "בי",
+      "gloss": "میری طرف"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "⟨وہ⟩ پھِرتا ہے"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "پلٹتا ہے"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "⟨את⟩ اپنا ہاتھ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "سارا"
+    },
+    {
+      "surface": "היום",
+      "gloss": "دن"
+    }
+  ],
+  "timestamp": "2026-08-10T00:29:48.089121126Z",
+  "model": "glm-5.2"
+}

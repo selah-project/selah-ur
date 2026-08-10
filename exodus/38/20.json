@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 38:20",
+  "book": "exodus",
+  "lang": "ur",
+  "chapter": 38,
+  "translation": "اور مسکن کی اور حصار کے گرد کی سب کھونٹیاں تانبے کی تھیں۔",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "اور سب"
+    },
+    {
+      "surface": "היתדת",
+      "gloss": "کھونٹیاں"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "مسکن کی"
+    },
+    {
+      "surface": "ולחצר",
+      "gloss": "اور حصار کے"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "گرد کی"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "تانبے کی"
+    }
+  ],
+  "timestamp": "2026-08-09T20:10:57.837681398Z",
+  "model": "glm-5.2"
+}

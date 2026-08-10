@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 37,
+  "translation": "ادونے ہنسے گا اُس پر، کیونکہ ⟨⟩ اُس نے دیکھا ہے کہ اُس کا دن آ رہا ہے۔",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "ادونای"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "ہنسے گا"
+    },
+    {
+      "surface": "לו",
+      "gloss": "اُس پر"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "اُس نے دیکھا ہے"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کہ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "آ رہا ہے"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "اُس کا دن"
+    }
+  ],
+  "timestamp": "2026-08-09T23:30:54.584868723Z",
+  "model": "glm-5.2"
+}

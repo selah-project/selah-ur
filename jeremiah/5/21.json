@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 5:21",
+  "book": "jeremiah",
+  "lang": "ur",
+  "chapter": 5,
+  "translation": "سُنو ابھ یہ، اے احمق قوم اور بےدل! ان کی آنکھیں ہیں اور وہ نہیں دیکھتے، ان کے کان ہیں اور وہ نہیں سنتے۔",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "سُنو"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ابھ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "یہ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "اے قوم"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "احمق"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "اور نہیں ہے"
+    },
+    {
+      "surface": "לב",
+      "gloss": "دل"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "آنکھیں"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ان کی"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور وہ نہیں"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "دیکھتے"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "کان"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ان کے"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "اور وہ نہیں"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "سنتے"
+    }
+  ],
+  "timestamp": "2026-08-10T07:23:44.554288026Z",
+  "model": "glm-5.2"
+}

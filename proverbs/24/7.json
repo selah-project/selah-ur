@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 24:7",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 24,
+  "translation": "حکمت ⟨بہت⟩ اونچی ہے نادان کے لیے؛ دروازے پر وہ اپنا منہ نہیں کھولے گا۔",
+  "tokens": [
+    {
+      "surface": "ראמות",
+      "gloss": "اونچی ہے"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "نادان کے لیے"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "حکمت"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "دروازے پر"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "وہ کھولے گا"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "اپنا منہ"
+    }
+  ],
+  "timestamp": "2026-08-10T00:06:20.715650571Z",
+  "model": "glm-5.2"
+}

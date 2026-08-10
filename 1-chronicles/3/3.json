@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 3:3",
+  "book": "1-chronicles",
+  "lang": "ur",
+  "chapter": 3,
+  "translation": "پانچواں شِفَطیہ، اَویتال کا؛ چھٹا یِترَعام، عِگلہ اُس کی بیوی کا۔",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "پانچواں"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "شِفَطیہ"
+    },
+    {
+      "surface": "לאביטל",
+      "gloss": "اَویتال کا"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "چھٹا"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "یِترَعام"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "عِگلہ کا"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "اُس کی بیوی"
+    }
+  ],
+  "timestamp": "2026-08-10T06:48:57.366142779Z",
+  "model": "glm-5.2"
+}

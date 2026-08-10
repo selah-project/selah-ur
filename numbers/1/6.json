@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 1:6",
+  "book": "numbers",
+  "lang": "ur",
+  "chapter": 1,
+  "translation": "شِمعون کے لیے، شِلُومِییل، صُورِشدّای کا بیٹا۔",
+  "tokens": [
+    {
+      "surface": "לשמעון",
+      "gloss": "شِمعون کے لیے"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "شِلُومِییل"
+    },
+    {
+      "surface": "בן",
+      "gloss": "بیٹا"
+    },
+    {
+      "surface": "צורישדי",
+      "gloss": "صُورِشدّای کا"
+    }
+  ],
+  "timestamp": "2026-08-10T08:38:35.116886766Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 21:2",
+  "book": "ezekiel",
+  "lang": "ur",
+  "chapter": 21,
+  "translation": "اے آدم کے بیٹے، اپنا منہ جنوب کی طرف کر، اور جنوب کی طرف ٹپکا، اور جنوب کے میدان کے جنگل کو نبوت سنائے کر۔",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "بیٹے"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "آدم"
+    },
+    {
+      "surface": "שים",
+      "gloss": "کر"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "اپنا منہ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "طرف"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "جنوب کی"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "اور ٹپکا"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کی طرف"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "جنوب"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "اور نبوت سنائے کر"
+    },
+    {
+      "surface": "אל",
+      "gloss": "کو"
+    },
+    {
+      "surface": "יער",
+      "gloss": "جنگل"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "میدان کے"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "جنوب"
+    }
+  ],
+  "timestamp": "2026-08-09T22:52:59.083916807Z",
+  "model": "glm-5.2"
+}

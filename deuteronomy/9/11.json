@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 9:11",
+  "book": "deuteronomy",
+  "lang": "ur",
+  "chapter": 9,
+  "translation": "اور ہوا، چالیس دن اور چالیس رات کے ختم پر، یاہویہ نے مجھے ⟨את⟩ دو پتھر کی لوحیں دیں — بریت کی لوحیں۔",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "اور ہوا"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ختم پر"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "چالیس"
+    },
+    {
+      "surface": "יום",
+      "gloss": "دن"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "اور چالیس"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "رات"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "دیں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ نے"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "مجھے"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "دو پتھر کی لوحیں"
+    },
+    {
+      "surface": "שני",
+      "gloss": "دو"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "لوحیں"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "پتھر کی"
+    },
+    {
+      "surface": "לחות",
+      "gloss": "لوحیں"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "بریت کی"
+    }
+  ],
+  "timestamp": "2026-08-09T20:46:24.097599912Z",
+  "model": "glm-5.2"
+}

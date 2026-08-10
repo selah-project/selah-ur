@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "ur",
+  "chapter": 26,
+  "translation": "یاہویہ پر بھروسا کرو ہمیشہ ہمیشہ، کیونکہ یاہ، یاہویہ میں صخروں کا صخر ⟨ہے⟩۔",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "بھروسا کرو"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "یاہویہ پر"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "تا"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ہمیشہ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "کیونکہ"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "یاہ میں"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "صخر"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "دہروں کے"
+    }
+  ],
+  "timestamp": "2026-08-09T22:08:47.246141104Z",
+  "model": "glm-5.2"
+}

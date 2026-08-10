@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 7:11",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 7,
+  "translation": "وہ شور مچانے والی ہے اور سرکش؛ ⟨اس کے⟩ گھر میں اس کے قدم نہیں ٹھہرتے۔",
+  "tokens": [
+    {
+      "surface": "המיה",
+      "gloss": "شور مچانے والی"
+    },
+    {
+      "surface": "היא",
+      "gloss": "وہ ہے"
+    },
+    {
+      "surface": "וסררת",
+      "gloss": "اور سرکش"
+    },
+    {
+      "surface": "בביתה",
+      "gloss": "⟨اس کے⟩ گھر میں"
+    },
+    {
+      "surface": "לא",
+      "gloss": "نہیں"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "ٹھہرتے"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "اس کے قدم"
+    }
+  ],
+  "timestamp": "2026-08-09T23:59:53.744145321Z",
+  "model": "glm-5.2"
+}

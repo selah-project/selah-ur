@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "ur",
+  "chapter": 27,
+  "translation": "بہتر ہے کھلی توجیہ، چھپی ہوئی محبت سے۔",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "بہتر ہے"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "توجیہ"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "کھلی"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "محبت سے"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "چھپی ہوئی"
+    }
+  ],
+  "timestamp": "2026-08-10T00:08:09.425734559Z",
+  "model": "glm-5.2"
+}

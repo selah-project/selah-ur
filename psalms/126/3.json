@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "ur",
+  "chapter": 126,
+  "translation": "یاہویہ نے ہمارے ساتھ بڑے کام کیے ہیں — تب ہم خوش ہوئے۔",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "بڑے کام کیے"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "یاہویہ نے"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "کرنے میں"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "ہمارے ساتھ"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "ہم تھے"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "خوش"
+    }
+  ],
+  "timestamp": "2026-08-09T23:54:22.850407480Z",
+  "model": "glm-5.2"
+}
