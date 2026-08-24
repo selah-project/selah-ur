@@ -5,50 +5,50 @@
   "book": "deuteronomy",
   "lang": "ur",
   "chapter": 23,
-  "translation": "کوئی ⟨אִישׁ⟩ اپنے باپ کی بیوی کو ⟨نہ⟩ لے اور وہ ⟨نہ⟩ کھولے اپنے باپ کا دامن۔",
+  "translation": "کوئی شخص اپنے باپ کی بیوی کو ⟨את⟩ نہ لے، اور اپنے باپ کی چادر کا کنارہ نہ کھولے۔",
   "tokens": [
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יִקַּח",
+      "surface": "יקח",
       "gloss": "لے"
     },
     {
-      "surface": "אִישׁ",
-      "gloss": "کوئی ⟨اِیش⟩"
+      "surface": "איש",
+      "gloss": "کوئی شخص"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "بیوی کو"
+      "marks": "اپنے باپ کی بیوی"
     },
     {
-      "surface": "אֵשֶׁת",
+      "surface": "אשת",
       "gloss": "بیوی"
     },
     {
-      "surface": "אָבִיו",
-      "gloss": "اپنے باپ کی"
+      "surface": "אביו",
+      "gloss": "اپنے باپ"
     },
     {
-      "surface": "וְלֹא",
-      "gloss": "اور ⟨نہ⟩"
+      "surface": "ולא",
+      "gloss": "اور نہ"
     },
     {
-      "surface": "יְגַלֶּה",
+      "surface": "יגלה",
       "gloss": "کھولے"
     },
     {
-      "surface": "כְּנַף",
-      "gloss": "دامن"
+      "surface": "כנף",
+      "gloss": "چادر کا کنارہ"
     },
     {
-      "surface": "אָבִיו",
-      "gloss": "اپنے باپ کا"
+      "surface": "אביو",
+      "gloss": "اپنے باپ کی"
     }
   ],
-  "timestamp": "2026-08-09T20:52:25.649214243Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:41:23.763815695Z",
+  "model": "glm-5.3"
 }

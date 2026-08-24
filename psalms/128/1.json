@@ -5,41 +5,8 @@
   "book": "psalms",
   "lang": "ur",
   "chapter": 128,
-  "translation": "गीत हमअलोत का। खुश है हर वह जो یاहवे से डरता है, जो उसकी राहों में चलता है।",
-  "tokens": [
-    {
-      "surface": "שיר",
-      "gloss": "गीत"
-    },
-    {
-      "surface": "המעלות",
-      "gloss": "हमअलोत का"
-    },
-    {
-      "surface": "אשרי",
-      "gloss": "खुश है"
-    },
-    {
-      "surface": "כל",
-      "gloss": "हर वह"
-    },
-    {
-      "surface": "ירא",
-      "gloss": "जो डरता है"
-    },
-    {
-      "surface": "יהוה",
-      "gloss": "یاہویہ से"
-    },
-    {
-      "surface": "ההלך",
-      "gloss": "जो चलता है"
-    },
-    {
-      "surface": "בדרכיו",
-      "gloss": "उसकी राहों में"
-    }
-  ],
-  "timestamp": "2026-08-09T23:54:24.041678142Z",
-  "model": "glm-5.2"
+  "translation": "مEliminarשיר המעלות — درج ذیل ہے",
+  "tokens": [],
+  "timestamp": "2026-08-24T18:51:29.589491426Z",
+  "model": "glm-5.3"
 }

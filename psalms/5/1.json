@@ -5,29 +5,29 @@
   "book": "psalms",
   "lang": "ur",
   "chapter": 5,
-  "translation": "کورس کے لیے، ⟨⟨بانجری پر⟩⟩، داوِد کا گیت۔",
+  "translation": "کور کے رہنما کے لیے، نہیلوت پر — داوِد کا مزمور۔",
   "tokens": [
     {
       "surface": "למנצח",
-      "gloss": "کورس کے لیے"
+      "gloss": "کور کے رہنما کے لیے"
     },
     {
       "surface": "אל",
-      "gloss": "⟨⟨… پر⟩⟩"
+      "gloss": "پر"
     },
     {
-      "surface": "הנחילות",
-      "gloss": "بانجری"
+      "surface": "הנחילور",
+      "gloss": "نہیلوت"
     },
     {
-      "surface": "מזמור",
-      "gloss": "گیت"
+      "surface": "مزمور",
+      "gloss": "مزمور"
     },
     {
-      "surface": "לדוד",
+      "surface": "لدوید",
       "gloss": "داوِد کا"
     }
   ],
-  "timestamp": "2026-08-10T06:26:28.519828635Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:50:01.656544149Z",
+  "model": "glm-5.3"
 }

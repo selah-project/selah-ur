@@ -5,29 +5,29 @@
   "book": "lamentations",
   "lang": "ur",
   "chapter": 3,
-  "translation": "ہمارے تمام دشمنوں نے اپنا منہ ہمارے против کھول دیا ہے۔",
+  "translation": "ہمارے سب دشمنوں نے ہمارے خلاف اپنا منہ کھول دیا ہے۔",
   "tokens": [
     {
-      "surface": "פָּצוּ",
-      "gloss": "کھول دیا"
+      "surface": "פצו",
+      "gloss": "کھول دیا ہے"
     },
     {
-      "surface": "עָלֵינוּ",
+      "surface": "עלינו",
       "gloss": "ہمارے خلاف"
     },
     {
-      "surface": "פִּיהֶם",
+      "surface": "פיהם",
       "gloss": "اپنا منہ"
     },
     {
-      "surface": "כָּל",
-      "gloss": "تمام"
+      "surface": "כל",
+      "gloss": "سب"
     },
     {
-      "surface": "אֹיְבֵינוּ",
+      "surface": "איבינו",
       "gloss": "ہمارے دشمنوں نے"
     }
   ],
-  "timestamp": "2026-08-10T00:29:44.445000462Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:52:22.682520608Z",
+  "model": "glm-5.3"
 }

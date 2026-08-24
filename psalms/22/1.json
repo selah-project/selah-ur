@@ -5,33 +5,33 @@
   "book": "psalms",
   "lang": "ur",
   "chapter": 22,
-  "translation": "कैफ़े-अलमारी पर एक हिरनी है, जो सुबह की रौशनी में कैद है।",
+  "translation": "مقصدِ رہنمائی کے لیے، ”صبح کے ہرن“ پر — داوِد کا مزمور۔",
   "tokens": [
     {
-      "surface": "लामनात्साख",
-      "gloss": "प्रमुख संगीतकार के लिए"
+      "surface": "למנצח",
+      "gloss": "رہنمائی کے لیے"
     },
     {
-      "surface": "अल",
-      "gloss": "पर"
+      "surface": "על",
+      "gloss": "پر"
     },
     {
-      "surface": "अय्यलत",
-      "gloss": "हिरनी"
+      "surface": "אילת",
+      "gloss": "ہرنِ"
     },
     {
-      "surface": "हशहर",
-      "gloss": "शहर का"
+      "surface": "השחר",
+      "gloss": "صبح کے"
     },
     {
-      "surface": "मिज़्मोर",
-      "gloss": "गीत"
+      "surface": "מזמור",
+      "gloss": "مزمور"
     },
     {
-      "surface": "लदाविद",
-      "gloss": "दाविद का"
+      "surface": "לדוד",
+      "gloss": "داوِد کا"
     }
   ],
-  "timestamp": "2026-08-10T06:29:15.489010038Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:50:40.329751425Z",
+  "model": "glm-5.3"
 }

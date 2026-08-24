@@ -5,37 +5,37 @@
   "book": "deuteronomy",
   "lang": "ur",
   "chapter": 5,
-  "translation": "نہ ہوں گے تیرے ⟨الوہیم⟩ دیگر ⟨⟨الوہیم⟩⟩ میرے منہ کے سامنے۔",
+  "translation": "تیرے لیے کوئی دوسرے الوہیم میرے چہرے کے سامنے نہ ہوں گے۔",
   "tokens": [
     {
       "surface": "לא",
       "gloss": "نہ"
     },
     {
-      "surface": "יִהְיֶ֥ה",
+      "surface": "יהיה",
       "gloss": "ہوں گے"
     },
     {
-      "surface": "לְךָ֛",
-      "gloss": "تیرے"
+      "surface": "לך",
+      "gloss": "تیرے لیے"
     },
     {
-      "surface": "אֱלֹהִ֥ים",
+      "surface": "אלהים",
       "gloss": "الوہیم"
     },
     {
-      "surface": "אֲחֵרִ֖ים",
-      "gloss": "دیگر"
+      "surface": "אחרים",
+      "gloss": "دوسرے"
     },
     {
-      "surface": "עַל",
-      "gloss": "سامنے"
+      "surface": "על",
+      "gloss": "کے سامنے"
     },
     {
-      "surface": "פָּנָֽיַ",
-      "gloss": "میرے منہ کے"
+      "surface": "פני",
+      "gloss": "میرے چہرے"
     }
   ],
-  "timestamp": "2026-08-10T09:12:16.992666198Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:41:10.238767122Z",
+  "model": "glm-5.3"
 }

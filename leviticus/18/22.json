@@ -5,42 +5,8 @@
   "book": "leviticus",
   "lang": "ur",
   "chapter": 18,
-  "translation": "اور ⟨את⟩ کسی نر کے ساتھ نہ лежو عورت کے لیٹنے کے لیٹنے کی طرح؛ گرنا ہے۔",
-  "tokens": [
-    {
-      "surface": "ואת",
-      "gloss": "اور ⟨את⟩",
-      "marks": "نر"
-    },
-    {
-      "surface": "זכר",
-      "gloss": "نر"
-    },
-    {
-      "surface": "לא",
-      "gloss": "نہ"
-    },
-    {
-      "surface": "תשכב",
-      "gloss": "لیٹو"
-    },
-    {
-      "surface": "משכבי",
-      "gloss": "لیٹنے کے لیٹنے کی طرح"
-    },
-    {
-      "surface": "אשה",
-      "gloss": "عورت"
-    },
-    {
-      "surface": "תועבה",
-      "gloss": "گرنا ہے"
-    },
-    {
-      "surface": "הוא",
-      "gloss": "وہ"
-    }
-  ],
-  "timestamp": "2026-08-09T20:20:40.080461753Z",
-  "model": "glm-5.2"
+  "translation": "اور ⟨את⟩ مرد کے ساتھ عورت کے manner بستر کے طور پر نہ lying — یہ ناپسندیدگی ہے۔",
+  "tokens": [],
+  "timestamp": "2026-08-24T18:39:33.176507696Z",
+  "model": "glm-5.3"
 }

@@ -5,25 +5,25 @@
   "book": "psalms",
   "lang": "ur",
   "chapter": 48,
-  "translation": "एक गीत, एक मिज़्मोर, कोरह के बेटों के लिए।",
+  "translation": "گیت، مزمور، قورح کے بیٹوں کا۔",
   "tokens": [
     {
       "surface": "שיר",
-      "gloss": "एक गीत"
+      "gloss": "گیت"
     },
     {
-      "surface": "מזמोר",
-      "gloss": "एक मिज़्मोर"
+      "surface": "מזמור",
+      "gloss": "مزمور"
     },
     {
       "surface": "לבני",
-      "gloss": "के बेटों के लिए"
+      "gloss": "بیٹوں کا"
     },
     {
       "surface": "קרח",
-      "gloss": "कोरह"
+      "gloss": "قورح"
     }
   ],
-  "timestamp": "2026-08-09T23:33:02.936015690Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:50:20.635427222Z",
+  "model": "glm-5.3"
 }

@@ -5,53 +5,53 @@
   "book": "deuteronomy",
   "lang": "ur",
   "chapter": 4,
-  "translation": "अरोएर से जो अर्नोन नदी के किनारे पर है، और सियोन पर्वत तक — वह है हेरमोन —",
+  "translation": "عاروعر سے، جو نہر ارنون کے کنارے پر ہے، لے کر پہاڑ سیون تک — وہی حرمون ہے۔",
   "tokens": [
     {
       "surface": "מערער",
-      "gloss": "अरोएर से"
+      "gloss": "عاروعر سے"
     },
     {
       "surface": "אשר",
-      "gloss": "जो"
+      "gloss": "جو"
     },
     {
       "surface": "על",
-      "gloss": "पर"
+      "gloss": "پر"
     },
     {
       "surface": "שפת",
-      "gloss": "किनारे"
+      "gloss": "کنارے"
     },
     {
       "surface": "נחל",
-      "gloss": "नदी के"
+      "gloss": "نہر"
     },
     {
       "surface": "ארנן",
-      "gloss": "अर्नोन"
+      "gloss": "ارنون"
     },
     {
       "surface": "ועד",
-      "gloss": "और तक"
+      "gloss": "لے کر"
     },
     {
       "surface": "הר",
-      "gloss": "पर्वत"
+      "gloss": "پہاڑ"
     },
     {
       "surface": "שיאן",
-      "gloss": "सियोन"
+      "gloss": "سیون"
     },
     {
       "surface": "הוא",
-      "gloss": "वह है"
+      "gloss": "وہی"
     },
     {
       "surface": "חרמון",
-      "gloss": "हेरमोन"
+      "gloss": "حرمون"
     }
   ],
-  "timestamp": "2026-08-09T20:44:52.496733601Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T18:41:57.086821366Z",
+  "model": "glm-5.3"
 }
