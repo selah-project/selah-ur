@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 22,
-  "ref": "leviticus 18:22",
-  "book": "leviticus",
-  "lang": "ur",
-  "chapter": 18,
-  "translation": "اور ⟨את⟩ مرد کے ساتھ عورت کے manner بستر کے طور پر نہ lying — یہ ناپسندیدگی ہے۔",
-  "tokens": [],
-  "timestamp": "2026-08-24T18:39:33.176507696Z",
-  "model": "glm-5.3"
-}
+{"tier": "glm-5.2", "verse": 22, "ref": "leviticus 18:22", "book": "leviticus", "lang": "ur", "chapter": 18, "translation": "اور مرد کے ساتھ عورت کے manner بستر کے طور پر نہ lying — یہ ناپسندیدگی ہے۔", "tokens": [], "timestamp": "2026-08-24T18:39:33.176507696Z", "model": "glm-5.3"}
