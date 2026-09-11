@@ -57,3 +57,8 @@
 بندی کے ساتھ ملا کر دیکھتی ہے — قبول کر سکتی ہے، مل کر سنوار
 سکتی ہے، مزید بنیاد کا انتظار کر سکتی ہے، یا وجہ کے ساتھ رد کر
 سکتی ہے۔ متن پر تنقید کریں، انسان پر نہیں۔
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
