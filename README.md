@@ -83,3 +83,9 @@
 قاری، عبرانی کے طالبِ علم، مترجم، اردو بولنے والے — سب خوش آمدید۔
 مسئلہ بتانے یا تصحیح تجویز کرنے سے پہلے پڑھیں
 [CONTRIBUTING.md](CONTRIBUTING.md)۔
+
+## Selah
+
+- The languages of Selah — every chair, native name and status: https://selahproject.com/learn/languages/index.md
+- How the renderings are made — the process, the discipline, the receipts: https://selahproject.com/learn/data-sources/selah-renderings.md
+- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://selahproject.com/learn/data-sources/oshb-wlc.md
