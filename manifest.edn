@@ -1,0 +1,65 @@
+#:rendering{:label "اردو",
+            :source
+            {:text :oshb-wlc,
+             :corpus :tanakh,
+             :verses 23213,
+             :tokens 305346},
+            :provenance
+            {:derived
+             [:lang
+              :version
+              :label
+              :status
+              :lineage
+              :source
+              :rails
+              :rails-commit
+              :name-seat
+              :models
+              :tiers
+              :produced
+              :license
+              :catalog],
+             :declared []},
+            :role :pass,
+            :produced {:from "2026-08-09", :to "2026-08-24"},
+            :id "ur.v1",
+            :catalog {:ui "resources/i18n/ui/ur.edn"},
+            :license "CC BY-SA 4.0 (The Selah Urdu Rendering)",
+            :model
+            {:provider :z.ai,
+             :models {"glm-5.2" 22513, "glm-5.3" 700},
+             :tiers {"glm-5.2" 23213},
+             :prompt "selah.translate.prompt",
+             :canonical-forms "data/translation/canonical-forms.edn"},
+            :discipline
+            {:rails "docs/methodology/translation-discipline/ur.md",
+             :rails-commit "05d8d421",
+             :foundation
+             [:hebrew-first
+              :deut-6-4-double-fidelity
+              :no-foreknowledge
+              :aleph-tav-total
+              :fills-bracketed
+              :no-translator-notes
+              :tough-verse-lay-it-bare],
+             :name-seat
+             {"אדני" "ادونای",
+              "אל" "ایل",
+              "אלהים" "الوہیم",
+              "אלוה" "الوہ",
+              "יה" "یاہ",
+              "יהוה" "یاہویہ",
+              "שדי" "شدّای"},
+             :open-questions []},
+            :status :live,
+            :version "v1",
+            :lineage
+            {:git
+             {:repo "selah-project/selah-ur",
+              :ref "v1-final",
+              :commit nil,
+              :tags [],
+              :branches ["main"]},
+             :parents []},
+            :lang :ur}
